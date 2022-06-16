@@ -23,6 +23,6 @@ uninstall:
 test:
 	@echo "Should run pytest"
 
-lint:
+black:
 	@echo "Should run black"
 	black $(SCRIPT_NAME)
