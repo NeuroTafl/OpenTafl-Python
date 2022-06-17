@@ -135,9 +135,9 @@ class OpenTaflAgent:
             self.log.debug("Wrong Side Error")
         elif error == "2":
             self.log.debug("Invalid Move Error")
-        elif payload == "3":
+        elif error == "3":
             self.log.debug("Berserk Mode Wrong Side Error")
-        elif payload == "4":
+        elif error == "4":
             self.log.debug("Berserk Mode Illegal Move")
 
 
