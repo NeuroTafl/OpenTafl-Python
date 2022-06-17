@@ -120,6 +120,27 @@ class OpenTaflAgent:
         moveChosen = self.moveCallbackHandler(self, sideToPlay)
         self.sendMove(moveChosen)
 
+    def handleMoveMessage(self, message: str) -> None:
+        self.log.debug(message)
+
+    def handleOpponentMoveMessage(self, message: str) -> None:
+            self.log.debug(message)
+
+    def handleErrorMessage(self, message: str) -> None:
+        # no need to make the AI redo the move here because
+        # open tafl handles this accordingly and resends a play.
+        self.log.debug(f"Received error message: {message}")
+        (_, error) = message.split(" ")
+        if error== "1":
+            self.log.debug("Wrong Side Error")
+        elif error == "2":
+            self.log.debug("Invalid Move Error")
+        elif payload == "3":
+            self.log.debug("Berserk Mode Wrong Side Error")
+        elif payload == "4":
+            self.log.debug("Berserk Mode Illegal Move")
+
+
     def handleServerMessage(self, message: str) -> None:
         if message.startswith("finish"):
             self.handleFinishMessage(message)
@@ -127,11 +148,12 @@ class OpenTaflAgent:
             self.handleRulesMessage(message)
         elif message.startswith("play"):
             self.handlePlayMessage(message)
-
-        # TODO: needs to handle these as well:
-        # move
-        # opponent-move
-        # error
+        elif message.startswith("move"):
+            self.handleMoveMessage(message)
+        elif message.startswith("error"):
+            self.handleErrorMessage(message)
+        elif message.startswith("opponent-move"):
+            self.handleErrorMessage(message)
 
 
 # ****************************************************************************
@@ -161,7 +183,7 @@ def parseArguments():
     # TODO: add a command line option to set this (or make it None)
     logFilename = "/tmp/neurotafl.log"
     if os.name == "nt":  # Tests if you're on windows
-        logFilename = "c:\temp\neurotafl.log"
+        logFilename = r"E:\OpenTafl\OpenTafl Code\neurotafl.log"
 
     logging.basicConfig(
         filename=logFilename,
