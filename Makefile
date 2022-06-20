@@ -3,26 +3,41 @@
 # Copyright: 2022
 
 ENGINES_DIR=../OpenTafl/engines
-SCRIPT_NAME=OpenTaflAgent.py
-INI_FILE=OpenTaflAgent.ini
 NEUROTAFL_DIR=$(ENGINES_DIR)/NeuroTafl
+
+OPENTAFL_LIB_FILE=OpenTaflAgent.py
+
+DUMMY_AGENT=OneMoveAgent.py
+DUMMY_INI=OneMoveAgent.ini
+
 
 all:
 	@echo "Nothing really done for all"
-	@echo " See other Makefile targets"
+	@echo " See other Makefile targets (install)"
 
-install:
-	cp $(INI_FILE) $(ENGINES_DIR)
+install: install-onemove-agent
+
+create-NeuroTafl-dir:
+	@echo "Creating NeuroTafl scripts directory in OpenTafl server engines"
 	mkdir -p $(NEUROTAFL_DIR)
-	cp $(SCRIPT_NAME) $(NEUROTAFL_DIR)
+
+install-lib: create-NeuroTafl-dir
+	@echo "Copying main OpenTaflAgent module (lib) into place"
+	cp $(OPENTAFL_LIB_FILE) $(NEUROTAFL_DIR)
+
+install-onemove-agent: install-lib create-NeuroTafl-dir
+	@echo "Installing One Move dummy / test agent"
+	cp $(DUMMY_INI) $(ENGINES_DIR)
+	cp $(DUMMY_AGENT) $(NEUROTAFL_DIR)
 
 uninstall:
-	rm $(ENGINES_DIR)/$(INI_FILE)
+	rm $(ENGINES_DIR)/$(DUMMY_INI)
 	rm -r $(NEUROTAFL_DIR)
 
 test:
-	@echo "Should run pytest"
+	@echo "Running pytest on whole suite"
+	pytest
 
 black:
-	@echo "Should run black"
-	black $(SCRIPT_NAME)
+	@echo "Should run black to lint/format all files"
+	black *.py
