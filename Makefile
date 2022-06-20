@@ -49,3 +49,6 @@ lint:
 clean:
 	rm -r __pycache__
 	rm -r .pytest_cache
+
+deps:
+	pip3 install -r requirements.txt
