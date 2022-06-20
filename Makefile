@@ -45,3 +45,7 @@ black:
 lint:
 	@echo "Running lint with flake8"
 	flake8 . --count --exit-zero --max-line-length=100 --statistics
+
+clean:
+	rm -r __pycache__
+	rm -r .pytest_cache

@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-#
 # Python3 wrapper for OpenTafl as an Agent
 #
 # @author Aaron S. Crandall

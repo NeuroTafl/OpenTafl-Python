@@ -1,4 +1,11 @@
+#!/usr/bin/env python3
+#
 # Simple agent that only makes one move and then gets stuck
+#
+# @author Aaron S. Crandall
+# @contact crandall@gonzaga.edu
+# @copyright 2022
+#
 
 
 import logging
