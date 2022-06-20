@@ -3,8 +3,8 @@
 # Copyright: 2022
 
 ENGINES_DIR=../OpenTafl/engines
-SCRIPT_NAME=OpenTafl-python.py
-INI_FILE=OpenTafl-python.ini
+SCRIPT_NAME=OpenTaflAgent.py
+INI_FILE=OpenTaflAgent.ini
 NEUROTAFL_DIR=$(ENGINES_DIR)/NeuroTafl
 
 all:

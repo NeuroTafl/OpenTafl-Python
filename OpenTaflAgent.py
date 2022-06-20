@@ -124,22 +124,23 @@ class OpenTaflAgent:
         self.log.debug(message)
 
     def handleOpponentMoveMessage(self, message: str) -> None:
-            self.log.debug(message)
+        self.log.debug(message)
 
     def handleErrorMessage(self, message: str) -> None:
         # no need to make the AI redo the move here because
         # open tafl handles this accordingly and resends a play.
         self.log.debug(f"Received error message: {message}")
-        (_, error) = message.split(" ")
-        if error== "1":
-            self.log.debug("Wrong Side Error")
+        (_, error) = message.split(" ", 1)
+        if error == "1":
+            self.log.warning("Wrong Side Error")
         elif error == "2":
-            self.log.debug("Invalid Move Error")
+            self.log.warning("Invalid Move Error")
         elif error == "3":
-            self.log.debug("Berserk Mode Wrong Side Error")
+            self.log.warning("Berserk Mode Wrong Side Error")
         elif error == "4":
-            self.log.debug("Berserk Mode Illegal Move")
-
+            self.log.warning("Berserk Mode Illegal Move")
+        else:
+            self.log.warning(f"Unknown error message: {message}")
 
     def handleServerMessage(self, message: str) -> None:
         if message.startswith("finish"):
@@ -171,6 +172,10 @@ def parseArguments():
         action="store_true",
         help="Set log level to quiet (errors only)",
     )
+    parser.add_argument(
+        "--log_file",
+        help="Set log file location"
+    )
 
     args = parser.parse_args()
 
@@ -184,6 +189,8 @@ def parseArguments():
     logFilename = "/tmp/neurotafl.log"
     if os.name == "nt":  # Tests if you're on windows
         logFilename = r"E:\OpenTafl\OpenTafl Code\neurotafl.log"
+    if args.log_file:
+        logFilename = args.log_file
 
     logging.basicConfig(
         filename=logFilename,
@@ -223,6 +230,10 @@ if __name__ == "__main__":
     openTaflConnector.registerMoveCallbackHandler(moveDecider)
 
     openTaflConnector.init()  # Send hello
-    openTaflConnector.run()  # Blocks until game end
+
+    try:
+        openTaflConnector.run()  # Blocks until game end
+    except Exception as e:
+        logging.error(f"Main run errored out with: {e}")
 
     logging.info("Agent exiting.")
