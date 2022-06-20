@@ -3,7 +3,8 @@
 
 import logging
 import argparse
-import sys, os
+import sys
+import os
 
 from OpenTaflAgent import OpenTaflAgent
 

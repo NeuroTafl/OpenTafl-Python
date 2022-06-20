@@ -20,6 +20,7 @@ OTM_Finish1 = "finish 1"  # Tie game
 OTM_Finish2 = "finish 2"  # Attackers win
 OTM_Finish3 = "finish 3"  # Defenders win
 
+
 # ****************************************************************************
 # ****************************************************************************
 def test_UnknownErrorMessageFromServer(caplog):

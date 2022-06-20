@@ -41,3 +41,7 @@ test:
 black:
 	@echo "Should run black to lint/format all files"
 	black *.py
+
+lint:
+	@echo "Running lint with flake8"
+	flake8 . --count --exit-zero --max-line-length=100 --statistics
