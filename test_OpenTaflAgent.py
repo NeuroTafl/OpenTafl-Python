@@ -86,3 +86,11 @@ def test_AgentSendHandshake(capsys):
     captured = capsys.readouterr()
 
     assert "hello\n" in captured.out
+
+
+def test_moveArray():
+    agent = OpenTaflAgent("Test Agent")
+    agent.registerMoveCallbackHandler(stubMoveCallback)
+
+    agent.sendMove("move /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/")
+    assert agent.board == "yes"

@@ -61,14 +61,13 @@ def parseArguments():
 
 # ****************************************************************************
 # This is where we need to hook in the AI code - whatever it is
-def moveDecider(agent: OpenTaflAgent, sideToPlay: str) -> str:
+def moveDecider(agent: OpenTaflAgent, sideToPlay: str, board) -> str:
     logging.info(f"Move decider called for: {sideToPlay}")
 
     if sideToPlay == "defenders":
         return "f4-f3"  # defender opening move
     else:
-        return "d0-d2"  # attacker opening move
-
+        return "d1-d2"  # attacker opening move
 
 # ****************************************************************************
 if __name__ == "__main__":

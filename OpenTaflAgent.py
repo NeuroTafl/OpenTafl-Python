@@ -33,6 +33,9 @@ class OpenTaflAgent:
         # board state comes from these messages: rules, opponent-move, move
         self.currentBoardState = ""
 
+        # an array of the current board
+        self.board = None
+
         # needs to have this for detecting most recent moves for loops & forced moves
         # if you repeat a series more than x # of moves,
         #  you cannot do a given move to repeat it again
@@ -116,14 +119,21 @@ class OpenTaflAgent:
     def handlePlayMessage(self, message: str) -> None:
         (_, sideToPlay) = message.split(" ", 1)
 
-        moveChosen = self.moveCallbackHandler(self, sideToPlay)
+        moveChosen = self.moveCallbackHandler(self, sideToPlay, self.currentBoardState)
         self.sendMove(moveChosen)
 
+    # /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/
     def handleMoveMessage(self, message: str) -> None:
-        self.log.debug(message)
+        (_, payload) = message.split(" ", 1)
+        self.log.debug(f"Received move message: {payload}")
+        self.currentBoardState = payload
+        self.updateBoard()
 
     def handleOpponentMoveMessage(self, message: str) -> None:
-        self.log.debug(message)
+        (_, payload) = message.split(" ", 1)
+        self.log.debug(f"Received opponent-move message: {payload}")
+        self.currentBoardState = payload
+        self.updateBoard()
 
     def handleErrorMessage(self, message: str) -> None:
         # no need to make the AI redo the move here because
@@ -154,3 +164,27 @@ class OpenTaflAgent:
             self.handleErrorMessage(message)
         elif message.startswith("opponent-move"):
             self.handleErrorMessage(message)
+
+    def updateBoard(self) -> None:
+        rows = self.currentBoardState.split(sep="/")
+        array = []
+        for row in rows:
+            new_row = []
+            for piece in row:
+                self.log.debug(piece)
+                if piece.__contains__('t'):
+                    new_row.append('t')
+                elif piece.__contains__('T'):
+                    new_row.append('T')
+                elif piece.__contains__('K'):
+                    new_row.append('K')
+                else:
+                    spaces = int(piece)
+                    for x in range(spaces):
+                        new_row.append("e")
+            array.append(new_row)
+        self.board = array
+        self.log.debug(array)
+
+
+
