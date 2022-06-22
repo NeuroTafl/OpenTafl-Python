@@ -1,8 +1,13 @@
-
 from Coordinate import Coordinate
 
+
 class Move:
-    def __init__(self, startingCoordinate:Coordinate=None, endingCoordinate:Coordinate=None, chessNotation:str=None):
+    def __init__(
+        self,
+        startingCoordinate: Coordinate = None,
+        endingCoordinate: Coordinate = None,
+        chessNotation: str = None,
+    ):
         self.startingCoordinate = startingCoordinate
         self.endingCoordinate = endingCoordinate
 

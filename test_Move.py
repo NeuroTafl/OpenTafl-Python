@@ -1,6 +1,5 @@
-
 from Move import Move
-from Coordinate import Coordinate
+# from Coordinate import Coordinate
 
 
 # ****************************************************************************
@@ -9,6 +8,7 @@ def test_MoveToString():
     moveString = "b2-c2"
     move = Move(chessNotation=moveString)
     assert str(move) == moveString
+
 
 def test_MoveTestIndicies():
     moveString = "j5-j9"
@@ -23,4 +23,3 @@ def test_MoveTestIndicies():
     assert move.startingCoordinate.getYIndex() == startYindex
     assert move.endingCoordinate.getXIndex() == endXindex
     assert move.endingCoordinate.getYIndex() == endYindex
-

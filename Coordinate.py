@@ -1,6 +1,6 @@
-
 # For coordinate notation see:
 # http://tafl.cyningstan.com/page/174/game-notation
+
 
 class Coordinate:
     def __init__(self, x=None, y=None, coordinate=None):
@@ -24,7 +24,7 @@ class Coordinate:
         return f"{self.getXChr()}{self.getYChr()}"
 
     def getXChr(self) -> str:
-        return chr(self.x + ord('a'))
+        return chr(self.x + ord("a"))
 
     def getYChr(self) -> str:
         return str(self.y + 1)
@@ -32,7 +32,7 @@ class Coordinate:
     def loadFromCoordinate(self, coordinate: str) -> None:
         coordinate = coordinate.lower()
         xChr = ord(coordinate[0])
-        xIndex = xChr - ord('a')
+        xIndex = xChr - ord("a")
 
         yChr = int(coordinate[1:])
         yIndex = yChr - 1
