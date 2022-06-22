@@ -65,9 +65,21 @@ def moveDecider(agent: OpenTaflAgent, sideToPlay: str, board) -> str:
     logging.info(f"Move decider called for: {sideToPlay}")
 
     if sideToPlay == "defenders":
-        return "f4-f3"  # defender opening move
+        if board is None:
+            return "f4-f3"
+
+        if board[5][5] == 'T':
+            return "f4-f5"
+        else:
+            return "f5-f4"  # defender opening move
     else:
-        return "d1-d2"  # attacker opening move
+        if board is None:
+            return "d1-d2"
+
+        if board[7][3] == 't':
+            return "d2-d1"
+        else:
+            return "d1-d2"  # attacker opening move
 
 
 # ****************************************************************************
