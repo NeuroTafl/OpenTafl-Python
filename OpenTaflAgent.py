@@ -119,7 +119,7 @@ class OpenTaflAgent:
     def handlePlayMessage(self, message: str) -> None:
         (_, sideToPlay) = message.split(" ", 1)
 
-        moveChosen = self.moveCallbackHandler(self, sideToPlay, self.currentBoardState)
+        moveChosen = self.moveCallbackHandler(self, sideToPlay, self.board)
         self.sendMove(moveChosen)
 
     # /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/
@@ -131,8 +131,9 @@ class OpenTaflAgent:
 
     def handleOpponentMoveMessage(self, message: str) -> None:
         (_, payload) = message.split(" ", 1)
+        (_, boardstate) = payload.split(" ", 1)
         self.log.debug(f"Received opponent-move message: {payload}")
-        self.currentBoardState = payload
+        self.currentBoardState = boardstate
         self.updateBoard()
 
     def handleErrorMessage(self, message: str) -> None:
@@ -163,7 +164,7 @@ class OpenTaflAgent:
         elif message.startswith("error"):
             self.handleErrorMessage(message)
         elif message.startswith("opponent-move"):
-            self.handleErrorMessage(message)
+            self.handleOpponentMoveMessage(message)
 
     def updateBoard(self) -> None:
         rows = self.currentBoardState.split(sep="/")
@@ -171,7 +172,6 @@ class OpenTaflAgent:
         for row in rows:
             new_row = []
             for piece in row:
-                self.log.debug(piece)
                 if piece.__contains__('t'):
                     new_row.append('t')
                 elif piece.__contains__('T'):
@@ -182,7 +182,9 @@ class OpenTaflAgent:
                     spaces = int(piece)
                     for x in range(spaces):
                         new_row.append("e")
-            array.append(new_row)
+            if len(new_row) > 0:
+                array.append(new_row)
+        array.reverse()
         self.board = array
         self.log.debug(array)
 
