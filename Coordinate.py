@@ -21,12 +21,12 @@ class Coordinate:
         return self.y
 
     def __str__(self):
-        return f"{self.getXChr()}{self.getYChr()}"
+        return f"{self.getTaflNotationX()}{self.getTaflNotationY()}"
 
-    def getXChr(self) -> str:
+    def getTaflNotationX(self) -> str:
         return chr(self.x + ord("a"))
 
-    def getYChr(self) -> str:
+    def getTaflNotationY(self) -> str:
         return str(self.y + 1)
 
     def loadFromCoordinate(self, coordinate: str) -> None:

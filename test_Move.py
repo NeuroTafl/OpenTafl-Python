@@ -6,13 +6,13 @@ from Move import Move
 # ****************************************************************************
 def test_MoveToString():
     moveString = "b2-c2"
-    move = Move(chessNotation=moveString)
+    move = Move(taflNotation=moveString)
     assert str(move) == moveString
 
 
 def test_MoveTestIndicies():
     moveString = "j5-j9"
-    move = Move(chessNotation=moveString)
+    move = Move(taflNotation=moveString)
 
     startXindex = 9
     startYindex = 4

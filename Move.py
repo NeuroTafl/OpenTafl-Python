@@ -6,13 +6,13 @@ class Move:
         self,
         startingCoordinate: Coordinate = None,
         endingCoordinate: Coordinate = None,
-        chessNotation: str = None,
+        taflNotation: str = None,
     ):
         self.startingCoordinate = startingCoordinate
         self.endingCoordinate = endingCoordinate
 
-        if chessNotation:
-            self.loadChessNotation(chessNotation)
+        if taflNotation:
+            self.loadChessNotation(taflNotation)
 
     def loadChessNotation(self, chessNotation: str) -> None:
         # TODO: This notation parsing is *way* too simple
