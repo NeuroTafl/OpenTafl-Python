@@ -172,12 +172,13 @@ class OpenTaflAgent:
         for row in rows:
             new_row = []
             for piece in row:
-                if piece.__contains__('t'):
-                    new_row.append('t')
-                elif piece.__contains__('T'):
-                    new_row.append('T')
-                elif piece.__contains__('K'):
-                    new_row.append('K')
+                self.log.debug(piece)
+                if piece.__contains__("t"):
+                    new_row.append("t")
+                elif piece.__contains__("T"):
+                    new_row.append("T")
+                elif piece.__contains__("K"):
+                    new_row.append("K")
                 else:
                     spaces = int(piece)
                     for x in range(spaces):
@@ -187,6 +188,3 @@ class OpenTaflAgent:
         array.reverse()
         self.board = array
         self.log.debug(array)
-
-
-

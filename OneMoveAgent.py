@@ -81,6 +81,7 @@ def moveDecider(agent: OpenTaflAgent, sideToPlay: str, board) -> str:
         else:
             return "d1-d2"  # attacker opening move
 
+
 # ****************************************************************************
 if __name__ == "__main__":
     args = parseArguments()
