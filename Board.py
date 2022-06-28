@@ -10,6 +10,9 @@ class Board:
         self.currentBoardState = boardState
         self.updateBoard()
 
+    def __str__(self):
+        return str(self.board)
+
     def updateBoard(self) -> None:
         rows = self.currentBoardState.split(sep="/")
         array = []
@@ -32,6 +35,11 @@ class Board:
         self.board = array
 
     def checkCoord(self, coord: Coordinate) -> bool:
+        if coord.y >= len(self.board) or coord.y < 0:
+            return False
+        if coord.x >= len(self.board[0]) or coord.x < 0:
+            return False
+
         if self.board[coord.y][coord.x] == "e":
             return True
         return False

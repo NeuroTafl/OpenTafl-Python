@@ -2,6 +2,8 @@
 
 import logging
 
+from Board import Board
+from MoveDecider import MoveDecider
 from OpenTaflAgent import OpenTaflAgent, WinState
 
 
@@ -96,8 +98,7 @@ def test_moveArray():
     assert agent.board == "yes"
 
 def test_moveArray():
-    agent = OpenTaflAgent("Test Agent")
-    agent.registerMoveCallbackHandler()
+    moveDecider = MoveDecider()
+    print(moveDecider.decideMove("/4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/", "attackers"))
+    print(moveDecider.board)
 
-    agent.sendMove("move /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/")
-    assert agent.board == "yes"

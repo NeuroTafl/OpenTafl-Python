@@ -15,22 +15,20 @@ class MoveDecider:
     def decideMove(self, board, side):
         self.board = Board(board)
         moves = self.generateAllPossible(side)
-        return moves
+        return random.choice(moves)
 
     def generateAllPossible(self, side) -> list:
 
-        check = []
         if side == "attackers":
             check = ['t']
         else:
             check = ['T', 'K']
 
         possible = []
-        for y in range(len(Board.board)):
-            for x in range(len(Board.board[y])):
-                self.log.debug("checking " + str(x) + " " + str(y) + " " + Board.board[y][x])
-                if Board.board[y][x] in check:
-                    self.log.debug("checked")
+        for y in range(len(self.board.board)):
+            for x in range(len(self.board.board[y])):
+                self.log.debug("checking " + str(x) + " " + str(y) + " " + self.board.board[y][x] + " " + str(check))
+                if self.board.board[y][x] in check:
                     coord = Coordinate(x=x, y=y)
                     moveList = self.possibleMoves(coord)
                     for move in moveList:
@@ -41,6 +39,7 @@ class MoveDecider:
     def possibleMoves(self, coord: Coordinate) -> list:
         start = coord.__str__()
         moves = []
+
         new_coord = Coordinate(x=coord.x - 1, y=coord.y)
         # left
         while (self.board.checkCoord(new_coord)):
@@ -57,10 +56,12 @@ class MoveDecider:
         # up
         while (self.board.checkCoord(new_coord)):
             moves.append(start + "-" + new_coord.__str__())
-            new_coord.x = new_coord.y - 1
+            new_coord.y = new_coord.y - 1
 
         new_coord = Coordinate(x=coord.x, y=coord.y + 1)
         # down
         while (self.board.checkCoord(new_coord)):
             moves.append(start + "-" + new_coord.__str__())
-            new_coord.x = new_coord.y + 1
+            new_coord.y = new_coord.y + 1
+
+        return moves

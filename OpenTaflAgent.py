@@ -112,6 +112,8 @@ class OpenTaflAgent:
     def handleRulesMessage(self, message: str) -> None:
         (_, payload) = message.split(" ", 1)
         self.log.debug(f"Received rules message: {payload}")
+        (_, rules) = payload.split("start:", 1)
+        self.currentBoardState = rules
         # TODO: Need to parse & store up the rules message info
         # See the full spec file, but we don't need all of it
         # Primary one is the king armed flag
