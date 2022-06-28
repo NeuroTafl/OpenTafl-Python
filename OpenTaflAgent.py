@@ -119,7 +119,7 @@ class OpenTaflAgent:
     def handlePlayMessage(self, message: str) -> None:
         (_, sideToPlay) = message.split(" ", 1)
 
-        moveChosen = self.moveCallbackHandler(self, sideToPlay, self.board)
+        moveChosen = self.moveCallbackHandler(self, sideToPlay, self.currentBoardState)
         self.sendMove(moveChosen)
 
     # /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/

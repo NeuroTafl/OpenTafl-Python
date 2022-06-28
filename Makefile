@@ -24,6 +24,11 @@ create-NeuroTafl-dir:
 install-lib: create-NeuroTafl-dir
 	@echo "Copying main OpenTaflAgent module (lib) into place"
 	cp $(OPENTAFL_LIB_FILE) $(NEUROTAFL_DIR)
+	cp MoveDecider.py $(NEUROTAFL_DIR)
+	cp Board.py $(NEUROTAFL_DIR)
+	cp Coordinate.py $(NEUROTAFL_DIR)
+	cp Move.py $(NEUROTAFL_DIR)
+	cp Ply.py $(NEUROTAFL_DIR)
 
 install-onemove-agent: install-lib create-NeuroTafl-dir
 	@echo "Installing One Move dummy / test agent"

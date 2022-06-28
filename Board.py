@@ -16,7 +16,6 @@ class Board:
         for row in rows:
             new_row = []
             for piece in row:
-                self.log.debug(piece)
                 if piece.__contains__("t"):
                     new_row.append("t")
                 elif piece.__contains__("T"):

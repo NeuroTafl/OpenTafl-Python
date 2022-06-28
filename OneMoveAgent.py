@@ -13,6 +13,7 @@ import argparse
 import sys
 import os
 
+from MoveDecider import MoveDecider
 from OpenTaflAgent import OpenTaflAgent
 
 
@@ -63,7 +64,13 @@ def parseArguments():
 # This is where we need to hook in the AI code - whatever it is
 def moveDecider(agent: OpenTaflAgent, sideToPlay: str, board) -> str:
     logging.info(f"Move decider called for: {sideToPlay}")
+    logging.info("decider created " + board + " " + sideToPlay)
+    decider = MoveDecider()
+    move = decider.decideMove(board, sideToPlay)
+    logging.info(move)
+    return move
 
+    """
     if sideToPlay == "defenders":
         if board is None:
             return "f4-f3"
@@ -80,6 +87,7 @@ def moveDecider(agent: OpenTaflAgent, sideToPlay: str, board) -> str:
             return "d2-d1"
         else:
             return "d1-d2"  # attacker opening move
+        """
 
 
 # ****************************************************************************
