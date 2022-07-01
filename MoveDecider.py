@@ -13,7 +13,12 @@ class MoveDecider:
         self.log = logging.getLogger(__class__.__name__)
 
     def decideMove(self, board, side):
-        self.board = Board(board)
+        if self.board is None:
+            self.board = Board(board)
+        else:
+            self.board.currentBoardState = board
+            self.board.updateBoard()
+
         moves = self.generateAllPossible(side)
         return random.choice(moves)
 
