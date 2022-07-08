@@ -71,7 +71,7 @@ def moveDecider(agent: OpenTaflAgent, sideToPlay: str, board) -> str:
     decider = TensorMoveDecider()
     move = decider.decideMove(board, sideToPlay)
     logging.info(move)
-
+    return move
 
 # ****************************************************************************
 if __name__ == "__main__":
