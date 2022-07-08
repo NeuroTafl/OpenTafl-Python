@@ -29,6 +29,7 @@ install-lib: create-NeuroTafl-dir
 	cp Coordinate.py $(NEUROTAFL_DIR)
 	cp Move.py $(NEUROTAFL_DIR)
 	cp Ply.py $(NEUROTAFL_DIR)
+	cp TensorMoveDecider.py $(NEUROTAFL_DIR)
 
 install-onemove-agent: install-lib create-NeuroTafl-dir
 	@echo "Installing One Move dummy / test agent"

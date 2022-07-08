@@ -8,6 +8,9 @@ from OpenTaflAgent import OpenTaflAgent, WinState
 
 
 # ****************************************************************************
+from TensorMoveDecider import TensorMoveDecider
+
+
 def stubMoveCallback(agent: OpenTaflAgent, sideToPlay: str) -> str:
     print("Move decider stub called")
     moveChosen = "a1-a2"
@@ -98,7 +101,7 @@ def test_moveArray():
     assert agent.board == "yes"
 
 def test_moveArray():
-    moveDecider = MoveDecider()
+    moveDecider = TensorMoveDecider()
     print(moveDecider.decideMove("/4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/", "attackers"))
     print(moveDecider.board)
 
