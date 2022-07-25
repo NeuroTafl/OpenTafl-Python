@@ -204,3 +204,28 @@ def test_PlayerNOTResigns():
     expectedHasPlayerResigned = False
 
     assert expectedHasPlayerResigned == move.hasPlayerResigned()
+
+
+def test_movesAreSame1():
+    moveString = t_simpleMove_b2c2
+    moveA = Move(openTaflNotation=moveString)
+    moveB = Move(openTaflNotation=moveString)
+
+    assert moveA == moveB
+
+
+def test_movesAreSameKing():
+    moveString = t_kingMove_h6b6
+    moveA = Move(openTaflNotation=moveString)
+    moveB = Move(openTaflNotation=moveString)
+
+    assert moveA == moveB
+
+
+def test_movesAreNOTSame1():
+    moveStringA = t_simpleMove_b2c2
+    moveStringB = t_simpleMove_j5j9
+    moveA = Move(openTaflNotation=moveStringA)
+    moveB = Move(openTaflNotation=moveStringB)
+
+    assert moveA != moveB

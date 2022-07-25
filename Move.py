@@ -113,3 +113,12 @@ class Move:
 
     def hasPlayerResigned(self) -> bool:
         return self.infoSymbol == "---"
+
+    # Two moves are defined as being "equal" if their start and ending coordinates are the same
+    # This leaves out whether it's a king or basic taflman moving, or if there's any captures
+    # Not sure if we need to handle captures and piece types, but I don't think so (so far)
+    def __eq__(self, otherMove) -> bool:
+        return (
+            self.startingCoordinate == otherMove.startingCoordinate
+            and self.endingCoordinate == otherMove.endingCoordinate
+        )
