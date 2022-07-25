@@ -11,6 +11,7 @@
 #
 
 
+from Coordinate import Coordinate
 from Move import Move
 
 t_simpleMove_b2c2 = "b2-c2"  # Taflman moves from b2 to c2
@@ -18,6 +19,16 @@ t_simpleMove_j5j9 = "j5-j9"  # Taflman moves from j5 to j9
 t_simpleMove_c10d10 = "c10-d10"  # Taflman moves from c10 to d10
 t_kingMove_h6b6 = "Kh6-b6"  # King moves from h6 to b6
 
+t_taflmanMoveCap1 = "d3-d7xd8"  # Moves d3-d7, captures one @d8
+t_taflmanMoveCap2 = "d3-d7xd8/e7"  # Moves d3-d7, captures @d8 & @e7
+t_taflmanMoveCap3 = "d3-d7xd8/e7/c7"  # Moves d3-d7, captures @d8 & @e7 & @c7
+
+t_taflmanMoveKingVulnerable = "f2-f3+"  # move threatens king
+t_kingHasEscapeRoute = "Kk7-k2-"  # king moves to space with escape route (1 move win)
+t_taflmanCapturesKing = "i9-i3++"  # king is captured by taflman
+t_kingHasEscaped = "Ka8-a1--"  # king moves to space with escape route (1 move win)
+
+t_resignationSymbol = "---"  # player resigns
 
 # ****************************************************************************
 # ****************************************************************************
@@ -56,5 +67,140 @@ def test_MoveKingSimple_h6b6():
 
 def test_MoveNOTKingSimple():
     moveString = t_simpleMove_b2c2
+
     move = Move(openTaflNotation=moveString)
     assert not move.isKing()
+
+
+def test_NoCaptures():
+    moveString = t_simpleMove_c10d10
+    move = Move(openTaflNotation=moveString)
+    assert not move.hasCaptures()
+
+
+def test_Capture1():
+    moveString = t_taflmanMoveCap1
+    expectedCaptures = [Coordinate(coordinate="d8")]
+
+    move = Move(openTaflNotation=moveString)
+    captures = move.getCaptures()
+
+    assert move.hasCaptures()
+    assert len(expectedCaptures) == len(captures)
+    assert expectedCaptures == captures
+
+
+def test_Capture2():
+    moveString = t_taflmanMoveCap2
+    expectedCaptures = [Coordinate(coordinate="d8"), Coordinate(coordinate="e7")]
+
+    move = Move(openTaflNotation=moveString)
+    captures = move.getCaptures()
+
+    assert move.hasCaptures()
+    assert len(expectedCaptures) == len(captures)
+    assert expectedCaptures == captures
+
+
+def test_Capture3():
+    moveString = t_taflmanMoveCap3
+    expectedCaptures = [
+        Coordinate(coordinate="d8"),
+        Coordinate(coordinate="e7"),
+        Coordinate(coordinate="c7"),
+    ]
+
+    move = Move(openTaflNotation=moveString)
+    captures = move.getCaptures()
+
+    assert move.hasCaptures()
+    assert len(expectedCaptures) == len(captures)
+    assert expectedCaptures == captures
+
+
+def test_KingVulnerable():
+    moveString = t_taflmanMoveKingVulnerable
+    move = Move(openTaflNotation=moveString)
+    expectedIsVulnerable = True
+
+    assert expectedIsVulnerable == move.isKingVulnerableToCapture()
+
+
+def test_KingNOTVulnerable():
+    moveString = t_simpleMove_b2c2
+    move = Move(openTaflNotation=moveString)
+    expectedIsVulnerable = False
+
+    assert expectedIsVulnerable == move.isKingVulnerableToCapture()
+
+
+def test_KingHasEscapeRoute():
+    moveString = t_kingHasEscapeRoute
+    move = Move(openTaflNotation=moveString)
+    expectedKingHasEscapeRoute = True
+
+    assert expectedKingHasEscapeRoute == move.kingHasEscapeRoute()
+
+
+def test_KingHasNOEscapeRoute():
+    moveString = t_kingMove_h6b6
+    move = Move(openTaflNotation=moveString)
+    expectedKingHasEscapeRoute = False
+
+    assert expectedKingHasEscapeRoute == move.kingHasEscapeRoute()
+
+
+def test_KingIsCaptured():
+    moveString = t_taflmanCapturesKing
+    move = Move(openTaflNotation=moveString)
+    expectedKingIsCaptured = True
+
+    assert expectedKingIsCaptured == move.isKingCaptured()
+
+
+def test_KingIsNOTCaptured():
+    moveString = t_simpleMove_c10d10
+    move = Move(openTaflNotation=moveString)
+    expectedKingIsCaptured = False
+
+    assert expectedKingIsCaptured == move.isKingCaptured()
+
+
+def test_KingIsEscaped():
+    moveString = t_kingHasEscaped
+    move = Move(openTaflNotation=moveString)
+    expectedIsKingEscaped = True
+
+    assert expectedIsKingEscaped == move.isKingEscaped()
+
+
+def test_KingIsNOTEscaped():
+    moveString = t_simpleMove_j5j9
+    move = Move(openTaflNotation=moveString)
+    expectedIsKingEscaped = False
+
+    assert expectedIsKingEscaped == move.isKingEscaped()
+
+
+def test_KingIsNOTEscaped2():
+    moveString = t_kingMove_h6b6
+    move = Move(openTaflNotation=moveString)
+    expectedIsKingEscaped = False
+
+    assert expectedIsKingEscaped == move.isKingEscaped()
+
+
+def test_PlayerResigns():
+    moveString = t_resignationSymbol
+    move = Move(openTaflNotation=moveString)
+    expectedHasPlayerResigned = True
+
+    assert expectedHasPlayerResigned == move.hasPlayerResigned()
+
+
+def test_PlayerNOTResigns():
+    moveString = t_taflmanMoveCap2
+    move = Move(openTaflNotation=moveString)
+    expectedHasPlayerResigned = False
+
+    assert expectedHasPlayerResigned == move.hasPlayerResigned()

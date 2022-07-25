@@ -45,31 +45,71 @@ class Move:
 
         openTaflNotation = openTaflNotation.strip()  # kill whitespace
 
-        regexString = r"^\s*(K)?(\S\d+)-(\S\d+)"
+        # See line 62: https://github.com/jslater89/OpenTafl/blob/master/opentafl-notation-spec.txt
+        # If the "move" is just "---" then it's a resignation by the next player to move
+        if openTaflNotation == "---":
+            self.infoSymbol = "---"
+            return
+
+        # If this regular expression doesn't look like magic, I need to retire
+        regexString = r"^\s*(K)?(\S\d+)-(\S\d+)x?(\S\d+)?/?(\S\d+)?/?(\S\d+)?/?(\S\d+)?(-{1,2}|\+{1,2})?"
+        taflmanTypeIndex = 1
+        startSpaceIndex = 2
+        endSpaceIndex = 3
+        captureSetStartIndex = 4
+        captureSetEndIndex = 7
+        infoSymbolIndex = 8
 
         reMatch = re.search(regexString, openTaflNotation)
 
         if reMatch:
-            pprint(reMatch)
-            print(reMatch.group(1))
-            print(reMatch.group(2))
-            print(reMatch.group(3))
+            # handle taflman type character (if there's one)
+            if reMatch.group(taflmanTypeIndex) != None:
+                self.taflmanSymbol = reMatch.group(taflmanTypeIndex)
 
-            if reMatch.group(1) != None:
-                self.taflmanSymbol = reMatch.group(1)
+            # handle the move start and end
+            self.startingCoordinate = Coordinate(
+                coordinate=reMatch.group(startSpaceIndex)
+            )
+            self.endingCoordinate = Coordinate(coordinate=reMatch.group(endSpaceIndex))
 
-            self.startingCoordinate = Coordinate(coordinate=reMatch.group(2))
-            self.endingCoordinate = Coordinate(coordinate=reMatch.group(3))
+            # handle possible captures
+            for groupNum in range(captureSetStartIndex, captureSetEndIndex + 1):
+                currCaptureSpace = reMatch.group(groupNum)
+                if currCaptureSpace:
+                    self.moveCaptures.append(Coordinate(coordinate=currCaptureSpace))
+
+            # handle info symbols (king threatened, escaped, captured, resigned)
+            self.infoSymbol = reMatch.group(infoSymbolIndex)
 
         else:
-            raise Exception("No match!")
-
-        # (startCoordinate, endCoordinate) = openTaflNotation.split("-", 1)
-        # self.startingCoordinate = Coordinate(coordinate=startCoordinate)
-        # self.endingCoordinate = Coordinate(coordinate=endCoordinate)
+            raise Exception(
+                f"Move parse error: No regex match on input: {openTaflNotation}"
+            )
 
     def __str__(self) -> str:
         return f"{str(self.startingCoordinate)}-{str(self.endingCoordinate)}"
 
     def isKing(self) -> bool:
         return self.taflmanSymbol == "K"
+
+    def hasCaptures(self) -> bool:
+        return len(self.moveCaptures) > 0
+
+    def getCaptures(self) -> list:
+        return self.moveCaptures
+
+    def isKingVulnerableToCapture(self) -> bool:
+        return self.infoSymbol == "+"
+
+    def kingHasEscapeRoute(self) -> bool:
+        return self.infoSymbol == "-"
+
+    def isKingCaptured(self) -> bool:
+        return self.infoSymbol == "++"
+
+    def isKingEscaped(self) -> bool:
+        return self.infoSymbol == "--"
+
+    def hasPlayerResigned(self) -> bool:
+        return self.infoSymbol == "---"
