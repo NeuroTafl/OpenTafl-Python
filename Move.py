@@ -7,7 +7,7 @@ class Move:
         startingCoordinate: Coordinate = None,
         endingCoordinate: Coordinate = None,
         taflNotation: str = None,
-        openTaflNotation: str = None
+        openTaflNotation: str = None,
     ):
         self.startingCoordinate = startingCoordinate
         self.endingCoordinate = endingCoordinate
@@ -41,7 +41,6 @@ class Move:
         (startCoordinate, endCoordinate) = openTaflNotation.split("-", 1)
         self.startingCoordinate = Coordinate(coordinate=startCoordinate)
         self.endingCoordinate = Coordinate(coordinate=endCoordinate)
-
 
     def __str__(self) -> str:
         return f"{str(self.startingCoordinate)}-{str(self.endingCoordinate)}"

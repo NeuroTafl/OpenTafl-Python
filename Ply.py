@@ -7,6 +7,3 @@ class Ply:
         self.whoMoved = whoMoved
         self.lastMove = move
         self.board = board
-
-
-

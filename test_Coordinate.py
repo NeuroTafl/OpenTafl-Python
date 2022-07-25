@@ -58,6 +58,7 @@ def test_CoordinateXYConstruct76():
     assert coord.getXIndex() == expectedX
     assert coord.getYIndex() == expectedY
 
+
 def test_EqualsTrue():
     x = 3
     y = 10
@@ -66,18 +67,20 @@ def test_EqualsTrue():
 
     assert coordA == coordB
 
+
 def test_EqualsFalse_differentX():
     x = 3
     y = 10
     coordA = Coordinate(x=x, y=y)
-    coordB = Coordinate(x=x+1, y=y)
+    coordB = Coordinate(x=x + 1, y=y)
 
     assert coordA != coordB
+
 
 def test_EqualsFalse_differentY():
     x = 3
     y = 10
     coordA = Coordinate(x=x, y=y)
-    coordB = Coordinate(x=x, y=y+1)
+    coordB = Coordinate(x=x, y=y + 1)
 
     assert coordA != coordB

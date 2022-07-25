@@ -31,7 +31,7 @@ class Board:
                         new_row.append("e")
             if len(new_row) > 0:
                 array.append(new_row)
-        #array.reverse()
+        # array.reverse()
         self.board = array
 
     def checkCoord(self, coord: Coordinate) -> bool:
@@ -43,5 +43,3 @@ class Board:
         if self.board[coord.y][coord.x] == "e":
             return True
         return False
-
-
