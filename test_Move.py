@@ -15,6 +15,7 @@ from Move import Move
 
 t_simpleMove_b2c2 = "b2-c2"  # Taflman moves from b2 to c2
 t_simpleMove_j5j9 = "j5-j9"  # Taflman moves from j5 to j9
+t_simpleMove_c10d10 = "c10-d10"  # Taflman moves from c10 to d10
 t_kingMove_h6b6 = "Kh6-b6"  # King moves from h6 to b6
 
 
@@ -22,6 +23,12 @@ t_kingMove_h6b6 = "Kh6-b6"  # King moves from h6 to b6
 # ****************************************************************************
 def test_MoveToString():
     moveString = t_simpleMove_b2c2
+    move = Move(openTaflNotation=moveString)
+    assert str(move) == moveString
+
+
+def test_MoveToString_doubleDigitIndicies():
+    moveString = t_simpleMove_c10d10
     move = Move(openTaflNotation=moveString)
     assert str(move) == moveString
 
@@ -43,4 +50,11 @@ def test_MoveTestIndicies():
 
 def test_MoveKingSimple_h6b6():
     moveString = t_kingMove_h6b6
-    # move = Move(openTaflNotation=moveString)
+    move = Move(openTaflNotation=moveString)
+    assert move.isKing()
+
+
+def test_MoveNOTKingSimple():
+    moveString = t_simpleMove_b2c2
+    move = Move(openTaflNotation=moveString)
+    assert not move.isKing()
