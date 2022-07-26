@@ -11,7 +11,23 @@ class Board:
         self.updateBoard()
 
     def __str__(self):
-        return str(self.board)
+        boardString = "/"
+        for row in self.board:
+            count = 0
+            for piece in row:
+                if piece == "e":
+                    count += 1
+                else:
+                    if count != 0:
+                        boardString += str(count)
+                    boardString += piece
+                    count = 0
+            if count != 0:
+                boardString += str(count)
+            boardString += "/"
+
+        print(boardString)
+        return boardString
 
     def updateBoard(self) -> None:
         rows = self.currentBoardState.split(sep="/")
