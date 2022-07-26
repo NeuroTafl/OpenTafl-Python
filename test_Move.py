@@ -229,3 +229,57 @@ def test_movesAreNOTSame1():
     moveB = Move(openTaflNotation=moveStringB)
 
     assert moveA != moveB
+
+def test_MoveToStrSimple():
+    moveString = t_simpleMove_b2c2
+    move = Move(openTaflNotation=moveString)
+
+    assert moveString == str(move)
+
+def test_MoveToStrKingSimple():
+    moveString = t_kingMove_h6b6
+    move = Move(openTaflNotation=moveString)
+
+    assert moveString == str(move)
+
+def test_MoveToStrCap1():
+    moveString = t_taflmanMoveCap1
+    move = Move(openTaflNotation=moveString)
+
+    assert moveString == str(move)
+
+def test_MoveToStrCap3():
+    moveString = t_taflmanMoveCap3
+    move = Move(openTaflNotation=moveString)
+
+    assert moveString == str(move)
+
+def test_MoveToStrKingVulnerable():
+    moveString = t_taflmanMoveKingVulnerable
+    move = Move(openTaflNotation=moveString)
+
+    assert moveString == str(move)
+
+def test_MoveToStrKingEscapeOpen():
+    moveString = t_kingHasEscapeRoute
+    move = Move(openTaflNotation=moveString)
+
+    assert moveString == str(move)
+
+def test_MoveToStrKingCaptured():
+    moveString = t_taflmanCapturesKing
+    move = Move(openTaflNotation=moveString)
+
+    assert moveString == str(move)
+
+def test_MoveToStrKingEscaped():
+    moveString = t_kingHasEscaped
+    move = Move(openTaflNotation=moveString)
+
+    assert moveString == str(move)
+
+def test_MoveToStrPlayerResigned():
+    moveString = t_resignationSymbol
+    move = Move(openTaflNotation=moveString)
+
+    assert moveString == str(move)

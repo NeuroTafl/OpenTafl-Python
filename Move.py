@@ -28,25 +28,24 @@ class Move:
             self.loadFromOpenTaflNotation(openTaflNotation)
 
     def loadChessNotation(self, chessNotation: str) -> None:
-        # TODO: This notation parsing is *way* too simple
-        # Needs to handle kings, wins/loss, check, captures
-        # See: https://soapbox.manywords.press/2016/01/27/tafl-opentafl-notation/
+        # "Chess" notation only handles chess-style stop/stop coordinates
+        # Use Open Tafl Notation for full OpenTafl move notation/strings
         (startCoordinate, endCoordinate) = chessNotation.split("-", 1)
         self.startingCoordinate = Coordinate(coordinate=startCoordinate)
         self.endingCoordinate = Coordinate(coordinate=endCoordinate)
 
     def loadFromOpenTaflNotation(self, openTaflNotation: str) -> None:
-        # TODO: This notation parsing is *way* too simple
-        # Needs to handle kings, wins/loss, check, captures
+        # Move formating and parsing isn't simple.
         # See: https://soapbox.manywords.press/2016/01/27/tafl-opentafl-notation/
         # https://github.com/jslater89/OpenTafl/blob/master/opentafl-notation-spec.txt
-
+        #
+        # Basic format for the Open Tafl Move (OTM) spec is:
         # [taflman-symbol]<starting-space><move-type><ending-space>[capture-record][info-symbol]
 
-        openTaflNotation = openTaflNotation.strip()  # kill whitespace
+        openTaflNotation = openTaflNotation.strip()  # kill whitespace, just in case
 
         # See line 62: https://github.com/jslater89/OpenTafl/blob/master/opentafl-notation-spec.txt
-        # If the "move" is just "---" then it's a resignation by the next player to move
+        # If the "move" is just "---" then it's a resignation by the next moving player
         if openTaflNotation == "---":
             self.infoSymbol = "---"
             return
@@ -80,15 +79,13 @@ class Move:
                     self.moveCaptures.append(Coordinate(coordinate=currCaptureSpace))
 
             # handle info symbols (king threatened, escaped, captured, resigned)
-            self.infoSymbol = reMatch.group(infoSymbolIndex)
+            if reMatch.group(infoSymbolIndex):
+                self.infoSymbol = reMatch.group(infoSymbolIndex)
 
         else:
             raise Exception(
                 f"Move parse error: No regex match on input: {openTaflNotation}"
             )
-
-    def __str__(self) -> str:
-        return f"{str(self.startingCoordinate)}-{str(self.endingCoordinate)}"
 
     def isKing(self) -> bool:
         return self.taflmanSymbol == "K"
@@ -122,3 +119,27 @@ class Move:
             self.startingCoordinate == otherMove.startingCoordinate
             and self.endingCoordinate == otherMove.endingCoordinate
         )
+
+    def __str__(self) -> str:
+        ret = ""
+
+        if self.hasPlayerResigned():
+            ret += self.infoSymbol
+        else:
+            ret += self.taflmanSymbol
+            ret += str(self.startingCoordinate)
+            ret += "-"
+            ret += str(self.endingCoordinate)
+            ret += self.convertCapturesToOTMSpec()
+            ret += str(self.infoSymbol)
+        return ret
+
+    def convertCapturesToOTMSpec(self) -> str:
+        ret = ""
+        if not self.hasCaptures():
+            return ret
+        else:
+            ret += "x"
+            coordinates = [str(x) for x in self.moveCaptures]
+            ret += "/".join(coordinates)
+            return ret
