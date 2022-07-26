@@ -8,19 +8,19 @@
 #
 
 
+import tensorflow as tf
+from tensorflow import keras
 import logging
 import argparse
 import sys
 import os
 
-from MoveDecider import MoveDecider
+
+from TensorMoveDecider import TensorMoveDecider
 from OpenTaflAgent import OpenTaflAgent
 
 
 # ****************************************************************************
-from TensorMoveDecider import TensorMoveDecider
-
-
 def parseArguments():
     parser = argparse.ArgumentParser(
         description="OpenTafl-python library for AI agents"
@@ -68,7 +68,7 @@ def parseArguments():
 def moveDecider(agent: OpenTaflAgent, sideToPlay: str, board) -> str:
     logging.info(f"Move decider called for: {sideToPlay}")
     logging.info("decider created " + board + " " + sideToPlay)
-    decider = MoveDecider()
+    decider = TensorMoveDecider()
     move = decider.decideMove(board, sideToPlay)
     logging.info(move)
     return move

@@ -109,6 +109,8 @@ class OpenTaflAgent:
     def handleRulesMessage(self, message: str) -> None:
         (_, payload) = message.split(" ", 1)
         self.log.debug(f"Received rules message: {payload}")
+        (_, rules) = payload.split("start:", 1)
+        self.currentBoardState = rules
         # TODO: Need to parse & store up the rules message info
         # See the full spec file, but we don't need all of it
         # Primary one is the king armed flag
@@ -116,14 +118,20 @@ class OpenTaflAgent:
     def handlePlayMessage(self, message: str) -> None:
         (_, sideToPlay) = message.split(" ", 1)
 
-        moveChosen = self.moveCallbackHandler(self, sideToPlay)
+        moveChosen = self.moveCallbackHandler(self, sideToPlay, self.currentBoardState)
         self.sendMove(moveChosen)
 
+    # /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/
     def handleMoveMessage(self, message: str) -> None:
-        self.log.debug(message)
+        (_, payload) = message.split(" ", 1)
+        self.log.debug(f"Received move message: {payload}")
+        self.currentBoardState = payload
 
     def handleOpponentMoveMessage(self, message: str) -> None:
-        self.log.debug(message)
+        (_, payload) = message.split(" ", 1)
+        (_, boardstate) = payload.split(" ", 1)
+        self.log.debug(f"Received opponent-move message: {payload}")
+        self.currentBoardState = boardstate
 
     def handleErrorMessage(self, message: str) -> None:
         # no need to make the AI redo the move here because
@@ -153,4 +161,4 @@ class OpenTaflAgent:
         elif message.startswith("error"):
             self.handleErrorMessage(message)
         elif message.startswith("opponent-move"):
-            self.handleErrorMessage(message)
+            self.handleOpponentMoveMessage(message)
