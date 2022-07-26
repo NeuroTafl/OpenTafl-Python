@@ -100,8 +100,15 @@ def test_moveArray():
     agent.sendMove("move /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/")
     assert agent.board == "yes"
 
+
+def test_board():
+    board = Board("/4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/")
+    print(board)
+    assert board == "yes"
+
+"""
 def test_moveArray():
     moveDecider = TensorMoveDecider()
     print(moveDecider.decideMove("/3ttttt3/5t5/11/t4T4t/t3TTT3t/tt1TTKTT1tt/t3TTT3t/t4T4t/11/5t5/3ttttt3/", "attackers"))
     print(moveDecider.board)
-
+"""
