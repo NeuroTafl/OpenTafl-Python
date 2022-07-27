@@ -162,4 +162,3 @@ class OpenTaflAgent:
             self.handleErrorMessage(message)
         elif message.startswith("opponent-move"):
             self.handleOpponentMoveMessage(message)
-

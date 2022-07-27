@@ -73,6 +73,7 @@ def moveDecider(agent: OpenTaflAgent, sideToPlay: str, board) -> str:
     logging.info(move)
     return move
 
+
 # ****************************************************************************
 if __name__ == "__main__":
     args = parseArguments()

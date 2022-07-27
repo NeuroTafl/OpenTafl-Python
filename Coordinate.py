@@ -39,3 +39,6 @@ class Coordinate:
 
         self.x = xIndex
         self.y = yIndex
+
+    def __eq__(self, other):
+        return self.x == other.x and self.y == other.y
