@@ -14,10 +14,14 @@ class NextBoardState:
         self.piece = piece
 
 
-    def getNext(self, move, piece):
+    def getNext(self, move):
         # returns the boardstate in "////" format
-        coord = Coordinate()
-        coord.loadFromCoordinate(move)
+        (origin, ending) = move.split("-", 1)
+        originCoord = Coordinate()
+        originCoord.loadFromCoordinate(origin)
+        endingCoord = Coordinate()
+        endingCoord.loadFromCoordinate(ending)
+        piece = self.cur_board.board[originCoord.getYIndex()][originCoord.getXIndex()]
         if piece == "K":
             self.isKing = True
             self.piece = "T"
@@ -26,7 +30,7 @@ class NextBoardState:
         else:
             self.piece = "t"
 
-        return self.checkLegal(move)
+        return self.checkLegal(endingCoord)
     
 
     def checkLegal(self, coord):
@@ -66,15 +70,48 @@ class NextBoardState:
                 captures.append(capped)
         return captures
 
-
-
-        # check all directions +2 for teamate piece
-        # check all directions with teamate for enemy inbetween
-        # return list of all killed pieces
-
-
     def possibleCapture(self, coord, desig):
-        pass
+        toCheckTeam = Coordinate()
+        toCheckOpp = Coordinate()
+
+        if desig == "up":
+            toCheckTeam.x = coord.getXIndex()
+            toCheckTeam.y = coord.getYIndex() - 2
+            toCheckOpp.x = coord.getXIndex()
+            toCheckOpp.y = coord.getYIndex() - 1
+        elif desig == "down":
+            toCheckTeam.x = coord.getXIndex()
+            toCheckTeam.y = coord.getYIndex() + 2
+            toCheckOpp.x = coord.getXIndex()
+            toCheckOpp.y = coord.getYIndex() + 1
+        elif desig == "right":
+            toCheckTeam.x = coord.getXIndex() + 2
+            toCheckTeam.y = coord.getYIndex()
+            toCheckOpp.x = coord.getXIndex() + 1
+            toCheckOpp.y = coord.getYIndex()
+        else:
+            toCheckTeam.x = coord.getXIndex() - 2
+            toCheckTeam.y = coord.getYIndex()
+            toCheckOpp.x = coord.getXIndex() - 1
+            toCheckOpp.y = coord.getYIndex()
+
+        if self.checkPossilbe(toCheckTeam):
+            if self.cur_board[toCheckTeam.getYIndex()][toCheckTeam.getXIndex()] == self.piece:
+                between = self.cur_board[toCheckOpp.getYIndex()][toCheckOpp.getXIndex()]
+                if between != self.piece and between != "e":
+                    return toCheckOpp
+        return None
+
+    def checkPossilbe(self, coord):
+        if coord.getYIndex > len(self.cur_board):
+            return False
+        if coord.getXIndex > len(self.cur_board[0]):
+            return False
+        if coord.getYIndex < 0:
+            return False
+        if coord.getXIndex < 0:
+            return False
+        return True
 
     def checkShield(self, coord):
         pass
