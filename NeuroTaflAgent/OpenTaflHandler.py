@@ -23,6 +23,11 @@ class OpenTaflHandler:
         message = f"move {move.toChessNotation()}"
         self.openTaflConnector.sendMessageToServer(message)
 
+    def sendStatus(self, statusMessage: str) -> None:
+        self.log.debug(f"Sending status: {statusMessage}")
+        message = f"status {statusMessage}"
+        self.openTaflConnector.sendMessageToServer(message)
+
     def messageHandler(self, message: str) -> None:
         self.log.debug(f"Recieved new message: {message}")
         if message.startswith("finish"):
@@ -37,15 +42,12 @@ class OpenTaflHandler:
             self.handleErrorMessage(message)
         elif message.startswith("opponent-move"):
             self.handleOpponentMoveMessage(message)
+        elif message.startswith("goodbye"):
+            self.handleGoodbyeMessage(message)
 
     def handlePlayMessage(self, message: str) -> None:
         (_, sideToPlay) = message.split(" ", 1)
         self.playCallbackHandler(self, self.taflGame, sideToPlay)
-
-    def sendStatus(self, statusMessage: str) -> None:
-        self.log.debug(f"Sending status: {statusMessage}")
-        message = f"status {statusMessage}"
-        self.openTaflConnector.sendMessageToServer(message)
 
     def handleFinishMessage(self, message: str) -> None:
         self.log.debug(f"Received finish message: {message}")
@@ -64,6 +66,22 @@ class OpenTaflHandler:
             return
         self.taflGame.setWinState(newWinState)
 
+    def handleErrorMessage(self, message: str) -> None:
+        # no need to make the AI redo the move here because
+        # open tafl handles this accordingly and resends a play.
+        self.log.debug(f"Received error message: {message}")
+        (_, error) = message.split(" ", 1)
+        if error == "1":
+            self.log.warning("Wrong Side Error")
+        elif error == "2":
+            self.log.warning("Invalid Move Error")
+        elif error == "3":
+            self.log.warning("Berserk Mode Wrong Side Error")
+        elif error == "4":
+            self.log.warning("Berserk Mode Illegal Move")
+        else:
+            self.log.warning(f"Unknown error message: {message}")
+
     def handleRulesMessage(self, message: str) -> None:
         (_, payload) = message.split(" ", 1)
         self.log.debug(f"Received rules message: {payload}")
@@ -74,4 +92,18 @@ class OpenTaflHandler:
         # See the full spec file, but we don't need all of it
         # Primary one is the king armed flag
         raise Exception("Cannot handle rules yet!")
+
+    # /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/
+    def handleMoveMessage(self, message: str) -> None:
+        (_, payload) = message.split(" ", 1)
+        self.log.debug(f"Received move message: {payload}")
+        self.currentBoardState = payload
+
+    def handleOpponentMoveMessage(self, message: str) -> None:
+        (_, payload) = message.split(" ", 1)
+        (_, boardstate) = payload.split(" ", 1)
+        self.log.debug(f"Received opponent-move message: {payload}")
+        self.currentBoardState = boardstate
+
+        (_, moveList, positionRecord) = message.split(" ", 2)
 

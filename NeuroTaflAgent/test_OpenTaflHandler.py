@@ -15,6 +15,13 @@ openTaflMessage_finish1 = "finish 1\n"  # Tie game
 openTaflMessage_finish2 = "finish 2\n"  # Attackers win
 openTaflMessage_finish3 = "finish 3\n"  # Defenders game
 
+openTaflMessage_error1 = "error 1\n" # Wrong side error
+openTaflMessage_error2 = "error 2\n" # Invalid move error
+openTaflMessage_error3 = "error 3\n" # Berserk Mode Wrong Side Error
+openTaflMessage_error4 = "error 4\n" # Berserk Mode Illegal Move
+openTaflMessage_errorUnk = "error 89\n" # Unknown error type
+
+
 
 def messageHandler(message: str) -> None:
     global g_message
@@ -117,4 +124,78 @@ def test_HandleMessage_Finish3_DefendersWin(capsys):
     assert taflGame.isGameOver()
     assert taflGame.isDefenderWin()
 
+def test_OTS_ErrorMessage1(caplog):
+    expectedMessage = "Wrong Side Error"
+
+    taflGame = TaflGame()
+    connector = OpenTaflConnector("Test Connector")
+    handler = OpenTaflHandler(taflGame)
+    handler.setOpenTaflConnector(connector)
+
+    global openTaflMessage_error1
+    sys.stdin = StringIO(openTaflMessage_error1)   # "Send" message to connector from OpenTafl server
+    connector.run() # Start connector -- should push callback to handler
+    sleep(0.1)
+
+    assert expectedMessage in caplog.text
+
+def test_OTS_ErrorMessage2(caplog):
+    expectedMessage = "Invalid Move Error"
+
+    taflGame = TaflGame()
+    connector = OpenTaflConnector("Test Connector")
+    handler = OpenTaflHandler(taflGame)
+    handler.setOpenTaflConnector(connector)
+
+    global openTaflMessage_error2
+    sys.stdin = StringIO(openTaflMessage_error2)   # "Send" message to connector from OpenTafl server
+    connector.run() # Start connector -- should push callback to handler
+    sleep(0.1)
+
+    assert expectedMessage in caplog.text
+
+def test_OTS_ErrorMessage3(caplog):
+    expectedMessage = "Berserk Mode Wrong Side Error"
+
+    taflGame = TaflGame()
+    connector = OpenTaflConnector("Test Connector")
+    handler = OpenTaflHandler(taflGame)
+    handler.setOpenTaflConnector(connector)
+
+    global openTaflMessage_error3
+    sys.stdin = StringIO(openTaflMessage_error3)   # "Send" message to connector from OpenTafl server
+    connector.run() # Start connector -- should push callback to handler
+    sleep(0.1)
+
+    assert expectedMessage in caplog.text
+
+def test_OTS_ErrorMessage4(caplog):
+    expectedMessage = "Berserk Mode Illegal Move"
+
+    taflGame = TaflGame()
+    connector = OpenTaflConnector("Test Connector")
+    handler = OpenTaflHandler(taflGame)
+    handler.setOpenTaflConnector(connector)
+
+    global openTaflMessage_error4
+    sys.stdin = StringIO(openTaflMessage_error4)   # "Send" message to connector from OpenTafl server
+    connector.run() # Start connector -- should push callback to handler
+    sleep(0.1)
+
+    assert expectedMessage in caplog.text
+
+def test_OTS_ErrorMessageUnk(caplog):
+    expectedMessage = "Unknown error message"
+
+    taflGame = TaflGame()
+    connector = OpenTaflConnector("Test Connector")
+    handler = OpenTaflHandler(taflGame)
+    handler.setOpenTaflConnector(connector)
+
+    global openTaflMessage_errorUnk
+    sys.stdin = StringIO(openTaflMessage_errorUnk)   # "Send" message to connector from OpenTafl server
+    connector.run() # Start connector -- should push callback to handler
+    sleep(0.1)
+
+    assert expectedMessage in caplog.text
 
