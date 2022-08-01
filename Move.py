@@ -120,6 +120,9 @@ class Move:
             and self.endingCoordinate == otherMove.endingCoordinate
         )
 
+    def toChessNotation(self) -> str:
+        return f"{self.startingCoordinate}-{self.endingCoordinate}"
+
     def __str__(self) -> str:
         ret = ""
 

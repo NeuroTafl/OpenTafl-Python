@@ -1,9 +1,10 @@
 import pytest
 import sys
 from io import StringIO
-from NeuroTaflAgent.OpenTaflConnector import OpenTaflConnector
 import logging
 from time import sleep
+
+from OpenTaflConnector import OpenTaflConnector
 
 g_message = ""
 
@@ -16,10 +17,6 @@ def messageHandler(message: str) -> None:
 logging.basicConfig(level=logging.DEBUG)
 
 # **************************************************************************#
-def test_dummy():
-    assert True
-
-
 def test_BasicMessageHandlingWorking():
     global g_message
     expectedMessage = "abc"

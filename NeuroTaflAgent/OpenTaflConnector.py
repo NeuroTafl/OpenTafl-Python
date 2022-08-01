@@ -41,7 +41,6 @@ class OpenTaflConnector:
                 self.handleServerMessage(message)
             except EOFError:
                 self.done = True
-                raise Exception("Open Tafl Server EOF disconnect - dying")
         self.log.debug("Exiting connector main wait method ")
 
     def run(self) -> None:

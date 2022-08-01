@@ -292,3 +292,17 @@ def test_MoveToStrPlayerResigned():
     move = Move(openTaflNotation=moveString)
 
     assert moveString == str(move)
+
+def test_MoveToChessNotationStrCap3_d3_d7():
+    moveString = t_taflmanMoveCap3
+    expectedString = "d3-d7"
+    move = Move(openTaflNotation=moveString)
+
+    assert expectedString == move.toChessNotation()
+
+def test_MoveToChessNotationStrCap3_k7_k2():
+    moveString = t_kingHasEscapeRoute
+    expectedString = "k7-k2"
+    move = Move(openTaflNotation=moveString)
+
+    assert expectedString == move.toChessNotation()
