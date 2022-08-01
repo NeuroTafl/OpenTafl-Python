@@ -1,6 +1,7 @@
 from Board import Board
 from Coordinate import Coordinate
 
+
 class NextBoardState:
 
     cur_board = None
@@ -12,7 +13,6 @@ class NextBoardState:
     def __init__(self, board, piece):
         self.cur_board = board
         self.piece = piece
-
 
     def getNext(self, move, piece):
         # returns the boardstate in "////" format
@@ -27,7 +27,6 @@ class NextBoardState:
             self.piece = "t"
 
         return self.checkLegal(move)
-    
 
     def checkLegal(self, coord):
         if coord is self.isCorner(coord) and not self.isKing:
@@ -37,28 +36,28 @@ class NextBoardState:
         else:
             self.checkMove(coord)
 
-
     def isCorner(self, coord: Coordinate):
-        if coord.getYIndex() == len(self.cur_board.board) and coord.getXIndex() == len(self.cur_board.board[0]):
+        if coord.getYIndex() == len(self.cur_board.board) and coord.getXIndex() == len(
+            self.cur_board.board[0]
+        ):
             return True
         elif coord.getYIndex() == 0 and coord.getXIndex() == 0:
             return True
         elif coord.getYIndex() == len(self.cur_board.board) and coord.getXIndex() == 0:
             return True
-        elif coord.getYIndex() == 0 and coord.getXIndex() == len(self.cur_board.board[0]):
+        elif coord.getYIndex() == 0 and coord.getXIndex() == len(
+            self.cur_board.board[0]
+        ):
             return True
         else:
             return False
-
-
 
     def checkMove(self, coord):
         if self.cur_board.checkCoord(coord):
             self.checkCapture(coord)
 
-
     def checkCapture(self, coord):
-        direction = ["up", "down","right", "left"]
+        direction = ["up", "down", "right", "left"]
         captures = []
         for direct in direction:
             capped = self.possibleCapture(coord, direct)
@@ -66,12 +65,9 @@ class NextBoardState:
                 captures.append(capped)
         return captures
 
-
-
         # check all directions +2 for teamate piece
         # check all directions with teamate for enemy inbetween
         # return list of all killed pieces
-
 
     def possibleCapture(self, coord, desig):
         pass

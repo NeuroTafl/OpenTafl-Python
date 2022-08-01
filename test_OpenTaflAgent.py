@@ -1,6 +1,7 @@
 # Testing the OpenTafl-python library
 
 import logging
+import pytest
 
 from Board import Board
 from MoveDecider import MoveDecider
@@ -93,6 +94,7 @@ def test_AgentSendHandshake(capsys):
     assert "hello\n" in captured.out
 
 
+@pytest.mark.skip
 def test_moveArray():
     agent = OpenTaflAgent("Test Agent")
     agent.registerMoveCallbackHandler(stubMoveCallback)
@@ -101,10 +103,12 @@ def test_moveArray():
     assert agent.board == "yes"
 
 
+@pytest.mark.skip
 def test_board():
     board = Board("/4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/")
     print(board)
     assert board == "yes"
+
 
 """
 def test_moveArray():
