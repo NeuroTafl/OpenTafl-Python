@@ -62,9 +62,6 @@ class Board:
             return False
         if coord.x >= len(self.board[0]) or coord.x < 0:
             return False
-        print(coord.x)
-        print(coord.y)
-        print(self.board)
         if self.board[coord.y][coord.x] == "e":
             return True
         return False
