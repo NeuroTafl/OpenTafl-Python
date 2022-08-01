@@ -34,19 +34,26 @@ class Board:
         array = []
         for row in rows:
             new_row = []
-            for piece in row:
-                if piece.__contains__("t"):
-                    new_row.append("t")
-                elif piece.__contains__("T"):
-                    new_row.append("T")
-                elif piece.__contains__("K"):
-                    new_row.append("K")
-                else:
-                    spaces = int(piece)
-                    for x in range(spaces):
-                        new_row.append("e")
-            if len(new_row) > 0:
-                array.append(new_row)
+            try:
+                spaces = int(row)
+                for x in range(spaces):
+                    new_row.append("e")
+                if len(new_row) > 0:
+                    array.append(new_row)
+            except ValueError as e:
+                for piece in row:
+                    if piece.__contains__("t"):
+                        new_row.append("t")
+                    elif piece.__contains__("T"):
+                        new_row.append("T")
+                    elif piece.__contains__("K"):
+                        new_row.append("K")
+                    else:
+                        spaces = int(piece)
+                        for x in range(spaces):
+                            new_row.append("e")
+                if len(new_row) > 0:
+                    array.append(new_row)
         # array.reverse()
         self.board = array
 
@@ -55,7 +62,9 @@ class Board:
             return False
         if coord.x >= len(self.board[0]) or coord.x < 0:
             return False
-
+        print(coord.x)
+        print(coord.y)
+        print(self.board)
         if self.board[coord.y][coord.x] == "e":
             return True
         return False

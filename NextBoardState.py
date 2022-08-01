@@ -113,6 +113,9 @@ class NextBoardState:
             return False
         return True
 
+        ## FIX BOARD BEFORE MOVING ON
+
+
     def checkShield(self, coord):
         pass
 
