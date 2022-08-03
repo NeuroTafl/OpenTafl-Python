@@ -1,9 +1,10 @@
-
 import logging
 from OpenTaflConnector import OpenTaflConnector
 from TaflGame import TaflGame
 from Move import Move
 from WinState import WinState
+from TaflRules import TaflRules
+
 
 class OpenTaflHandler:
     def __init__(self, taflGame: TaflGame):
@@ -11,6 +12,7 @@ class OpenTaflHandler:
         self.openTaflConnector = None
         self.log = self.log = logging.getLogger(__class__.__name__)
         self.playCallbackHandler = None
+        self.taflRules = None
 
     def setOpenTaflConnector(self, openTaflConnector: OpenTaflConnector):
         self.openTaflConnector = openTaflConnector
@@ -83,15 +85,12 @@ class OpenTaflHandler:
             self.log.warning(f"Unknown error message: {message}")
 
     def handleRulesMessage(self, message: str) -> None:
-        (_, payload) = message.split(" ", 1)
+        (_, payload) = message.split(" ", 1)  # Take off "rules" message tag
         self.log.debug(f"Received rules message: {payload}")
-        (_, rules) = payload.split("start:", 1)
-        self.currentBoardState = rules
-        self.log.debug(f"Received rules message with rules: {rules}")
-        # TODO: Need to parse & store up the rules message info
-        # See the full spec file, but we don't need all of it
-        # Primary one is the king armed flag
-        raise Exception("Cannot handle rules yet!")
+        self.taflRules = TaflRules(openTaflRulesString=payload)
+
+        # (_, rules) = payload.split("start:", 1)
+        # self.log.debug(f"Received rules message with rules: {rules}")
 
     # /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/
     def handleMoveMessage(self, message: str) -> None:
@@ -106,4 +105,3 @@ class OpenTaflHandler:
         self.currentBoardState = boardstate
 
         (_, moveList, positionRecord) = message.split(" ", 2)
-

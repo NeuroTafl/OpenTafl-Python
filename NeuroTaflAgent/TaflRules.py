@@ -1,9 +1,9 @@
-
 import logging
 
 # <board-size> [lots of possible options] <positionRecordString>
 # dim:\d{1,2}
 # start:/..../
+
 
 class TaflRules:
     def __init__(self, openTaflRulesString=None):
@@ -12,13 +12,15 @@ class TaflRules:
 
         self.startingPosition = ""
         self.boardDimension = 1
-        self.kingArmed = "y"    # 'n', 'a' - anvil, 'h' - hammer
-        self.kingMode = "s" # string, "c" - strong by throne, "m" - middleweight, "w" - weak everywhere
-        self.shieldwallMode = "n" # 'w' weak (no corners) - 's' strong can do corners too
+        self.kingArmed = "y"  # 'n', 'a' - anvil, 'h' - hammer
+        self.kingMode = "s"  # string, "c" - strong by throne, "m" - middleweight, "w" - weak everywhere
+        self.shieldwallMode = (
+            "n"  # 'w' weak (no corners) - 's' strong can do corners too
+        )
 
         # Unimplemented so far
-        self.whoMovesFirst = "attackers" # "defenders"
-        self.escapeLocation = "corner" # "edge"
+        self.whoMovesFirst = "attackers"  # "defenders"
+        self.escapeLocation = "corner"  # "edge"
 
         if self.openTaflRules:
             self.parseOpenTaflRulesString(self.openTaflRules)
@@ -61,19 +63,24 @@ class TaflRules:
 
     def isShieldWallOff(self):
         return self.shieldwallMode == "n"
+
     def isShieldWallWeak(self):
         return self.shieldwallMode == "w"
+
     def isShieldWallStrong(self):
         return self.shieldwallMode == "s"
 
     def isKingArmed(self):
-        return self.kingArmed == 'y'
+        return self.kingArmed == "y"
+
     def isKingUnarmed(self):
-        return self.kingArmed == 'n'
+        return self.kingArmed == "n"
+
     def isKingHammer(self):
-        return self.kingArmed == 'h'
+        return self.kingArmed == "h"
+
     def isKingAnvil(self):
-        return self.kingArmed == 'a'
+        return self.kingArmed == "a"
 
     def getStartingPositionString(self):
         return self.startingPosition

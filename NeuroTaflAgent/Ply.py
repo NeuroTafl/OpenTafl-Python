@@ -1,9 +1,15 @@
-
 from Move import Move
 
 
 class Ply:
-    def __init__(self, plyNumber: int, plyMove: Move=None, boardstate=None, positionRecord: str=None, whoMoved: str=None):
+    def __init__(
+        self,
+        plyNumber: int,
+        plyMove: Move = None,
+        boardstate=None,
+        positionRecord: str = None,
+        whoMoved: str = None,
+    ):
         self.number = plyNumber
         self.move = None
         self.boardstate = None

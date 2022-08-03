@@ -1,7 +1,7 @@
-
 import logging
 from time import sleep
 from threading import Thread
+
 
 class OpenTaflConnector:
     def __init__(self, name):

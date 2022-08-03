@@ -9,5 +9,3 @@ class NeuroTaflAgent:
         self.openTaflConnector = None
         self.openTaflHandler = None
         self.taflGame = None
-
-
