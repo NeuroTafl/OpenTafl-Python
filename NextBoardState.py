@@ -116,9 +116,6 @@ class NextBoardState:
             toCheckOpp.y = coord.getYIndex()
 
         if self.checkPossilbe(toCheckTeam):
-            print(self.cur_board.board)
-            print(toCheckTeam.getXIndex())
-            print(toCheckTeam.getYIndex())
             if self.cur_board.board[toCheckTeam.getYIndex()][toCheckTeam.getXIndex()] == self.piece:
                 between = self.cur_board.board[toCheckOpp.getYIndex()][toCheckOpp.getXIndex()]
                 if between != self.piece and between != "e":

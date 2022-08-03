@@ -34,28 +34,37 @@ class Board:
         array = []
         for row in rows:
             new_row = []
-            try:
-                spaces = int(row)
-                for x in range(spaces):
-                    new_row.append("e")
-                if len(new_row) > 0:
-                    array.append(new_row)
-            except ValueError as e:
-                for piece in row:
-                    if piece.__contains__("t"):
-                        new_row.append("t")
-                    elif piece.__contains__("T"):
-                        new_row.append("T")
-                    elif piece.__contains__("K"):
-                        new_row.append("K")
+            doubledigit = False
+            for index in range(len(row)):
+                if row[index] == "t":
+                    new_row.append("t")
+                elif row[index] == "T":
+                    new_row.append("T")
+                elif row[index] == "K":
+                    new_row.append("K")
+                else:
+                    if doubledigit:
+                        doubledigit = False
                     else:
-                        spaces = int(piece)
+                        if len(row) > index + 1 and self.isInt(row[index + 1]):
+                            num = str(row[index]) + str(row[index + 1])
+                            doubledigit = True
+                        else:
+                            num = str(row[index])
+                        spaces = int(num)
                         for x in range(spaces):
                             new_row.append("e")
-                if len(new_row) > 0:
-                    array.append(new_row)
+            if len(new_row) > 0:
+                array.append(new_row)
         # array.reverse()
         self.board = array
+
+    def isInt(self, string):
+        try:
+            int(string)
+            return True
+        except ValueError as e:
+            return False
 
     def checkCoord(self, coord: Coordinate) -> bool:
         if coord.y >= len(self.board) or coord.y < 0:
