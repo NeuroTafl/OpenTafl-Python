@@ -1,8 +1,9 @@
 import random
-
-from Coordinate import Coordinate
-from Board import Board
 import logging
+
+from .Coordinate import Coordinate
+from .Board import Board
+
 
 
 class MoveDecider:

@@ -4,10 +4,10 @@ import sys
 from time import sleep
 from io import StringIO
 
-from OpenTaflConnector import OpenTaflConnector
-from OpenTaflHandler import OpenTaflHandler
-from TaflGame import TaflGame
-from Move import Move
+from .OpenTaflConnector import OpenTaflConnector
+from .OpenTaflHandler import OpenTaflHandler
+from .TaflGame import TaflGame
+from .Move import Move
 
 g_message = ""
 openTaflMessage_finish0 = "finish 0\n"  # No end game state

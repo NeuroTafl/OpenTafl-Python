@@ -1,9 +1,11 @@
 import logging
-from OpenTaflConnector import OpenTaflConnector
-from TaflGame import TaflGame
-from Move import Move
-from WinState import WinState
-from TaflRules import TaflRules
+
+
+from .OpenTaflConnector import OpenTaflConnector
+from .TaflGame import TaflGame
+from .Move import Move
+from .WinState import WinState
+from .TaflRules import TaflRules
 
 
 class OpenTaflHandler:

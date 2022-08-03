@@ -1,6 +1,6 @@
-from WinState import WinState
-from Move import Move
-from Ply import Ply
+from .WinState import WinState
+from .Move import Move
+from .Ply import Ply
 
 
 class TaflGame:

@@ -1,7 +1,7 @@
 from pprint import pprint
 import re
 
-from Coordinate import Coordinate
+from .Coordinate import Coordinate
 
 
 class Move:

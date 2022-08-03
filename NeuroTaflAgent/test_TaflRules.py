@@ -1,4 +1,4 @@
-from TaflRules import TaflRules
+from .TaflRules import TaflRules
 
 
 g_copenhagen = "dim:11 sw:w start:/3ttttt3/5t5/11/t4T4t/t3TTT3t/tt1TTKTT1tt/t3TTT3t/t4T4t/11/5t5/3ttttt3/"

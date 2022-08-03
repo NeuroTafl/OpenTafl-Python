@@ -3,13 +3,13 @@
 import logging
 import pytest
 
-from Board import Board
-from MoveDecider import MoveDecider
+from NeuroTaflAgent.Board import Board
+from NeuroTaflAgent.MoveDecider import MoveDecider
 from OpenTaflAgent import OpenTaflAgent, WinState
 
 
 # ****************************************************************************
-from TensorMoveDecider import TensorMoveDecider
+from NeuroTaflAgent.TensorMoveDecider import TensorMoveDecider
 
 
 def stubMoveCallback(agent: OpenTaflAgent, sideToPlay: str) -> str:

@@ -3,9 +3,10 @@ import tensorflow as tf
 from tensorflow import keras
 from keras import layers
 import os
-from Coordinate import Coordinate
-from Board import Board
 import logging
+
+from .Coordinate import Coordinate
+from .Board import Board
 
 
 class TensorMoveDecider:

@@ -1,4 +1,4 @@
-from Move import Move
+from .Move import Move
 
 
 class Ply:

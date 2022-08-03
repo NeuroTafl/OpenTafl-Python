@@ -11,8 +11,8 @@
 #
 
 
-from Coordinate import Coordinate
-from Move import Move
+from .Coordinate import Coordinate
+from .Move import Move
 
 t_simpleMove_b2c2 = "b2-c2"  # Taflman moves from b2 to c2
 t_simpleMove_j5j9 = "j5-j9"  # Taflman moves from j5 to j9
