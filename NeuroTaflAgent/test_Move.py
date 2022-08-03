@@ -11,8 +11,8 @@
 #
 
 
-from Coordinate import Coordinate
-from Move import Move
+from .Coordinate import Coordinate
+from .Move import Move
 
 t_simpleMove_b2c2 = "b2-c2"  # Taflman moves from b2 to c2
 t_simpleMove_j5j9 = "j5-j9"  # Taflman moves from j5 to j9
@@ -230,11 +230,13 @@ def test_movesAreNOTSame1():
 
     assert moveA != moveB
 
+
 def test_MoveToStrSimple():
     moveString = t_simpleMove_b2c2
     move = Move(openTaflNotation=moveString)
 
     assert moveString == str(move)
+
 
 def test_MoveToStrKingSimple():
     moveString = t_kingMove_h6b6
@@ -242,11 +244,13 @@ def test_MoveToStrKingSimple():
 
     assert moveString == str(move)
 
+
 def test_MoveToStrCap1():
     moveString = t_taflmanMoveCap1
     move = Move(openTaflNotation=moveString)
 
     assert moveString == str(move)
+
 
 def test_MoveToStrCap3():
     moveString = t_taflmanMoveCap3
@@ -254,11 +258,13 @@ def test_MoveToStrCap3():
 
     assert moveString == str(move)
 
+
 def test_MoveToStrKingVulnerable():
     moveString = t_taflmanMoveKingVulnerable
     move = Move(openTaflNotation=moveString)
 
     assert moveString == str(move)
+
 
 def test_MoveToStrKingEscapeOpen():
     moveString = t_kingHasEscapeRoute
@@ -266,11 +272,13 @@ def test_MoveToStrKingEscapeOpen():
 
     assert moveString == str(move)
 
+
 def test_MoveToStrKingCaptured():
     moveString = t_taflmanCapturesKing
     move = Move(openTaflNotation=moveString)
 
     assert moveString == str(move)
+
 
 def test_MoveToStrKingEscaped():
     moveString = t_kingHasEscaped
@@ -278,8 +286,25 @@ def test_MoveToStrKingEscaped():
 
     assert moveString == str(move)
 
+
 def test_MoveToStrPlayerResigned():
     moveString = t_resignationSymbol
     move = Move(openTaflNotation=moveString)
 
     assert moveString == str(move)
+
+
+def test_MoveToChessNotationStrCap3_d3_d7():
+    moveString = t_taflmanMoveCap3
+    expectedString = "d3-d7"
+    move = Move(openTaflNotation=moveString)
+
+    assert expectedString == move.toChessNotation()
+
+
+def test_MoveToChessNotationStrCap3_k7_k2():
+    moveString = t_kingHasEscapeRoute
+    expectedString = "k7-k2"
+    move = Move(openTaflNotation=moveString)
+
+    assert expectedString == move.toChessNotation()

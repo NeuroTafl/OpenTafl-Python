@@ -57,7 +57,7 @@ test:
 
 black:
 	@echo "Should run black to lint/format all files"
-	black *.py
+	black .
 
 lint:
 	@echo "Running lint with flake8"

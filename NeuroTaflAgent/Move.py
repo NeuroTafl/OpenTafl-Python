@@ -1,7 +1,7 @@
 from pprint import pprint
 import re
 
-from Coordinate import Coordinate
+from .Coordinate import Coordinate
 
 
 class Move:
@@ -119,6 +119,9 @@ class Move:
             self.startingCoordinate == otherMove.startingCoordinate
             and self.endingCoordinate == otherMove.endingCoordinate
         )
+
+    def toChessNotation(self) -> str:
+        return f"{self.startingCoordinate}-{self.endingCoordinate}"
 
     def __str__(self) -> str:
         ret = ""

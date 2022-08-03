@@ -1,11 +1,15 @@
 import random
-
-from Coordinate import Coordinate
-from Board import Board
+import tensorflow as tf
+from tensorflow import keras
+from keras import layers
+import os
 import logging
 
+from .Coordinate import Coordinate
+from .Board import Board
 
-class MoveDecider:
+
+class TensorMoveDecider:
     board = None
     log = None
 
@@ -20,7 +24,16 @@ class MoveDecider:
             self.board.updateBoard()
 
         moves = self.generateAllPossible(side)
-        return random.choice(moves)
+        weights = []
+        rand = []
+        for x in range(len(moves)):
+            n = random.random()
+            rand.append(n)
+        weights.append(rand)
+        elems = tf.convert_to_tensor(moves)
+        samples = tf.random.categorical(tf.math.log(weights), 1)
+        choice = elems[tf.cast(samples[0][0], tf.int32)]
+        return choice.numpy().decode()
 
     def generateAllPossible(self, side) -> list:
 
