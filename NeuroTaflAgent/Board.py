@@ -1,59 +1,88 @@
+# Stores a single Tafl board's piece state
+
 from .Coordinate import Coordinate
 
 
 class Board:
+    def __init__(self, boardStatePositionString):
+        self.board = []
+        self.board.append([])  # Ensures a 2D board for indexing
 
-    board = []
-    currentBoardState = ""
+        self.boardStatePositionString = boardStatePositionString
+        self.setBoard(self.boardStatePositionString)
 
-    def __init__(self, boardState):
-        self.currentBoardState = boardState
-        self.updateBoard()
+    def setBoard(self, newBoardPositionString: str) -> None:
+        self.board = self.generateBoardArray(newBoardPositionString)
+
+    def generateBoardArray(self, newBoardPositionString: str) -> list:
+        newBoardList = []
+        newBoardPositionString = newBoardPositionString.strip()
+        rowPositionStrings = newBoardPositionString.split("/")
+        for rowPositionString in rowPositionStrings:
+            if (
+                len(rowPositionString) < 1
+            ):  # the split("/") generates an empty strings at front and back
+                continue
+            newRowList = self.getRowListFromRowString(rowPositionString)
+            newBoardList.append(newRowList)
+        return newBoardList
+
+    def getRowListFromRowString(self, rowPositionString: str) -> list:
+        newRowList = []
+        currCharIndex = 0
+        while currCharIndex < len(rowPositionString):
+            if rowPositionString[currCharIndex].isdigit():
+                emptyBucketCount = int(rowPositionString[currCharIndex])
+                if (
+                    currCharIndex < len(rowPositionString) - 1
+                    and rowPositionString[currCharIndex + 1].isdigit()
+                ):
+                    emptyBucketCount = int(
+                        rowPositionString[currCharIndex : currCharIndex + 2]
+                    )
+                    currCharIndex += 1  # skip second digit in main loop
+                for _ in range(emptyBucketCount):
+                    newRowList.append("e")
+            else:
+                newRowList.append(rowPositionString[currCharIndex])
+            currCharIndex += 1
+        return newRowList
+
+    def getMaxY(self):
+        return len(self.board)
+
+    def getMaxX(self):
+        return len(self.board[0])
+
+    def getRowPositionString(self, rowList: list) -> str:
+        rowString = ""
+        currEmptyCount = 0
+        for piece in rowList:
+            if piece != "e":
+                if currEmptyCount != 0:
+                    rowString += str(currEmptyCount)
+                    currEmptyCount = 0
+                rowString += piece
+            else:
+                currEmptyCount += 1
+        if currEmptyCount != 0:
+            rowString += str(currEmptyCount)
+        return rowString
+
+    def getBoardPositionString(self) -> str:
+        positionString = "/"
+        for row in self.board:
+            currRowString = self.getRowPositionString(row)
+            positionString += f"{currRowString}/"
+        return positionString
 
     def __str__(self):
-        boardString = "/"
-        for row in self.board:
-            count = 0
-            for piece in row:
-                if piece == "e":
-                    count += 1
-                else:
-                    if count != 0:
-                        boardString += str(count)
-                    boardString += piece
-                    count = 0
-            if count != 0:
-                boardString += str(count)
-            boardString += "/"
-
-        print(boardString)
-        return boardString
-
-    def updateBoard(self) -> None:
-        rows = self.currentBoardState.split(sep="/")
-        array = []
-        for row in rows:
-            new_row = []
-            for piece in row:
-                if piece.__contains__("t"):
-                    new_row.append("t")
-                elif piece.__contains__("T"):
-                    new_row.append("T")
-                elif piece.__contains__("K"):
-                    new_row.append("K")
-                else:
-                    spaces = int(piece)
-                    for x in range(spaces):
-                        new_row.append("e")
-            if len(new_row) > 0:
-                array.append(new_row)
-        # array.reverse()
-        self.board = array
+        return self.getBoardPositionString()
 
     def checkCoord(self, coord: Coordinate) -> bool:
-        if coord.y >= len(self.board) or coord.y < 0:
+        if coord.y >= self.getMaxY() or coord.y < 0:
             return False
-        if coord.x >= len(self.board[0]) or coord.x < 0:
+        if coord.x >= self.getMaxX() or coord.x < 0:
             return False
 
         if self.board[coord.y][coord.x] == "e":

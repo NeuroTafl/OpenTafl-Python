@@ -13,7 +13,9 @@ class TaflRules:
         self.startingPosition = ""
         self.boardDimension = 1
         self.kingArmed = "y"  # 'n', 'a' - anvil, 'h' - hammer
-        self.kingMode = "s"  # string, "c" - strong by throne, "m" - middleweight, "w" - weak everywhere
+        self.kingMode = (
+            "s"
+        )  # string, "c" - strong by throne, "m" - middleweight, "w" - weak everywhere
         self.shieldwallMode = (
             "n"  # 'w' weak (no corners) - 's' strong can do corners too
         )

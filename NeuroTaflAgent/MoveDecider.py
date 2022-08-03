@@ -5,7 +5,6 @@ from .Coordinate import Coordinate
 from .Board import Board
 
 
-
 class MoveDecider:
     board = None
     log = None
