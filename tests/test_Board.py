@@ -2,8 +2,8 @@
 
 from copy import copy, deepcopy
 
-from .Coordinate import Coordinate
-from .Board import Board
+from NeuroTaflAgent.Coordinate import Coordinate
+from NeuroTaflAgent.Board import Board
 
 
 g_copenhagen_BoardPosition_Start = (

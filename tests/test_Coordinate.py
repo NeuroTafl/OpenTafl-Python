@@ -1,6 +1,6 @@
 # Testing the OpenTafl-python library
 
-from .Coordinate import Coordinate
+from NeuroTaflAgent.Coordinate import Coordinate
 
 
 # ****************************************************************************

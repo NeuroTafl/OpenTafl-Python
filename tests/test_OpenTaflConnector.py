@@ -4,7 +4,7 @@ from io import StringIO
 import logging
 from time import sleep
 
-from .OpenTaflConnector import OpenTaflConnector
+from NeuroTaflAgent.OpenTaflConnector import OpenTaflConnector
 
 g_message = ""
 
