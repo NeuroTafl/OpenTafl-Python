@@ -110,3 +110,14 @@ def test_copyBoard():
     boardB.setBoard(g_copenhagen_BoardPosition_Start)
 
     assert str(boardA) != str(boardB)
+
+def test_boardIterator():
+    global g_brandubh_BoardPosition_Start
+    boardA = Board(g_brandubh_BoardPosition_Start)
+
+    expectedPieceString = "eeeteeeeeeteeeeeeTeeettTKTtteeeTeeeeeeteeeeeeteee"
+    foundPieceString = ""
+    for boardPiece in boardA:
+        foundPieceString += boardPiece
+
+    assert expectedPieceString == foundPieceString

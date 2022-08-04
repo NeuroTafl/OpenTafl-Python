@@ -36,3 +36,7 @@ class Ply:
     # Makes Ply objects sortable by their number member values
     def __lt__(self, other):
         return self.number < other.number
+
+    def getBoard(self):
+        return self.board
+
