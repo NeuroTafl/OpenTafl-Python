@@ -15,6 +15,7 @@ class OpenTaflHandler:
         self.log = self.log = logging.getLogger(__class__.__name__)
         self.playCallbackHandler = None
         self.taflRules = None
+        self.lastMoveSent = Move()
 
     def setOpenTaflConnector(self, openTaflConnector: OpenTaflConnector):
         self.openTaflConnector = openTaflConnector
@@ -25,6 +26,7 @@ class OpenTaflHandler:
 
     def sendChosenMove(self, move: Move) -> None:
         message = f"move {move.toChessNotation()}"
+        self.lastMoveSent = move
         self.openTaflConnector.sendMessageToServer(message)
 
     def sendStatus(self, statusMessage: str) -> None:
@@ -51,7 +53,8 @@ class OpenTaflHandler:
 
     def handlePlayMessage(self, message: str) -> None:
         (_, sideToPlay) = message.split(" ", 1)
-        self.playCallbackHandler(self, self.taflGame, sideToPlay)
+        self.log.debug(f"Play message for team: {sideToPlay}")
+        self.playCallbackHandler(self.taflGame, sideToPlay)
 
     def handleFinishMessage(self, message: str) -> None:
         self.log.debug(f"Received finish message: {message}")
@@ -91,19 +94,15 @@ class OpenTaflHandler:
         self.log.debug(f"Received rules message: {payload}")
         self.taflRules = TaflRules(openTaflRulesString=payload)
 
-        # (_, rules) = payload.split("start:", 1)
-        # self.log.debug(f"Received rules message with rules: {rules}")
-
     # /4tt3/3tt4/4T4/t3T3t/ttTTKTTtt/t3T3t/4T4/4t4/3ttt3/
     def handleMoveMessage(self, message: str) -> None:
-        (_, payload) = message.split(" ", 1)
-        self.log.debug(f"Received move message: {payload}")
-        self.currentBoardState = payload
+        (_, positionRecord) = message.split(" ", 1)
+        self.log.debug(f"Received move message: {positionRecord}")
+        self.taflGame.addNextMove(self.lastMoveSent, positionRecord=positionRecord)
 
     def handleOpponentMoveMessage(self, message: str) -> None:
-        (_, payload) = message.split(" ", 1)
-        (_, boardstate) = payload.split(" ", 1)
-        self.log.debug(f"Received opponent-move message: {payload}")
-        self.currentBoardState = boardstate
+        (_, moveStr, positionRecord) = message.split(" ", 2)
+        opponentMove = Move(openTaflNotation=moveStr)
+        self.log.debug(f"Received opponent-move message: {moveStr} {positionRecord}")
+        self.taflGame.addNextMove(opponentMove, positionRecord=positionRecord)
 
-        (_, moveList, positionRecord) = message.split(" ", 2)

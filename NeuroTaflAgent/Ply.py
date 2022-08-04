@@ -1,27 +1,33 @@
 from .Move import Move
+from .Board import Board
 
 
 class Ply:
     def __init__(
         self,
-        plyNumber: int,
+        plyNumber: int = 0,
         plyMove: Move = None,
-        boardstate=None,
+        board: Board=None,
         positionRecord: str = None,
         whoMoved: str = None,
     ):
         self.number = plyNumber
-        self.move = None
-        self.boardstate = None
-        self.positionRecord = None
-        self.whoMoved = None
+        self.move = plyMove
+        self.board = board
+        self.positionRecord = positionRecord
+        self.whoMoved = whoMoved
+
+        # Create a board for this ply if it wasn't given one
+        if not board and positionRecord:
+            self.board = Board(positionRecord)
 
     def getPositionRecord(self):
         if self.positionRecord:
             return self.positionRecord
-        elif self.boardstate:
-            raise Exception("boardstate needs to provide position record")
-            return boardstate.getPositionRecord
+        elif self.board:
+            return self.board.getBoardPositionString()
+        else:
+            return "No board state available."
 
     def __str__(self) -> str:
         ret = f"{self.number} - {self.move} - {self.whoMoved} - {self.getPositionRecord()}"
