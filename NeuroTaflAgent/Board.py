@@ -88,3 +88,27 @@ class Board:
         if self.board[coord.y][coord.x] == "e":
             return True
         return False
+
+    def __iter__(self):
+        return BoardIterator(self)
+
+
+class BoardIterator:
+    def __init__(self, board: Board):
+        self._board = board
+        self._index = 0
+        self._maxIndex = self._board.getMaxX() * self._board.getMaxY()
+
+
+    def __next__(self):
+        if self._index < self._maxIndex:
+            result = ""
+            currX = self._index % self._board.getMaxX()
+            currY = int(self._index / self._board.getMaxX())
+
+            result = self._board.board[currY][currX]
+
+            self._index += 1
+            return result
+        else:
+            raise StopIteration

@@ -28,6 +28,7 @@ class TaflRules:
             self.parseOpenTaflRulesString(self.openTaflRules)
 
     def parseOpenTaflRulesString(self, openTaflRulesString: str):
+        self.log.debug(f"Parsing new OT rules string: {openTaflRulesString}")
         ruleStrings = openTaflRulesString.split()
         for ruleString in ruleStrings:
             self.handleRuleString(ruleString)

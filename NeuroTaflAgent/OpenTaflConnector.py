@@ -53,7 +53,7 @@ class OpenTaflConnector:
         else:
             raise Exception("Attempted to double-start connector thread")
 
-        self.log.debug("Exiting main agent wait thread")
+        #self.log.debug("Exiting main agent wait thread")
 
     # NOTE: This only kills the thread once a \n comes through the input()
     # Generating a true non-blocking killable thread will take more work
@@ -62,3 +62,6 @@ class OpenTaflConnector:
 
     def handleServerMessage(self, message: str) -> None:
         self.messageCallbackHandler(message)
+
+    def isConnected(self) -> bool:
+        return self.mainStdinWaitThread.is_alive()
