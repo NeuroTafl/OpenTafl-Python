@@ -17,6 +17,12 @@ class NextBoardState:
         self.piece = piece
 
 
+    def getBoards(self, moveList):
+        boardList = []
+        for move in moveList:
+            boardList.append((move, self.getNext(move)))
+        return boardList
+
     def getNext(self, move):
         # returns the boardstate in "////" format
         (origin, ending) = move.split("-", 1)
