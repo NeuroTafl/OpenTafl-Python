@@ -72,6 +72,36 @@ class NeuroTaflDebugAgent(NeuroTaflAgent):
 
         self.openTaflHandler.sendChosenMove(move)
 
+        # currentBoard = taflGame.getCurrentPly().getBoard()
+        # allPossibleMoves = MoveDecider.getPossible(currentBoard, ....)
+        # allPossibleMoveAndBoardTuples = NextboardState().getPossibleMove().(allPossibleMoves)
+        # getBoards()
+
+        # allPossibleTalfGames = []
+        # for (possibleMove, possibleBoard) in allPossibleMoveAndBoardTuples:
+        #     newPossibleTalfGame = copy(taflGame)
+        #     newPossibleTalfGame.addNextMove(possibleMove, positionRecord=possibleBoard.getBoardPositionString())
+
+        # chosenMove = self.calcChosenMove(allPossibleTaflGames)
+
+
+        # def calcChosenMove(allPossibleTaflGames: list(TaflGame)) -> Move:
+        #     bestMove = None
+        #     bestMoveScore = 0
+
+        #     for possibleTaflGame in allPossibleTaflGames:
+        #         possibleMove = possibleTaflGame.getCurrentPly().getMove()
+        #         possibleBoard = possibleTaflGame.getCurrentPly().getBoard()
+        #         possibleWhoMoved = possibleTaflGame.getCurrentPly().getWhoseMove()
+
+        #         inputTensor = GameToTensor.generateCopenhagenTenor(possibleTaflGame, possibleWhoMoved)
+        #         possibleMoveScore = self.neuralNetwork.classify(inputTensor)
+        #         if possibleMoveScore > bestMoveScore:
+        #             bestMoveScore = possibleMoveScore
+        #             bestMove = possibleMove
+
+        #     return bestMove
+
 
 # ****************************************************************************
 if __name__ == "__main__":
@@ -86,7 +116,9 @@ if __name__ == "__main__":
     #neuroTaflHelloAgent = NeuroTaflAgent(name="Hello Only Agent")
     neuroTaflHelloAgent = NeuroTaflDebugAgent(name="Debug NT Agent")
     neuroTaflHelloAgent.setup()
+    # could do more data? Start threads? Load/query DB? 4 sec max.
     neuroTaflHelloAgent.run()
+    # neuroTaflHelloAgent.waitForGameEnd() # Blocks until disconnect/end
 
     try:
         while neuroTaflHelloAgent.isAlive():

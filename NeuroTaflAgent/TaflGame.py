@@ -5,14 +5,23 @@ import logging
 from .WinState import WinState
 from .Move import Move
 from .Ply import Ply
+from .TaflRules import TaflRules
 
 
 class TaflGame:
-    def __init__(self):
+    def __init__(self, openTaflRulesString=""):
         self.log = logging.getLogger(__class__.__name__)
-        self.rules = ""
+        self.openTaflRulesString = openTaflRulesString
+        self.rules = None
         self.winState = WinState.NONE
         self.plys = []
+
+        if self.openTaflRulesString:
+            self.setOpenTaflRules(self.openTaflRulesString)
+            self.addNextMove(None, positionRecord=self.rules.getStartingPositionString())
+
+    def setOpenTaflRules(self, openTaflRulesString):
+            self.rules = TaflRules(openTaflRulesString)
 
     def setWinState(self, newWinState: WinState) -> None:
         self.winState = newWinState
