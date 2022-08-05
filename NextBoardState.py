@@ -1,6 +1,14 @@
 from Board import Board
 from Coordinate import Coordinate
 
+### !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+## Make 3 check, remove, set in board and change classes that use boards
+# This class
+# Move Decider
+# Tensor Move Decider
+# add wincheck on board
+
+
 class NextBoardState:
 
     cur_board = None
