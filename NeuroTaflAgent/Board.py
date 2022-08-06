@@ -92,7 +92,27 @@ class Board:
     def __iter__(self):
         return BoardIterator(self)
 
+    def getTerminalStr(self):
+        ret = ""
 
+        ret += "   "
+        for currX in range(self.getMaxX()):
+            char = chr(currX+97)
+            ret += f"{char} "
+        ret += "\n"
+        ret += "-" * ((self.getMaxX() + 1) * 2 + 1) + "\n"
+        for currY in range(self.getMaxY()):
+            ret += f"{currY+1:02}|"
+            for currX in range(self.getMaxX()):
+                ret += self.board[currY][currX]
+                ret += "|"
+            ret += "\n"
+        ret += "-" * ((self.getMaxX() + 1) * 2 + 1)
+
+        return ret
+
+
+# ****************************************************************************
 class BoardIterator:
     def __init__(self, board: Board):
         self._board = board
