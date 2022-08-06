@@ -21,4 +21,4 @@ def test_PlayTerminalOutput():
     print()
     print(ply.getTerminalStr())
 
-    assert False
+    # assert False
