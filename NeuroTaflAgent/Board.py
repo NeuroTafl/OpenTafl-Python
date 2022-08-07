@@ -89,6 +89,15 @@ class Board:
             return True
         return False
 
+    def removePieceAtCoord(self, coord: Coordinate) -> None:
+        self.board[coord.getYIndex()][coord.getXIndex()] = "e"
+
+    def setPieceAtCoord(self, coord: Coordinate, piece: str) -> None:
+        self.board[coord.getYIndex()][coord.getXIndex()] = piece
+
+    def getPieceAtCoord(self, coord: Coordinate) -> str:
+        return self.board[coord.getYIndex()][coord.getXIndex()]
+
     def __iter__(self):
         return BoardIterator(self)
 
