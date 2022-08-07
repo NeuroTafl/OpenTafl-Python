@@ -1,10 +1,9 @@
+from copy import copy
+
 from Board import Board
 from Coordinate import Coordinate
 
 ### !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
-## Make 3 check, remove, set in board and change classes that use boards
-# Move Decider
-# Tensor Move Decider
 # add wincheck on board
 
 
@@ -53,9 +52,11 @@ class NextBoardState:
 
     def checkLegal(self, coord):
         if coord is self.isCorner(coord) and not self.isKing:
-            return "Illegal Move"
+            # illegal move
+            return copy(self.cur_board)
         elif coord is self.isCorner(coord) and self.isKing:
-            return "Victory Defenders"
+            # victory defenders
+            return self.makeBoard([])
         else:
             return self.checkMove(coord)
 
