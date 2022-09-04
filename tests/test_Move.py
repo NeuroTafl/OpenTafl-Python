@@ -30,6 +30,19 @@ t_kingHasEscaped = "Ka8-a1--"  # king moves to space with escape route (1 move w
 
 t_resignationSymbol = "---"  # player resigns
 
+# Aage Nielsen's notation system for move notation
+# No extra characters on moves like piece type or end of game states
+# Resigned is just the string 'resigned'
+# This *really* should be a subclassed Move type
+# Berserk games use a very odd notation: i4e4 . e4c4 . c4c5 (3 moves?) - no capture info too
+t_aageMove_simple_a5b5 = "a5-b5"
+t_aageMove_singleCapture = "i4-c4xb4"
+t_aageMove_doubleDigit_e10d10 = "e10-d10"
+t_aageMove_doubleCapture = "k10-d10xc10xd11"
+t_aageMove_resigned = "resigned"
+t_aageMove_noHyphenCases_e1a1 = "e1a1"
+
+
 # ****************************************************************************
 # ****************************************************************************
 def test_MoveToString():
@@ -308,3 +321,68 @@ def test_MoveToChessNotationStrCap3_k7_k2():
     move = Move(openTaflNotation=moveString)
 
     assert expectedString == move.toChessNotation()
+
+# ** *************************************************************************
+# **  Aage Neilsen Move types - http://aagenielsen.dk/
+# ** *************************************************************************
+def test_AageMoveToString():
+    moveString = t_aageMove_simple_a5b5
+    move = Move(aageNielsenNotation=moveString)
+    assert str(move) == moveString
+
+
+def test_AageMoveToString_doubleDigitIndicies():
+    moveString = t_aageMove_doubleDigit_e10d10
+    move = Move(aageNielsenNotation=moveString)
+    assert str(move) == moveString
+
+def test_aageMoveTestIndicies():
+    moveString = t_aageMove_doubleDigit_e10d10 # e10-d10
+    move = Move(aageNielsenNotation=moveString)
+    startXindex = 4
+    startYindex = 9
+    endXindex = 3
+    endYindex = 9
+
+    assert move.startingCoordinate.getXIndex() == startXindex
+    assert move.startingCoordinate.getYIndex() == startYindex
+    assert move.endingCoordinate.getXIndex() == endXindex
+    assert move.endingCoordinate.getYIndex() == endYindex
+
+def test_Aage_Capture1():
+    moveString = t_aageMove_singleCapture   # i4-c4xb4
+    expectedCaptures = [Coordinate(coordinate="b4")]
+
+    move = Move(aageNielsenNotation=moveString)
+    captures = move.getCaptures()
+
+    assert move.hasCaptures()
+    assert len(expectedCaptures) == len(captures)
+    assert expectedCaptures == captures
+
+def test_Aage_Capture2():
+    moveString = t_aageMove_doubleCapture # "k10-d10xc10xd11"
+    expectedCaptures = [Coordinate(coordinate="c10"), Coordinate(coordinate="d11")]
+
+    move = Move(aageNielsenNotation=moveString)
+    captures = move.getCaptures()
+
+    assert move.hasCaptures()
+    assert len(expectedCaptures) == len(captures)
+    assert expectedCaptures == captures
+
+def test_Aage_PlayerResigns():
+    moveString = t_aageMove_resigned
+    move = Move(aageNielsenNotation=moveString)
+    expectedHasPlayerResigned = True
+
+    assert expectedHasPlayerResigned == move.hasPlayerResigned()
+
+def test_Aage_NoHypensMoveNotation():
+    moveString = t_aageMove_noHyphenCases_e1a1
+    move = Move(aageNielsenNotation=moveString)
+
+    expectedMoveStr = "e1-a1"
+
+    assert expectedMoveStr == str(move)
+
