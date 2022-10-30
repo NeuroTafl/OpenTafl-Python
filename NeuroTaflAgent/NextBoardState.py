@@ -27,6 +27,7 @@ class NextBoardState:
         boardList = []
         for move in moveList:
             boardList.append((move, self.getNext(move)))
+            # gets the next boarrd for each given move, and returns it in tuple format with the board, and the move
         return boardList
 
     def getNext(self, move):
@@ -147,7 +148,6 @@ class NextBoardState:
             return False
         return True
 
-        ## FIX BOARD BEFORE MOVING ON
 
 
     def checkShield(self, coord):
