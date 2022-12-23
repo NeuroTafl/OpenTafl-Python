@@ -121,6 +121,22 @@ class Board:
         return ret
 
 
+    def getTensor(self) -> str:
+        # attacker,defender,king
+        tensor = ""
+        for row in self.board:
+            for pos in row:
+                if pos == "T":
+                    tensor += "0,1,0,"
+                elif pos == "t":
+                    tensor += "1,0,0,"
+                elif pos == "K":
+                    tensor += "0,0,1,"
+                else:
+                    tensor += "0,0,0,"
+        return tensor
+
+
 # ****************************************************************************
 class BoardIterator:
     def __init__(self, board: Board):
