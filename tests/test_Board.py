@@ -111,6 +111,7 @@ def test_copyBoard():
 
     assert str(boardA) != str(boardB)
 
+
 def test_boardIterator():
     global g_brandubh_BoardPosition_Start
     boardA = Board(g_brandubh_BoardPosition_Start)
@@ -122,11 +123,13 @@ def test_boardIterator():
 
     assert expectedPieceString == foundPieceString
 
+
 def test_getTerminalString_Copenhagen():
     global g_copenhagen_BoardPosition_Start
     board = Board(g_copenhagen_BoardPosition_Start)
     print(board.getTerminalStr())
     assert True
+
 
 def test_getTerminalString_Brandubh():
     global g_brandubh_BoardPosition_Start
@@ -135,4 +138,9 @@ def test_getTerminalString_Brandubh():
     assert True
 
 
+def test_getTensor():
+    global g_copenhagen_BoardPosition_Start
+    board = Board(g_copenhagen_BoardPosition_Start)
+    print(board.getTensor())
+    assert True
 
