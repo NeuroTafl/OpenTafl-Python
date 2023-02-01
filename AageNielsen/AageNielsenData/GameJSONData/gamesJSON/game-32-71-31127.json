@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "test3",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-i1",
+        "h6-h2",
+        "j6-i6",
+        "g7-i7",
+        "j5-i5",
+        "g6-g9",
+        "j7-j9",
+        "f6-h6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

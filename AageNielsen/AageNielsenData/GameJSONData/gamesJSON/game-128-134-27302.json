@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b5-b4",
+        "f6-f9",
+        "b8-d8",
+        "f5-g5",
+        "h2-f2",
+        "e6-i6",
+        "g7-i7xi6",
+        "e5-f5",
+        "e8-f8",
+        "f5-f6",
+        "i5-i6",
+        "d6-d7",
+        "c3-c6",
+        "d7-f7xf8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

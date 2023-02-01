@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Mike0127",
+    "BlackSidePlayerName": "Thegameterrorist",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h4",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "k5-j5",
+        "f6-f7",
+        "f10-i10",
+        "e7-e10",
+        "b6-b10",
+        "f7-c7",
+        "f2-b2",
+        "c7-c1",
+        "b2-b1",
+        "c1-c11",
+        "b10-b11",
+        "c11-c1xb1",
+        "b11-b1",
+        "c1-c2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

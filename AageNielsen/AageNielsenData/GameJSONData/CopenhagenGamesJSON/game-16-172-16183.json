@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Unterwichtel",
+    "BlackSidePlayerName": "Thegameterrorist",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-j2",
+        "g5-g2",
+        "h1-h2",
+        "g2-b2",
+        "b6-b3",
+        "f4-b4xb3",
+        "k4-c4xb4",
+        "f5-f2",
+        "d1-d2",
+        "f6-f3",
+        "a4-a3",
+        "f3-c3",
+        "e1-c1",
+        "e5-c5xc4",
+        "k5-k3",
+        "c3-c2",
+        "d2-d1",
+        "b2-b3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

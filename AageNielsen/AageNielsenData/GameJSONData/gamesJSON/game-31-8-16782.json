@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "krakatere",
+    "BlackSidePlayerName": "Olaflitt",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k5-k4",
+        "f8-k8",
+        "g11-k11",
+        "g6-g9",
+        "k11-k9xk8",
+        "f6-g6",
+        "b7-e7",
+        "g6-g8",
+        "k9-k8",
+        "g8-a8"
+    ],
+    "WhoWon": "White"
+}

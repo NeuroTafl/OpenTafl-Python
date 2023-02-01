@@ -1,0 +1,11 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 13,
+    "AageGameTypeName": "Old Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [],
+    "WhoWon": "Black"
+}

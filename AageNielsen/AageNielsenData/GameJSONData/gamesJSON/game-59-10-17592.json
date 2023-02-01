@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Therem",
+    "BlackSidePlayerName": "Riiem",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-e1",
+        "d3-c3",
+        "e1-e3",
+        "c3-c1",
+        "g4-g5",
+        "c1-e1",
+        "g5-e5xe4",
+        "e1-e2",
+        "e3-d3",
+        "e2-f2",
+        "d7-c7",
+        "f2-g2",
+        "c7-c5xd5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Bender",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j2-j4",
+        "e5-b5",
+        "b2-b4xb5",
+        "f8-a8",
+        "c9-a9xa8",
+        "h6-h3",
+        "g1-g3xh3",
+        "g6-i6",
+        "j10-h10",
+        "f6-h6",
+        "i3-h3",
+        "h6-h8",
+        "j6-j8",
+        "h8-a8"
+    ],
+    "WhoWon": "White"
+}

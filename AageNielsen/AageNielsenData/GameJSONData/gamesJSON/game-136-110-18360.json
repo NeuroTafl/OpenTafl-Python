@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g12-e12",
+        "e11-e9",
+        "a8-d8",
+        "k8-l8",
+        "l9-l11",
+        "i6-l6xl7",
+        "j13-j11xk11",
+        "j7-n7",
+        "m6-m9",
+        "j9-l9",
+        "m9-n9",
+        "i8-i5",
+        "o4-o7",
+        "k5-k2",
+        "m10-m7xn7",
+        "k2-i2",
+        "j3-i3",
+        "h8-k8",
+        "h1-i1xi2",
+        "k8-k15"
+    ],
+    "WhoWon": "White"
+}

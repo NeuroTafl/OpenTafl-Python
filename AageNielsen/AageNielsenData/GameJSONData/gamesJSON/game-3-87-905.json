@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g11-g9",
+        "f8-i8",
+        "j6-j8",
+        "h6-h9",
+        "a8-h8xi8",
+        "g7-h7xh8",
+        "j8-h8",
+        "f7-f9xg9",
+        "h11-h10xh9",
+        "f9-h9xh8",
+        "a7-a9",
+        "f6-f8",
+        "a9-a8",
+        "f8-j8",
+        "h10-j10",
+        "j8-j1",
+        "k4-k2",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Teondrae",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "f8-c8",
+        "e11-e9",
+        "g5-g3",
+        "e1-e3",
+        "f5-j5",
+        "k7-i7",
+        "f4-b4",
+        "k4-c4xb4",
+        "f6-f3",
+        "f10-f8xf7"
+    ],
+    "WhoWon": "Black"
+}

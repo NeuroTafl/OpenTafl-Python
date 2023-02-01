@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 174,
+    "AageGameTypeName": "Fidchell weak-king (Simple Tafl 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-b1",
+        "c4-c1",
+        "g3-g2",
+        "f4-f1",
+        "e7-f7",
+        "e4-f4",
+        "a5-a6",
+        "d4-e4",
+        "f7-e7",
+        "e4-e3",
+        "g2-g3",
+        "b4-e4",
+        "a6-b6",
+        "f4-f3",
+        "a7-a5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

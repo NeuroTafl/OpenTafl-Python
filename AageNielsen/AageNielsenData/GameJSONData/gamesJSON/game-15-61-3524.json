@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Nondescrypt",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e3",
+        "f8-j8",
+        "a8-i8xj8",
+        "e7-e9",
+        "h11-h9",
+        "e9-b9",
+        "a7-a9",
+        "b9-b10",
+        "a4-c4",
+        "f7-c7",
+        "f10-d10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

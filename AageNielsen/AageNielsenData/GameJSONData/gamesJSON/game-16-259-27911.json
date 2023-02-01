@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "h11-h9",
+        "g7-g10",
+        "h9-g9xg10",
+        "h6-h11",
+        "k4-i4",
+        "i8-i11",
+        "g1-g3",
+        "f7-j7",
+        "k8-j8xj7",
+        "f6-f9",
+        "h3-h9",
+        "f9-a9",
+        "f10-a10",
+        "a9-c9",
+        "a8-a9",
+        "c9-c1",
+        "b6-b1",
+        "c1-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

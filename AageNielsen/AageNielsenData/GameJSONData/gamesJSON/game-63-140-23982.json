@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Tonythebook",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e1-e2",
+        "d3-e3",
+        "a3-c3",
+        "c4-b4",
+        "c7-c6",
+        "d4-d3",
+        "c3-b3",
+        "d3-d2",
+        "g3-f3",
+        "d2-c2",
+        "b3-b2",
+        "e3-a3",
+        "f3-b3",
+        "a3-a2xb2",
+        "a5-a3xa2",
+        "c2-b2xb3",
+        "c1-b1",
+        "b4-c4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

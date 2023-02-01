@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "halldav3",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-f3",
+        "d6-d3",
+        "e1-e3",
+        "g5-g2",
+        "f1-f2",
+        "f8-c8",
+        "a8-b8",
+        "e7-b7",
+        "a5-b5",
+        "f7-c7",
+        "j6-j9",
+        "e6-e9",
+        "a7-a9",
+        "e9-b9xb8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

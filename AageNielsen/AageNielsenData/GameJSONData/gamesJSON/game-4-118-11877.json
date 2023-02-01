@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Thou",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a8-c8",
+        "e7-b7",
+        "c8-c7xb7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

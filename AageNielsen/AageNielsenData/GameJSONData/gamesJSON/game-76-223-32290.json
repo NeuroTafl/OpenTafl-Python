@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Gjallarhorn",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-c3",
+        "g5-i5",
+        "i6-i9",
+        "f5-h5",
+        "c3-i3",
+        "f4-f2",
+        "c6-c3",
+        "f6-f4",
+        "b5-b4",
+        "f4-k4"
+    ],
+    "WhoWon": "White"
+}

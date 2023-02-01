@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Huzsiati",
+    "AageGameTypeKey": 173,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-b4",
+        "f3-b3xb4",
+        "f5-f2",
+        "b3-f3xf2",
+        "f6-f4",
+        "e2-e4",
+        "f4-k4"
+    ],
+    "WhoWon": "White"
+}

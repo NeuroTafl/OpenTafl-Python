@@ -17,7 +17,7 @@ class MoveDecider:
             self.board = Board(board)
         else:
             self.board.currentBoardState = board
-            self.board.updateBoard()
+            self.board.setBoard(board)
 
         moves = self.generateAllPossible(side)
         return random.choice(moves)

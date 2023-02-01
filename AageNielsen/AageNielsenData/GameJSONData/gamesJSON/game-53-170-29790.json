@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Colophonius",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "b4-b3",
+        "e4-e1",
+        "b3-c3",
+        "d5-b5",
+        "f5-e5",
+        "d4-d5",
+        "g4-f4",
+        "b5-b2",
+        "d6-c6",
+        "d5-c5",
+        "a4-a5",
+        "b2-a2",
+        "d7-d5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "mrm",
+    "BlackSidePlayerName": "Ssmm155",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b7-b10",
+        "g5-i5",
+        "f3-i3",
+        "g7-i7xi6",
+        "g10-i10",
+        "f8-j8",
+        "f9-j9xj8",
+        "g6-g3",
+        "g11-g6",
+        "f7-f9",
+        "i10-i8",
+        "f9-i9xi8",
+        "k6-i6xh6",
+        "f6-f8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

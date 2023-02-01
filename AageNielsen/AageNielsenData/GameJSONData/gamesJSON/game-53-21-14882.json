@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Rook",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f3",
+        "e4-f4",
+        "d6-f6",
+        "d5-a5",
+        "f6-a6xa5",
+        "f4-f6",
+        "a6-d6",
+        "d4-d5",
+        "g4-g5",
+        "d5-e5",
+        "d7-e7",
+        "f6-g6",
+        "f3-f4",
+        "d3-g3",
+        "e7-e6",
+        "e5-e4",
+        "f4-f2",
+        "e4-g4xg5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

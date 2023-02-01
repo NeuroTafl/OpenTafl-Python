@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Rossomaha",
+    "AageGameTypeKey": 69,
+    "AageGameTypeName": "Sea battle Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-c6",
+        "e7-c7",
+        "b5-c5",
+        "e6-e9",
+        "b7-b9",
+        "f4-b4",
+        "b9-d9",
+        "b4-b6xc6",
+        "f10-f9xe9",
+        "f5-f3",
+        "c5-c6xb6",
+        "f6-f4",
+        "g2-g4",
+        "f4-a4"
+    ],
+    "WhoWon": "White"
+}

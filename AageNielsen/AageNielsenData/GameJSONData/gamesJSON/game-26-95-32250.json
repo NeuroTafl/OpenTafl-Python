@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-i2",
+        "f3-j3",
+        "k4-j4",
+        "f5-j5xj4",
+        "h1-h4",
+        "f4-f2",
+        "i2-i5xj5",
+        "f6-f3",
+        "b6-b3",
+        "j3-k3",
+        "g1-g3",
+        "c6-b6",
+        "b3-e3",
+        "f2-e2",
+        "f1-f2",
+        "e6-e4xe3",
+        "d1-d3",
+        "k3-k2",
+        "d3-e3xe2",
+        "d6-d2",
+        "h4-f4"
+    ],
+    "WhoWon": "Black"
+}

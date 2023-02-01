@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 102,
+    "AageGameTypeName": "Alea Berserk 19x19 (Bartley)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "k15-k18",
+        "d10-e10",
+        "d8-e8",
+        "i12-e12xe11",
+        "e13-e11xe10xe12",
+        "k8-o8",
+        "o9-r9",
+        "n6-o6xo7",
+        "p8-p6",
+        "i10-i14",
+        "i15-i16",
+        "h9-h5",
+        "g5-g2",
+        "j4-j5xi5",
+        "n3-n6xo6",
+        "g10-g6",
+        "h6-l6",
+        "j10-b10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

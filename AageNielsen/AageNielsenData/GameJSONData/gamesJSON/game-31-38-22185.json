@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Mamajumbo",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g10-h10",
+        "d6-d2",
+        "b5-b2",
+        "e6-e3",
+        "b2-c2xd2",
+        "f6-d6",
+        "b7-d7",
+        "d6-d1"
+    ],
+    "WhoWon": "White"
+}

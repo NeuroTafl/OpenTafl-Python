@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Kratzer",
+    "BlackSidePlayerName": "Madphill",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j10",
+        "h6-h3",
+        "f2-j2",
+        "g5-g2",
+        "h1-h2",
+        "g6-g3",
+        "f10-b10",
+        "f6-i6",
+        "g1-i1",
+        "i6-i11",
+        "j10-j11",
+        "i11-i2xh2",
+        "k4-i4",
+        "h3-k3",
+        "h11-h2",
+        "k3-k2xj2",
+        "j11-j2",
+        "k2-k3",
+        "i4-i3"
+    ],
+    "WhoWon": "Black"
+}

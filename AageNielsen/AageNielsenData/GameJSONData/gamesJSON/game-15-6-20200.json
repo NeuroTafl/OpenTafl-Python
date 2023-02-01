@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "duhawk93",
+    "BlackSidePlayerName": "Paul",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h11-h8",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "k5-i5",
+        "g6-g10",
+        "e11-e10",
+        "f8-b8",
+        "i5-i9",
+        "g5-j5xj6",
+        "h8-c8xb8",
+        "f6-f9",
+        "d11-d9",
+        "h6-h11",
+        "h1-h10xg10",
+        "f9-h9xh10",
+        "k6-j6xj7",
+        "h9-h1",
+        "i9-i1",
+        "j5-j1xi1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

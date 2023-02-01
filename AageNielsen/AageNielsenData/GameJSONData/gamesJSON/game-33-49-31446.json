@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h2-j2",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "a9-d9",
+        "h8-h11xg11",
+        "m9-j9",
+        "g10-c10",
+        "d9-d11",
+        "g8-g12",
+        "i13-i11",
+        "g7-g10",
+        "k7-k10",
+        "c10-c12",
+        "c7-c10",
+        "c12-e12xf12",
+        "k10-h10xh11",
+        "f6-f10",
+        "h10-k10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

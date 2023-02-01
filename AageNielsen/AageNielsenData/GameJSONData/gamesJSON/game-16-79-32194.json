@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Vercingetorix",
+    "BlackSidePlayerName": "Calidesert",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k4-h4",
+        "g5-j5",
+        "h4-j4xj5",
+        "f5-j5",
+        "k7-j7",
+        "f6-f5",
+        "h1-i1",
+        "f4-i4",
+        "f2-j2",
+        "f5-f3",
+        "a4-a3",
+        "f3-k3",
+        "j2-k2",
+        "k3-j3xj4",
+        "i1-j1",
+        "i4-i1xj1",
+        "a3-i3",
+        "j3-j1",
+        "i3-i5xj5",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "branan",
+    "BlackSidePlayerName": "youne",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c5",
+        "b4-b6",
+        "c5-c6",
+        "d6-f6",
+        "d4-b4",
+        "f6-d6xc6xd5",
+        "d3-d2",
+        "a4-a2",
+        "b4-a4",
+        "b6-a6",
+        "a4-a3xa2",
+        "d1-b1",
+        "a3-a1"
+    ],
+    "WhoWon": "White"
+}

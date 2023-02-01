@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i13-i10",
+        "f6-f3",
+        "e1-e3xf3",
+        "f7-f3",
+        "a5-d5",
+        "h6-h3xg3",
+        "g1-g3xf3",
+        "f8-f3xg3",
+        "h12-h10",
+        "g6-d6",
+        "a9-d9",
+        "g4-g2",
+        "i1-i2",
+        "g7-g4",
+        "i2-i4",
+        "g4-a4"
+    ],
+    "WhoWon": "White"
+}

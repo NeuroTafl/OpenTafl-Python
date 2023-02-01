@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Riiem",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-j4",
+        "g5-j5",
+        "i6-i5xj5",
+        "h6-i6",
+        "j7-i7xi6",
+        "g6-g3",
+        "j4-h4",
+        "f6-i6",
+        "k6-j6",
+        "f5-h5",
+        "f9-h9",
+        "e6-h6",
+        "h4-h3xg3",
+        "f4-j4",
+        "g2-g5xh5",
+        "f8-h8",
+        "f11-f8xf7",
+        "h6-h5",
+        "k5-j5",
+        "d6-d9",
+        "c6-h6"
+    ],
+    "WhoWon": "Black"
+}

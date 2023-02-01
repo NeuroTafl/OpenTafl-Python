@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Floki",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-g3xg2",
+        "h6-h3",
+        "f2-f3",
+        "e5-e2",
+        "f1-f2",
+        "e2-b2",
+        "k5-i5",
+        "f4-i4",
+        "g1-i1",
+        "g6-i6xi5",
+        "h11-h6xi6",
+        "f5-c5",
+        "a4-c4",
+        "f6-f4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Schachus",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-j4",
+        "e7-c7",
+        "c6-c4",
+        "f8-b8",
+        "f9-b9xb8",
+        "f7-f10",
+        "b9-f9xf10",
+        "f6-f8",
+        "i6-i8",
+        "f8-a8"
+    ],
+    "WhoWon": "White"
+}

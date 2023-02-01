@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "n7-n5",
+        "h5-b5",
+        "a6-a5",
+        "f7-d7",
+        "d8-d11",
+        "h7-e7",
+        "c8-c5xb5",
+        "j7-j3",
+        "l8-l3",
+        "h8-h7",
+        "o6-l6",
+        "h7-m7",
+        "l6-m6"
+    ],
+    "WhoWon": "Black"
+}

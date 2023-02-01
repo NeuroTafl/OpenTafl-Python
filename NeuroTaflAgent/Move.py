@@ -9,8 +9,9 @@ class Move:
         self,
         startingCoordinate: Coordinate = None,
         endingCoordinate: Coordinate = None,
-        taflNotation: str = None,
+        chessNotation: str = None,
         openTaflNotation: str = None,
+        aageNielsenNotation: str = None,
     ):
         self.startingCoordinate = startingCoordinate
         self.endingCoordinate = endingCoordinate
@@ -21,11 +22,14 @@ class Move:
         self.moveCaptures = []
         self.infoSymbol = ""
 
-        if taflNotation:
-            self.loadChessNotation(taflNotation)
+        if chessNotation:
+            self.loadChessNotation(chessNotation)
 
         if openTaflNotation:
             self.loadFromOpenTaflNotation(openTaflNotation)
+
+        if aageNielsenNotation:
+            self.loadFromAageNielsenTaflNotation(aageNielsenNotation)
 
     def loadChessNotation(self, chessNotation: str) -> None:
         # "Chess" notation only handles chess-style stop/stop coordinates
@@ -33,6 +37,39 @@ class Move:
         (startCoordinate, endCoordinate) = chessNotation.split("-", 1)
         self.startingCoordinate = Coordinate(coordinate=startCoordinate)
         self.endingCoordinate = Coordinate(coordinate=endCoordinate)
+
+    def loadFromAageNielsenTaflNotation(self, aageNielsenNotation: str) -> None:
+        aageNielsenNotation = aageNielsenNotation.strip()
+
+        # Aage uses the full word 'resigned' instead of '---'
+        if aageNielsenNotation.lower() == "resigned":
+            self.infoSymbol = "---"
+            return
+
+        regexString = r"^\s*(\S\d+)-?(\S\d+)"
+
+        reMatch = re.search(regexString, aageNielsenNotation)
+        startSpaceIndex = 1
+        endSpaceIndex = 2
+
+        if reMatch:
+            # handle the move start and end
+            self.startingCoordinate = Coordinate(
+                coordinate=reMatch.group(startSpaceIndex)
+            )
+            self.endingCoordinate = Coordinate(coordinate=reMatch.group(endSpaceIndex))
+        else:
+            raise Exception(
+                f"Move parse error: No regex match on input: {aageNielsenNotation}"
+            )
+
+        reSearchCaptures = r"(x\S\d+)"
+        foundCaptures = re.findall(reSearchCaptures, aageNielsenNotation)
+
+        for currCaptureStr in foundCaptures:
+            currCaptureStr = currCaptureStr[1:] # Take the 'x' off the front
+            self.moveCaptures.append(Coordinate(coordinate=currCaptureStr))
+
 
     def loadFromOpenTaflNotation(self, openTaflNotation: str) -> None:
         # Move formating and parsing isn't simple.

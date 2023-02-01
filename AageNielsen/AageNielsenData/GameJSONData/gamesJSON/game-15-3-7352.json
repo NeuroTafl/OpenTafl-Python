@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Fionn",
+    "BlackSidePlayerName": "Hakkason",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1h3",
+        "i6i3",
+        "g1g3",
+        "f3a3",
+        "a4d4",
+        "f5c5",
+        "k5d5",
+        "e6e5",
+        "j6j3",
+        "f6e6",
+        "a8d8",
+        "e6e10",
+        "g11g10",
+        "e10a10",
+        "a7a9",
+        "a10a11"
+    ],
+    "WhoWon": "White"
+}

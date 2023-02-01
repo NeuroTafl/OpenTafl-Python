@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d3",
+        "b6-b2",
+        "e6-b6",
+        "f10-b10",
+        "e5-c5",
+        "d1-c1",
+        "f4-i4",
+        "g1-i1",
+        "e7-e2",
+        "a4-a3",
+        "g5-g2xf2",
+        "j6-j2",
+        "f8-f10",
+        "k8-k10",
+        "g6-g3",
+        "h3-j3",
+        "f7-f9",
+        "k7-k9",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

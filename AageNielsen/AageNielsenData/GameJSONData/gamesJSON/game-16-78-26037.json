@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Teondrae",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h9",
+        "f8-i8",
+        "k8-j8",
+        "g7-g10",
+        "h9-g9xg10",
+        "h6-h9",
+        "h1-h8xi8",
+        "f7-h7xh8xg9xh8",
+        "f10-f8",
+        "g6-g8",
+        "j8-h8xg8",
+        "f6-i6",
+        "k4-i4",
+        "i6-i10",
+        "j6-j10",
+        "i10-a10",
+        "g9-a9",
+        "a10-a11"
+    ],
+    "WhoWon": "White"
+}

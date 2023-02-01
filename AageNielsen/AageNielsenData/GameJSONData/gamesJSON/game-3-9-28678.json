@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d11-d9",
+        "e7-c7",
+        "e11-c11",
+        "e6-e9",
+        "c11-c9",
+        "d6-d3",
+        "d1-d2",
+        "e5-e2",
+        "a4-d4xd3",
+        "g5-g2xf2",
+        "h1-h2",
+        "c7-c2xd2",
+        "d4-d2",
+        "f6-c6",
+        "b6-b2xc2",
+        "c6-c1",
+        "b2-b1",
+        "c1-c2xd2"
+    ],
+    "WhoWon": "White"
+}

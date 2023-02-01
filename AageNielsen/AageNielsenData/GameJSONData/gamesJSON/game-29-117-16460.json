@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Plantagen&ecirc;t",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-h2",
+        "e7-e9",
+        "g10-g9",
+        "f7-c7",
+        "c6-c4",
+        "g7-i7",
+        "j5-i5",
+        "f8-b8",
+        "j7-j8",
+        "f6-f8",
+        "j8-i8xi7",
+        "f8-c8",
+        "e10-c10",
+        "d6-d10",
+        "k7-d7xc7",
+        "b8-b10xc10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

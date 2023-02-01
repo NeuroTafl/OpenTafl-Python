@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Omigot",
+    "BlackSidePlayerName": "hspace",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-i1",
+        "h6-h3",
+        "f2-j2",
+        "h3-k3",
+        "j2-k2xk3",
+        "g6-i6",
+        "h11-i11",
+        "f6-h6",
+        "k8-h8",
+        "h6-h3",
+        "b6-b3",
+        "h3-k3xk2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Borjk",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-f2",
+        "e6-b6",
+        "b5-b4",
+        "e5-e6",
+        "h5-h7",
+        "c5-c8",
+        "d9-d8",
+        "e6-c6",
+        "e2-c2",
+        "c6-c7",
+        "a6-a7",
+        "c8-a8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Dansuno",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "g5-j5",
+        "i4-i5xj5",
+        "f4-i4",
+        "j6-j4",
+        "h6-i6xi5",
+        "h1-h3",
+        "g6-g2",
+        "h3-g3xg2",
+        "g7-j7",
+        "h11-h9",
+        "f6-h6",
+        "a4-h4xi4",
+        "h6-h8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

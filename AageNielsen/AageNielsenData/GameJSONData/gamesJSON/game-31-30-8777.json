@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Ded Fomich",
+    "BlackSidePlayerName": "WiglafAs",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g1-h1",
+        "f5-d5",
+        "a5-a4",
+        "d6-d11",
+        "a7-a11",
+        "c6-c11",
+        "a4-c4",
+        "e6-c6",
+        "a6-a8",
+        "f6-d6",
+        "a8-d8",
+        "f7-d7",
+        "b5-c5",
+        "f9-d9xd8",
+        "b7-c7xc6",
+        "f8-b8",
+        "e2-e6",
+        "g6-f6xe6",
+        "e10-e6",
+        "b8-b7xc7",
+        "b6-c6"
+    ],
+    "WhoWon": "Black"
+}

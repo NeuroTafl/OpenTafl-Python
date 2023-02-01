@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "fairland",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 24,
+    "AageGameTypeName": "Unst king hammer only diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "d6-d9",
+        "a4-c4",
+        "e7-c7",
+        "f10-c10",
+        "d9-b9",
+        "a8-a9",
+        "e6-e10",
+        "d11-d10",
+        "b9-b10",
+        "a9-a10xb10",
+        "f6-c6",
+        "a5-c5",
+        "f8-a8",
+        "d1-d6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 154,
+    "AageGameTypeName": "Tyr 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d9-d8",
+        "e7-e9",
+        "a6-b6",
+        "f4-h4",
+        "f1-f3",
+        "e3-e2",
+        "d1-e1",
+        "e2-h2",
+        "a9-a5",
+        "h4-g4",
+        "g3-g2",
+        "h2-h8",
+        "i4-h4",
+        "g5-g6",
+        "i6-i5",
+        "h8-g8xg7",
+        "i5-i8",
+        "e5-i5"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "vonraider",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "f4-c4",
+        "h1-i1",
+        "f5-f2",
+        "b6-b2",
+        "f6-f3",
+        "j6-j3",
+        "f3-a3",
+        "b2-a2",
+        "a3-b3",
+        "a2-b2",
+        "b3-b11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Kalgys",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "g7-h7",
+        "h11-h9",
+        "e7-e9",
+        "a8-c8",
+        "f8-d8",
+        "d11-d9",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g3",
+        "a7-d7xd8",
+        "f6-g6",
+        "f10-f8xf7",
+        "g6-g4",
+        "j6-j3",
+        "f4-f3",
+        "a4-f4xf5xf3",
+        "g4-i4",
+        "g1-i1",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

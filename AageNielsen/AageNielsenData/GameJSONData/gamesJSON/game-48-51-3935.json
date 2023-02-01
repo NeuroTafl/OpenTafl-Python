@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Hrafnblod",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-b2",
+        "j9-j12",
+        "j15-j13",
+        "i10-i12",
+        "m8-m12",
+        "i8-i7",
+        "n9-n11",
+        "h9-m9",
+        "l8-l13",
+        "k8-k14",
+        "n11-j11xj12",
+        "i12-j12",
+        "n7-l7",
+        "f9-f12",
+        "a10-e10",
+        "h8-h9",
+        "h4-k4",
+        "k14-j14xj13",
+        "i15-k15",
+        "h9-d9",
+        "e10-d10"
+    ],
+    "WhoWon": "Black"
+}

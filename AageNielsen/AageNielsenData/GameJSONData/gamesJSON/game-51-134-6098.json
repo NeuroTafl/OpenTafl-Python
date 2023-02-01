@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Matematician",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "d3-d2",
+        "f4-f2",
+        "e4-e2",
+        "g4-e4",
+        "d5-g5",
+        "d6-d5",
+        "g5-g2xf2",
+        "a4-a3",
+        "d4-d3",
+        "a3-c3",
+        "d3-g3",
+        "e4-g4",
+        "g2-f2",
+        "c3-f3",
+        "g3-g1"
+    ],
+    "WhoWon": "White"
+}

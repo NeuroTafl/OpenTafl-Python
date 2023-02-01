@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 171,
+    "AageGameTypeName": "Dald&oslash;s 3x14",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "nox",
+        "nox",
+        "c1-b1",
+        "a1-b3",
+        "c1-b3xb3",
+        "a2-b4xb4",
+        "b3-b4xb4",
+        "nox",
+        "b4-b10",
+        "nox",
+        "c5-c4",
+        "a3-a2",
+        "c6-c5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

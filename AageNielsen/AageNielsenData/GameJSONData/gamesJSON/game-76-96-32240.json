@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Ninasema",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "j7-j8",
+        "e5-c5",
+        "b5-b4",
+        "e7-c7xc6",
+        "e2-d2",
+        "e6-e9",
+        "b7-b8",
+        "g7-g9xf9",
+        "j8-g8xg9",
+        "h6-h8xg8",
+        "a6-c6",
+        "f8-f10",
+        "b8-c8xc7",
+        "f7-c7xc6",
+        "c8-e8xe9",
+        "f6-f9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

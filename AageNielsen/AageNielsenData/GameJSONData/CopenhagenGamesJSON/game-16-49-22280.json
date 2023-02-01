@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Firefinch",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j9",
+        "d6-d3",
+        "b6-b3",
+        "e6-b6",
+        "f10-c10",
+        "f6-c6",
+        "f2-c2",
+        "c6-c9",
+        "a8-a9",
+        "c9-i9",
+        "k6-i6",
+        "i9-i11",
+        "j9-j11",
+        "i11-i9",
+        "h11-i11",
+        "i9-k9",
+        "c10-k10",
+        "k9-j9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

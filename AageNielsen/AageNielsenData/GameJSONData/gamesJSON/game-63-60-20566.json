@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Teondrae",
+    "BlackSidePlayerName": "Seigfried",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "c4-b4",
+        "g5-e5xe4",
+        "d4-e4",
+        "c1-c3xd3",
+        "e4-f4",
+        "e3-f3",
+        "f4-f5xe5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

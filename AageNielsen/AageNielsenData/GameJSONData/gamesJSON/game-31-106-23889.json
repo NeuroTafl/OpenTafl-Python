@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "d6-d1",
+        "c2-c1xd1",
+        "e6-e2",
+        "e10-e3xe2",
+        "f6-d6",
+        "f10-d10",
+        "d6-d1"
+    ],
+    "WhoWon": "White"
+}

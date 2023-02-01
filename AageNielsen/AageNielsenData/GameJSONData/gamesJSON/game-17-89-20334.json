@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "Nath",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "j6-j3",
+        "h6-j6",
+        "g11-g9",
+        "e7-b7",
+        "a8-b8xb7",
+        "f6-f7",
+        "h11-h7",
+        "f7-c7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

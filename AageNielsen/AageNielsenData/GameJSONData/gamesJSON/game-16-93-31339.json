@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "Biarki",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-i10",
+        "f8-f10",
+        "b6-b10",
+        "f7-f9",
+        "j6-j9",
+        "f6-f8",
+        "a8-c8",
+        "e7-b7",
+        "a4-b4",
+        "g7-c7",
+        "d1-c1",
+        "f9-c9xc8",
+        "a7-a9",
+        "c9-c11",
+        "j9-f9xf10",
+        "d6-d9",
+        "a6-a8",
+        "f8-j8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

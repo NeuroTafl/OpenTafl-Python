@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Cacreal",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-h2",
+        "d6-d10",
+        "e11-e10",
+        "e6-c6",
+        "f11-d11",
+        "f6-d6",
+        "b2-d2",
+        "f4-f3",
+        "c9-c10xd10",
+        "d6-d4",
+        "b6-b4",
+        "d4-k4"
+    ],
+    "WhoWon": "White"
+}

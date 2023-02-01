@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c2-d2",
+        "c4-c1",
+        "c6-c4",
+        "c1-d1xd2",
+        "e2-e1",
+        "e4-g4",
+        "b5-a5",
+        "d4-f4",
+        "e1-g1",
+        "g4-g3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "lord-hammer",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i4-k4",
+        "f7-f6",
+        "d7-d5",
+        "e8-e7",
+        "m6-k6xk5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

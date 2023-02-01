@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Cyningstan",
+    "BlackSidePlayerName": "Corndogboy",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e10-c10",
+        "e6-e10",
+        "e1-d1",
+        "d6-d10",
+        "d1-d6xc6",
+        "f9-b9",
+        "b7-d7",
+        "b9-b10xc10",
+        "e2-e9xe10",
+        "f6-e6",
+        "f2-e2",
+        "f4-c4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

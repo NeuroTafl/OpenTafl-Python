@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "RussJenkins",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "e4-e6",
+        "d2-e2",
+        "d4-e4",
+        "f3-f6xe6",
+        "d3-e3",
+        "b4-b3",
+        "c4-c2",
+        "d6-c6",
+        "c2-b2",
+        "d7-d6xd5",
+        "e4-e7",
+        "g4-e4xe3",
+        "e7-g7"
+    ],
+    "WhoWon": "White"
+}

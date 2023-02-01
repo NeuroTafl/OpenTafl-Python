@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "RomanGeneral",
+    "BlackSidePlayerName": "Starrz",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "e2-d2",
+        "e6-e2",
+        "e10-e6",
+        "f5-e5",
+        "e11-e7",
+        "d6-d7xe7",
+        "b5-d5",
+        "f7-e7xe6",
+        "j5-f5xe5",
+        "e7-g7",
+        "g2-g5",
+        "c6-c2xd2",
+        "b6-e6",
+        "d7-d6xe6",
+        "b7-d7xd6",
+        "f6-b6",
+        "e1-a1",
+        "b6-b11"
+    ],
+    "WhoWon": "White"
+}

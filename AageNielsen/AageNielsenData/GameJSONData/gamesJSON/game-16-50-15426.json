@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Epm180",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "f2-i2",
+        "g7-j7",
+        "k5-i5",
+        "j7-j10",
+        "h11-j11",
+        "g6-g10",
+        "k8-k9",
+        "f6-i6",
+        "g11-i11",
+        "i6-i10",
+        "f11-h11",
+        "e7-e10xf10",
+        "k7-k8",
+        "f8-f11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e2",
+        "d3-e3",
+        "a3-b3",
+        "d4-d3",
+        "g3-f3",
+        "d3-c3",
+        "c7-c6",
+        "c3-c2",
+        "b3-b2",
+        "c4-a4",
+        "c6-c3",
+        "e4-c4xc3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

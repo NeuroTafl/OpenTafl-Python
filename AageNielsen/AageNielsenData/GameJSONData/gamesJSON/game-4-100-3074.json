@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "skallatorc",
+    "BlackSidePlayerName": "duhawk93",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "f8-c8",
+        "b6-b3",
+        "e7-b7",
+        "a8-b8",
+        "d6-c6",
+        "d9-d8xc8",
+        "e5-d5",
+        "a6-b6xb7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e2",
+        "e7-b7",
+        "b6-b3",
+        "f8-c8",
+        "d11-d9",
+        "f7-c7",
+        "h11-i11",
+        "c8-c11",
+        "k8-k9",
+        "b7-b10",
+        "a8-a10",
+        "c7-c10",
+        "a7-a9",
+        "c11-d11",
+        "e11-e10",
+        "f6-f8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

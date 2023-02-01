@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Saxon",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "k4-i4",
+        "d6-d9",
+        "a4-c4",
+        "f8-i8",
+        "j6-j9",
+        "e7-c7",
+        "b6-b9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

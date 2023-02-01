@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Matematician",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-c2",
+        "e4-e5",
+        "d6-e6",
+        "d5-a5",
+        "e6-a6xa5",
+        "e5-a5xa6",
+        "b4-b6",
+        "d3-a3xa4",
+        "f4-e4",
+        "c4-c3",
+        "d7-d5",
+        "d4-b4",
+        "c2-b2",
+        "a3-a2",
+        "b2-c2",
+        "a5-b5",
+        "e4-c4xc3",
+        "b4-a4",
+        "c4-b4xb5",
+        "a4-a7"
+    ],
+    "WhoWon": "White"
+}

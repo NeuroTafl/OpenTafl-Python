@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "rebecca",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6j9",
+        "e5c5",
+        "b6b5",
+        "g5j5",
+        "a4d4",
+        "f5d5",
+        "e1e3",
+        "f6f5",
+        "g1g3",
+        "f5i5",
+        "k4i4",
+        "i5i11"
+    ],
+    "WhoWon": "White"
+}

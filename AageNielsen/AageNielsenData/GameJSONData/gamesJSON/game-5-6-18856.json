@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "arne64",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f1-f2",
+        "e6-b6",
+        "i6-e6xe7",
+        "e4-b4xb5",
+        "i4-e4xe3",
+        "d5-d6",
+        "f9-f6",
+        "c5-b5",
+        "d1-d5",
+        "b4-d4xd5",
+        "a4-c4xd4",
+        "e5-c5",
+        "e8-c8",
+        "c5-c7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

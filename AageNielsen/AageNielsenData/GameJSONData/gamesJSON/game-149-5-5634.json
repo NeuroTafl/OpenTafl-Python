@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Mihkkal",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 149,
+    "AageGameTypeName": "Saami Cuhkka 5x5",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "c4-c3",
+        "c2-c4xc3",
+        "c5-c3xc4",
+        "b2-c2",
+        "c3-c4",
+        "c2-c3",
+        "b5-c5",
+        "c1-c2",
+        "a5-b5",
+        "c3-a5xb4",
+        "d4-c3",
+        "d2-b4-d4xc3xc4",
+        "e5-c3-c1xd4xc2",
+        "e3-e5xe4",
+        "c1-c2",
+        "d1-c1",
+        "c2-c3",
+        "e2-e3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

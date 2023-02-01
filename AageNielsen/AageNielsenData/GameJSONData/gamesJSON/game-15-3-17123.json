@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hjuke",
+    "BlackSidePlayerName": "remi",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2j2",
+        "g5j5",
+        "k4j4",
+        "g6g2",
+        "j6j10",
+        "h6j6",
+        "b6b2",
+        "f6i6",
+        "h1i1",
+        "i6i11",
+        "j10j11",
+        "i11i3",
+        "k5k3",
+        "i3i11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

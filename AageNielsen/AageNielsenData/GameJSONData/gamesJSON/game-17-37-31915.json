@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Barba",
+    "BlackSidePlayerName": "Conanlib",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "f8-i8",
+        "k4-i4",
+        "g5-g2",
+        "h1-h2xg2",
+        "h6-h3",
+        "j6-j3",
+        "e7-c7",
+        "a8-c8",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-c5",
+        "a5-b5",
+        "f7-f9",
+        "a6-a3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

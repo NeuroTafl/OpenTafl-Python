@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Seeontic",
+    "BlackSidePlayerName": "Hrafnblod",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-c1",
+        "i6-m6",
+        "n7-n2",
+        "j9-j14",
+        "h13-j13xj14",
+        "i8-i4",
+        "i14-n14",
+        "h8-i8",
+        "j1-j5",
+        "i10-i13",
+        "o10-k10",
+        "i8-i12",
+        "j13-j12"
+    ],
+    "WhoWon": "Black"
+}

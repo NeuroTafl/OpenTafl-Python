@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Casshern",
+    "AageGameTypeKey": 103,
+    "AageGameTypeName": "Ard Ri friendly-throne unarmed circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b2-c2",
+        "e4-e6",
+        "f2-e2",
+        "d5-g5",
+        "d7-d6xe6",
+        "d3-g3xg4",
+        "e2-e4",
+        "d4-d3",
+        "b6-b3",
+        "d3-f3",
+        "c2-f2",
+        "f3-f4",
+        "f2-f3",
+        "f4-g4"
+    ],
+    "WhoWon": "White"
+}

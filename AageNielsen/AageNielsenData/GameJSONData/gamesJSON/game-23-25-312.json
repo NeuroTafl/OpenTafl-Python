@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 23,
+    "AageGameTypeName": "David Brown Hnefatafl 11x11 (unarmed king)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "f4-b4",
+        "k4-c4xb4",
+        "g5-j5",
+        "c4-i4",
+        "g7-j7xj6",
+        "i4-i7xj7",
+        "d6-d3",
+        "f2-f4",
+        "h6-i6",
+        "k8-h8",
+        "g6-g3",
+        "f4-f3",
+        "f6-g6",
+        "g11-g7",
+        "g6-g4",
+        "h8-h4",
+        "g4-c4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

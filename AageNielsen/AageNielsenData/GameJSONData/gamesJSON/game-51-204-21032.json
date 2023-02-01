@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Chuck ward",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-e1",
+        "d3-c3",
+        "b4-b3",
+        "c3-c1",
+        "e1-d1",
+        "e4-e1xd1",
+        "f4-f1",
+        "d4-e4",
+        "g4-f4",
+        "e1-e2",
+        "f1-f2xe2",
+        "e4-e2",
+        "a4-b4xc4",
+        "c1-c2xd2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g5-e5",
+        "d5-d6",
+        "e7-e6",
+        "d3-d2",
+        "a3-d3",
+        "d2-b2",
+        "c1-c2",
+        "d4-d5",
+        "g3-e3xe4",
+        "b2-b6",
+        "e1-b1",
+        "d5-c5",
+        "b1-b4xc4",
+        "c5-c6",
+        "c2-c5",
+        "b6-b5",
+        "d3-d5",
+        "c6-b6",
+        "c5-c6xd6",
+        "b6-a6",
+        "c6-b6xb5"
+    ],
+    "WhoWon": "Black"
+}

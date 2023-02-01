@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Luciano",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 68,
+    "AageGameTypeName": "Tawlbwrdd Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-i1",
+        "e7-c7",
+        "e11-c11",
+        "f8-b8",
+        "k7-k9",
+        "f7-f9",
+        "k6-k8",
+        "h6-h7",
+        "g10-h10",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

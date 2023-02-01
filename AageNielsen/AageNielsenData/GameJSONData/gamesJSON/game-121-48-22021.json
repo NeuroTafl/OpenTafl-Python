@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Colophonius",
+    "BlackSidePlayerName": "Jilles",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c2-c1",
+        "c4-a4",
+        "b3-a3",
+        "d3-c3",
+        "e2-d2",
+        "e4-e2",
+        "e6-e4",
+        "d4-c4",
+        "b5-b4",
+        "d5-d4",
+        "f5-c5",
+        "a4-a7",
+        "a3-a4",
+        "a7-f7",
+        "c6-f6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

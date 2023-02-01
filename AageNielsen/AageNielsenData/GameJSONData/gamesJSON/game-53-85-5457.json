@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Rook",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "d5-f5",
+        "d6-f6",
+        "d4-d5",
+        "f3-f4xf5",
+        "d5-f5",
+        "f4-f3",
+        "f5-e5",
+        "f3-f5",
+        "e5-d5",
+        "f5-e5",
+        "d5-c5",
+        "f6-c6",
+        "d3-d5",
+        "d2-e2",
+        "d5-d3",
+        "d7-d5",
+        "c5-a5",
+        "c6-a6"
+    ],
+    "WhoWon": "Black"
+}

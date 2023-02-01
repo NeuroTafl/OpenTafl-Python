@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Frenir",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k7-i7",
+        "d6-d3",
+        "h1-h3",
+        "f8-i8",
+        "j6-i6",
+        "f4-c4",
+        "b6-b3",
+        "e6-b6",
+        "a8-b8",
+        "f6-c6",
+        "d11-d9",
+        "c6-c11",
+        "b8-b11",
+        "c11-c9",
+        "e11-c11",
+        "e7-e9xd9",
+        "h11-h9",
+        "c9-c10",
+        "b11-b10",
+        "e9-a9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

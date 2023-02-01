@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Jota",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-f9",
+        "d6-d8",
+        "b6-c6",
+        "f4-d4",
+        "e11-e8",
+        "h6-h8",
+        "c6-c8xd8",
+        "d4-d8xe8",
+        "g11-g8",
+        "g7-h7",
+        "d11-e11",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

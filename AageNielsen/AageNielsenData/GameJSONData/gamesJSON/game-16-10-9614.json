@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Fjorlag",
+    "BlackSidePlayerName": "sqAree",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "f4-f3",
+        "b6-b3",
+        "g6-g3",
+        "g1-i1",
+        "h6-h5",
+        "h11-h9",
+        "f6-i6",
+        "k4-i4",
+        "i6-i11",
+        "j6-j11",
+        "i11-i9",
+        "g11-i11",
+        "i9-k9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

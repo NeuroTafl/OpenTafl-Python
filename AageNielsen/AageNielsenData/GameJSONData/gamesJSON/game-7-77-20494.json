@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-c1",
+        "c5-c2",
+        "b5-b3",
+        "d5-d8",
+        "f9-f8",
+        "e5-d5",
+        "e1-d1",
+        "e7-a7",
+        "b3-b8",
+        "d5-d7",
+        "a4-c4",
+        "d7-c7",
+        "b8-c8xd8",
+        "c7-i7"
+    ],
+    "WhoWon": "White"
+}

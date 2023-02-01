@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Kaagee",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i4-k4",
+        "k5-n5",
+        "l7-n7",
+        "n5-n2",
+        "m3-m2",
+        "i6-i2",
+        "o1-o2xn2",
+        "i8-i4",
+        "m2-j2",
+        "h8-i8",
+        "l1-i1",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "RusMadrid",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "e4-f4",
+        "d6-e6",
+        "d5-e5",
+        "d1-e1",
+        "d4-d6",
+        "e1-e4xe5xf4",
+        "c4-c5",
+        "g4-g5",
+        "d3-d5",
+        "e4-e5",
+        "c5-a5",
+        "b4-b6",
+        "d6-c6",
+        "e6-d6xd5"
+    ],
+    "WhoWon": "Black"
+}

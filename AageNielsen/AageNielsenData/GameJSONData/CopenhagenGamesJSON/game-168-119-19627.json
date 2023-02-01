@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Rollo",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 168,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e4-f4",
+        "e8-g8",
+        "e5-e4",
+        "b5-b3",
+        "f4-f2",
+        "d1-d2",
+        "e4-h4",
+        "a4-g4"
+    ],
+    "WhoWon": "Black"
+}

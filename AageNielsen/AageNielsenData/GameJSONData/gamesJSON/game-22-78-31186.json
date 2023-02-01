@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Arne64",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h5-h7",
+        "e4-f4",
+        "d1-d2",
+        "f5-f8",
+        "d9-d8",
+        "g5-h5",
+        "i6-g6",
+        "e5-g5",
+        "e2-g2",
+        "h5-h6",
+        "i5-h5xh6",
+        "e3-e2",
+        "i4-g4",
+        "g5-e5",
+        "h7-f7xf8",
+        "e5-e3",
+        "f1-f2xe2",
+        "e3-i3"
+    ],
+    "WhoWon": "White"
+}

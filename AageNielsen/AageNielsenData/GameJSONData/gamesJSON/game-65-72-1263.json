@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Hrafnblod",
+    "AageGameTypeKey": 65,
+    "AageGameTypeName": "Magpie circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f6-f5",
+        "e4-e6",
+        "f2-f3",
+        "d4-e4",
+        "a4-b4xc4",
+        "d5-b5",
+        "d1-d2xd3",
+        "e4-e5",
+        "b4-e4",
+        "e5-d5",
+        "b2-b4xb5",
+        "d5-c5",
+        "b6-c6",
+        "c5-d5",
+        "e4-e5",
+        "d5-d6",
+        "d2-d5",
+        "e6-e7",
+        "e5-e6"
+    ],
+    "WhoWon": "Black"
+}

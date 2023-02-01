@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "MochaBoi",
+    "BlackSidePlayerName": "malicious",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k7-k8",
+        "f7-i7",
+        "b7-f7",
+        "e6-e7",
+        "a7-d7xe7",
+        "f8-d8xd7",
+        "e1-d1",
+        "f9-f8xf7",
+        "a6-a7",
+        "f6-e6",
+        "d1-d5",
+        "e6-e9",
+        "a7-d7xd6",
+        "e9-a9"
+    ],
+    "WhoWon": "White"
+}

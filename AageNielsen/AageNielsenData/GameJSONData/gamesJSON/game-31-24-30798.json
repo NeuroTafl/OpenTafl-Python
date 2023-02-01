@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Birkamich",
+    "BlackSidePlayerName": "Brikamaso",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-k8",
+        "h6-h10",
+        "g11-i11",
+        "g6-g9",
+        "j7-j10",
+        "f6-h6",
+        "j5-h5",
+        "h6-h9",
+        "k8-k9",
+        "h10-i10",
+        "f11-h11",
+        "h9-i9",
+        "h11-h10xi10",
+        "f8-k8",
+        "k9-k11",
+        "i9-k9"
+    ],
+    "WhoWon": "White"
+}

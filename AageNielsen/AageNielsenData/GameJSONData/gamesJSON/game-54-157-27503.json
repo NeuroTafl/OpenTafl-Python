@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Teondrae",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e3",
+        "d2-e2",
+        "d4-e4",
+        "d1-d2xd3",
+        "e3-c3",
+        "e2-e3",
+        "e4-e5",
+        "d6-e6",
+        "d5-b5",
+        "b4-b3",
+        "e5-d5",
+        "e6-c6",
+        "d5-d6",
+        "c6-b6",
+        "d6-c6",
+        "d7-c7",
+        "b5-a5",
+        "b6-a6xa5",
+        "c6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

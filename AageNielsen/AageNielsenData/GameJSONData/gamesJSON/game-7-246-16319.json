@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-f2",
+        "g5-g1",
+        "i4-g4",
+        "c5-c6",
+        "a4-c4",
+        "d5-d3",
+        "a5-a3",
+        "e5-d5",
+        "d9-d8",
+        "e7-a7",
+        "e8-e7xe6",
+        "d5-d7",
+        "i6-d6"
+    ],
+    "WhoWon": "Black"
+}

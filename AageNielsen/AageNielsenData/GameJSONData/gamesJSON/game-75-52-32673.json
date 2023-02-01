@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 75,
+    "AageGameTypeName": "Tawlbwrdd T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "c6-c10",
+        "b6-b10",
+        "d6-d10",
+        "d3-d9xd10",
+        "e6-b6",
+        "a4-c4",
+        "f3-c3",
+        "f2-c2xc3",
+        "f5-j5",
+        "k4-j4xj5",
+        "f6-d6",
+        "e1-d1",
+        "d6-d3",
+        "a5-a3",
+        "d3-k3"
+    ],
+    "WhoWon": "White"
+}

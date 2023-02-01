@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "epoc",
+    "BlackSidePlayerName": "RedJack",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j2",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "f10-b10",
+        "h6-j6",
+        "h10-j10",
+        "f6-i6",
+        "g11-i11",
+        "g5-g2",
+        "h1-i1",
+        "e5-e2xf2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 123,
+    "AageGameTypeName": "Sea battle-1571 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e1-c1",
+        "f5-f7",
+        "f2-f5xg5",
+        "e4-f4",
+        "b4-e4xe3",
+        "d5-d4xe4",
+        "e2-e4",
+        "e6-f6xf5",
+        "h5-f5",
+        "e5-d5",
+        "h4-g4xf4",
+        "d5-d7",
+        "b6-b7",
+        "d4-b4",
+        "b5-b6",
+        "d7-d3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

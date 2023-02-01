@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "W&aelig;gn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h9",
+        "f4-i4",
+        "h1-i1",
+        "g5-g2",
+        "f2-f4",
+        "e5-e3",
+        "f4-h4",
+        "g6-g4xh4",
+        "j6-j3",
+        "f5-b5",
+        "j3-g3xg2",
+        "f6-f2",
+        "g1-g2",
+        "f2-a2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

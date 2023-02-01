@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "arne64",
+    "BlackSidePlayerName": "Luigi005",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g1-g3",
+        "h6-h3",
+        "g3-c3",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "j6-h6",
+        "f5-i5",
+        "k4-h4xh3",
+        "i5-i2xh2",
+        "f10-j10",
+        "e5-h5",
+        "h4-h2xg2",
+        "g7-g2xh2",
+        "k7-h7",
+        "f6-g6",
+        "k6-i6",
+        "g6-g9",
+        "d11-d9",
+        "g9-k9"
+    ],
+    "WhoWon": "White"
+}

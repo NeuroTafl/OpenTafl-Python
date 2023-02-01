@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 60,
+    "AageGameTypeName": "Ard Ri throneless circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f2-e2",
+        "d3-f3",
+        "b2-b3",
+        "c4-c2",
+        "a4-c4",
+        "d4-d3",
+        "f6-f4",
+        "d5-f5xf4",
+        "d7-d5",
+        "f3-f2",
+        "g4-g3",
+        "c2-d2xe2",
+        "b3-c3",
+        "d3-e3",
+        "d1-e1",
+        "f2-g2",
+        "d5-d3",
+        "e4-g4xg3",
+        "e1-d1xd2",
+        "e3-g3"
+    ],
+    "WhoWon": "White"
+}

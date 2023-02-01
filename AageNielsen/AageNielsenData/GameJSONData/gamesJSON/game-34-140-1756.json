@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Kratzer",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b8-b10",
+        "i5-k5",
+        "h2-j2",
+        "f6-f3",
+        "h1-h3",
+        "e5-b5",
+        "c7-c5xb5",
+        "g4-c4",
+        "c5-c11",
+        "g6-e6",
+        "i1-i4",
+        "g7-g4",
+        "e1-e3xf3",
+        "g4-d4",
+        "f2-d2",
+        "d7-c7",
+        "b6-b4",
+        "d4-d13"
+    ],
+    "WhoWon": "White"
+}

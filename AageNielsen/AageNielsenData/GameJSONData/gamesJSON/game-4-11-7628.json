@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Haio",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-i5",
+        "k8-i8",
+        "f4-i4",
+        "g1-g3",
+        "g6-g4",
+        "f1-i1",
+        "g7-h7",
+        "k4-j4",
+        "f6-g6",
+        "i1-i3",
+        "g6-g9",
+        "h11-h9",
+        "g9-c9",
+        "a4-c4",
+        "f8-c8",
+        "a8-a9",
+        "c9-b9",
+        "f10-b10",
+        "c8-c11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

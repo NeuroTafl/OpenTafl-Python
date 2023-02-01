@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Nath",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "f5-j5",
+        "k4-j4xj5",
+        "e5-j5",
+        "a5-i5xj5",
+        "e6-e3",
+        "b6-b3",
+        "d6-b6",
+        "d11-d6",
+        "e7-e10",
+        "g11-g9",
+        "f7-c7",
+        "d6-c6xb6",
+        "f6-d6",
+        "a8-c8xc7",
+        "d6-d11",
+        "c8-c11",
+        "g7-c7",
+        "d1-d10xe10"
+    ],
+    "WhoWon": "Black"
+}

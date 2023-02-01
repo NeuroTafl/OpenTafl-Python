@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "edmond-dantes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-c10",
+        "h6-h10",
+        "f2-i2",
+        "g5-g2",
+        "d11-d9",
+        "g6-g3",
+        "h11-i11",
+        "f6-i6",
+        "d9-j9",
+        "i6-i10",
+        "j9-j10",
+        "i10-i9",
+        "k8-k9",
+        "i9-a9",
+        "c10-a10",
+        "a9-c9",
+        "e11-c11",
+        "c9-a9xa10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

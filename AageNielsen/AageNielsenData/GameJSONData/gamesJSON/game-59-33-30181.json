@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "e4-e5",
+        "b4-b3",
+        "c4-c7",
+        "a4-c4",
+        "e5-e4",
+        "e2-e3",
+        "c7-b7",
+        "b3-b4",
+        "d5-c5",
+        "d6-d5",
+        "d3-c3xc4",
+        "e3-d3"
+    ],
+    "WhoWon": "Black"
+}

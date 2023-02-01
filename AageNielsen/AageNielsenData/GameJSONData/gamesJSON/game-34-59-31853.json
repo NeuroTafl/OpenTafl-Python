@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Cacreal",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g3-e3",
+        "g10-k10",
+        "g11-k11",
+        "h8-h11",
+        "m9-k9xk10",
+        "g8-k8",
+        "g12-g10",
+        "h6-k6xk7",
+        "l7-k7xk8",
+        "f8-k8xk7",
+        "g10-h10xh11",
+        "j7-j10",
+        "m6-m7",
+        "g7-g13"
+    ],
+    "WhoWon": "White"
+}

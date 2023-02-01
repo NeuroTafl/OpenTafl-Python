@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Trubochist",
+    "BlackSidePlayerName": "Efra",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "g1-h1",
+        "e7-d7",
+        "h1-h4",
+        "g5-i5",
+        "h4-h5xi5",
+        "g6-g3",
+        "j7-h7xh6",
+        "e5-e3xf3",
+        "a5-a4",
+        "g3-h3",
+        "a4-e4xe3",
+        "d6-d4xe4",
+        "e2-e4",
+        "e6-e5",
+        "g2-g4xf4",
+        "f5-f4xe4",
+        "i6-g6",
+        "f6-f5",
+        "f1-f3",
+        "f5-g5xg6",
+        "k6-g6"
+    ],
+    "WhoWon": "Black"
+}

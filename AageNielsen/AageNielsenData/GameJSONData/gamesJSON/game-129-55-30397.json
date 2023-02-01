@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "b4-b3",
+        "f4-f2",
+        "d1-e1",
+        "c4-c1",
+        "d2-d1",
+        "c1-c2",
+        "d6-e6",
+        "c2-c6",
+        "b3-b6",
+        "d3-a3",
+        "b6-b5",
+        "d4-d3",
+        "g4-g3",
+        "d3-b3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

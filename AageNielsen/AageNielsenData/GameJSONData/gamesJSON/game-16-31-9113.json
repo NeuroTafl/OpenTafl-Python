@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "aticus",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "d6-d3",
+        "d11-d8",
+        "e5-e3",
+        "b6-b3",
+        "e6-c6",
+        "a7-c7",
+        "f5-b5",
+        "a6-b6",
+        "f6-d6",
+        "e11-e9",
+        "g5-g2",
+        "e1-e2",
+        "g7-h7",
+        "k5-c5xb5xc6",
+        "h6-h2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

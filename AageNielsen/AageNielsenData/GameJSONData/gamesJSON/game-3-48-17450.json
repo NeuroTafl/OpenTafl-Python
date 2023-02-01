@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "heimdall",
+    "BlackSidePlayerName": "casshern",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h9",
+        "d6-d3",
+        "a7-c7",
+        "e5-c5",
+        "d1-c1",
+        "e6-e2",
+        "g1-g3",
+        "f8-e8",
+        "a8-d8",
+        "f6-c6",
+        "g3-e3xe2",
+        "f4-f3xe3",
+        "k8-f8xe8xf7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

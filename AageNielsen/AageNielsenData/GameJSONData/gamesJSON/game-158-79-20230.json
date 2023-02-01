@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "themightyglider",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 158,
+    "AageGameTypeName": "Brandubh3 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-a3",
+        "c6-c5",
+        "d4-d3",
+        "f4-f3",
+        "d3-c3",
+        "d7-d6xd5",
+        "e4-e3",
+        "g4-e4xe3",
+        "c2-c1",
+        "b4-b2",
+        "a3-b3",
+        "e2-c2",
+        "c3-d3",
+        "b2-b1xc1",
+        "b3-a3",
+        "b1-b2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

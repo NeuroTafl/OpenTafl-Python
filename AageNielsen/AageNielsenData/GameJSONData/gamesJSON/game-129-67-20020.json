@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Floki",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g4-g6",
+        "d5-g5xg6",
+        "f4-g4",
+        "d3-g3xg4",
+        "d6-d5",
+        "e4-e1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

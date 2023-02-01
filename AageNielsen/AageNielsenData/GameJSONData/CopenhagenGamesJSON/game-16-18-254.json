@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "urme",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "f4-c4",
+        "e1-e2",
+        "f8-i8",
+        "h11-h9",
+        "h6-h3",
+        "f2-i2",
+        "d6-d9",
+        "f10-i10",
+        "e7-b7",
+        "d11-d10",
+        "e5-b5xb6",
+        "a6-c6",
+        "b5-b2",
+        "a4-b4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

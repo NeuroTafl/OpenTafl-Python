@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "h6-h9",
+        "k4-i4",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "i4-i7xj7",
+        "f8-i8",
+        "i7-h7",
+        "f6-f9",
+        "k7-k9",
+        "f9-a9",
+        "f10-a10",
+        "a9-g9",
+        "a10-a9",
+        "g9-g10",
+        "h11-h10",
+        "g10-a10",
+        "c8-h8xh9xi8",
+        "a10-a11"
+    ],
+    "WhoWon": "White"
+}

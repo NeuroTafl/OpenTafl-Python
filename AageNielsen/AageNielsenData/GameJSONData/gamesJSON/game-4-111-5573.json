@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "skallatorc",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d4",
+        "e5-b5",
+        "f2-b2",
+        "e7-b7xb6",
+        "f10-b10",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "j4-h4",
+        "g7-j7xj6",
+        "e1-e4",
+        "f6-f5",
+        "h1-h2",
+        "f5-i5",
+        "h2-i2",
+        "i5-i11",
+        "i2-i7xj7",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

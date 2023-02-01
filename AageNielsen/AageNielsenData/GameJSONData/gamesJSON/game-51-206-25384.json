@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f3",
+        "d5-c5",
+        "b4-b5",
+        "c4-c1",
+        "d6-d5xc5",
+        "e4-e1xd1",
+        "d2-d1",
+        "e1-e6",
+        "d5-d6",
+        "e6-e1xd1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

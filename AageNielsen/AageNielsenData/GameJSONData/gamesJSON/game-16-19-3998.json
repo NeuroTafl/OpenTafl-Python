@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Jurgenson",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d3",
+        "g7-j7",
+        "j6-j2",
+        "h6-h9",
+        "f10-j10",
+        "g6-g9",
+        "h11-i11",
+        "h9-k9",
+        "h1-i1",
+        "f6-i6",
+        "b6-b10",
+        "i6-i10",
+        "i1-i7xj7",
+        "k9-k10xj10",
+        "j2-j10",
+        "k10-k9",
+        "j10-k10xk9",
+        "g9-k9xk10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

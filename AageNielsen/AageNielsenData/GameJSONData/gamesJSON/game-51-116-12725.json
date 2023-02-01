@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d6-e6",
+        "c4-c3",
+        "e6-c6",
+        "c3-a3",
+        "d2-a2xa3",
+        "d3-a3xa2",
+        "d1-d3",
+        "d5-a5xa4",
+        "d7-d5",
+        "a3-b3",
+        "b4-a4",
+        "b3-a3xa4",
+        "c6-b6",
+        "d4-c4",
+        "d3-c3",
+        "c4-c7",
+        "b6-b7",
+        "c7-g7"
+    ],
+    "WhoWon": "White"
+}

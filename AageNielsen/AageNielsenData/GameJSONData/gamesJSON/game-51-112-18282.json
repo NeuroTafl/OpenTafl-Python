@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Cyningstan",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "f5-f4",
+        "d5-f5xf4",
+        "d6-d5",
+        "f5-e5",
+        "g4-f4",
+        "e5-f5xf4",
+        "d2-b2",
+        "d4-d2",
+        "d1-f1",
+        "d2-d1",
+        "b2-b1",
+        "d1-e1xf1",
+        "b1-d1",
+        "e1-g1"
+    ],
+    "WhoWon": "White"
+}

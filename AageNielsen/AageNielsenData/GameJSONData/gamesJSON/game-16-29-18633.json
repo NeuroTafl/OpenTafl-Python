@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "LordOmega",
+    "BlackSidePlayerName": "Aattas",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-h4",
+        "g5-h5",
+        "g1-g3",
+        "f8-i8",
+        "j6-j8",
+        "i8-i5",
+        "h1-i1",
+        "g6-g4",
+        "i1-i4",
+        "e5-e3",
+        "a7-d7",
+        "f5-c5",
+        "b6-c6",
+        "f6-f5",
+        "a4-c4xc5",
+        "f5-b5",
+        "c4-b4",
+        "b5-b11",
+        "b4-b10",
+        "b11-a11"
+    ],
+    "WhoWon": "White"
+}

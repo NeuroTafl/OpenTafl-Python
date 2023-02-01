@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 145,
+    "AageGameTypeName": "Tyr 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "l9-n9",
+        "h11-h12",
+        "g12-e12",
+        "h9-g9",
+        "i12-i14",
+        "e8-d8",
+        "d7-d5",
+        "g10-d10xd9",
+        "a12-a9",
+        "h5-h4",
+        "i4-k4",
+        "f7-f4xg4",
+        "d4-e4",
+        "e11-e6"
+    ],
+    "WhoWon": "Ongoing"
+}

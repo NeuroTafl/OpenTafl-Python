@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "bluepot9",
+    "BlackSidePlayerName": "AdhMor",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j7-j8",
+        "f8-b8",
+        "j8-f8xf9",
+        "f4-b4",
+        "e2-e5",
+        "d6-d5xe5",
+        "b7-d7",
+        "e6-e2",
+        "e10-e3xe2",
+        "d5-d3xe3",
+        "d7-d6xc6",
+        "f6-e6",
+        "e11-e7",
+        "e6-e2",
+        "e7-e3"
+    ],
+    "WhoWon": "Black"
+}

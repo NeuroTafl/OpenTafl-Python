@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "beardogthing",
+    "BlackSidePlayerName": "bradentu2",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h2",
+        "h6-i6",
+        "k5-j5",
+        "f4-i4",
+        "k4-j4",
+        "d6-d2",
+        "k8-i8",
+        "e5-e2",
+        "d11-d3xd2",
+        "g5-g2xf2",
+        "d3-d2",
+        "i4-i2xh2",
+        "j4-i4",
+        "i2-i3",
+        "g1-i1",
+        "f5-f2",
+        "i1-i2xi3",
+        "f6-f4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

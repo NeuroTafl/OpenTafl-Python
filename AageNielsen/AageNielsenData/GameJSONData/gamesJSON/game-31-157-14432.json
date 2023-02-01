@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Thebigfoot",
+    "BlackSidePlayerName": "Hachit",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j5-j3",
+        "f3-i3",
+        "g2-i2",
+        "g6-g3",
+        "j7-j9",
+        "h6-h11",
+        "g10-i10",
+        "f9-i9",
+        "i10-j10",
+        "h11-k11",
+        "f10-h10",
+        "k11-k9xj9",
+        "f2-h2",
+        "i9-i10",
+        "j10-k10",
+        "f7-i7",
+        "k7-k8xk9",
+        "f8-j8",
+        "k10-j10xi10",
+        "f6-f9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

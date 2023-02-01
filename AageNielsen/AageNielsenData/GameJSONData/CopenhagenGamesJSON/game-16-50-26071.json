@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "f10-i10",
+        "f7-f10",
+        "d11-d9",
+        "f6-f9",
+        "j6-j9",
+        "f10-c10",
+        "e11-e10",
+        "f9-e9",
+        "b6-b10",
+        "c10-c9xd9",
+        "f11-c11",
+        "c9-a9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

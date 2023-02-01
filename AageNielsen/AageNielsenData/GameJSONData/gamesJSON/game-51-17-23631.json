@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g4-g3",
+        "d5-g5",
+        "d6-d5",
+        "g5-g4xf4",
+        "d5-g5xg4",
+        "e4-e7",
+        "g5-f5",
+        "c4-c7xd7",
+        "f5-d5",
+        "e7-d7",
+        "b4-c4",
+        "d7-d6xd5",
+        "c4-c5",
+        "d4-e4",
+        "c5-f5",
+        "d6-f6",
+        "a4-a6",
+        "e4-e7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Davis",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-e3",
+        "d6-c6",
+        "d5-d6",
+        "f4-f5",
+        "e3-f3",
+        "f5-d5xd6",
+        "d4-d3",
+        "d5-f5",
+        "e4-e6",
+        "b4-b3",
+        "f3-f1",
+        "b3-b4xc4",
+        "d3-f3",
+        "g4-g3",
+        "f1-e1",
+        "e2-e3"
+    ],
+    "WhoWon": "Black"
+}

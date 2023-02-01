@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Eyck",
+    "BlackSidePlayerName": "Bg",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j7-i7",
+        "f5-i5",
+        "k7-j7",
+        "f8-i8xi7",
+        "e2-e3",
+        "d6-d3xe3",
+        "a5-a4",
+        "f4-b4",
+        "f2-e2",
+        "f3-f2",
+        "e10-d10",
+        "f6-f3",
+        "d10-d8",
+        "f3-k3"
+    ],
+    "WhoWon": "White"
+}

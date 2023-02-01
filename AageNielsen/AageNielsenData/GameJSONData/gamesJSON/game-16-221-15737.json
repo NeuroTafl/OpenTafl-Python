@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Weatherwax",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-i2",
+        "f4-j4",
+        "a4-i4xj4",
+        "f5-f2",
+        "b6-b3",
+        "f6-f3",
+        "d1-d2",
+        "f3-k3",
+        "i2-k2",
+        "k3-c3",
+        "a5-a2",
+        "c3-k3xk2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

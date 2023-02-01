@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Mike0127",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 64,
+    "AageGameTypeName": "Magpie 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-f2",
+        "d3-d2",
+        "g4-g3",
+        "d4-d3",
+        "b4-b3",
+        "c4-c2",
+        "b3-b2",
+        "d3-c3",
+        "g3-d3xd2",
+        "c2-d2xd3",
+        "f4-f5",
+        "e4-e2",
+        "d6-e6",
+        "d5-b5",
+        "f5-d5",
+        "c3-c2",
+        "d5-d3xd2",
+        "c2-c1",
+        "d3-d2xe2",
+        "c1-b1",
+        "d1-c1"
+    ],
+    "WhoWon": "Black"
+}

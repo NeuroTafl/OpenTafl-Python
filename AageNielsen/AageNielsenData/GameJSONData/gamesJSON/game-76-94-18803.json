@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Nebula",
+    "BlackSidePlayerName": "Seeb",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-h2",
+        "g5-g4",
+        "h2-h3",
+        "g7-g8",
+        "f9-h9",
+        "g6-g7",
+        "h3-h5",
+        "h6-h8",
+        "j7-h7xh8",
+        "e7-e9",
+        "c6-c11",
+        "d6-d2",
+        "f3-b3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

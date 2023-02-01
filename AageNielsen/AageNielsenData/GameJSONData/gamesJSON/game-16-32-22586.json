@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "duruk",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a4-c4",
+        "e5-b5",
+        "c4-b4xb5",
+        "f5-b5",
+        "b6-b9",
+        "d6-d3",
+        "d1-d2",
+        "d3-b3xb4",
+        "d11-d5",
+        "f4-i4",
+        "k4-j4",
+        "f6-f3",
+        "h1-h3",
+        "f3-c3",
+        "e1-c1",
+        "c3-c2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

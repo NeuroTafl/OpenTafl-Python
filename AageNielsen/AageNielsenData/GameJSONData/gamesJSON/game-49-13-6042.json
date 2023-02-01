@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 49,
+    "AageGameTypeName": "Historical Hnefatafl 15x15 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "o11-l11",
+        "g6-g3",
+        "f1-f4",
+        "i6-i3xh3",
+        "f4-i4xi3",
+        "h5-h2",
+        "o5-j5",
+        "f7-f2xg2",
+        "c8-c4",
+        "e8-e4",
+        "a5-e5",
+        "g8-b8",
+        "e1-e3xe4",
+        "h8-d8",
+        "h13-d13",
+        "d8-d1"
+    ],
+    "WhoWon": "White"
+}

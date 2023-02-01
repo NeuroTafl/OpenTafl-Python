@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-h2",
+        "g7-i7",
+        "i6-i4",
+        "g6-g9",
+        "f9-d9",
+        "h6-h11",
+        "h2-h7xi7",
+        "f8-k8",
+        "i4-i11xh11",
+        "f6-i6",
+        "e2-i2",
+        "i6-i9",
+        "j7-j9",
+        "k8-k9xj9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

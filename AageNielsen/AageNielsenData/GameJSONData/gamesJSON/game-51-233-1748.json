@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Cyningstan",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "e4-e6",
+        "f4-f5",
+        "d3-b3",
+        "b4-c4",
+        "d5-c5",
+        "c4-c3",
+        "d4-c4xc3",
+        "f5-f3",
+        "b3-a3",
+        "f3-c3",
+        "c2-c1",
+        "e2-c2",
+        "e6-e1xd1",
+        "g4-e4",
+        "e1-f1",
+        "c2-a2xa3",
+        "c1-c2xc3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

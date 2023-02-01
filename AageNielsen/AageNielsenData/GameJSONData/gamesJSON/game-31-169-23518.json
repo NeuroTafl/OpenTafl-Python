@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "MochaBoi",
+    "BlackSidePlayerName": "Big-MA-J",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 5,
+    "Moves": [
+        "e2-e5",
+        "f4-e4xe5",
+        "j7-h7",
+        "f8-h8xh7",
+        "j5-i5",
+        "f5-g5",
+        "k7-i7xi6",
+        "h6-i6",
+        "g10-g9",
+        "h8-h9xg9",
+        "e1-e3",
+        "d6-d3xe3",
+        "g11-g7",
+        "e4-e2",
+        "g2-g3",
+        "h9-h3xg3",
+        "g7-h7",
+        "f6-f4",
+        "g1-g2",
+        "f4-a4"
+    ],
+    "WhoWon": "White"
+}

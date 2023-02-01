@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "vonraider",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "f4-f2",
+        "d1-d2",
+        "f5-f3",
+        "b6-b3",
+        "f3-k3",
+        "b3-f3xf2",
+        "f6-f4",
+        "a4-c4",
+        "f4-i4",
+        "k8-i8",
+        "i4-i1",
+        "j2-j1",
+        "i1-i2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

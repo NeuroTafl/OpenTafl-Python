@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "MasterLuke",
+    "BlackSidePlayerName": "pearlmuter",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "k8-j8",
+        "h6-h8",
+        "h11-h9",
+        "g7-j7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "ivarbur",
+    "BlackSidePlayerName": "ivarcam",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g10-h10",
+        "d6-d4",
+        "h10-h7",
+        "e6-d6",
+        "b7-b8",
+        "f6-e6",
+        "a7-a9",
+        "f3-e3",
+        "b5-b3",
+        "d4-d1",
+        "e2-d2",
+        "c6-c9",
+        "e11-c11",
+        "e6-e4",
+        "b3-d3",
+        "e4-a4"
+    ],
+    "WhoWon": "White"
+}

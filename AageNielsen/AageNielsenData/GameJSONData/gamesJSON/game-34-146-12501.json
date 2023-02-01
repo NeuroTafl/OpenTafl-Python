@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Kratzer",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b8-b10",
+        "h6-h3",
+        "f2-f3",
+        "h8-h11",
+        "f12-f11",
+        "j7-j6",
+        "i1-i3xh3",
+        "j6-j3",
+        "g3-h3",
+        "g4-g3",
+        "e1-e3",
+        "g6-k6",
+        "m5-k5xk6",
+        "g7-g4",
+        "c7-c4",
+        "g4-m4"
+    ],
+    "WhoWon": "White"
+}

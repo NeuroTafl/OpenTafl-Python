@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "themightyglider",
+    "AageGameTypeKey": 158,
+    "AageGameTypeName": "Brandubh3 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-b3",
+        "b4-b5",
+        "d4-d2",
+        "d1-c1",
+        "c2-c3",
+        "c1-c2"
+    ],
+    "WhoWon": "Black"
+}

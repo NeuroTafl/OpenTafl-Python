@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "torc",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "f10-f8",
+        "e7-e9",
+        "f11-f9",
+        "g7-g9xf9",
+        "f8-f9",
+        "f7-c7",
+        "h11-h9xg9",
+        "g6-g9xf9",
+        "h9-j9",
+        "f6-f10",
+        "j9-i9",
+        "f10-a10",
+        "k7-i7xi8",
+        "a10-a11"
+    ],
+    "WhoWon": "White"
+}

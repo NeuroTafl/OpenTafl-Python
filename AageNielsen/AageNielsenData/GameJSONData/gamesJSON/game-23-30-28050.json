@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Watson",
+    "AageGameTypeKey": 23,
+    "AageGameTypeName": "David Brown Hnefatafl 11x11 (unarmed king)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "e5-b5",
+        "b6-b10",
+        "f5-c5",
+        "d1-d3",
+        "e6-e2",
+        "d3-e3xe2",
+        "d6-d2",
+        "k4-i4",
+        "f6-c6",
+        "d11-c11",
+        "d2-d3",
+        "c4-c3xd3",
+        "c6-d6",
+        "f10-d10",
+        "d6-d1"
+    ],
+    "WhoWon": "White"
+}

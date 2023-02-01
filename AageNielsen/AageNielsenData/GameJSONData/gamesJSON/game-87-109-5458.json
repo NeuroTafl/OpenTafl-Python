@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-a3",
+        "c4-c3",
+        "b6-b5",
+        "c3-c6",
+        "b2-c2",
+        "d4-c4",
+        "c2-c3",
+        "c6-b6",
+        "a3-a4",
+        "c4-c7",
+        "f6-d6xd5",
+        "c7-a7"
+    ],
+    "WhoWon": "White"
+}

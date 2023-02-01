@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "Frenir",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b3",
+        "f8-i8",
+        "j6-j9",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "b3-g3xg2",
+        "f4-h4",
+        "k4-i4",
+        "f5-j5",
+        "a4-g4xh4",
+        "f6-f3",
+        "d1-d3",
+        "h6-h3xg3",
+        "g4-h4xh3",
+        "g7-g10",
+        "h11-h10xg10",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

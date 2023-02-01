@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "Lord Yorkshire P",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a5-d5",
+        "f4-d4xd5",
+        "f2-f3",
+        "e5-b5",
+        "b6-b4",
+        "d6-b6",
+        "a7-c7",
+        "e6-c6",
+        "a8-c8",
+        "f6-e6",
+        "f3-f4xf5",
+        "e6-e2",
+        "f4-f2",
+        "e2-a2",
+        "f2-b2",
+        "a2-a1"
+    ],
+    "WhoWon": "White"
+}

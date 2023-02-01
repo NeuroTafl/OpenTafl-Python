@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Biscuitman",
+    "BlackSidePlayerName": "Asmo",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h6-h1",
+        "f1-f2",
+        "g6-h6",
+        "a4-f4xf3",
+        "e6-e4",
+        "b3-e3xe2",
+        "h6-h3",
+        "i10-i3xi2",
+        "d7-d2",
+        "j2-h2xg2",
+        "f6-j6",
+        "k7-j7",
+        "j6-j1xi1",
+        "j7-j2",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

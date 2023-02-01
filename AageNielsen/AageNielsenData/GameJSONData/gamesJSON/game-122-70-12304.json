@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Unhandyandy",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-e3",
+        "d3-d1",
+        "c2-c1",
+        "d1-e1",
+        "e3-d3",
+        "e4-e3",
+        "f5-g5",
+        "c4-c3xd3",
+        "b5-a5",
+        "d5-b5",
+        "e6-e7",
+        "b5-b6",
+        "a5-a6xb6",
+        "d4-a4",
+        "b3-a3",
+        "a4-a5xa6",
+        "c6-a6",
+        "a5-b5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

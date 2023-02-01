@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "Thrizian",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "g5-j5",
+        "i4-i5xj5",
+        "f4-i4",
+        "j6-i6",
+        "h6-h3",
+        "a4-h4",
+        "g6-g4xh4",
+        "k5-k4",
+        "f6-h6",
+        "k8-h8",
+        "h3-j3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

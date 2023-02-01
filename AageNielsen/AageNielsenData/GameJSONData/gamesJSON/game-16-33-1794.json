@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "Kllimm",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "d11-c11",
+        "e7-e10",
+        "g11-g10",
+        "e6-e9",
+        "f2-c2",
+        "e10-b10",
+        "a8-c8",
+        "d9-a9",
+        "d1-d9",
+        "a9-c9xd9",
+        "a7-a9",
+        "f6-d6",
+        "f10-d10",
+        "d6-d1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

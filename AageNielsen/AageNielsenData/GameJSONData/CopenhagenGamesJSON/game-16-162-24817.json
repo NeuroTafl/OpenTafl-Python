@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Plantagenet",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "d11-d9",
+        "e7-e10",
+        "a7-c7",
+        "g7-g10xf10",
+        "j6-j10",
+        "f7-j7",
+        "k8-j8",
+        "f6-f9",
+        "j8-j9",
+        "f9-i9",
+        "h11-i11",
+        "i8-k8",
+        "c7-i7xj7",
+        "k8-k9xj9",
+        "i11-i10",
+        "h6-h11",
+        "i10-i11xh11",
+        "i9-i10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

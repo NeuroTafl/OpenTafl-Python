@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Cantlose",
+    "BlackSidePlayerName": "teondrae",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "e1-e3",
+        "g6-g3",
+        "k4-i4",
+        "h6-h4",
+        "k5-h5xh4",
+        "f6-i6",
+        "f10-i10",
+        "i6-i9",
+        "h5-i5",
+        "i9-a9",
+        "i10-a10",
+        "a9-k9",
+        "a10-k10",
+        "k9-i9",
+        "k10-j10",
+        "i9-i11",
+        "j10-j11",
+        "i11-i10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

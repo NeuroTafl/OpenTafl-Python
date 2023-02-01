@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "f2-i2",
+        "f5-f2",
+        "d1-d2",
+        "f6-f4",
+        "a4-a3",
+        "i4-i10",
+        "j6-j10",
+        "f4-c4",
+        "a3-c3",
+        "c4-c11",
+        "b6-b11",
+        "c11-c9",
+        "d11-c11",
+        "c9-k9",
+        "j10-k10",
+        "k9-j9",
+        "k10-j10",
+        "j9-j1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

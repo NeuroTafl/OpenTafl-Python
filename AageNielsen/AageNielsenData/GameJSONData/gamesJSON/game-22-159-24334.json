@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Floki",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "c5-c8",
+        "b5-b7",
+        "e6-d6",
+        "i6-e6xe7",
+        "f5-f6xe6",
+        "h5-h7",
+        "d5-d2",
+        "d1-b1",
+        "e5-c5",
+        "a4-c4",
+        "e3-b3",
+        "c4-c1",
+        "c5-b5",
+        "c1-c4",
+        "b5-b4",
+        "a5-a4",
+        "g5-a5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

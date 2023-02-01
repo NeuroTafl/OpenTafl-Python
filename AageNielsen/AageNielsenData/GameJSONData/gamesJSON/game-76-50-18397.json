@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Faith-of-Steel-5",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-d2",
+        "h6-h7",
+        "j5-j4",
+        "g7-g9",
+        "e10-e9",
+        "h7-i7",
+        "k5-h5",
+        "f7-h7",
+        "g2-g4",
+        "f6-f7",
+        "k7-k9",
+        "h7-h10",
+        "k6-k8",
+        "h10-k10",
+        "k9-h9xg9",
+        "f7-h7",
+        "k8-i8xi7",
+        "f8-h8",
+        "g10-g8xh8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

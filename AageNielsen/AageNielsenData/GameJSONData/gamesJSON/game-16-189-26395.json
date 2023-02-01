@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h3",
+        "k4-i4",
+        "f8-i8",
+        "j6-j9",
+        "g7-g10",
+        "e11-e9",
+        "g10-j10",
+        "k8-j8",
+        "d6-d9",
+        "h11-h8xi8",
+        "f7-f9xe9",
+        "g11-j11xj10",
+        "e7-e10",
+        "j9-g9",
+        "f6-f8",
+        "a8-c8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

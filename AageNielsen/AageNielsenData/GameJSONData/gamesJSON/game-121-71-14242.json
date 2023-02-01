@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-e1",
+        "e4-g4",
+        "f5-g5",
+        "g4-g3",
+        "f3-f4",
+        "g3-g4",
+        "f4-f3",
+        "g4-g3",
+        "f3-f4",
+        "d3-f3",
+        "b3-d3",
+        "g3-g4",
+        "e1-e4",
+        "g4-g2",
+        "c2-f2xf3",
+        "c4-c5",
+        "b5-b4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "RusMadrid",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-c2",
+        "f4-f2",
+        "d6-e6",
+        "d4-e4",
+        "d1-e1",
+        "e4-e3",
+        "g4-g3",
+        "d3-a3",
+        "c2-a2xa3",
+        "e3-a3xa2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

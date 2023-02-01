@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Sqaree",
+    "BlackSidePlayerName": "Mmagari",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-h8",
+        "f4-c4",
+        "b6-b3",
+        "e7-e10",
+        "b3-b10",
+        "g7-g10xf10",
+        "j6-j3",
+        "g6-g9",
+        "k7-h7",
+        "h6-h2",
+        "k6-i6",
+        "f6-h6",
+        "j3-h3xh2",
+        "g5-j5",
+        "i6-i5xj5",
+        "h6-j6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "24163",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-g3xg2",
+        "h6-h3",
+        "g3-f3",
+        "g6-g2",
+        "f3-g3xg2",
+        "f6-i6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

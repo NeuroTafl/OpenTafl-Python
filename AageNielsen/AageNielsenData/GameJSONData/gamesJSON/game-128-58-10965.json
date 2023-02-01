@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Cassio",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h8-f8",
+        "f6-h6",
+        "g7-h7xh6",
+        "f5-f7",
+        "i5-i6",
+        "e6-h6",
+        "g3-g6xh6",
+        "e5-g5",
+        "e1-g1",
+        "g5-g3",
+        "i6-i3",
+        "g3-d3",
+        "b2-d2",
+        "d4-b4",
+        "c3-b3xb4",
+        "d3-c3",
+        "g1-c1",
+        "c3-c2",
+        "a5-a2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

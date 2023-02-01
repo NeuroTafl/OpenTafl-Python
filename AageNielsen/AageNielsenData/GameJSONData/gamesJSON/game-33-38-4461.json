@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-d2",
+        "h8-h11",
+        "f12-f11",
+        "g8-k8",
+        "l6-k6",
+        "g4-l4",
+        "m5-l5",
+        "j7-j3",
+        "h2-j2",
+        "l4-l1",
+        "i1-k1",
+        "j3-m3",
+        "m6-m4",
+        "m3-m2",
+        "m9-k9xk8",
+        "h11-k11",
+        "h12-k12",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

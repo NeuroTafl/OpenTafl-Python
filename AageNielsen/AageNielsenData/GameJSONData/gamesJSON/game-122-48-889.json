@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "branan",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e6-e7",
+        "e4-e5",
+        "f3-g3",
+        "d3-d1",
+        "c2-c1",
+        "d1-e1",
+        "e2-d2",
+        "c4-c2",
+        "c6-c4",
+        "e1-e2xd2",
+        "c1-d1",
+        "d5-c5",
+        "b3-c3",
+        "d4-d7",
+        "b5-b7",
+        "c5-c7xb7",
+        "d1-d5xe5",
+        "c7-c6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

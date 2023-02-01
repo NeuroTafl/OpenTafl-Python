@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-h2xg2",
+        "g6-g2",
+        "f2-c2",
+        "f5-j5",
+        "k4-j4xj5",
+        "h6-h10",
+        "f1-f2xg2",
+        "f6-i6",
+        "h2-h6"
+    ],
+    "WhoWon": "Black"
+}

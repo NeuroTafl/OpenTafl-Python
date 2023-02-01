@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Unhandyandy",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d1-e1",
+        "c4-c1",
+        "d2-b2",
+        "d3-b3",
+        "d6-c6",
+        "c1-b1xb2",
+        "c6-c2",
+        "d5-b5xb4",
+        "f4-f5",
+        "b3-b2",
+        "c2-c3",
+        "b2-c2",
+        "e1-c1xb1xc2",
+        "d4-d1",
+        "f5-f1",
+        "d1-e1xf1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

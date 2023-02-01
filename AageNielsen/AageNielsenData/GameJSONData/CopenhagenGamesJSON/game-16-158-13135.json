@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "AreVidar",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e2",
+        "g7-g10",
+        "f10-c10",
+        "g6-g9",
+        "h11-h10",
+        "g9-i9",
+        "h10-i10",
+        "h6-h2",
+        "k4-i4",
+        "f6-h6",
+        "j6-j3",
+        "h6-h11",
+        "i10-i11",
+        "g10-j10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

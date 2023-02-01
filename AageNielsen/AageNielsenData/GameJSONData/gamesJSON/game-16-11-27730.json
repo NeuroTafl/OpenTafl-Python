@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "adam",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "e7-b7",
+        "b6-b2",
+        "d6-d9",
+        "f10-b10",
+        "e6-e9",
+        "d1-c1",
+        "f6-c6",
+        "d11-c11",
+        "c6-c10",
+        "h11-h10",
+        "d9-a9",
+        "c1-c7xb7",
+        "a9-a10xb10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Davberd",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "d6-d1",
+        "c2-c1xd1",
+        "e6-c6",
+        "f2-d2",
+        "f6-d6",
+        "e10-d10",
+        "f4-f2",
+        "d10-d9",
+        "d6-d4",
+        "b5-b4",
+        "d4-k4"
+    ],
+    "WhoWon": "White"
+}

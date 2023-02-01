@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "winsmith",
+    "BlackSidePlayerName": "teemu",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j9",
+        "f8-b8",
+        "f10-b10",
+        "e7-b7",
+        "b6-b2",
+        "h6-h2",
+        "h1-j1",
+        "h2-j2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

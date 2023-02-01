@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "WinterHunter",
+    "BlackSidePlayerName": "Efra",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g10-i10",
+        "f7-h7",
+        "f10-h10",
+        "f5-d5",
+        "j5-f5",
+        "h6-h5",
+        "k5-i5",
+        "f9-e9",
+        "b7-f7"
+    ],
+    "WhoWon": "Black"
+}

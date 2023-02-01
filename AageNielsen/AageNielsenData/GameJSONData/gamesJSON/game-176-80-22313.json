@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Dimetr",
+    "AageGameTypeKey": 176,
+    "AageGameTypeName": "Simple Tafl-w 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f5-f6",
+        "e2-g2",
+        "f6-h6",
+        "f1-f5xg5",
+        "e4-h4xh5",
+        "g2-g4xh4",
+        "e7-g7",
+        "f5-f3",
+        "e5-g5",
+        "i5-h5",
+        "d5-f5",
+        "d1-d3xe3",
+        "g7-g9",
+        "d9-d7",
+        "g5-g8",
+        "i6-i8"
+    ],
+    "WhoWon": "Ongoing"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Scottdbarber",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "b4-b2",
+        "e7-b7xb6",
+        "a6-b6",
+        "f4-b4",
+        "f2-j2",
+        "f6-f4",
+        "j6-j10",
+        "f4-c4",
+        "f10-b10",
+        "c4-c1",
+        "b2-b1",
+        "b4-b2",
+        "h3-b3xb2",
+        "c1-c11",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

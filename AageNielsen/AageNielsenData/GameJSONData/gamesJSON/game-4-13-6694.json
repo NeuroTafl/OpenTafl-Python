@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Bainn",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-i2",
+        "e5-e2",
+        "b6-b2",
+        "d6-b6",
+        "f10-b10",
+        "e6-c6",
+        "a4-a3",
+        "f8-j8",
+        "d11-d6",
+        "f6-e6xd6",
+        "e11-c11",
+        "e7-e10",
+        "k8-k10",
+        "e6-e9",
+        "a8-a9",
+        "e9-k9xk10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

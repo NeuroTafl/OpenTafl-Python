@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Mari",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b2-b4",
+        "g5-j5",
+        "j2-j4xj5",
+        "h6-h10",
+        "j10-i10",
+        "g7-j7",
+        "f10-g10xh10",
+        "d6-d10",
+        "i9-j9",
+        "e6-c6",
+        "f2-d2",
+        "g6-g9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

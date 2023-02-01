@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g10-h10",
+        "d6-d11",
+        "b7-d7",
+        "f5-d5",
+        "b5-c5",
+        "f4-c4xc5",
+        "g2-g4",
+        "e6-e7",
+        "g4-f4xf3",
+        "c6-c7xd7",
+        "e2-e5",
+        "f6-d6",
+        "e10-c10",
+        "f7-f5xe5",
+        "f2-d2",
+        "c7-b7",
+        "c10-c7xb7",
+        "f8-c8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

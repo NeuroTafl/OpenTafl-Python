@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "BB",
+    "BlackSidePlayerName": "Kase",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g1-g4",
+        "h6-h4xg4",
+        "k5-h5",
+        "g6-h6xh5",
+        "a4-d4",
+        "h4-h2",
+        "a5-d5",
+        "h2-j2",
+        "a7-d7xd6",
+        "h6-h10",
+        "h1-h9xh10",
+        "f6-h6",
+        "f1-h1",
+        "h6-i6",
+        "h1-i1",
+        "i6-i2",
+        "k4-k2",
+        "f4-k4",
+        "d4-i4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

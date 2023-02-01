@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Brench",
+    "BlackSidePlayerName": "Corbeau",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b3",
+        "d6-d2",
+        "d11-d3xd2",
+        "e6-b6",
+        "a8-b8",
+        "f6-c6",
+        "f10-c10",
+        "c6-c1",
+        "b3-b1",
+        "c1-c9",
+        "j6-j9",
+        "c9-c1xb1",
+        "c10-c6xb6",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

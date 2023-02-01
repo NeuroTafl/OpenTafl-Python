@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Brench",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-j8",
+        "k8-k9",
+        "g7-j7",
+        "k5-i5",
+        "e7-b7",
+        "a5-c5",
+        "f7-c7",
+        "a8-b8xb7",
+        "f6-f9",
+        "a7-a9",
+        "f9-b9",
+        "f10-b10",
+        "c7-c11",
+        "k9-c9"
+    ],
+    "WhoWon": "Black"
+}

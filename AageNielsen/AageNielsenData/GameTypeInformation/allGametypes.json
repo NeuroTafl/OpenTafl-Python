@@ -1,0 +1,877 @@
+{
+    "1": {
+        "spiltype": 1,
+        "name": "Rachunek tablut 9x9 ",
+        "balance": "0"
+    },
+    "2": {
+        "spiltype": 2,
+        "name": "Skalk Hnefatafl 11x11 ",
+        "balance": "-3.78"
+    },
+    "3": {
+        "spiltype": 3,
+        "name": "Berserk Hnefatafl 11x11 ",
+        "balance": "1.22"
+    },
+    "4": {
+        "spiltype": 4,
+        "name": "Fetlar Hnefatafl 11x11 ",
+        "balance": "1.42"
+    },
+    "5": {
+        "spiltype": 5,
+        "name": "Sea battle T 9x9 ",
+        "balance": "1.53"
+    },
+    "6": {
+        "spiltype": 6,
+        "name": "Foteviken tablut 9x9 ",
+        "balance": "1.63"
+    },
+    "7": {
+        "spiltype": 7,
+        "name": "Historical Hnefatafl 9x9 (Saami Tablut) ",
+        "balance": "-1.19"
+    },
+    "8": {
+        "spiltype": 8,
+        "name": "Ashton tablut 9x9 ",
+        "balance": "-5.05"
+    },
+    "9": {
+        "spiltype": 9,
+        "name": "Berserk Hnefatafl 9x9 ",
+        "balance": "0"
+    },
+    "10": {
+        "spiltype": 10,
+        "name": "Skalk Hnefatafl 9x9 (ExpoMedia) ",
+        "balance": "-1.82"
+    },
+    "11": {
+        "spiltype": 11,
+        "name": "Sea battle T diamond 11x11 ",
+        "balance": "-1.28"
+    },
+    "12": {
+        "spiltype": 12,
+        "name": "Old Hnefatafl 9x9 ",
+        "balance": "2.26"
+    },
+    "13": {
+        "spiltype": 13,
+        "name": "Old Copenhagen Hnefatafl 11x11 ",
+        "balance": "1.44"
+    },
+    "14": {
+        "spiltype": 14,
+        "name": "History Craft Hnefatafl 11x11 ",
+        "balance": "1.71"
+    },
+    "15": {
+        "spiltype": 15,
+        "name": "Old Hnefatafl 11x11 ",
+        "balance": "-1.06"
+    },
+    "16": {
+        "spiltype": 16,
+        "name": "Copenhagen Hnefatafl 11x11 ",
+        "balance": "1.4"
+    },
+    "17": {
+        "spiltype": 17,
+        "name": "Tawlbwrdd T diamond 11x11 ",
+        "balance": "-1.73"
+    },
+    "18": {
+        "spiltype": 18,
+        "name": "Unarmed king tafl 9x9 ",
+        "balance": "0"
+    },
+    "19": {
+        "spiltype": 19,
+        "name": "Hnefatafl edge 11x11 ",
+        "balance": "0"
+    },
+    "20": {
+        "spiltype": 20,
+        "name": "King anvil only edge 11x11 ",
+        "balance": "0"
+    },
+    "21": {
+        "spiltype": 21,
+        "name": "King anvil only 11x11 ",
+        "balance": "0"
+    },
+    "22": {
+        "spiltype": 22,
+        "name": "Sea battle 9x9 (Imperial Contest) ",
+        "balance": "1.72"
+    },
+    "23": {
+        "spiltype": 23,
+        "name": "David Brown Hnefatafl 11x11 (unarmed king) ",
+        "balance": "1.17"
+    },
+    "24": {
+        "spiltype": 24,
+        "name": "Unst king hammer only diamond 11x11 ",
+        "balance": "0"
+    },
+    "25": {
+        "spiltype": 25,
+        "name": "King hammer only edge 11x11 ",
+        "balance": "0"
+    },
+    "26": {
+        "spiltype": 26,
+        "name": "Sea battle tafl 11x11 ",
+        "balance": "-1.05"
+    },
+    "27": {
+        "spiltype": 27,
+        "name": "Tawlbwrdd throneless T diamond 11x11 ",
+        "balance": "-3.3"
+    },
+    "28": {
+        "spiltype": 28,
+        "name": "Tawlbwrdd throneless T cross 11x11 ",
+        "balance": "-2.62"
+    },
+    "29": {
+        "spiltype": 29,
+        "name": "Tawlbwrdd throneless Bell 11x11 ",
+        "balance": "-1.48"
+    },
+    "30": {
+        "spiltype": 30,
+        "name": "Hnefatafl edge 13x13 ",
+        "balance": "0"
+    },
+    "31": {
+        "spiltype": 31,
+        "name": "Simple Tafl 11x11 ",
+        "balance": "-1.09"
+    },
+    "32": {
+        "spiltype": 32,
+        "name": "Tawlbwrdd throneless Lewis diamond 11x11 ",
+        "balance": "1.73"
+    },
+    "33": {
+        "spiltype": 33,
+        "name": "Historical Hnefatafl 13x13 ",
+        "balance": "-1.28"
+    },
+    "34": {
+        "spiltype": 34,
+        "name": "Sea battle tafl 13x13 ",
+        "balance": "-1.06"
+    },
+    "35": {
+        "spiltype": 35,
+        "name": "Fetlar 13x13 (Parlett) ",
+        "balance": "0"
+    },
+    "36": {
+        "spiltype": 36,
+        "name": "Old Hnefatafl 13x13 (Viking Siege) ",
+        "balance": "-1.81"
+    },
+    "37": {
+        "spiltype": 37,
+        "name": "Fetlar sparse 13x13 ",
+        "balance": "0"
+    },
+    "38": {
+        "spiltype": 38,
+        "name": "Fetlar sparse cross 13x13 ",
+        "balance": "0"
+    },
+    "39": {
+        "spiltype": 39,
+        "name": "Copenhagen Hnefatafl 13x13 ",
+        "balance": "1.43"
+    },
+    "40": {
+        "spiltype": 40,
+        "name": "Tablut 19x19 ",
+        "balance": "0"
+    },
+    "41": {
+        "spiltype": 41,
+        "name": "Sea battle tafl 19x19 ",
+        "balance": "0"
+    },
+    "42": {
+        "spiltype": 42,
+        "name": "Sea battle tafl 15x15 ",
+        "balance": "-1.05"
+    },
+    "43": {
+        "spiltype": 43,
+        "name": "Tablut sparse 15x15 ",
+        "balance": "0"
+    },
+    "44": {
+        "spiltype": 44,
+        "name": "Fetlar 13x13 (Viking Siege) ",
+        "balance": "-1.17"
+    },
+    "45": {
+        "spiltype": 45,
+        "name": "Hnefatafl edge 19x19 ",
+        "balance": "0"
+    },
+    "46": {
+        "spiltype": 46,
+        "name": "Historical Hnefatafl 13x13 (Nielsen) ",
+        "balance": "-1.39"
+    },
+    "47": {
+        "spiltype": 47,
+        "name": "Tablut sparse 13x13 ",
+        "balance": "0"
+    },
+    "48": {
+        "spiltype": 48,
+        "name": "Historical Hnefatafl 15x15 ",
+        "balance": "-1.79"
+    },
+    "49": {
+        "spiltype": 49,
+        "name": "Historical Hnefatafl 15x15 (Nielsen) ",
+        "balance": "-1.24"
+    },
+    "50": {
+        "spiltype": 50,
+        "name": "Sea battle sparse 13x13 ",
+        "balance": "0"
+    },
+    "51": {
+        "spiltype": 51,
+        "name": "Historical Hnefatafl 7x7 (Irish Brandubh 1) ",
+        "balance": "1.69"
+    },
+    "52": {
+        "spiltype": 52,
+        "name": "Brandubh-2 Tablut 7x7 ",
+        "balance": "0"
+    },
+    "53": {
+        "spiltype": 53,
+        "name": "Brandubh 7x7 (Walker) ",
+        "balance": "1.29"
+    },
+    "54": {
+        "spiltype": 54,
+        "name": "Old Magpie cross 7x7 ",
+        "balance": "1.61"
+    },
+    "55": {
+        "spiltype": 55,
+        "name": "Old Magpie circle 7x7 ",
+        "balance": "0"
+    },
+    "56": {
+        "spiltype": 56,
+        "name": "Sea Battle 7x7 ",
+        "balance": "0"
+    },
+    "57": {
+        "spiltype": 57,
+        "name": "Sea Battle-1 7x7 ",
+        "balance": "0"
+    },
+    "58": {
+        "spiltype": 58,
+        "name": "Brandubh throneless cross 7x7 ",
+        "balance": "0"
+    },
+    "59": {
+        "spiltype": 59,
+        "name": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless) ",
+        "balance": "1.75"
+    },
+    "60": {
+        "spiltype": 60,
+        "name": "Ard Ri throneless circle 7x7 ",
+        "balance": "0"
+    },
+    "61": {
+        "spiltype": 61,
+        "name": "Sea Battle circle 7x7 ",
+        "balance": "0"
+    },
+    "62": {
+        "spiltype": 62,
+        "name": "Ard Ri-1 throneless 7x7 ",
+        "balance": "0"
+    },
+    "63": {
+        "spiltype": 63,
+        "name": "Magpie line 7x7 ",
+        "balance": "-1.26"
+    },
+    "64": {
+        "spiltype": 64,
+        "name": "Magpie 7x7 ",
+        "balance": "-1.11"
+    },
+    "65": {
+        "spiltype": 65,
+        "name": "Magpie circle 7x7 ",
+        "balance": "-1.42"
+    },
+    "66": {
+        "spiltype": 66,
+        "name": "Fidchell (Sea Battle 7x7) ",
+        "balance": "0"
+    },
+    "67": {
+        "spiltype": 67,
+        "name": "Fidchell armed (Hnefatafl edge 7x7) ",
+        "balance": "1.61"
+    },
+    "68": {
+        "spiltype": 68,
+        "name": "Tawlbwrdd Lewis diamond 11x11 ",
+        "balance": "2.04"
+    },
+    "69": {
+        "spiltype": 69,
+        "name": "Sea battle Lewis diamond 11x11 ",
+        "balance": "1.67"
+    },
+    "70": {
+        "spiltype": 70,
+        "name": "Sea battle square 9x9 ",
+        "balance": "1.31"
+    },
+    "71": {
+        "spiltype": 71,
+        "name": "Sea battle T rhombus 11x11 ",
+        "balance": "0"
+    },
+    "72": {
+        "spiltype": 72,
+        "name": "Sea battle T circle 11x11 ",
+        "balance": "1.37"
+    },
+    "73": {
+        "spiltype": 73,
+        "name": "Plantagenet Hnefatafl 11x11 ",
+        "balance": "0"
+    },
+    "74": {
+        "spiltype": 74,
+        "name": "Copenhagen Hnefatafl Minus 11x11 ",
+        "balance": "0"
+    },
+    "75": {
+        "spiltype": 75,
+        "name": "Tawlbwrdd T cross 11x11 ",
+        "balance": "-2.11"
+    },
+    "76": {
+        "spiltype": 76,
+        "name": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd) ",
+        "balance": "-1.18"
+    },
+    "77": {
+        "spiltype": 77,
+        "name": "Alea Evangelii 19x19 (tablut corner) ",
+        "balance": "0"
+    },
+    "78": {
+        "spiltype": 78,
+        "name": "Berserk throneless 11x11 ",
+        "balance": "0"
+    },
+    "79": {
+        "spiltype": 79,
+        "name": "Alea Evangelii Berserk 19x19 ",
+        "balance": "0"
+    },
+    "80": {
+        "spiltype": 80,
+        "name": "Alea Evangelii strong 19x19 ",
+        "balance": "0"
+    },
+    "81": {
+        "spiltype": 81,
+        "name": "Alea Evangelii dux8 19x19 ",
+        "balance": "0"
+    },
+    "82": {
+        "spiltype": 82,
+        "name": "Alea Evangelii dux4 19x19 ",
+        "balance": "0"
+    },
+    "83": {
+        "spiltype": 83,
+        "name": "Alea Evangelii dux4 strong 19x19 ",
+        "balance": "0"
+    },
+    "84": {
+        "spiltype": 84,
+        "name": "Foteviken tablut 11x11 ",
+        "balance": "-1.47"
+    },
+    "85": {
+        "spiltype": 85,
+        "name": "Brandubh line 7x7 ",
+        "balance": "2.08"
+    },
+    "86": {
+        "spiltype": 86,
+        "name": "Sea battle line 9x9 ",
+        "balance": "2.85"
+    },
+    "87": {
+        "spiltype": 87,
+        "name": "Brandubh circle 7x7 ",
+        "balance": "1.54"
+    },
+    "88": {
+        "spiltype": 88,
+        "name": "Sea battle circle 9x9 ",
+        "balance": "1.44"
+    },
+    "89": {
+        "spiltype": 89,
+        "name": "Foteviken cross 11x11 ",
+        "balance": "0"
+    },
+    "90": {
+        "spiltype": 90,
+        "name": "Unst king hammer only cross 11x11 ",
+        "balance": "-2.17"
+    },
+    "91": {
+        "spiltype": 91,
+        "name": "Tawlbwrdd Lewis cross 11x11 ",
+        "balance": "-1.1"
+    },
+    "92": {
+        "spiltype": 92,
+        "name": "Unst Alea Evangelii 19x19 ",
+        "balance": "-1.09"
+    },
+    "93": {
+        "spiltype": 93,
+        "name": "Unst king hammer only Lewis diamond 11x11 ",
+        "balance": "0"
+    },
+    "94": {
+        "spiltype": 94,
+        "name": "Copenhagen Hnefatafl Bell 11x11 ",
+        "balance": "1.41"
+    },
+    "95": {
+        "spiltype": 95,
+        "name": "Brandubh throneless cross 7x7 ",
+        "balance": "0"
+    },
+    "96": {
+        "spiltype": 96,
+        "name": "Brandubh throneless circle 7x7 ",
+        "balance": "0"
+    },
+    "97": {
+        "spiltype": 97,
+        "name": "Brandubh Ohio weak 7x7 ",
+        "balance": "1.8"
+    },
+    "98": {
+        "spiltype": 98,
+        "name": "Brandubh throneless line 7x7 ",
+        "balance": "-1.67"
+    },
+    "99": {
+        "spiltype": 99,
+        "name": "Ard Ri unarmed cross 7x7 ",
+        "balance": "0"
+    },
+    "100": {
+        "spiltype": 100,
+        "name": "Ard Ri throneless unarmed cross 7x7 ",
+        "balance": "-3.4"
+    },
+    "101": {
+        "spiltype": 101,
+        "name": "Ard Ri friendly-throne unarmed cross 7x7 ",
+        "balance": "3"
+    },
+    "102": {
+        "spiltype": 102,
+        "name": "Alea Berserk 19x19 (Bartley) ",
+        "balance": "1.5"
+    },
+    "103": {
+        "spiltype": 103,
+        "name": "Ard Ri friendly-throne unarmed circle 7x7 ",
+        "balance": "4.45"
+    },
+    "104": {
+        "spiltype": 104,
+        "name": "Ard Ri-1 7x7 ",
+        "balance": "-2.41"
+    },
+    "105": {
+        "spiltype": 105,
+        "name": "Ard Ri-1 friendly-throne 7x7 ",
+        "balance": "-1.86"
+    },
+    "106": {
+        "spiltype": 106,
+        "name": "Skalk Lewis diamond 11x11 ",
+        "balance": "0"
+    },
+    "107": {
+        "spiltype": 107,
+        "name": "Skalk Lewis diamond strong-corners 11x11 ",
+        "balance": "0"
+    },
+    "108": {
+        "spiltype": 108,
+        "name": "Skalk strong-corners 9x9 ",
+        "balance": "0"
+    },
+    "109": {
+        "spiltype": 109,
+        "name": "Brandubh weak-throne 7x7 ",
+        "balance": "-2"
+    },
+    "110": {
+        "spiltype": 110,
+        "name": "Brandubh weak-throne line 7x7 ",
+        "balance": "0"
+    },
+    "111": {
+        "spiltype": 111,
+        "name": "Tablut 13x13 (modif. Parlett) ",
+        "balance": "-1.47"
+    },
+    "112": {
+        "spiltype": 112,
+        "name": "Brandubh weak-throne circle 7x7 ",
+        "balance": "0"
+    },
+    "113": {
+        "spiltype": 113,
+        "name": "Copenhagen Hnefatafl unsafe-edge 11x11 ",
+        "balance": "0"
+    },
+    "114": {
+        "spiltype": 114,
+        "name": "Sea battle tafl 13x13 (Nielsen 2) ",
+        "balance": "-1.4"
+    },
+    "115": {
+        "spiltype": 115,
+        "name": "Simple Tafl 9x9 ",
+        "balance": "0"
+    },
+    "116": {
+        "spiltype": 116,
+        "name": "Historical Hnefatafl 13x13 (modif. Parlett 2) ",
+        "balance": "-1.43"
+    },
+    "117": {
+        "spiltype": 117,
+        "name": "Sea battle tafl 13x13 (Nielsen) ",
+        "balance": "1.18"
+    },
+    "118": {
+        "spiltype": 118,
+        "name": "Ard Ri-26 7x7 ",
+        "balance": "0"
+    },
+    "119": {
+        "spiltype": 119,
+        "name": "Ard Ri-32 7x7 ",
+        "balance": "0"
+    },
+    "120": {
+        "spiltype": 120,
+        "name": "Ard Ri-39 7x7 ",
+        "balance": "0"
+    },
+    "121": {
+        "spiltype": 121,
+        "name": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri) ",
+        "balance": "1.15"
+    },
+    "122": {
+        "spiltype": 122,
+        "name": "Brandubh-39 7x7 ",
+        "balance": "2.67"
+    },
+    "123": {
+        "spiltype": 123,
+        "name": "Sea battle-1571 9x9 ",
+        "balance": "-1.4"
+    },
+    "124": {
+        "spiltype": 124,
+        "name": "Sea battle-1650 9x9 ",
+        "balance": "0"
+    },
+    "125": {
+        "spiltype": 125,
+        "name": "Sea battle-2542 9x9 ",
+        "balance": "1.71"
+    },
+    "126": {
+        "spiltype": 126,
+        "name": "Sea battle-1606 9x9 ",
+        "balance": "1.88"
+    },
+    "127": {
+        "spiltype": 127,
+        "name": "Sea battle-2566 9x9 ",
+        "balance": "0"
+    },
+    "128": {
+        "spiltype": 128,
+        "name": "Sea battle-2526 9x9 ",
+        "balance": "-1.06"
+    },
+    "129": {
+        "spiltype": 129,
+        "name": "Historical Hnefatafl 7x7 (Irish Brandubh 2) ",
+        "balance": "1.38"
+    },
+    "130": {
+        "spiltype": 130,
+        "name": "Brandubh noreturn 7x7 ",
+        "balance": "1.6"
+    },
+    "131": {
+        "spiltype": 131,
+        "name": "Sea battle-204577 11x11 ",
+        "balance": "-1.6"
+    },
+    "132": {
+        "spiltype": 132,
+        "name": "Sea battle-205009 11x11 ",
+        "balance": "0"
+    },
+    "133": {
+        "spiltype": 133,
+        "name": "Alea Berserk 17x17 (Martens) ",
+        "balance": "-2.08"
+    },
+    "134": {
+        "spiltype": 134,
+        "name": "Old Tyr-1 17x17 ",
+        "balance": "1.17"
+    },
+    "135": {
+        "spiltype": 135,
+        "name": "Old Tyr-1 13x13 ",
+        "balance": "-2.06"
+    },
+    "136": {
+        "spiltype": 136,
+        "name": "Old Tyr-1 15x15 ",
+        "balance": "1.04"
+    },
+    "137": {
+        "spiltype": 137,
+        "name": "Old Tyr-2 13x13 ",
+        "balance": "-2.5"
+    },
+    "138": {
+        "spiltype": 138,
+        "name": "Old Tyr-2 11x11 ",
+        "balance": "0"
+    },
+    "139": {
+        "spiltype": 139,
+        "name": "Old Tyr-2 15x15 ",
+        "balance": "1"
+    },
+    "140": {
+        "spiltype": 140,
+        "name": "Old Tyr-2 17x17 ",
+        "balance": "1"
+    },
+    "141": {
+        "spiltype": 141,
+        "name": "Old TYR! 15x15 ",
+        "balance": "1.07"
+    },
+    "142": {
+        "spiltype": 142,
+        "name": "Old TYR! 11x11 ",
+        "balance": "0"
+    },
+    "143": {
+        "spiltype": 143,
+        "name": "Old TYR! 17x17 ",
+        "balance": "-1.08"
+    },
+    "144": {
+        "spiltype": 144,
+        "name": "Old TYR! 13x13 ",
+        "balance": "-1.83"
+    },
+    "145": {
+        "spiltype": 145,
+        "name": "Tyr 15x15 ",
+        "balance": "-1.13"
+    },
+    "146": {
+        "spiltype": 146,
+        "name": "Saami S&aacute;hkku 3x15 (K&aring;fjord) ",
+        "balance": "0"
+    },
+    "147": {
+        "spiltype": 147,
+        "name": "Saami Daabloe 11x9 ",
+        "balance": "0"
+    },
+    "148": {
+        "spiltype": 148,
+        "name": "Hex 11x11 ",
+        "balance": "0"
+    },
+    "149": {
+        "spiltype": 149,
+        "name": "Saami Cuhkka 5x5 ",
+        "balance": "0"
+    },
+    "150": {
+        "spiltype": 150,
+        "name": "Tyr 13x13 ",
+        "balance": "-1.99"
+    },
+    "151": {
+        "spiltype": 151,
+        "name": "Tyr 11x11 ",
+        "balance": "1.02"
+    },
+    "154": {
+        "spiltype": 154,
+        "name": "Tyr 9x9 ",
+        "balance": "1.83"
+    },
+    "155": {
+        "spiltype": 155,
+        "name": "Old Tyr 15x15 ",
+        "balance": "-1.3"
+    },
+    "156": {
+        "spiltype": 156,
+        "name": "Old Tyr 11x11 ",
+        "balance": "-1.49"
+    },
+    "157": {
+        "spiltype": 157,
+        "name": "Brandubh4 7x7 ",
+        "balance": "0"
+    },
+    "158": {
+        "spiltype": 158,
+        "name": "Brandubh3 7x7 ",
+        "balance": "1.42"
+    },
+    "159": {
+        "spiltype": 159,
+        "name": "Tablut2 9x9 ",
+        "balance": "0"
+    },
+    "160": {
+        "spiltype": 160,
+        "name": "Ard Ri-1 nopass 7x7 ",
+        "balance": "0"
+    },
+    "161": {
+        "spiltype": 161,
+        "name": "Ard Ri-1 whitefriendlypass 7x7 ",
+        "balance": "-1.62"
+    },
+    "162": {
+        "spiltype": 162,
+        "name": "Dald&oslash;s 3x12 ",
+        "balance": "0"
+    },
+    "163": {
+        "spiltype": 163,
+        "name": "Dald&oslash;s 3x16 ",
+        "balance": "0"
+    },
+    "164": {
+        "spiltype": 164,
+        "name": "Old Tyr 17x17 ",
+        "balance": "0"
+    },
+    "165": {
+        "spiltype": 165,
+        "name": "Old Tyr-w 11x11 ",
+        "balance": "1.26"
+    },
+    "166": {
+        "spiltype": 166,
+        "name": "Historical Hnefatafl 9x9 (Saami Tablut-w) ",
+        "balance": "1.07"
+    },
+    "167": {
+        "spiltype": 167,
+        "name": "Sea battle-2526-w 9x9 ",
+        "balance": "0"
+    },
+    "168": {
+        "spiltype": 168,
+        "name": "Skalk Hnefatafl 9x9 (ExpoMedia-w) ",
+        "balance": "-2.19"
+    },
+    "169": {
+        "spiltype": 169,
+        "name": "Sea battle-204577-w 11x11 ",
+        "balance": "1"
+    },
+    "170": {
+        "spiltype": 170,
+        "name": "Historical Hnefatafl-w 13x13 ",
+        "balance": "-1.53"
+    },
+    "171": {
+        "spiltype": 171,
+        "name": "Dald&oslash;s 3x14 ",
+        "balance": "0"
+    },
+    "172": {
+        "spiltype": 172,
+        "name": "Tyr 13x13 ",
+        "balance": "-1.77"
+    },
+    "173": {
+        "spiltype": 173,
+        "name": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd-w) ",
+        "balance": "1.31"
+    },
+    "174": {
+        "spiltype": 174,
+        "name": "Fidchell weak-king (Simple Tafl 7x7) ",
+        "balance": "0"
+    },
+    "175": {
+        "spiltype": 175,
+        "name": "Simple Tafl-w 11x11 ",
+        "balance": "0"
+    },
+    "176": {
+        "spiltype": 176,
+        "name": "Simple Tafl-w 9x9 ",
+        "balance": "0"
+    },
+    "177": {
+        "spiltype": 177,
+        "name": "Simple Tafl rhombus-w 9x9 ",
+        "balance": "0"
+    }
+}

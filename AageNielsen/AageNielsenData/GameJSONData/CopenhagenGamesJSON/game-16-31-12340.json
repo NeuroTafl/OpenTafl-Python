@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Brench",
+    "BlackSidePlayerName": "p59xy",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-j7",
+        "f8-i8",
+        "h1-i1",
+        "f4-h4",
+        "j7-j10",
+        "f5-f3",
+        "a4-f4xf3",
+        "g5-g3",
+        "e1-e3",
+        "f6-f5",
+        "f4-c4",
+        "f5-f3",
+        "d1-d3",
+        "g3-g2",
+        "j6-j3",
+        "f3-i3",
+        "k4-k2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

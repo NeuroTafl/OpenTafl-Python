@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Dansuno",
+    "BlackSidePlayerName": "Duruk",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f4-c4",
+        "b6-b3",
+        "d6-d2",
+        "a6-c6",
+        "f8-c8",
+        "f10-b10",
+        "g7-g10",
+        "h11-h10",
+        "e5-c5",
+        "c6-b6",
+        "f7-f10",
+        "j6-j9",
+        "f5-d5",
+        "f1-f3",
+        "d5-d9",
+        "k7-i7",
+        "f6-f9",
+        "i7-i9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

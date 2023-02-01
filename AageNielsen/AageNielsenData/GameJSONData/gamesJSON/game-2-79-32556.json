@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "altti",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "f2-c2",
+        "f4-f2",
+        "k4-i4",
+        "f5-j5",
+        "i4-i5xj5",
+        "f6-f3",
+        "i5-i3",
+        "f3-b3",
+        "a4-a3",
+        "b3-b1",
+        "d1-c1"
+    ],
+    "WhoWon": "Black"
+}

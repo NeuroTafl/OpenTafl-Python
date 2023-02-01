@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Roderich",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "b6b10",
+        "e5e2",
+        "d1d2",
+        "e6e2",
+        "a5d5",
+        "f4d4",
+        "a4c4",
+        "g5g2",
+        "a6a5",
+        "f5j5",
+        "k4j4",
+        "f6f3",
+        "h1h3",
+        "f3a3",
+        "d2a2",
+        "a3b3",
+        "e1b1",
+        "b3a3",
+        "b10b2",
+        "a3a1"
+    ],
+    "WhoWon": "White"
+}

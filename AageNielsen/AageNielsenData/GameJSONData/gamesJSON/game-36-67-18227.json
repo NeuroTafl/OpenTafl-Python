@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "mccluskeyp",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j1-k1",
+        "j7-j1",
+        "i1-i3",
+        "j1-j2",
+        "a4-c4",
+        "h6-h2",
+        "i3-h3xh2",
+        "j2-h2",
+        "h3-f3",
+        "h7-h3",
+        "m4-j4",
+        "i7-i4",
+        "m5-m3",
+        "g7-k7",
+        "g12-l12",
+        "k7-k2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

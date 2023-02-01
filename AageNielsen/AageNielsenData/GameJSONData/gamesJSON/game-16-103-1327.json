@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Brench",
+    "BlackSidePlayerName": "Madphill",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-i6",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "a7-c7",
+        "g5-g2",
+        "h1-h2xg2",
+        "f6-f5",
+        "d1-c1",
+        "f5-j5",
+        "i6-j6",
+        "j5-j1",
+        "g1-i1",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

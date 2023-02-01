@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Cassio",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-g2",
+        "e4-f4",
+        "b5-b3",
+        "d5-d8",
+        "d9-c9",
+        "d8-d9",
+        "e8-b8",
+        "c5-b5",
+        "c9-c5xb5",
+        "e5-d5",
+        "b8-c8",
+        "d5-d7",
+        "c5-c7",
+        "d9-c9",
+        "c8-d8",
+        "c9-d9xd8",
+        "h5-h8",
+        "d9-c9",
+        "h8-d8",
+        "c9-d9xd8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

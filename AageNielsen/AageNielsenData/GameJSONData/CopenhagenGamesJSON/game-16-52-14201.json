@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Bainn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-i2",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "k7-i7",
+        "f4-f2",
+        "b6-b3",
+        "f6-f3",
+        "d1-c1",
+        "f3-k3",
+        "i2-k2",
+        "k3-j3xj4",
+        "h1-j1",
+        "j3-k3xk2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

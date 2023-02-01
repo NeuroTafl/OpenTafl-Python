@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "animals",
+    "BlackSidePlayerName": "test3",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-c2",
+        "e4-f4",
+        "g3-f3",
+        "f4-f7",
+        "e7-d7",
+        "f7-e7",
+        "e1-e4",
+        "d5-e5",
+        "f3-e3",
+        "c4-c5",
+        "a5-b5",
+        "d4-d6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Khan Asparukh",
+    "BlackSidePlayerName": "Trygve",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-c2",
+        "d3-g3",
+        "b4-b3",
+        "d5-g5xg4",
+        "f4-g4",
+        "g3-g2",
+        "b3-g3",
+        "c4-c6",
+        "a4-b4",
+        "e4-e6xd6",
+        "g4-e4",
+        "d4-d5",
+        "c2-c5",
+        "d5-f5",
+        "d7-f7",
+        "f5-f1"
+    ],
+    "WhoWon": "White"
+}

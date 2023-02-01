@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Cvok",
+    "BlackSidePlayerName": "barba",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "f8-i8",
+        "h11-i11",
+        "h6-h11",
+        "k8-j8",
+        "g7-j7",
+        "a8-h8xi8",
+        "g5-j5xj6",
+        "k4-j4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

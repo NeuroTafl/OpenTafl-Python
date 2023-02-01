@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Barba",
+    "AageGameTypeKey": 8,
+    "AageGameTypeName": "Ashton tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f5-f8",
+        "f1-f5xg5",
+        "e7-g7",
+        "i6-g6",
+        "e6-f6",
+        "i4-f4",
+        "d5-d8xe8",
+        "d1-d5xc5",
+        "e5-e6",
+        "a6-d6",
+        "g7-h7",
+        "g6-g8xf8",
+        "f6-f8",
+        "f5-f7xf8",
+        "e3-g3",
+        "d5-d4xe4",
+        "e6-g6",
+        "e2-h2",
+        "g3-g5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

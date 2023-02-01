@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Skallatorc",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-c2",
+        "g7-g10",
+        "j6-j10",
+        "e7-e10xf10",
+        "b6-b9",
+        "f8-b8",
+        "d11-d10",
+        "f7-c7",
+        "k8-k9",
+        "c7-c10xd10",
+        "k7-b7xb8",
+        "f6-f8",
+        "k6-k8",
+        "f8-i8",
+        "h11-i11",
+        "i8-i1"
+    ],
+    "WhoWon": "White"
+}

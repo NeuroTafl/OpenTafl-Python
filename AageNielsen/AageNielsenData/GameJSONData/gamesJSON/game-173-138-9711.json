@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 173,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g5-g3",
+        "e2-e3",
+        "f5-i5",
+        "j7-i7",
+        "f4-k4",
+        "e3-e4",
+        "f6-f4",
+        "b5-d5",
+        "h6-h2",
+        "g11-h11",
+        "f4-j4",
+        "e4-i4xi5",
+        "j4-j1"
+    ],
+    "WhoWon": "White"
+}

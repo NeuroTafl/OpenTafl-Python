@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Olffa",
+    "BlackSidePlayerName": "Odin",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-h1",
+        "f3-g3",
+        "e1-d1",
+        "g3-g4",
+        "d1-c1",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

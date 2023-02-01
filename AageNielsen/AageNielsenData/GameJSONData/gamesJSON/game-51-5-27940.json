@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "EilidhAnIorua",
+    "BlackSidePlayerName": "branan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "d3-d2",
+        "f4-f2",
+        "e4-e2",
+        "d6-e6",
+        "d5-c5",
+        "b4-b6",
+        "d4-d3",
+        "b6-b4xc4",
+        "d3-d6",
+        "b4-b6",
+        "c5-c6",
+        "g4-g5",
+        "d6-d3",
+        "f2-f3",
+        "c6-c4",
+        "b6-b4xc4",
+        "e2-e1",
+        "g5-g4",
+        "d3-e3",
+        "d7-d3xd2"
+    ],
+    "WhoWon": "Black"
+}

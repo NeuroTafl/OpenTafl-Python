@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Потапыч",
+    "BlackSidePlayerName": "Beyn",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-c1",
+        "f7-e7",
+        "g11-i11",
+        "f8-h8",
+        "f11-h11",
+        "d6-d1",
+        "f1-e1xd1",
+        "f6-f8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

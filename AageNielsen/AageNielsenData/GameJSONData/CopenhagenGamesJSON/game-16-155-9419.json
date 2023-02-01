@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "TorchwoodThree",
+    "BlackSidePlayerName": "OdinHimself",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "d6-d2",
+        "d11-d3xd2",
+        "e6-c6",
+        "d3-d6xc6",
+        "f8-d8",
+        "a8-c8",
+        "f7-f8",
+        "h11-h9",
+        "f4-d4",
+        "h1-h3",
+        "e7-d7",
+        "a5-d5",
+        "f6-e6",
+        "e11-e9",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "e9-e3"
+    ],
+    "WhoWon": "Black"
+}

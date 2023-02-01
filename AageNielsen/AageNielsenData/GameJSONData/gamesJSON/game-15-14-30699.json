@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "d6-d3",
+        "f2-f3",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "a7-c7",
+        "d3-b3xb4",
+        "d1-d3",
+        "e6-e4",
+        "f1-f2",
+        "f6-c6",
+        "f2-c2",
+        "c6-c4",
+        "a5-a3",
+        "c4-c3",
+        "g1-b1",
+        "b3-b2",
+        "a3-b3xb2",
+        "b5-a5",
+        "c7-c4"
+    ],
+    "WhoWon": "Black"
+}

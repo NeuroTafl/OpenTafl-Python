@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Bigwurm91",
+    "AageGameTypeKey": 46,
+    "AageGameTypeName": "Historical Hnefatafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b8-b10",
+        "f6-c6",
+        "a8-c8",
+        "f7-f3",
+        "e1-e3xf3",
+        "f8-f3",
+        "f12-f4xf3",
+        "e7-e4xf4",
+        "e13-e7xd7",
+        "h6-k6",
+        "l8-k8",
+        "g9-l9",
+        "a9-k9xl9",
+        "g8-e8",
+        "e7-e5xe4",
+        "g7-g9",
+        "a7-a9",
+        "g9-d9",
+        "b10-d10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

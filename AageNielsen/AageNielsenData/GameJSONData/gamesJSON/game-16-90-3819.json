@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "HELFRICH",
+    "BlackSidePlayerName": "ragnar76",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-h4",
+        "g5-j5",
+        "h4-j4xj5",
+        "f5-j5",
+        "f2-j2",
+        "f4-f2",
+        "a4-f4",
+        "f6-f5",
+        "g1-g5",
+        "e5-e4",
+        "a5-e5"
+    ],
+    "WhoWon": "Black"
+}

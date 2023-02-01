@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Torc",
+    "BlackSidePlayerName": "Davberd",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10-c10",
+        "f8-j8",
+        "a8-i8xj8",
+        "f7-f10",
+        "i8-f8",
+        "f6-f7",
+        "f8-f9xf10",
+        "f7-f8",
+        "d11-d8",
+        "f8-i8",
+        "k4-i4",
+        "i8-i11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Warren",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6j3",
+        "e7e10",
+        "d11d10",
+        "e6e10",
+        "f10i10",
+        "d6d2",
+        "j3d3",
+        "f6c6",
+        "d10c10",
+        "c6c1",
+        "b6b1",
+        "c1c9",
+        "b1b9",
+        "c9k9",
+        "i10k10",
+        "k9j9",
+        "h11j11",
+        "j9j1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "treeclmr2",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j6-j11",
+        "g7-j7",
+        "k8-g8",
+        "h6-h8xg8",
+        "k7-k10",
+        "g6-g10",
+        "d11-b11",
+        "e7-e10xf10",
+        "a8-a10",
+        "f6-i6",
+        "h1-j1",
+        "i6-i1xj1",
+        "f2-j2",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

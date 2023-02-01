@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Volkenpuk",
+    "BlackSidePlayerName": "Unhandyandy",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "d6-d11",
+        "c6-c11xd11",
+        "e6-b6",
+        "b5-c5",
+        "f6-d6",
+        "f9-d9",
+        "d6-d1"
+    ],
+    "WhoWon": "White"
+}

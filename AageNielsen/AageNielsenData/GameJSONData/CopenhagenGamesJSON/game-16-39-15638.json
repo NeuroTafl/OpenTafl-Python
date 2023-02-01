@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "CarlKnapp",
+    "BlackSidePlayerName": "herjan",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "h6-h9",
+        "k8-i8",
+        "g5-i5",
+        "k4-i4",
+        "f5-h5",
+        "h1-h3",
+        "f4-c4",
+        "d1-d3",
+        "f6-f3",
+        "e1-e3",
+        "c4-c1",
+        "g1-g3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

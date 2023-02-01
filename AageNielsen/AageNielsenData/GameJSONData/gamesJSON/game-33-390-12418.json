@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "wilfridsigurdson",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "m9-j9",
+        "h8-k8",
+        "j9-k9xk8",
+        "g8-k8",
+        "l6-k6",
+        "g10-k10xk9",
+        "m8-m9",
+        "g7-g10",
+        "e13-e10",
+        "g10-j10",
+        "g11-j11",
+        "j10-g10",
+        "f12-f11",
+        "d7-d11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

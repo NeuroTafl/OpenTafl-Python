@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 98,
+    "AageGameTypeName": "Brandubh throneless line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g3-g4",
+        "d3-g3",
+        "e7-e5",
+        "d4-d2",
+        "a3-a4",
+        "d2-g2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

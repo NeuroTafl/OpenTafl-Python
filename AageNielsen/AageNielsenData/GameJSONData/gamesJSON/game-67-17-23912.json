@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 67,
+    "AageGameTypeName": "Fidchell armed (Hnefatafl edge 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a1-b1",
+        "f4-f1",
+        "g1-g2",
+        "e4-e3",
+        "g2-g1xf1",
+        "d4-f4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

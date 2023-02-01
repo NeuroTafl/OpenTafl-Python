@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Chuck ward",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-g3",
+        "g7-g9",
+        "k8-i8",
+        "g9-k9",
+        "h11-h9",
+        "g5-j5",
+        "k4-j4xj5",
+        "h6-h4",
+        "f10-j10",
+        "g6-g10",
+        "d11-d10",
+        "f6-i6",
+        "j4-i4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "steveh6883",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b2",
+        "f8-c8",
+        "f10-b10",
+        "e7-b7",
+        "j6-j10",
+        "f7-c7",
+        "f2-j2",
+        "f6-f9",
+        "a8-a9",
+        "f9-k9",
+        "j10-k10",
+        "k9-i9",
+        "k8-k9",
+        "i9-i1",
+        "j2-j1",
+        "i1-i3",
+        "k4-k3",
+        "i3-i1xj1",
+        "k3-j3",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "Mccluskeyp",
+    "AageGameTypeKey": 64,
+    "AageGameTypeName": "Magpie 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "b4-b2",
+        "d3-a3",
+        "b2-a2xa3",
+        "d4-c4",
+        "d6-b6",
+        "c4-b4",
+        "d7-d6xd5",
+        "b4-b3",
+        "a2-b2",
+        "c2-c1",
+        "b2-b1xc1",
+        "b3-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

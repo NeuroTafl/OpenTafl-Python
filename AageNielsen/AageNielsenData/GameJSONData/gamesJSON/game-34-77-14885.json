@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "the fifth seal",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 5,
+    "Moves": [
+        "i1-i4",
+        "h6-h3",
+        "l6-i6xi5",
+        "f6-f3xg3",
+        "m5-j5",
+        "g4-g2",
+        "i4-h4xh3",
+        "e5-e2xf2",
+        "b6-d6",
+        "h7-h5",
+        "i6-i7xj7",
+        "f3-h3xh4",
+        "m6-m4",
+        "h5-d5xd6",
+        "m4-h4xh3",
+        "g6-i6",
+        "a6-g6",
+        "i9-i8xi7",
+        "m9-j9",
+        "h8-h6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

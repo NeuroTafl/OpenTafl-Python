@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "unhandyandy",
+    "BlackSidePlayerName": "Abbas Agraphicus",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "f4-f3",
+        "d2-b2",
+        "d6-c6",
+        "d4-d3",
+        "a4-a3",
+        "d3-c3",
+        "d1-c1",
+        "b2-b3",
+        "f3-e3",
+        "d5-b5xb4",
+        "d7-d4",
+        "c4-b4",
+        "g4-f4xe4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

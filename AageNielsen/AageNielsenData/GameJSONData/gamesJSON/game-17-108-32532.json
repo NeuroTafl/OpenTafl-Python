@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Barba",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "f4-c4",
+        "h1-h3",
+        "f8-i8",
+        "d11-d9",
+        "e7-c7",
+        "a8-c8",
+        "e6-e10",
+        "d9-e9xe10",
+        "f6-e6",
+        "e9-d9",
+        "f5-f3",
+        "i4-f4xf3",
+        "g5-g2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

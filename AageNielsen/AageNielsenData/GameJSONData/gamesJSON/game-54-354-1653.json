@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Cyningstan",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f3",
+        "d5-f5",
+        "a4-a5",
+        "d3-c3",
+        "d2-c2",
+        "c3-a3",
+        "c2-a2",
+        "a3-a4xb4",
+        "a2-a3xa4",
+        "c4-c6",
+        "d6-e6",
+        "d4-d5",
+        "g4-f4xe4",
+        "f5-f6",
+        "f4-f5",
+        "d5-d6xe6",
+        "d7-f7xf6",
+        "d6-d7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Dimetr",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-i2",
+        "e6-e8",
+        "e10-c10",
+        "f8-k8",
+        "j7-j9",
+        "f7-j7",
+        "j9-k9xk8",
+        "f6-f8",
+        "k7-k8",
+        "f8-j8",
+        "k9-j9",
+        "h6-h10",
+        "k6-k7",
+        "h10-j10xj9",
+        "g10-g8",
+        "j8-j9",
+        "k8-k9",
+        "j9-h9",
+        "f10-h10",
+        "h9-h1"
+    ],
+    "WhoWon": "White"
+}

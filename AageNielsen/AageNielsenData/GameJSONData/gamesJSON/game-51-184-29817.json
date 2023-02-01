@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f6",
+        "d3-c3",
+        "b4-b3",
+        "c3-c1",
+        "b3-b1xc1",
+        "c4-c1xb1",
+        "d2-b2",
+        "e4-e1xd1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

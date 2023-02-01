@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 70,
+    "AageGameTypeName": "Sea battle square 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f1-g1",
+        "d4-d2",
+        "b5-b2",
+        "f4-f2xe2",
+        "a6-c6",
+        "e4-h4",
+        "a4-e4",
+        "f6-h6xh5",
+        "g1-g4xh4",
+        "f5-f4",
+        "g4-g6xh6",
+        "e5-h5",
+        "g6-g5",
+        "h5-h9"
+    ],
+    "WhoWon": "White"
+}

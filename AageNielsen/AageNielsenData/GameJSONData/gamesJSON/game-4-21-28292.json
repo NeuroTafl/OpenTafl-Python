@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "conanlib",
+    "BlackSidePlayerName": "chuck ward",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "f10-i10",
+        "d6-d2",
+        "b6-d6",
+        "f6-e6",
+        "j6-j9",
+        "e5-c5",
+        "h3-d3xd2",
+        "e6-e9",
+        "a8-b8",
+        "e9-b9",
+        "d10-b10",
+        "c5-c11",
+        "b10-b11",
+        "b9-a9",
+        "d6-d11xc11",
+        "a9-a11"
+    ],
+    "WhoWon": "White"
+}

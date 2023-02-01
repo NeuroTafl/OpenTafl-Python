@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "bigirish65",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "b6-b9",
+        "e6-b6",
+        "a4-b4",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "f10-f9",
+        "f6-c6",
+        "f2-c2",
+        "c6-c10",
+        "b9-b10",
+        "c10-k10",
+        "f9-k9",
+        "k10-k11"
+    ],
+    "WhoWon": "White"
+}

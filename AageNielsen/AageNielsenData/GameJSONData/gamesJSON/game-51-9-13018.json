@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b4-b5",
+        "e4-e3",
+        "f4-f3",
+        "c4-b4",
+        "d2-b2",
+        "d3-d2",
+        "b2-b3xb4",
+        "d2-c2",
+        "b3-d3xe3",
+        "d4-e4",
+        "d3-b3",
+        "c2-c6",
+        "b5-b6xc6",
+        "e4-e2",
+        "d6-e6",
+        "e2-g2",
+        "g4-g3"
+    ],
+    "WhoWon": "Black"
+}

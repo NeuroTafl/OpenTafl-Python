@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "barba",
+    "BlackSidePlayerName": "Roderich",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "d11-d10xe10",
+        "g5-j5",
+        "k7-i7",
+        "e6-e10",
+        "g11-g9",
+        "e5-e9",
+        "a8-c8",
+        "f7-b7",
+        "c8-b8xb7",
+        "d6-d9",
+        "b6-d6",
+        "f5-c5",
+        "d10-c10",
+        "d9-a9",
+        "d6-d10xe10",
+        "j5-j2",
+        "k4-k2",
+        "f4-i4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

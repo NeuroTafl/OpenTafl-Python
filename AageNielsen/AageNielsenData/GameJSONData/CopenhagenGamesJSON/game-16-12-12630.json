@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "ratmancometh",
+    "BlackSidePlayerName": "YabibiYaseen",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-g8",
+        "h6-h8xg8",
+        "g11-g8",
+        "g7-h7",
+        "e11-e8xf8",
+        "f7-f8xg8",
+        "a7-d7",
+        "f6-f7",
+        "h11-j11",
+        "f7-g7",
+        "k7-k10",
+        "h8-h9",
+        "d11-b11",
+        "g7-f7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

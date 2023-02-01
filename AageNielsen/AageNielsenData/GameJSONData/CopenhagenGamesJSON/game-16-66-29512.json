@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Sigurd",
+    "BlackSidePlayerName": "Brynhild",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-i2",
+        "f8-c8",
+        "b6-b10",
+        "d6-d3",
+        "k4-i4",
+        "e5-b5",
+        "a4-a3",
+        "e6-e2",
+        "d1-b1",
+        "f6-c6",
+        "d11-d5",
+        "c6-c1xb1",
+        "a3-c3",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

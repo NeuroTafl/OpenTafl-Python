@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Paul",
+    "BlackSidePlayerName": "HOK",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-k3",
+        "e7-e10",
+        "f10-j10",
+        "f7-b7",
+        "a8-b8xb7",
+        "f8-j8",
+        "h1-i1",
+        "f6-f9",
+        "d11-d9",
+        "f9-k9",
+        "j10-k10",
+        "e10-i10",
+        "d9-j9"
+    ],
+    "WhoWon": "Black"
+}

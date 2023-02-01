@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-d2",
+        "f4-h4",
+        "h2-h3xh4",
+        "e4-h4",
+        "h8-h6",
+        "f5-f2",
+        "g3-g2",
+        "e5-f5",
+        "h5-g5",
+        "f5-f4",
+        "g5-g4",
+        "d6-d9",
+        "c7-c9xd9",
+        "f4-f3",
+        "h6-h5xh4",
+        "f2-f1",
+        "g2-f2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

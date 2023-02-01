@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Bender",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "g4-g5",
+        "d3-g3",
+        "d2-d3",
+        "g3-g4xf4",
+        "d7-f7",
+        "e4-e7xf7",
+        "d1-f1",
+        "e7-d7xd6",
+        "d3-g3xg4",
+        "d4-d1",
+        "b4-b1",
+        "d1-c1xb1",
+        "a4-b4xc4",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

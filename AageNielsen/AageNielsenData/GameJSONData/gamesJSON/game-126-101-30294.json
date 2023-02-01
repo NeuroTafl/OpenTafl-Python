@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 126,
+    "AageGameTypeName": "Sea battle-1606 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "i1-g1",
+        "e3-f3",
+        "g1-g3",
+        "d5-d3",
+        "d9-d5xc5",
+        "e6-d6",
+        "i6-e6xe7",
+        "f5-f6xe6",
+        "e8-e6",
+        "d3-d4xd5",
+        "b5-d5",
+        "d6-c6",
+        "d1-d3xd4",
+        "c6-d6xe6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

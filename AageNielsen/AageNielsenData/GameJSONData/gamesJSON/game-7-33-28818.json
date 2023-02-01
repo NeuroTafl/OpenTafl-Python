@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Jarl",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2g2",
+        "d5d4",
+        "e8c8",
+        "e6b6",
+        "b5b3",
+        "e7e8",
+        "i6e6",
+        "e8e7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

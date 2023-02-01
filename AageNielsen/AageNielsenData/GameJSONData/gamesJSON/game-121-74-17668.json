@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f3-f4",
+        "d3-e3",
+        "c2-d2",
+        "c4-c1",
+        "c6-c4",
+        "c1-e1xe2",
+        "f5-e5",
+        "e3-d3",
+        "e6-d6",
+        "e1-d1xd2",
+        "b3-c3",
+        "d3-g3",
+        "c3-d3",
+        "d1-d2xd3",
+        "b5-c5xd5",
+        "d4-d3",
+        "c4-c3",
+        "d3-f3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

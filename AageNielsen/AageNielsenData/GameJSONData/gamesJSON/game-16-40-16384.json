@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Henns",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "g5-j5",
+        "i4-j4xj5",
+        "f5-j5",
+        "j6-j10",
+        "f4-e4",
+        "d1-d3",
+        "e4-e2",
+        "a4-f4",
+        "e5-e3",
+        "f2-f3xe3",
+        "f6-f5",
+        "a5-c5",
+        "f5-i5",
+        "f3-i3",
+        "i5-i11",
+        "j10-j11",
+        "i11-i4",
+        "j11-j6xj5",
+        "e2-i2xi3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

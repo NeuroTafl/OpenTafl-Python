@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "MasterLuke",
+    "BlackSidePlayerName": "Huscarl",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-b7",
+        "d5-d8",
+        "e8-g8",
+        "e4-h4",
+        "i6-h6",
+        "e5-e4",
+        "a5-b5",
+        "e4-c4",
+        "e2-c2",
+        "e3-e4",
+        "i4-i3",
+        "c5-d5",
+        "b7-c7",
+        "c4-b4",
+        "i3-b3",
+        "b4-d4",
+        "c7-d7xd8",
+        "d4-d3",
+        "f9-f7xe7",
+        "d3-h3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "test4",
+    "AageGameTypeKey": 73,
+    "AageGameTypeName": "Plantagenet Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a4-c4",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "h11-h9",
+        "g5-j5xj6",
+        "k4-i4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "test3",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c1-c2",
+        "e4-e3",
+        "g3-f3",
+        "d5-f5",
+        "e7-e6",
+        "c4-c6",
+        "a5-c5xc6",
+        "f5-f6",
+        "g5-g6xf6",
+        "d4-g4",
+        "f3-g3",
+        "g4-g5xg6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

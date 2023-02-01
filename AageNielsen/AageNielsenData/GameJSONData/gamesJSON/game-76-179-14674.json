@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "W&aelig;gn",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f3-h3",
+        "d6-d8",
+        "e10-e8",
+        "g7-i7",
+        "c6-c8xd8",
+        "g5-i5xi6",
+        "b5-d5",
+        "e6-d6",
+        "b7-d7xd6",
+        "f6-b6",
+        "c8-c6"
+    ],
+    "WhoWon": "Black"
+}

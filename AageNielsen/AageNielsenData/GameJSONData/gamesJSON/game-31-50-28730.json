@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Olafgapi",
+    "BlackSidePlayerName": "norseargy",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j5-h5",
+        "i6-i5",
+        "j6-j5xi5",
+        "e6-e3",
+        "j7-h7xh6",
+        "d6-d7",
+        "b7-c7",
+        "f6-d6",
+        "b5-d5",
+        "f4-d4xd5",
+        "e10-e6",
+        "d6-d5",
+        "a5-c5xc6",
+        "d5-e5",
+        "g2-g4",
+        "d4-d5",
+        "g4-e4xe3"
+    ],
+    "WhoWon": "Black"
+}

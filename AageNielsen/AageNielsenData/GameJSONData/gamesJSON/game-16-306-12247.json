@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "the fifth seal",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "f4-f3",
+        "a8-c8",
+        "f5-j5",
+        "k4-j4xj5",
+        "f6-f4",
+        "a4-c4",
+        "g2-j2",
+        "g1-j1",
+        "f4-i4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

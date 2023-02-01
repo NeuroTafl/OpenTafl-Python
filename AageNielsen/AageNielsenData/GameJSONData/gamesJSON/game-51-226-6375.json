@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g4-g5",
+        "e4-e3",
+        "b4-b5",
+        "c4-c3",
+        "b5-c5",
+        "e3-e5",
+        "d7-e7",
+        "c3-b3",
+        "a4-b4",
+        "b3-a3",
+        "e7-e6",
+        "a3-a4",
+        "d1-c1",
+        "a4-a5",
+        "f4-e4xe5",
+        "d4-c4",
+        "c1-c3"
+    ],
+    "WhoWon": "Black"
+}

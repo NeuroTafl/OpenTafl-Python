@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Mmagari",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-f3",
+        "c4-b4",
+        "b2-c2",
+        "d3-b3",
+        "f3-d3",
+        "e4-e2",
+        "d3-d2",
+        "d4-f4",
+        "d1-f1",
+        "e2-e1xf1",
+        "d2-f2",
+        "f4-d4",
+        "f6-e6",
+        "d4-d1",
+        "c2-c1",
+        "b3-b1xc1",
+        "f2-b2",
+        "e1-e2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

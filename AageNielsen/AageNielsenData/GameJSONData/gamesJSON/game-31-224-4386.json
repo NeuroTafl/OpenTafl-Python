@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Norsebroa",
+    "BlackSidePlayerName": "Norsedemo",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g10-h10",
+        "g6-g7",
+        "j5-j3",
+        "f6-g6",
+        "e2-e3",
+        "g6-g5",
+        "j3-g3xf3",
+        "g5-h5",
+        "g3-g4",
+        "h5-i5",
+        "g2-i2",
+        "i5-i4",
+        "k5-k4",
+        "i4-j4",
+        "i2-i4"
+    ],
+    "WhoWon": "Black"
+}

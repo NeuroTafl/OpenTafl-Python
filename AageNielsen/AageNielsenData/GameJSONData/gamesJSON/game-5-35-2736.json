@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Conanlib",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "c5-c2",
+        "b5-b2",
+        "d5-d8",
+        "d1-d7xd8",
+        "e3-a3",
+        "e1-a1",
+        "e4-d4",
+        "h5-h3",
+        "e5-e1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10-f9",
+        "d6-d3",
+        "f2-b2",
+        "h6-h9",
+        "j6-j9",
+        "f4-i4",
+        "h11-h10",
+        "f5-f2",
+        "k8-h8xh9",
+        "f6-f3",
+        "j9-j3",
+        "d3-a3",
+        "b6-d6xe6",
+        "f3-c3",
+        "a8-c8",
+        "c3-c1",
+        "b2-b1",
+        "f2-b2",
+        "j3-b3xb2",
+        "c1-c2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

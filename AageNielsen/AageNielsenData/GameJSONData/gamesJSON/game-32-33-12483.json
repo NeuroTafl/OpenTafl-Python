@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-h2",
+        "f8-a8",
+        "e10-c10",
+        "f7-f9",
+        "j7-j8",
+        "f6-f8",
+        "j5-i5",
+        "f8-b8",
+        "c10-b10",
+        "b8-c8",
+        "b5-c5",
+        "c8-c11"
+    ],
+    "WhoWon": "White"
+}

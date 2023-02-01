@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Bainn",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "e2-g2",
+        "d5-d8",
+        "d1-d5xc5",
+        "f5-f8xe8",
+        "f1-f5xg5",
+        "e6-d6",
+        "i6-g6",
+        "e4-d4xd5",
+        "b5-d5",
+        "d4-f4",
+        "g6-f6",
+        "f4-d4xd5",
+        "a5-d5",
+        "d4-c4",
+        "i4-e4",
+        "c4-d4xd5",
+        "a6-a5",
+        "e5-b5",
+        "g2-b2",
+        "b5-b9"
+    ],
+    "WhoWon": "White"
+}

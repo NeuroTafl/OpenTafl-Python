@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Bogd Khan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b5",
+        "d3-b3",
+        "d1-c1",
+        "b3-b2",
+        "c1-c2",
+        "d4-d3",
+        "a4-a3",
+        "e4-e1",
+        "b5-b4xc4",
+        "e1-d1xd2",
+        "c2-d2",
+        "d3-c3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

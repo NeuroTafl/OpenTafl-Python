@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Lalli The Hunter",
+    "AageGameTypeKey": 94,
+    "AageGameTypeName": "Copenhagen Hnefatafl Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f3-d3",
+        "f4-c4",
+        "g2-h2",
+        "e5-e3",
+        "f1-f3xe3",
+        "e6-e3",
+        "d3-c3",
+        "g5-g3xf3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

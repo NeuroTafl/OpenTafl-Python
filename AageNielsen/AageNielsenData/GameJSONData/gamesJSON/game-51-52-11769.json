@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Leafbeard",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "d1-e1",
+        "c4-c1",
+        "b4-c4",
+        "c1-d1xd2",
+        "f4-f3",
+        "d3-b3",
+        "f3-d3",
+        "d1-d2xd3",
+        "g4-g3",
+        "b3-b4xc4",
+        "g3-c3",
+        "d4-d3",
+        "e1-e3",
+        "d2-e2xe3",
+        "d6-f6",
+        "d3-g3",
+        "f6-f2",
+        "g3-g1"
+    ],
+    "WhoWon": "White"
+}

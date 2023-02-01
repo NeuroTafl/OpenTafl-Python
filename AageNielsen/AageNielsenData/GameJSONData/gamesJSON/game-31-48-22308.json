@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "MochaBoi",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j5-j3",
+        "f5-d5",
+        "e2-c2",
+        "f7-h7",
+        "k5-f5",
+        "f6-f7",
+        "e10-d10",
+        "f7-f6xf5",
+        "b5-b3",
+        "f8-k8",
+        "b7-b8",
+        "f4-a4",
+        "j6-j4",
+        "f6-f5",
+        "k6-k5",
+        "i6-k6xk7",
+        "b8-f8xf9",
+        "f5-i5",
+        "j4-i4",
+        "i5-i11"
+    ],
+    "WhoWon": "White"
+}

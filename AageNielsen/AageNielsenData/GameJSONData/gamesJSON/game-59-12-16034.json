@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "edmond-dantes",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-e1",
+        "c4-c2",
+        "b4-c4",
+        "d5-c5",
+        "c4-b4",
+        "d3-b3",
+        "b4-b5",
+        "e4-e2xd2",
+        "e1-d1",
+        "c2-c1",
+        "f4-e4",
+        "d4-d3",
+        "e4-e3",
+        "e2-e1xd1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

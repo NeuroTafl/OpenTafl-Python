@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Bunce",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b3",
+        "d6-d9",
+        "d11-d10",
+        "e6-b6",
+        "j6-j9",
+        "f6-c6",
+        "e11-c11",
+        "c6-c1",
+        "b3-b1",
+        "c1-c10",
+        "a8-a10",
+        "c10-c1xb1",
+        "h1-i1",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

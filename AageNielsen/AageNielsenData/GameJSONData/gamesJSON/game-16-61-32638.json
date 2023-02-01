@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-h8",
+        "d6-d3",
+        "a4-a3",
+        "e5-b5",
+        "f2-b2",
+        "e7-b7xb6",
+        "f10-b10",
+        "e6-e10",
+        "h11-h10",
+        "f6-c6",
+        "a8-b8",
+        "c6-c1",
+        "b2-b1",
+        "c1-c2",
+        "b1-b2",
+        "c2-k2",
+        "e1-e9xe10",
+        "k2-k1"
+    ],
+    "WhoWon": "White"
+}

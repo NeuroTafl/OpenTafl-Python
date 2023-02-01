@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a8-c8",
+        "h6-h9",
+        "f10-i10",
+        "f8-j8",
+        "j6-j7",
+        "g6-j6xj7",
+        "k4-i4",
+        "f6-i6",
+        "h1-h3",
+        "j8-j10",
+        "i10-k10",
+        "i6-i11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

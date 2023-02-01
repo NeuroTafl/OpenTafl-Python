@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "f8-c8",
+        "e11-c11",
+        "f4-h4",
+        "c11-c9",
+        "e7-c7",
+        "a4-c4",
+        "e5-e3",
+        "h1-h3",
+        "g5-i5",
+        "k4-i4",
+        "i5-g5",
+        "k5-h5xh4",
+        "g7-i7",
+        "j6-i6",
+        "i7-i11",
+        "k8-j8",
+        "f7-i7",
+        "j8-i8xi7",
+        "f6-f9",
+        "f2-f4xf5"
+    ],
+    "WhoWon": "Black"
+}

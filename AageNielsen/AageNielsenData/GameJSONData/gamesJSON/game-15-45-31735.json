@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "HOK",
+    "BlackSidePlayerName": "athomas",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-i1",
+        "h6-h2",
+        "j6-j2",
+        "g5-g2",
+        "f2-b2",
+        "f4-i4",
+        "h11-i11",
+        "d6-d10",
+        "b6-b10",
+        "f8-b8",
+        "a4-a3",
+        "e7-e10",
+        "f10-j10",
+        "e6-b6",
+        "k8-k9",
+        "f6-c6",
+        "d11-c11",
+        "c6-c1",
+        "b2-b1",
+        "i4-a4",
+        "c11-c2"
+    ],
+    "WhoWon": "Black"
+}

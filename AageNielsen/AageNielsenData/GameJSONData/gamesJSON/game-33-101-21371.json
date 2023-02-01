@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g3-k3",
+        "h6-h3",
+        "a5-d5",
+        "f6-f3",
+        "b6-d6",
+        "g4-c4",
+        "b8-d8xd7",
+        "g6-g2",
+        "e13-e10",
+        "c4-c5xd5",
+        "d8-e8xe9",
+        "g7-g4",
+        "k3-k4",
+        "g4-a4"
+    ],
+    "WhoWon": "White"
+}

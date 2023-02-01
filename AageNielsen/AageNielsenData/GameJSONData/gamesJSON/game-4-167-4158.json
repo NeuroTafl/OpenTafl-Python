@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d3",
+        "e5-e2",
+        "d3-d2xe2",
+        "e6-e2",
+        "g1-g3",
+        "e7-e3",
+        "h1-h3",
+        "d6-d10",
+        "e1-c1",
+        "f6-c6",
+        "a8-c8",
+        "c6-c2xd2",
+        "b6-b2",
+        "e3-a3",
+        "a7-b7",
+        "a3-a2xb2",
+        "a4-a3xa2",
+        "c2-a2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

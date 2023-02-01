@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "m9-j9",
+        "g10-j10",
+        "l8-j8",
+        "h8-h11",
+        "f12-f11",
+        "j10-k10",
+        "l6-j6xj7",
+        "k10-k9xj9",
+        "k7-j7",
+        "g8-i8",
+        "m8-k8",
+        "g7-g10",
+        "e13-e10",
+        "g10-m10"
+    ],
+    "WhoWon": "White"
+}

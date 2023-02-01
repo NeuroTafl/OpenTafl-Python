@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Rossomaha",
+    "BlackSidePlayerName": "themightyglider",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j9",
+        "f4-i4",
+        "b6-b3",
+        "d6-d2",
+        "b3-d3xd2",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "d3-e3xe2",
+        "f6-b6",
+        "d11-b11",
+        "b6-b1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

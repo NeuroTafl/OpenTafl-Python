@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Ivarhug",
+    "BlackSidePlayerName": "Audungarr",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g10-g9",
+        "c6-c7",
+        "a7-a9",
+        "h6-h9xg9",
+        "j7-j9",
+        "d6-d2",
+        "j5-j4",
+        "g6-g3",
+        "b5-d5",
+        "h9-i9",
+        "e10-e8",
+        "f6-h6",
+        "g2-h2",
+        "h6-h11"
+    ],
+    "WhoWon": "White"
+}

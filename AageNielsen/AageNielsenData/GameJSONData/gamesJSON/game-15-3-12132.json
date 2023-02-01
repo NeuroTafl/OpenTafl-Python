@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "jrg",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f8-g8",
+        "e11-e8",
+        "g5-g4",
+        "k5-h5",
+        "h6-h7",
+        "j6-h6",
+        "g8-g9",
+        "h11-h8xh7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

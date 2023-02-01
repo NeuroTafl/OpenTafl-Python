@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Pimms",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "l7-l11",
+        "j7-l7",
+        "m4-k4",
+        "i7-i2",
+        "j1-j2",
+        "h6-h2",
+        "g2-c2",
+        "h7-h3",
+        "i13-i3xi2",
+        "g7-k7",
+        "g12-k12",
+        "k7-k11",
+        "j13-j11",
+        "k11-k10",
+        "d13-d12",
+        "k10-k5",
+        "m5-l5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

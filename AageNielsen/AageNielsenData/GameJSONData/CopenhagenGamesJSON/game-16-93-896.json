@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Calidesert",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-b10",
+        "f4-b4",
+        "k4-c4xb4",
+        "g5-g2",
+        "j6-j2",
+        "e5-e2xf2",
+        "d1-d2",
+        "f5-i5",
+        "h1-i1",
+        "f6-f3",
+        "a4-a3",
+        "f3-k3",
+        "j2-k2",
+        "k3-j3",
+        "i1-j1",
+        "j3-j11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

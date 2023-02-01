@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "nazarpot",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j2",
+        "h6-h10",
+        "k8-k10",
+        "g6-j6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

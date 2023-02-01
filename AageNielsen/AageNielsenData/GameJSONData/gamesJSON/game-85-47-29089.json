@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Fjorlag",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e7-e6",
+        "d3-f3",
+        "e1-e2",
+        "f3-f6",
+        "c7-d7",
+        "d5-d6xe6",
+        "g5-d5xd6xd6",
+        "e4-e5",
+        "g3-g4",
+        "c4-c5xd5",
+        "a3-b3",
+        "d4-d6",
+        "b3-b6",
+        "f6-f5",
+        "c1-d1",
+        "d6-f6",
+        "b6-e6",
+        "f5-g5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

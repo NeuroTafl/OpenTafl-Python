@@ -89,10 +89,55 @@ class Board:
             return True
         return False
 
+    def removePieceAtCoord(self, coord: Coordinate) -> None:
+        self.board[coord.getYIndex()][coord.getXIndex()] = "e"
+
+    def setPieceAtCoord(self, coord: Coordinate, piece: str) -> None:
+        self.board[coord.getYIndex()][coord.getXIndex()] = piece
+
+    def getPieceAtCoord(self, coord: Coordinate) -> str:
+        return self.board[coord.getYIndex()][coord.getXIndex()]
+
     def __iter__(self):
         return BoardIterator(self)
 
+    def getTerminalStr(self):
+        ret = ""
 
+        ret += "   "
+        for currX in range(self.getMaxX()):
+            char = chr(currX+97)
+            ret += f"{char} "
+        ret += "\n"
+        ret += "-" * ((self.getMaxX() + 1) * 2 + 1) + "\n"
+        for currY in range(self.getMaxY()):
+            ret += f"{currY+1:02}|"
+            for currX in range(self.getMaxX()):
+                ret += self.board[currY][currX]
+                ret += "|"
+            ret += "\n"
+        ret += "-" * ((self.getMaxX() + 1) * 2 + 1)
+
+        return ret
+
+
+    def getTensor(self) -> str:
+        # attacker,defender,king
+        tensor = ""
+        for row in self.board:
+            for pos in row:
+                if pos == "T":
+                    tensor += "0,1,0,"
+                elif pos == "t":
+                    tensor += "1,0,0,"
+                elif pos == "K":
+                    tensor += "0,0,1,"
+                else:
+                    tensor += "0,0,0,"
+        return tensor
+
+
+# ****************************************************************************
 class BoardIterator:
     def __init__(self, board: Board):
         self._board = board

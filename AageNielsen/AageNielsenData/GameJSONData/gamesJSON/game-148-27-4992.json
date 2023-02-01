@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "rosk",
+    "BlackSidePlayerName": "ChaolAibhne",
+    "AageGameTypeKey": 148,
+    "AageGameTypeName": "Hex 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "f6",
+        "g6",
+        "g7",
+        "d5",
+        "e7",
+        "i7",
+        "i8",
+        "c6",
+        "d8",
+        "b7",
+        "c9",
+        "k9",
+        "j10",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

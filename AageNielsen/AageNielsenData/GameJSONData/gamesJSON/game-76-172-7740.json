@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Odinhimself",
+    "BlackSidePlayerName": "Gavinbegbie",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f3-d3",
+        "g7-g9",
+        "i6-i4",
+        "e7-e9xf9",
+        "c6-c8",
+        "f8-f10",
+        "j7-h7",
+        "d6-d10xe10",
+        "j5-h5xh6",
+        "g6-i6",
+        "e11-e10xf10",
+        "f7-f10xe10",
+        "c8-g8xg9",
+        "e6-b6",
+        "g2-g4",
+        "f6-c6",
+        "b5-c5",
+        "c6-c11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Jilles",
+    "AageGameTypeKey": 176,
+    "AageGameTypeName": "Simple Tafl-w 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e3-b3",
+        "b5-b7",
+        "e4-h4",
+        "i6-h6",
+        "d5-d8",
+        "d1-d7xd8",
+        "e5-d5",
+        "e2-d2",
+        "c5-c7xd7",
+        "a4-c4",
+        "b3-b4",
+        "c4-c3",
+        "b4-b3",
+        "c3-c4",
+        "b3-b4",
+        "c4-c3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

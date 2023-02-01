@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Rollo",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 170,
+    "AageGameTypeName": "Historical Hnefatafl-w 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h8-h11",
+        "i13-i11xh11",
+        "h7-h11",
+        "m5-j5",
+        "f8-f11xg11",
+        "h2-h5xi5",
+        "j7-j11xi11",
+        "h5-g5xg4",
+        "g10-g12",
+        "j5-h5",
+        "g8-k8",
+        "k7-h7xh6",
+        "g7-g10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

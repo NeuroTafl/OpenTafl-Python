@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "arthur",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d4",
+        "e5-e2",
+        "d4-d2xe2",
+        "e6-e2",
+        "d2-b2",
+        "g5-g2xf2",
+        "j6-j2",
+        "f6-e6",
+        "a4-a3",
+        "d6-d1",
+        "b2-b1",
+        "e6-e3",
+        "k4-k3",
+        "e3-b3",
+        "b1-b2",
+        "d1-b1xb2",
+        "e1-c1xb1",
+        "b3-b1",
+        "b6-b2",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

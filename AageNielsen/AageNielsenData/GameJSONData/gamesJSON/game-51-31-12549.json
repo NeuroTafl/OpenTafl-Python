@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "branan",
+    "BlackSidePlayerName": "Elios",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d2-e2",
+        "c4-c5",
+        "d6-b6",
+        "c5-a5",
+        "b6-a6xa5",
+        "d5-a5xa6",
+        "b4-b6",
+        "d3-a3xa4",
+        "b6-b4",
+        "d4-c4",
+        "b4-b6",
+        "c4-c2",
+        "b6-b2",
+        "a3-a2xb2",
+        "d1-c1",
+        "c2-c7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

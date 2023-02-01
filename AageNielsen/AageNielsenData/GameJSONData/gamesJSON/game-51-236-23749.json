@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e6",
+        "f5-f6xe6",
+        "d4-e4",
+        "d2-f2",
+        "e4-e1",
+        "f2-f1"
+    ],
+    "WhoWon": "Black"
+}

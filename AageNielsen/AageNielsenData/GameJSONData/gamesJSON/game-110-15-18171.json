@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Epm180",
+    "AageGameTypeKey": 110,
+    "AageGameTypeName": "Brandubh weak-throne line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-c2",
+        "d5-c5",
+        "e7-e6",
+        "e4-e2",
+        "g3-f3",
+        "c5-f5",
+        "a5-e5xf5",
+        "c4-c5",
+        "e6-b6",
+        "d4-a4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

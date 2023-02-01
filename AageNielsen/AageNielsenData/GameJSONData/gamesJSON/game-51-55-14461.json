@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Anto2016",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e5",
+        "b4-b3",
+        "d4-f4",
+        "a4-b4xc4",
+        "f4-c4",
+        "d2-e2",
+        "c4-c7",
+        "b4-b7"
+    ],
+    "WhoWon": "Black"
+}

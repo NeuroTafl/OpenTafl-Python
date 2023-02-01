@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "jmikkelson",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "e5-e3",
+        "d1-d3",
+        "e3-j3",
+        "f2-j2",
+        "j3-h3",
+        "k4-k3",
+        "e7-e9",
+        "d11-d9",
+        "e9-k9",
+        "f10-k10",
+        "g7-g9",
+        "i8-i9",
+        "f8-c8",
+        "k7-k8xk9",
+        "c8-c11",
+        "k10-c10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "Mykle",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h9",
+        "f4-i4",
+        "f2-j2",
+        "g7-g10",
+        "h9-g9xg10",
+        "h6-h9",
+        "f10-f9",
+        "d6-d3",
+        "a4-c4",
+        "e5-b5",
+        "c4-b4xb5",
+        "f5-b5",
+        "e1-e2",
+        "d3-b3xb4",
+        "e2-b2",
+        "f6-f3",
+        "k4-k3",
+        "f3-c3",
+        "a5-a3",
+        "c3-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 65,
+    "AageGameTypeName": "Magpie circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-e2",
+        "d3-f3",
+        "f6-f5",
+        "d4-d3",
+        "e2-f2",
+        "d3-d2",
+        "g4-f4xe4xf3",
+        "d5-d3",
+        "a4-b4xc4",
+        "d3-b3",
+        "b4-a4",
+        "d2-c2",
+        "f4-b4xb3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

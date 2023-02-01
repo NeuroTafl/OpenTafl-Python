@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f9-d9",
+        "g7-i7",
+        "i6-i4",
+        "g6-g9",
+        "g10-i10",
+        "f8-j8",
+        "k6-j6",
+        "f6-g6",
+        "e10-h10",
+        "g6-g8",
+        "c6-c8",
+        "g9-k9",
+        "k7-k8",
+        "g8-i8",
+        "d9-j9xj8",
+        "d6-d9",
+        "c8-h8",
+        "g5-g8xh8",
+        "h10-h8",
+        "i8-i9xj9",
+        "h8-i8"
+    ],
+    "WhoWon": "Black"
+}

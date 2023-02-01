@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Elias",
+    "BlackSidePlayerName": "thebigfoot",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d4",
+        "e5-c5",
+        "a4-c4",
+        "e6-e2",
+        "g1-g3",
+        "d6-d10",
+        "d4-d9xd10",
+        "f6-d6",
+        "c4-d4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

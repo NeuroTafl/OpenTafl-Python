@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "MasterLuke",
+    "BlackSidePlayerName": "thebigfoot",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "d6-d3",
+        "d1-d2",
+        "f4-f3xe3",
+        "a4-d4xd3",
+        "f3-a3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

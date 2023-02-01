@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Schachus",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-c2",
+        "e5-e3",
+        "g2-g3",
+        "h6-h2",
+        "j7-h7",
+        "f8-i8",
+        "i6-i7",
+        "g6-i6xi7",
+        "k7-i7",
+        "i6-i5",
+        "k6-i6",
+        "f6-h6",
+        "k5-k4",
+        "i8-h8xh7",
+        "f9-h9",
+        "h2-f2xf3",
+        "i7-h7xh8",
+        "h6-h1"
+    ],
+    "WhoWon": "White"
+}

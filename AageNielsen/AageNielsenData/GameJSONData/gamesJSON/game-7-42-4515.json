@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a6-a7",
+        "e6-b6",
+        "a7-a6",
+        "e4-b4xb5",
+        "i4-e4xe3",
+        "d5-d4",
+        "a5-b5",
+        "f5-f4xe4",
+        "f1-g1",
+        "e5-e3",
+        "a4-a3",
+        "e3-i3"
+    ],
+    "WhoWon": "White"
+}

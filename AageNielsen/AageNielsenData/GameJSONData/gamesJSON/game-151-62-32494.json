@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Firefinch",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i3-g3",
+        "e7-e10",
+        "f9-g9",
+        "g7-g8",
+        "g9-g10",
+        "e6-e9",
+        "h11-e11",
+        "f6-e6",
+        "a8-a7",
+        "e6-e7",
+        "k4-k7",
+        "e7-b7",
+        "c6-c7"
+    ],
+    "WhoWon": "Black"
+}

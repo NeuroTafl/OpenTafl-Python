@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Thebigfoot",
+    "BlackSidePlayerName": "Cacreal",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-i2",
+        "i6-i11",
+        "j7-j11",
+        "h6-h11",
+        "j6-j8",
+        "g6-i6",
+        "f2-h2",
+        "e6-e8",
+        "k6-j6",
+        "d6-d2",
+        "e10-d10",
+        "f6-d6",
+        "b5-b3",
+        "d2-b2",
+        "b3-d3",
+        "f9-j9",
+        "j11-j10xj9",
+        "d6-d9",
+        "d3-d8"
+    ],
+    "WhoWon": "Black"
+}

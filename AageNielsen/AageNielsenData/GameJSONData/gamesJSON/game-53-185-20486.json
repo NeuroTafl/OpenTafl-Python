@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "b4-b3",
+        "e4-e1",
+        "b3-c3",
+        "d5-b5",
+        "f5-e5",
+        "b5-b2",
+        "d6-d5",
+        "f3-d3",
+        "e5-e3xd3",
+        "d4-d3",
+        "d5-c5xc4",
+        "d3-d4",
+        "g4-e4",
+        "d4-c4",
+        "a4-b4",
+        "b2-c2xc3",
+        "e3-c3"
+    ],
+    "WhoWon": "Black"
+}

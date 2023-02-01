@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 168,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f5-f8",
+        "f1-f5xg5",
+        "e6-f6",
+        "i4-f4",
+        "e7-g7",
+        "i6-g6",
+        "e3-g3",
+        "h5-g5",
+        "g3-g4xf4",
+        "f9-g9",
+        "d5-d8xe8",
+        "d1-d5xc5",
+        "e4-f4xf5",
+        "e2-e4",
+        "g7-h7",
+        "a6-e6xf6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Alex",
+    "BlackSidePlayerName": "Anthony",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6j9",
+        "h6h4",
+        "b6b3",
+        "g6i6",
+        "f2i2",
+        "f6h6",
+        "f10b10",
+        "g7g9",
+        "d11c11",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

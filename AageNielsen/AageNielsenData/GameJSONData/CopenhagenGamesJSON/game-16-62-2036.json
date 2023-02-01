@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Noobus3000",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-k10",
+        "f8-b8",
+        "j6-j11",
+        "f7-f9",
+        "h11-h9",
+        "f6-f8",
+        "d11-d8",
+        "f8-i8",
+        "g11-i11",
+        "g5-j5",
+        "k4-j4",
+        "i8-i1",
+        "j4-j1",
+        "i1-i10",
+        "e11-e10",
+        "i10-i1xj1",
+        "i11-i5xj5",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

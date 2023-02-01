@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 23,
+    "AageGameTypeName": "David Brown Hnefatafl 11x11 (unarmed king)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "h11-h9",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "h3-e3xe2",
+        "f6-c6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

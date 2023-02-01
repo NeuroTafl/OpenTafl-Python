@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "siegfried",
+    "BlackSidePlayerName": "Davis",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-d2",
+        "h8-h11",
+        "i13-i11xh11",
+        "h7-h11",
+        "m9-j9",
+        "g8-j8",
+        "h13-j13",
+        "f8-f11xg11",
+        "c7-c11",
+        "g10-g12",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "conanlib",
+    "BlackSidePlayerName": "vonraider",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g3-j3",
+        "e5-e2",
+        "j3-e3xe2",
+        "f6-c6",
+        "a5-c5xc6",
+        "g6-c6",
+        "c5-d5",
+        "f8-c8xc7",
+        "a7-c7",
+        "g4-g3",
+        "h2-h4",
+        "f7-f11",
+        "e13-e11xf11",
+        "g7-e7",
+        "f2-f5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

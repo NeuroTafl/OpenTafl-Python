@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-h2",
+        "d6-d3",
+        "e1-e3xd3",
+        "e6-c6",
+        "f10-d10",
+        "f6-d6",
+        "c3-d3",
+        "f4-d4",
+        "b6-b4",
+        "c6-c2",
+        "h2-d2xc2",
+        "h6-h2",
+        "j2-i2",
+        "d4-j4",
+        "g1-g2xh2",
+        "d6-d8",
+        "b10-b8",
+        "f8-f9",
+        "g11-g8",
+        "f9-g9xg8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

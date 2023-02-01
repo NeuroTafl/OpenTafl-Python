@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 11,
+    "AageGameTypeName": "Sea battle T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f4-f2",
+        "k4-i4",
+        "g5-j5",
+        "k7-i7",
+        "f5-i5",
+        "b6-b2",
+        "f6-f3",
+        "d1-d3",
+        "f3-k3"
+    ],
+    "WhoWon": "White"
+}

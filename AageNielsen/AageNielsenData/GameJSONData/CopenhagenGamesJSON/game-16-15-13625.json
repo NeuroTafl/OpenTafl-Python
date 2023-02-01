@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "nath",
+    "BlackSidePlayerName": "Tafel",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h11-h9",
+        "e5-e3",
+        "d1-d3",
+        "f5-c5",
+        "f2-f3xe3",
+        "e6-e3",
+        "f10-b10",
+        "c5-c3xd3",
+        "b6-b3",
+        "g5-g3xf3",
+        "e1-b1",
+        "c3-c1xb1",
+        "a4-a2",
+        "f4-a4",
+        "h1-i1",
+        "f6-f2",
+        "b3-b1",
+        "f2-k2",
+        "k4-k3",
+        "k2-k1"
+    ],
+    "WhoWon": "White"
+}

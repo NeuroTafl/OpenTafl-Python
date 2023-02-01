@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "branan",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d2-c2",
+        "e4-e5",
+        "b4-b5",
+        "e5-g5",
+        "d6-g6xg5",
+        "d5-g5xg6",
+        "d7-d5",
+        "d3-g3xg4",
+        "f4-e4",
+        "g5-e5",
+        "e4-f4",
+        "c4-c5xd5",
+        "f4-f7",
+        "d4-g4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Haner Adigard",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d3",
+        "e5-e2",
+        "d3-d2xe2",
+        "e6-e2",
+        "g1-g3",
+        "e7-e3",
+        "e11-e6",
+        "h6-h3",
+        "b6-c6xd6",
+        "f4-f3xg3",
+        "c6-c3",
+        "g5-g2xf2",
+        "k4-k3",
+        "f5-j5",
+        "a5-i5xj5",
+        "f6-f4",
+        "a4-c4",
+        "f4-j4",
+        "h1-j1",
+        "j4-j2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

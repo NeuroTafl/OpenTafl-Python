@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "Tnach",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-h2xg2",
+        "g6-g2",
+        "h2-h5",
+        "f4-h4xh5",
+        "k5-h5",
+        "e5-e2xf2",
+        "k7-h7xh6",
+        "f6-i6",
+        "k4-i4",
+        "i6-i11",
+        "j6-j11",
+        "i11-i9",
+        "f10-i10",
+        "i9-a9",
+        "i10-a10",
+        "a9-j9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

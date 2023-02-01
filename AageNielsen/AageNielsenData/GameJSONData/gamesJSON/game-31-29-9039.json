@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Rasmusruge",
+    "BlackSidePlayerName": "kAAgEE",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-j3",
+        "i6-i10",
+        "j7-j9",
+        "h6-h11",
+        "g2-i2",
+        "f7-j7",
+        "j9-j8xj7",
+        "f9-j9",
+        "b7-b9",
+        "f8-f9",
+        "b6-b8",
+        "f6-f8",
+        "f2-h2",
+        "f8-i8",
+        "h2-h8"
+    ],
+    "WhoWon": "Black"
+}

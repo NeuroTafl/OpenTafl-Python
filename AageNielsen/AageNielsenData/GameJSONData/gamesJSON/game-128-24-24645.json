@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "themightyglider",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h5-h6",
+        "e4-e3",
+        "g3-f3",
+        "d4-d3",
+        "h8-f8",
+        "f5-g5",
+        "e9-c9",
+        "g5-g3xf3",
+        "e1-g1",
+        "f4-f2",
+        "h2-g2xf2",
+        "e5-e4",
+        "b5-b4",
+        "e4-i4"
+    ],
+    "WhoWon": "White"
+}

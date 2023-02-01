@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "BlackRaven",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-f2",
+        "d3-f3",
+        "d6-e6",
+        "c4-c6",
+        "b4-b5",
+        "d4-b4",
+        "f2-c2",
+        "f3-c3",
+        "e6-e4xf4",
+        "c3-c4",
+        "b5-b6",
+        "d5-d6",
+        "c2-b2",
+        "c6-c5",
+        "f5-d5xd6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

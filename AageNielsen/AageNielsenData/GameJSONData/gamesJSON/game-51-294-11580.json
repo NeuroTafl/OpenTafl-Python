@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Chuck ward",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-c2",
+        "d3-c3",
+        "d6-e6",
+        "e4-e2",
+        "f4-f3",
+        "e2-f2",
+        "e6-e4",
+        "d5-f5",
+        "e4-e6",
+        "f5-f4xf3",
+        "e6-e4xf4",
+        "f2-f4xe4",
+        "c2-f2",
+        "d4-d5",
+        "f2-e2",
+        "d5-a5",
+        "b4-b6",
+        "a5-a7"
+    ],
+    "WhoWon": "White"
+}

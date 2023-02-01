@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hu",
+    "BlackSidePlayerName": "Edgar",
+    "AageGameTypeKey": 10,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5b8",
+        "e6d6",
+        "e2b2",
+        "e4d4",
+        "i6e6",
+        "f5f6",
+        "h5h2",
+        "e5e7",
+        "i5i7",
+        "e7h7",
+        "e8h8",
+        "f6h6",
+        "a6a7",
+        "c5c7",
+        "f1g1",
+        "g5g9",
+        "f9f7",
+        "g9h9",
+        "f7g7"
+    ],
+    "WhoWon": "Black"
+}

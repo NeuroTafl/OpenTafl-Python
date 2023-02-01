@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 90,
+    "AageGameTypeName": "Unst king hammer only cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g6-g5",
+        "g1-g3",
+        "f9-g9",
+        "f1-i1",
+        "f6-g6",
+        "j6-j9",
+        "i6-i10",
+        "h11-i11",
+        "g9-i9",
+        "g11-h11",
+        "e6-e9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

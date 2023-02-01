@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "thebigfoot",
+    "BlackSidePlayerName": "Squircifer",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b2",
+        "d6-d9",
+        "f10-b10",
+        "h6-h3",
+        "f2-j2",
+        "f8-i8",
+        "h11-i11",
+        "f4-c4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Luigi005",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "e2-c2",
+        "e4-b4",
+        "b5-b7",
+        "e3-e2",
+        "i4-e4",
+        "f5-f4",
+        "f9-f5xg5",
+        "e6-f6xf5",
+        "h5-f5",
+        "d5-d4xe4",
+        "f1-f3xf4",
+        "d4-f4xf5",
+        "i5-f5xf4",
+        "b4-f4xf5",
+        "f3-e3xe2",
+        "e5-g5",
+        "b7-c7",
+        "g5-g1"
+    ],
+    "WhoWon": "White"
+}

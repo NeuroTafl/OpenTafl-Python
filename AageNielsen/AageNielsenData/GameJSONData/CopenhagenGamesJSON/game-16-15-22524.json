@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "Johanssc",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-c8",
+        "d1-d3",
+        "h6-h9",
+        "h11-h10",
+        "h9-b9",
+        "j6-j10",
+        "g6-j6",
+        "h3-i3",
+        "f6-i6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

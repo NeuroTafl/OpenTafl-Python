@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "Tomdraug",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d3",
+        "a8-c8",
+        "h6-h9",
+        "d11-d9",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "h3-e3xe2",
+        "f6-c6",
+        "j6-h6xg6"
+    ],
+    "WhoWon": "Black"
+}

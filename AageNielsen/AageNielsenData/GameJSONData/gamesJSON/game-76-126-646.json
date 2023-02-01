@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "ChaolAibhne",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g2-h2",
+        "e5-c5",
+        "b7-c7",
+        "f8-b8",
+        "e1-d1",
+        "b8-b6xc6",
+        "a7-b7xb6",
+        "f4-j4",
+        "b5-b4",
+        "g5-g3",
+        "h2-h3xg3",
+        "f5-i5",
+        "j7-i7",
+        "g6-g3",
+        "b4-i4xi5",
+        "h6-h4xi4",
+        "f3-c3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 103,
+    "AageGameTypeName": "Ard Ri friendly-throne unarmed circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b2-c2",
+        "d3-d2",
+        "b6-b3",
+        "d5-d6",
+        "f6-f5",
+        "d4-d5",
+        "b3-b5",
+        "d5-d3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "k4-i4",
+        "d6-d9",
+        "d11-d10",
+        "g7-g10",
+        "e11-e10",
+        "d9-k9",
+        "h11-h10xg10",
+        "g6-g9",
+        "h10-i10",
+        "e7-b7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

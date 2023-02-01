@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Wesley Alves",
+    "BlackSidePlayerName": "frenir",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-h2",
+        "h6-h3",
+        "g1-g3",
+        "g5-i5",
+        "j7-h7",
+        "f8-i8",
+        "h7-h5xi5",
+        "g6-g4",
+        "h5-h4xh3",
+        "f6-h6",
+        "f9-h9",
+        "h6-h8",
+        "k7-h7"
+    ],
+    "WhoWon": "Black"
+}

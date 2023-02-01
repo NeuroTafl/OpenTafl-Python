@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "jonatas",
+    "AageGameTypeKey": 68,
+    "AageGameTypeName": "Tawlbwrdd Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-j3",
+        "f8-b8",
+        "a7-a9",
+        "b8-b11",
+        "a9-a11",
+        "d6-d11",
+        "b7-c7",
+        "d11-c11",
+        "e11-d11",
+        "f7-f9",
+        "j7-j8",
+        "f6-f8",
+        "g11-h11",
+        "f8-a8"
+    ],
+    "WhoWon": "White"
+}

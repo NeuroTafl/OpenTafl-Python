@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "d6-c6",
+        "d2-b2",
+        "f4-f3",
+        "d5-f5",
+        "c6-c5",
+        "e4-e7",
+        "f3-c3xc4",
+        "d4-e4",
+        "d7-d6",
+        "e4-e6",
+        "g4-g5",
+        "e6-g6",
+        "c5-e5xf5",
+        "g6-g7"
+    ],
+    "WhoWon": "White"
+}

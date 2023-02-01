@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Kllimm",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-i2",
+        "f8-b8",
+        "e10-e8",
+        "f9-b9",
+        "f10-d10",
+        "f7-e7",
+        "e11-e9",
+        "g6-g4",
+        "j7-j9",
+        "f5-g5",
+        "b5-b3",
+        "h6-h1",
+        "g10-h10",
+        "f6-h6",
+        "j5-j3",
+        "h1-i1",
+        "j3-i3",
+        "h6-h1"
+    ],
+    "WhoWon": "White"
+}

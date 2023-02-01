@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Потапыч",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a7-a8",
+        "h6-h1",
+        "j5-h5",
+        "f4-h4",
+        "a5-a4",
+        "g6-h6xh5",
+        "a4-f4xf3",
+        "h4-g4",
+        "e2-e4",
+        "h6-h3",
+        "g2-g3",
+        "i6-i2",
+        "g10-g5xg4",
+        "f6-i6",
+        "f10-i10",
+        "i6-i3",
+        "j6-j3",
+        "i2-k2",
+        "f2-i2",
+        "h1-i1xi2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

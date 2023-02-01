@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-c2",
+        "f4-i4",
+        "h1-h3",
+        "f5-f3",
+        "b6-b3",
+        "f6-f4",
+        "a8-c8",
+        "f4-h4",
+        "j6-j2",
+        "g5-g2",
+        "h3-h2",
+        "i4-i2xh2",
+        "g1-i1",
+        "f3-k3",
+        "j2-k2xk3",
+        "h4-j4",
+        "b3-i3xi2",
+        "j4-j11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

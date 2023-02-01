@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "fenrir033",
+    "BlackSidePlayerName": "kjnkjnol",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d6-e6",
+        "d5-e5",
+        "d2-e2",
+        "d4-e4",
+        "e2-e3",
+        "f4-f3xe3",
+        "g4-f4",
+        "e4-e1",
+        "b4-b1",
+        "e1-g1"
+    ],
+    "WhoWon": "White"
+}

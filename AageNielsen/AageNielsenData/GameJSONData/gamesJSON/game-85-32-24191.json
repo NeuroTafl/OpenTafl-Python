@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "Plantagen&ecirc;t",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-c2",
+        "e4-f4",
+        "g5-f5",
+        "f4-f2",
+        "e7-e6",
+        "f2-f1",
+        "e1-d1",
+        "f1-e1",
+        "a5-a4",
+        "d4-e4",
+        "a4-b4xc4",
+        "d5-b5",
+        "c2-d2xd3",
+        "e4-c4",
+        "a3-c3",
+        "e1-e3",
+        "c7-c5"
+    ],
+    "WhoWon": "Black"
+}

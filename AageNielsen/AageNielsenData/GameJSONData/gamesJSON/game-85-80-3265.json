@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e7-e6",
+        "d3-f3",
+        "c1-c2",
+        "f3-f6",
+        "g5-g6xf6",
+        "d5-g5xg6",
+        "g3-g4",
+        "e4-e3",
+        "g4-f4",
+        "e3-f3",
+        "f4-e4",
+        "f3-f4xe4",
+        "a5-c5",
+        "f4-f3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

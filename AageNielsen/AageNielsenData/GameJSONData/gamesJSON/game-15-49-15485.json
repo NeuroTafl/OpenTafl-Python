@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Paul",
+    "BlackSidePlayerName": "HOK",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-k9",
+        "e5-b5",
+        "b6-b10",
+        "f5-c5",
+        "d1-c1",
+        "f4-b4",
+        "f2-f4",
+        "e6-e4",
+        "g1-g4",
+        "d6-d3",
+        "e1-e3",
+        "h6-h3",
+        "d11-d4xe4",
+        "c5-d5xd4",
+        "c1-c3xd3",
+        "d5-d3",
+        "f4-c4xb4",
+        "f6-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

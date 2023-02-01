@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-d1",
+        "e6-e9",
+        "e10-d10",
+        "d6-d9",
+        "d1-d6xc6",
+        "f5-d5",
+        "b7-d7",
+        "f6-f5",
+        "a5-a4",
+        "f5-h5",
+        "g2-h2",
+        "h6-h10",
+        "a4-d4xd5",
+        "h5-h9",
+        "j7-j9",
+        "f8-j8",
+        "h2-h6xi6",
+        "h10-j10xj9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

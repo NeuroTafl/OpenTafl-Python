@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g11-g9",
+        "h6-h9",
+        "j6-j9",
+        "g5-g2",
+        "j9-i9xh9",
+        "e5-e2xf2",
+        "h11-h2",
+        "g6-g3",
+        "k4-g4",
+        "f6-j6",
+        "k7-j7",
+        "j6-j1",
+        "k5-k2",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

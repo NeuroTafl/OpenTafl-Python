@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "duhawk93",
+    "BlackSidePlayerName": "HOK",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-k9",
+        "g5-g2",
+        "f2-b2",
+        "f5-j5",
+        "k4-j4xj5",
+        "e5-j5",
+        "j6-j10",
+        "f4-b4",
+        "h1-h2",
+        "f6-f3",
+        "f1-f2xg2",
+        "f3-k3",
+        "h2-k2",
+        "k3-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

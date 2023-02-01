@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-i8",
+        "d5-d8",
+        "d1-d5xc5",
+        "e4-d4",
+        "a6-d6",
+        "e5-e4",
+        "f9-f6xe6",
+        "d4-b4",
+        "f1-f4xf5",
+        "e4-c4",
+        "e2-c2",
+        "c4-c9"
+    ],
+    "WhoWon": "White"
+}

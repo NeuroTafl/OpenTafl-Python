@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "e7-e9",
+        "f9-h9",
+        "f7-c7",
+        "c6-c4",
+        "f8-a8",
+        "f11-f8",
+        "e6-e8",
+        "f8-h8",
+        "f6-f11"
+    ],
+    "WhoWon": "White"
+}

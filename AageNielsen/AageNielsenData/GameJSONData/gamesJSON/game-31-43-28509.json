@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-c1",
+        "g6-g8",
+        "k7-k9",
+        "f6-g6",
+        "j5-j3",
+        "i6-i2",
+        "g1-h1",
+        "f4-k4",
+        "e2-e4",
+        "g6-g3",
+        "e4-g4"
+    ],
+    "WhoWon": "Black"
+}

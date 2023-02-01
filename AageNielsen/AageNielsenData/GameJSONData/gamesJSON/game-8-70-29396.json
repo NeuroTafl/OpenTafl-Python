@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 8,
+    "AageGameTypeName": "Ashton tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "c5-c4",
+        "i4-i3",
+        "e7-b7",
+        "d9-b9",
+        "d5-d2",
+        "e9-d9",
+        "f5-f2xe2",
+        "f9-f5xg5",
+        "f2-i2xi3",
+        "f1-f3",
+        "e5-d5",
+        "a4-a2",
+        "d5-d7",
+        "e8-e7xe6",
+        "d7-c7",
+        "d9-c9",
+        "c4-b4",
+        "a6-c6",
+        "b7-b6xb5",
+        "b9-b7xb6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

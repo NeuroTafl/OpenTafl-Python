@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Beard",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "g11-g9",
+        "h10-j10",
+        "k7-i7",
+        "f4-c4",
+        "a8-c8",
+        "d6-d3",
+        "f2-b2",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-c5",
+        "b4-b3",
+        "g5-i5",
+        "k4-i4",
+        "f6-f2",
+        "g1-g2",
+        "c4-c1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "drzhbe",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-i8",
+        "e5-c5",
+        "a4-c4",
+        "d6-d3",
+        "b6-c6xc5",
+        "f5-c5",
+        "d1-c1",
+        "e7-c7xc6",
+        "a6-c6xc5",
+        "g5-c5xc6",
+        "c1-c3",
+        "e6-e2",
+        "e11-e3xd3xe2",
+        "f6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

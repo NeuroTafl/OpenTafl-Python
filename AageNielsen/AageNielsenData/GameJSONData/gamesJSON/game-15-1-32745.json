@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hjuke",
+    "BlackSidePlayerName": "Chuck",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6b10",
+        "d6b6",
+        "f2b2",
+        "e6c6",
+        "d11c11",
+        "c6c1",
+        "j6j2",
+        "f6c6",
+        "k4k3",
+        "c6c9",
+        "k8k9",
+        "c9a9",
+        "b10a10",
+        "b6b11",
+        "k9b9"
+    ],
+    "WhoWon": "Black"
+}

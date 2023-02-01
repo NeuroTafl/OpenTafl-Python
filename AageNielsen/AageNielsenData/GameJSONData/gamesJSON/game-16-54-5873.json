@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "RussJenkins",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-k9",
+        "h6-h9",
+        "f2-i2",
+        "g7-i7",
+        "f10-j10",
+        "g6-g10",
+        "b6-b10",
+        "f6-i6",
+        "a6-c6",
+        "i6-i3",
+        "c6-c3",
+        "i3-j3",
+        "i2-j2",
+        "i7-i1",
+        "j2-j1xi1",
+        "j3-j2",
+        "k4-k2",
+        "j2-a2",
+        "c3-c1",
+        "a2-a1"
+    ],
+    "WhoWon": "White"
+}

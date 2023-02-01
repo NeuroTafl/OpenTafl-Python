@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Drzhbe",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "n7-n5",
+        "k8-k2",
+        "l8-l2",
+        "j7-j2",
+        "h3-j3xj2",
+        "k2-k14",
+        "n9-n14",
+        "j9-j13",
+        "o10-o13",
+        "j8-l8",
+        "j15-j14",
+        "i10-i12",
+        "j3-j12xi12xj13",
+        "i8-i12",
+        "j12-j8",
+        "k14-k8",
+        "j8-j12xi12",
+        "h8-j8",
+        "n8-n10",
+        "j8-j3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

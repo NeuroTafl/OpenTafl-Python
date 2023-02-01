@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "jamesa",
+    "BlackSidePlayerName": "Taflmeister",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f1-f2",
+        "e3-d3",
+        "b5-b3",
+        "g5-g6",
+        "a4-c4",
+        "c5-b5",
+        "a6-d6",
+        "b5-b6",
+        "c4-d4xd5",
+        "e5-d5xd4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "e6-e5",
+        "c4-a4",
+        "c6-d6",
+        "a4-a7",
+        "c2-c4",
+        "a7-d7xd6",
+        "f5-f6",
+        "d5-d6",
+        "b5-d5",
+        "d6-e6xe5",
+        "f3-f5",
+        "e6-d6xd5",
+        "f5-c5",
+        "d6-b6",
+        "e2-e3",
+        "b6-b4xc4",
+        "f6-e6",
+        "b4-b5",
+        "c5-d5",
+        "d4-a4"
+    ],
+    "WhoWon": "White"
+}

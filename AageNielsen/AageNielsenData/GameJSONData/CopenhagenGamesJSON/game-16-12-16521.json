@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g1-g3",
+        "h6-h3",
+        "k4-k3",
+        "f4-f3xg3",
+        "b6-b3",
+        "f8-i8",
+        "g11-g9",
+        "g5-j5",
+        "j6-i6",
+        "i8-i11",
+        "i6-i5xj5",
+        "g6-g2",
+        "k6-h6",
+        "e5-e2xf2",
+        "g9-j9",
+        "f5-c5",
+        "a4-c4",
+        "f6-f4",
+        "j9-j2",
+        "f3-c3xc4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

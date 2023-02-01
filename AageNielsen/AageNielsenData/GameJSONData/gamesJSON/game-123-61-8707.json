@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 123,
+    "AageGameTypeName": "Sea battle-1571 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a5-a3",
+        "e7-a7",
+        "b6-a6",
+        "e6-b6",
+        "h6-c6xb6",
+        "e5-e6",
+        "i5-i6",
+        "a7-c7xc6",
+        "a6-c6",
+        "c7-c8",
+        "b5-b8xc8",
+        "e6-e7",
+        "b4-c4xc5",
+        "e7-a7"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Skalgamix",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h11-h8",
+        "g7-g10",
+        "h8-h10xg10",
+        "g6-g10",
+        "k8-h8",
+        "e7-e10xf10",
+        "a8-d8",
+        "f7-i7",
+        "k5-i5",
+        "i7-i10xh10",
+        "f11-f10",
+        "f6-g6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

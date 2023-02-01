@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Bunce",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b10",
+        "f4-i4",
+        "j6-j3",
+        "h6-h2",
+        "f2-c2",
+        "g6-j6",
+        "f10-j10",
+        "f6-i6",
+        "h11-i11",
+        "i4-i1",
+        "k4-i4",
+        "i6-h6",
+        "a8-a9",
+        "h6-h3",
+        "a4-a3",
+        "h3-i3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

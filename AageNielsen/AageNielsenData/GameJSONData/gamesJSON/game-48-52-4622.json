@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Seeontic",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b9-b11",
+        "i10-m10",
+        "i14-m14",
+        "i6-m6",
+        "i2-m2",
+        "i8-i2",
+        "j1-j2xi2",
+        "h8-i8",
+        "i1-i4",
+        "i8-i13",
+        "j15-j13"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "MasterLuke",
+    "BlackSidePlayerName": "Riiem",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i1-i4",
+        "j7-j4",
+        "h2-h4",
+        "f6-f4",
+        "a5-d5",
+        "h6-j6",
+        "h1-j1",
+        "h7-h5",
+        "l6-k6",
+        "g7-j7",
+        "m9-j9",
+        "h8-j8",
+        "i13-i10",
+        "j4-l4",
+        "m5-l5",
+        "i5-j5",
+        "i4-i7"
+    ],
+    "WhoWon": "Black"
+}

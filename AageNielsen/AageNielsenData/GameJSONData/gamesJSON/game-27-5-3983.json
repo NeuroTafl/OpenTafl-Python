@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f4-c4",
+        "f10-c10",
+        "e5-e2",
+        "b6-b3",
+        "f5-b5",
+        "g1-g3",
+        "h6-h4",
+        "b3-e3xe2",
+        "f6-f2",
+        "e3-f3"
+    ],
+    "WhoWon": "Black"
+}

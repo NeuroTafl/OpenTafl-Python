@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "glupol",
+    "BlackSidePlayerName": "Claclacla",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j9",
+        "f4-b4",
+        "f2-c2",
+        "f8-b8",
+        "c2-c4xb4",
+        "e5-c5",
+        "b6-c6xc5",
+        "b8-b6xc6",
+        "c4-c6xb6",
+        "f5-d5",
+        "j9-j3",
+        "f6-f2",
+        "a4-a2",
+        "f2-k2",
+        "h1-j1",
+        "k2-k1"
+    ],
+    "WhoWon": "White"
+}

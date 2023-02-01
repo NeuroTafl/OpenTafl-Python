@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Asmo",
+    "BlackSidePlayerName": "Sigurd",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "e7-e10",
+        "k8-g8",
+        "h6-h9",
+        "b6-b10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

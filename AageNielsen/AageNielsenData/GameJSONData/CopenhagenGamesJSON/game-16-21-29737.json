@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "dansuno",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f2-i2",
+        "f4-f2",
+        "k5-i5",
+        "f5-f3",
+        "k4-h4",
+        "f3-h3",
+        "k6-k3",
+        "g5-h5xh4",
+        "k3-i3",
+        "f6-f4",
+        "a4-c4",
+        "f4-j4",
+        "i2-j2",
+        "j4-j5xi5",
+        "k7-j7",
+        "j5-j3xi3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

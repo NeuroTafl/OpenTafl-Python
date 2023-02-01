@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Сергей",
+    "BlackSidePlayerName": "Ded Fomich",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e8-c8",
+        "g5-g2",
+        "i6-g6",
+        "d5-d4",
+        "f9-f7",
+        "e7-b7",
+        "b5-b3",
+        "b7-d7",
+        "c8-c7",
+        "d7-d6",
+        "a6-b6",
+        "d4-d2",
+        "f1-f2",
+        "g2-g4",
+        "i4-i3",
+        "e5-d5",
+        "b3-c3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Harry64",
+    "BlackSidePlayerName": "Bogd Khan",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a8-c8",
+        "f8-i8",
+        "e11-e9",
+        "h6-h3",
+        "j6-j3",
+        "g6-i6",
+        "k7-i7",
+        "i6-i2",
+        "e9-i9xi8",
+        "f6-j6",
+        "f10-j10",
+        "j6-j4",
+        "j3-j2",
+        "i2-i1",
+        "k4-k3",
+        "j4-j3",
+        "i7-i3",
+        "i1-j1xj2",
+        "f2-j2",
+        "j1-i1",
+        "j10-j4"
+    ],
+    "WhoWon": "Black"
+}

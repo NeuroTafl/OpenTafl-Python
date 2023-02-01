@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Luigi005",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f5-f4",
+        "f9-f5xg5",
+        "e6-f6xf5",
+        "h5-f5",
+        "f4-h4",
+        "f5-g5",
+        "e4-g4",
+        "g5-g7",
+        "f6-f2",
+        "a4-e4xe3",
+        "d5-d2xe2",
+        "d9-d5xc5",
+        "e5-f5",
+        "i5-g5",
+        "f5-f3",
+        "d5-d3xd2",
+        "f3-i3"
+    ],
+    "WhoWon": "White"
+}

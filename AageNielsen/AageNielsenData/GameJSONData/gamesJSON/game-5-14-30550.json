@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Arne64",
+    "BlackSidePlayerName": "Wandrille",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f1-f2",
+        "e4-d4",
+        "h5-h3",
+        "f5-f8",
+        "i4-f4",
+        "d5-d8xe8",
+        "b5-b7",
+        "e5-f5",
+        "f9-g9",
+        "f5-f7",
+        "g9-g7",
+        "f8-g8",
+        "e9-f9",
+        "e6-g6xg7",
+        "h3-h7",
+        "e7-e9",
+        "h7-h8",
+        "f7-f8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

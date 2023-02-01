@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "xerxes",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "h6-h9",
+        "d11-d9",
+        "g7-j7",
+        "k5-j5",
+        "g6-g10",
+        "h11-h10xg10",
+        "f6-i6",
+        "k8-j8xj7",
+        "i6-i11",
+        "j8-j11",
+        "i11-i1",
+        "j5-j1",
+        "i1-i11xj11",
+        "j6-j11",
+        "i11-i1xj1",
+        "j11-j1",
+        "i1-i11",
+        "j1-j11",
+        "i11-i10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

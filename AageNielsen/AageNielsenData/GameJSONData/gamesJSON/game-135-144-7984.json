@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 135,
+    "AageGameTypeName": "Old Tyr-1 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e1-e4",
+        "g10-g11",
+        "g13-g12",
+        "f9-d9",
+        "j10-g10xg11",
+        "j7-k7",
+        "m7-l7",
+        "h7-j7",
+        "c8-d8xd9",
+        "d7-d6",
+        "f11-f8xe8",
+        "h9-k9xk8",
+        "m9-m8",
+        "h5-k5xk6",
+        "h11-h8xg8",
+        "i8-i9",
+        "g10-g9",
+        "g7-g8",
+        "a7-d7",
+        "e6-e10",
+        "f8-f10xe10"
+    ],
+    "WhoWon": "Black"
+}

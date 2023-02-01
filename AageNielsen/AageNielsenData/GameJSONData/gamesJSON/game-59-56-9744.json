@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Biscuitman",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "e4-e2",
+        "d2-c2",
+        "e2-f2",
+        "d6-e6",
+        "d5-f5",
+        "d1-f1xf2",
+        "c4-c7",
+        "b4-b7xc7xc7",
+        "d4-d6",
+        "c2-c6"
+    ],
+    "WhoWon": "Black"
+}

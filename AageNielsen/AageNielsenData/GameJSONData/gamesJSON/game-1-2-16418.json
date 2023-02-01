@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "sea slug",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 1,
+    "AageGameTypeName": "Rachunek tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g5g8",
+        "h5h8",
+        "f5f8",
+        "i5g5",
+        "e4g4",
+        "i6g6",
+        "e7i7",
+        "h8h4",
+        "e6d6",
+        "f1f7",
+        "e3i3",
+        "e2e3",
+        "i7i5",
+        "a4f4",
+        "e5e7",
+        "d9d7",
+        "e7e4",
+        "d1d4"
+    ],
+    "WhoWon": "Black"
+}

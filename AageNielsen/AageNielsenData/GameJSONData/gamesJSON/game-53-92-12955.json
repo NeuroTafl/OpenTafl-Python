@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d1-c1",
+        "e4-e1",
+        "d2-f2",
+        "d3-f3",
+        "f2-f1",
+        "d5-f5xf4",
+        "d7-e7",
+        "f5-g5",
+        "c1-d1xe1",
+        "d4-e4",
+        "d1-e1",
+        "f3-g3xg4",
+        "e1-e3",
+        "e4-g4",
+        "f1-f2",
+        "g3-f3",
+        "f2-g2",
+        "g4-g3xg2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

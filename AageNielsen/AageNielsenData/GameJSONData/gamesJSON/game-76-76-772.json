@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Erzyaks",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "e7-e9",
+        "g10-g9",
+        "e5-c5",
+        "b7-c7",
+        "d6-d10",
+        "e11-c11",
+        "d10-b10",
+        "e2-d2",
+        "c5-c3",
+        "d2-d9xe9",
+        "f4-e4",
+        "a5-a4",
+        "f8-b8",
+        "a7-b7",
+        "b8-b9",
+        "j7-j8",
+        "f5-d5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

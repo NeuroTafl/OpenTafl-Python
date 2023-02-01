@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Chuck ward",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-e1",
+        "c4-c1",
+        "e1-d1",
+        "e4-e1xd1",
+        "d2-d1",
+        "d3-b3",
+        "f4-f1xe1",
+        "d4-d2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "duhawk93",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h4",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "g11-g9",
+        "h6-h10",
+        "g9-e9xe10",
+        "g5-g2",
+        "e1-e2",
+        "d6-d9",
+        "a8-d8xd9",
+        "f6-c6",
+        "a7-c7",
+        "c6-c1",
+        "b6-b1",
+        "c1-c3",
+        "d1-c1",
+        "c3-k3",
+        "h4-h2xg2",
+        "k3-k1"
+    ],
+    "WhoWon": "White"
+}

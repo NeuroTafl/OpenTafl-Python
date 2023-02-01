@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "thorshammer",
+    "BlackSidePlayerName": "wilfridsigurdson",
+    "AageGameTypeKey": 40,
+    "AageGameTypeName": "Tablut 19x19",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "p10-o10",
+        "e9-d9",
+        "d12-d11",
+        "j7-j5",
+        "f14-f11xe11",
+        "k8-o8",
+        "n6-n8xo8",
+        "o9-r9",
+        "p12-o12xo11",
+        "j9-j6",
+        "j16-j15",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

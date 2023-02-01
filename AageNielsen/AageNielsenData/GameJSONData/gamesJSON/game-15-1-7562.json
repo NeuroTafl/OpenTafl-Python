@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Roderich",
+    "BlackSidePlayerName": "Hjuke",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11h9",
+        "g5j5",
+        "k7i7",
+        "f4i4",
+        "f2j2",
+        "h6i6",
+        "h1i1",
+        "f8i8",
+        "f10j10",
+        "g7j7",
+        "g11i11",
+        "f5f2",
+        "b6b2",
+        "f6f3",
+        "k4k3",
+        "f3a3",
+        "b2a2",
+        "a3b3",
+        "a2b2",
+        "b3b11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

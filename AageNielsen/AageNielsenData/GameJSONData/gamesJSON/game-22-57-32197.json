@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Wesley alves",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "g5-g4",
+        "b5-b3",
+        "f5-g5",
+        "f9-f5xg5",
+        "e3-f3",
+        "i4-h4",
+        "e6-f6",
+        "f5-f4xg4",
+        "e5-g5",
+        "i6-g6",
+        "g5-g3",
+        "h4-h3",
+        "d5-f5xf4",
+        "g6-g4",
+        "f5-f4",
+        "b3-e3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "f4-c4",
+        "a7-c7",
+        "e7-e10",
+        "g11-g9",
+        "e10-b10",
+        "a8-a10",
+        "f8-a8",
+        "c7-c10xb10",
+        "a8-a9xa10",
+        "a6-a7",
+        "f7-c7",
+        "e11-e9",
+        "f6-f8",
+        "d11-b11",
+        "d6-d11",
+        "b11-c11",
+        "f8-b8",
+        "c10-b10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

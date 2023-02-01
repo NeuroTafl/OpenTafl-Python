@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "f5-f4",
+        "e4-e2",
+        "g4-g2",
+        "f3-f2",
+        "d1-f1",
+        "c4-c2xd2",
+        "f4-f3xf2",
+        "d4-g4",
+        "d6-g6",
+        "g4-g5xg6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

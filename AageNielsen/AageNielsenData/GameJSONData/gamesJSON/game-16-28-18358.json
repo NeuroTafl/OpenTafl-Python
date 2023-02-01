@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "f8-b8",
+        "d11-c11",
+        "g7-g10",
+        "h11-h10xg10",
+        "f7-j7",
+        "f10-b10",
+        "f6-f9",
+        "a8-a9",
+        "f9-k9",
+        "h10-k10",
+        "k9-i9",
+        "k10-j10",
+        "i9-i1",
+        "j6-j1",
+        "i1-i11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

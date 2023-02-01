@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-e1",
+        "c4-c5",
+        "b6-b5",
+        "d5-d6",
+        "g4-g5",
+        "e4-e5",
+        "f2-f3",
+        "d3-c3",
+        "b2-c2",
+        "d4-b4",
+        "b5-b6",
+        "c5-a5",
+        "b6-a6xa5",
+        "e5-a5xa6",
+        "f3-f4",
+        "b4-b6",
+        "g5-d5xd6",
+        "b6-a6",
+        "f4-c4xc3",
+        "a6-a7"
+    ],
+    "WhoWon": "White"
+}

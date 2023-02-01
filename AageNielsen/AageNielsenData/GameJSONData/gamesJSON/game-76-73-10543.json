@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-h2",
+        "e7-e9",
+        "g10-g9",
+        "f7-c7",
+        "b5-c5",
+        "d6-d11",
+        "k7-k8",
+        "h6-h10",
+        "g11-g10",
+        "f8-i8",
+        "e1-d1",
+        "f6-f8",
+        "d1-d8",
+        "e6-e8",
+        "d8-c8xc7",
+        "e5-e3",
+        "b7-f7"
+    ],
+    "WhoWon": "Black"
+}

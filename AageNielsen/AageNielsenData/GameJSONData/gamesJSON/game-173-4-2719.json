@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 173,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g5-g3",
+        "e2-e3",
+        "f5-i5",
+        "j7-i7",
+        "e7-c7",
+        "b5-c5",
+        "e6-e9",
+        "g10-g9",
+        "d6-d11",
+        "a7-a9",
+        "f8-b8",
+        "a6-a8",
+        "f6-d6",
+        "g2-d2",
+        "d6-d10",
+        "a9-a10",
+        "d10-c10",
+        "d2-d9xe9",
+        "c10-c11"
+    ],
+    "WhoWon": "White"
+}

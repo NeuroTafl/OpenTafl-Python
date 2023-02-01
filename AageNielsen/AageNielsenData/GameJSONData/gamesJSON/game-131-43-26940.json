@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Firefinch",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j2-j4",
+        "e7-c7",
+        "b10-b8",
+        "e6-e10",
+        "c9-e9xe10",
+        "d6-d9",
+        "f10-c10",
+        "f8-f9xe9",
+        "j6-j8",
+        "d9-b9",
+        "c10-b10xb9",
+        "f6-d6",
+        "b10-d10",
+        "d6-d1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "L3monman",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "i1-i4",
+        "h6-k6",
+        "l8-k8",
+        "h7-h4",
+        "m5-k5xk6",
+        "j7-j4xi4",
+        "m9-j9",
+        "h4-h3",
+        "f2-f3",
+        "g7-j7",
+        "l6-j6",
+        "j4-j5xj6",
+        "m6-k6",
+        "j5-j2",
+        "k5-j5",
+        "g4-k4",
+        "k6-i6",
+        "j7-i7xi6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

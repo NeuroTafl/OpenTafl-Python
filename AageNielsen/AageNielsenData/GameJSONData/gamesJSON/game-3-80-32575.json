@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "e5-c5",
+        "f2-c2",
+        "g5-g2",
+        "h1-h2",
+        "e6-e3",
+        "f1-f2xg2",
+        "f8-i8",
+        "f10-j10",
+        "f7-f9",
+        "f11-f10",
+        "c5-c10",
+        "a8-f8xf9",
+        "g7-g9",
+        "b6-b10",
+        "f6-f7",
+        "f10-d10xc10",
+        "g9-f9xf8",
+        "a4-b4",
+        "f7-j7",
+        "j10-j8"
+    ],
+    "WhoWon": "Black"
+}

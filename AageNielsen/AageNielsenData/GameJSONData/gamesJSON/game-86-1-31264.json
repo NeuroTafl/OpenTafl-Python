@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "seigfried",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 86,
+    "AageGameTypeName": "Sea battle line 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g9-g8",
+        "c5-a5",
+        "a6-b6",
+        "d5-d8",
+        "a7-d7xd8",
+        "e5-b5",
+        "a3-b3",
+        "a5-a6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

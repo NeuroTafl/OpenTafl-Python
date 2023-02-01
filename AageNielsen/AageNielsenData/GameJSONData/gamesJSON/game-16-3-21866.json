@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "frenir",
+    "BlackSidePlayerName": "p59xy",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-g2",
+        "f8-i8",
+        "g2-i2",
+        "g7-g10",
+        "e11-e9",
+        "g10-j10",
+        "k8-k10",
+        "f7-j7",
+        "k5-j5",
+        "f6-f9",
+        "k7-k9",
+        "f9-j9",
+        "k6-k8",
+        "i8-i11",
+        "f10-h10",
+        "j10-i10",
+        "k10-j10xi10",
+        "i11-j11xj10",
+        "h10-j10",
+        "j11-i11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

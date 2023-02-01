@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Paul7",
+    "AageGameTypeKey": 176,
+    "AageGameTypeName": "Simple Tafl-w 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f5-f6",
+        "h5-h7",
+        "e5-f5",
+        "e2-g2",
+        "e3-b3",
+        "a4-b4",
+        "f5-f3"
+    ],
+    "WhoWon": "Ongoing"
+}

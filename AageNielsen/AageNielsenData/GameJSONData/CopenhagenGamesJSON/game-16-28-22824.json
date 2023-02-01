@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Bainn",
+    "BlackSidePlayerName": "Mj&oslash;lnir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "h6-h4",
+        "k4-i4",
+        "g5-h5",
+        "g1-g4xh4",
+        "h5-h4xg4",
+        "k5-h5xh4",
+        "g6-g4",
+        "j6-h6",
+        "f6-g6",
+        "k7-i7",
+        "g7-g9",
+        "i7-g7",
+        "f8-g8xg7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

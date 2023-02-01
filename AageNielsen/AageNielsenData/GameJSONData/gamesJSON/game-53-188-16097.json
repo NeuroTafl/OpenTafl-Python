@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Unhandyandy",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "b4-b3",
+        "d5-b5",
+        "d6-d5",
+        "c2-b2",
+        "d1-b1xb2",
+        "d4-c4",
+        "d7-c7",
+        "c4-c1xb1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 70,
+    "AageGameTypeName": "Sea battle square 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-f3",
+        "d6-b6",
+        "a4-c4",
+        "d5-d8",
+        "f9-f7",
+        "e6-e7",
+        "c4-c6xb6",
+        "e5-c5",
+        "f3-c3",
+        "f4-f2",
+        "d1-d3",
+        "f6-g6",
+        "c3-c4",
+        "c5-e5",
+        "c6-e6xe7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

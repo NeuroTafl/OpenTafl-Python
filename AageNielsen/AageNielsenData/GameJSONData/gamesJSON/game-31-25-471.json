@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Krakascho",
+    "BlackSidePlayerName": "krakatere",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a7-a9",
+        "h6-h11",
+        "g1-i1",
+        "d6-d10",
+        "k7-k9",
+        "f9-j9",
+        "f1-h1",
+        "f3-h3",
+        "f2-f3",
+        "f4-g4",
+        "f10-f9",
+        "g6-g9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

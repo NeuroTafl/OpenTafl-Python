@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 72,
+    "AageGameTypeName": "Sea battle T circle 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10-c10",
+        "e8-c8",
+        "b6-b9",
+        "d7-b7",
+        "f2-c2",
+        "d6-c6",
+        "a4-c4",
+        "d5-d3",
+        "a5-c5",
+        "h7-j7",
+        "d11-d7",
+        "h6-h7",
+        "j6-h6",
+        "d3-d4",
+        "d7-c7xb7xc6",
+        "f4-f2",
+        "k4-h4xh5",
+        "f6-f3",
+        "c10-c9xc8",
+        "f3-k3"
+    ],
+    "WhoWon": "White"
+}

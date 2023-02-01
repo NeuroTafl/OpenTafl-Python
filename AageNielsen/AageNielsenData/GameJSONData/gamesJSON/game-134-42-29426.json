@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "kAAgEE",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 134,
+    "AageGameTypeName": "Old Tyr-1 17x17",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j5-l5",
+        "l6-l8",
+        "m8-n8",
+        "i12-i13",
+        "h13-f13",
+        "f12-k12",
+        "f13-h13xi13",
+        "i10-i13",
+        "j13-l13",
+        "j11-l11",
+        "m10-n10xn9",
+        "g10-g13xh13",
+        "e15-h15",
+        "i9-i12",
+        "e10-e12",
+        "i12-j12",
+        "k17-j17",
+        "j12-j16",
+        "h15-j15"
+    ],
+    "WhoWon": "Black"
+}

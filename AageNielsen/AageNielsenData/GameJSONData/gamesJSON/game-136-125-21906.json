@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d7-d5",
+        "h5-f5",
+        "d4-e4",
+        "g6-e6",
+        "h1-h4",
+        "k8-l8",
+        "l9-l11",
+        "h11-j11",
+        "l11-l9xl8",
+        "i8-l8",
+        "l7-l5",
+        "k11-n11",
+        "l9-n9",
+        "k5-m5",
+        "m3-m4xm5",
+        "h8-k8",
+        "m13-k13",
+        "k8-k1"
+    ],
+    "WhoWon": "White"
+}

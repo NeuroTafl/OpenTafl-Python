@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Audunis",
+    "BlackSidePlayerName": "Wiglafahe",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g10-g9",
+        "h6-h9xg9",
+        "j7-j8",
+        "g6-g3",
+        "j8-i8",
+        "f6-h6",
+        "j5-j4",
+        "h6-h1"
+    ],
+    "WhoWon": "White"
+}

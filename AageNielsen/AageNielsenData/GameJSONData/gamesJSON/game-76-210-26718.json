@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Ded Fomich",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "e7-c7",
+        "c6-c4",
+        "e6-e9",
+        "g10-g9",
+        "g7-i7",
+        "j5-i5",
+        "f8-b8",
+        "a6-b6",
+        "d6-d11",
+        "h3-d3",
+        "f6-d6",
+        "a7-a9",
+        "d6-d10",
+        "a9-a10",
+        "d10-c10",
+        "a10-b10",
+        "c10-c11"
+    ],
+    "WhoWon": "White"
+}

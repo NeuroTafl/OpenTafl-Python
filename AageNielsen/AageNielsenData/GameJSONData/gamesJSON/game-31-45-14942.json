@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e10-d10",
+        "f4-j4",
+        "k5-k3",
+        "f5-h5",
+        "k3-j3xj4",
+        "f6-f4",
+        "b5-b4",
+        "f4-k4"
+    ],
+    "WhoWon": "White"
+}

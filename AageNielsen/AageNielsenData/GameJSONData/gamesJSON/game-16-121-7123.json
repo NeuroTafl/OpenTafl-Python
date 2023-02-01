@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Brench",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d11-d9",
+        "e7-e10",
+        "g11-g9",
+        "e10-b10",
+        "f10-c10",
+        "f7-b7",
+        "a5-c5",
+        "f8-i8",
+        "g9-i9",
+        "f6-f10",
+        "i9-i10",
+        "f10-d10xc10",
+        "c5-c10",
+        "d10-d11",
+        "c10-c11",
+        "b10-b11xc11",
+        "i10-c10",
+        "b11-b10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

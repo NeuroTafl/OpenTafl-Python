@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Biscuitman",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "c4-c3",
+        "d6-c6",
+        "c3-b3",
+        "c6-c5",
+        "d4-c4",
+        "d1-c1",
+        "c4-c3",
+        "a4-a3",
+        "e4-e1",
+        "b4-c4",
+        "d3-d4",
+        "c1-c2"
+    ],
+    "WhoWon": "Black"
+}

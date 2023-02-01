@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Silent Hill",
+    "BlackSidePlayerName": "Ded Fomich",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f3-h3",
+        "e5-c5",
+        "b7-c7",
+        "d6-d2",
+        "b5-b4",
+        "f4-f2xe2",
+        "b4-c4xc5",
+        "f5-c5",
+        "e1-e2xf2",
+        "f6-f3",
+        "a5-a3",
+        "f3-c3xc4",
+        "f1-c1",
+        "c3-c4",
+        "a6-a4",
+        "c4-k4"
+    ],
+    "WhoWon": "White"
+}

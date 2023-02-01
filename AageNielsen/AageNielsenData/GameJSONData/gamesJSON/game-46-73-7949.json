@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 46,
+    "AageGameTypeName": "Historical Hnefatafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e4",
+        "f6-f4",
+        "a5-d5",
+        "g6-c6",
+        "b8-c8",
+        "h6-k6",
+        "m5-k5xk6",
+        "c6-k6",
+        "b6-j6xk6",
+        "g5-j5xj6",
+        "i1-i5xj5",
+        "f8-f11",
+        "h12-h11",
+        "g9-b9",
+        "m9-c9xb9",
+        "h7-h3",
+        "f2-f3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

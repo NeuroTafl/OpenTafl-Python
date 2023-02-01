@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "b4-b3",
+        "d5-b5",
+        "d6-c6",
+        "e4-e6",
+        "f4-f5",
+        "b5-b6",
+        "d7-d6",
+        "e6-e7",
+        "d6-d7",
+        "d4-c4",
+        "f5-f7xe7",
+        "d3-d6xc6",
+        "d7-c7",
+        "c4-c5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

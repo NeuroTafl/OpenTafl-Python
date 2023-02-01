@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Archibald k.",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b2-b4",
+        "f6-i6",
+        "h2-h4",
+        "f5-f9",
+        "b8-d8",
+        "e6-h6",
+        "h8-h7xh6",
+        "e5-e6",
+        "g7-g6",
+        "d4-d1",
+        "g3-f3",
+        "d6-d7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Siegfried",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b2-b3",
+        "c4-c5",
+        "f2-e2",
+        "d3-f3",
+        "e2-f2",
+        "d5-g5",
+        "f6-f4xf3",
+        "d4-d6",
+        "d1-d5"
+    ],
+    "WhoWon": "Black"
+}

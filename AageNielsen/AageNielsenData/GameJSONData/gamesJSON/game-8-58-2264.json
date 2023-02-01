@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "arne64",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 8,
+    "AageGameTypeName": "Ashton tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g5-g2",
+        "f1-g1",
+        "f5-f8",
+        "e8-c8",
+        "e7-i7",
+        "f9-g9",
+        "e5-g5",
+        "g9-g8xf8",
+        "e6-h6",
+        "h5-h3",
+        "g5-g7",
+        "a6-g6xh6"
+    ],
+    "WhoWon": "Black"
+}

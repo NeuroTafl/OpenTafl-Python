@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "k4-i4",
+        "g7-g10",
+        "h11-i11",
+        "e7-e10xf10",
+        "j6-j10",
+        "f7-c7",
+        "a8-c8",
+        "f6-f9",
+        "d11-d9",
+        "f9-k9",
+        "j10-k10",
+        "k9-j9",
+        "k10-j10",
+        "j9-j1",
+        "k8-k9",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

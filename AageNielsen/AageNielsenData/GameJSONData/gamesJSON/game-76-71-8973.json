@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Death",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-d2",
+        "g7-i7",
+        "j5-i5",
+        "g6-g9",
+        "e10-e9",
+        "g5-g3",
+        "e1-e3",
+        "h6-h11",
+        "g1-h1",
+        "f6-h6",
+        "k7-k10",
+        "f8-j8",
+        "k6-k9",
+        "h6-h9",
+        "h1-h7xi7",
+        "h9-i9",
+        "g10-i10",
+        "h11-i11xi10",
+        "i6-i8",
+        "i9-i10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

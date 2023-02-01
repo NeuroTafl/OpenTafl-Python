@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "beyn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-c1",
+        "e5-e2",
+        "b6-b2",
+        "g5-g2xf2",
+        "h1-h2",
+        "f4-i4",
+        "h2-i2",
+        "f5-j5",
+        "k4-j4xj5",
+        "f6-f3",
+        "a4-a3",
+        "f3-k3",
+        "i2-k2",
+        "k3-b3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

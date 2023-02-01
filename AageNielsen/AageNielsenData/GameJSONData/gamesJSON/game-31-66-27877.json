@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Norseclar",
+    "BlackSidePlayerName": "Birkakirb",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j8",
+        "i6-i3",
+        "g2-i2",
+        "h6-h3",
+        "j5-h5",
+        "f5-g5",
+        "k5-i5",
+        "f4-j4",
+        "i5-i4xi3",
+        "f6-f4",
+        "e2-c2",
+        "d6-d2",
+        "e1-d1",
+        "f4-a4"
+    ],
+    "WhoWon": "White"
+}

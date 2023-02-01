@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "nath",
+    "BlackSidePlayerName": "jamikkelson",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-b2",
+        "g5-g2",
+        "j6-j2",
+        "g6-g3",
+        "k4-k3",
+        "f5-j5",
+        "f10-j10",
+        "h6-j6",
+        "b6-b10",
+        "f6-i6",
+        "h1-i1",
+        "i6-i9",
+        "h11-j11",
+        "i9-i11xj11",
+        "j10-j11",
+        "i11-i10",
+        "k8-k10",
+        "i10-i11xj11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

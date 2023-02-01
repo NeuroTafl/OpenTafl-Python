@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Luigi005",
+    "BlackSidePlayerName": "sneadious@",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d4",
+        "e7-c7",
+        "a8-c8",
+        "c7-c2",
+        "d11-d9",
+        "f8-j8",
+        "h11-h8",
+        "f7-b7",
+        "c8-c7xb7",
+        "f6-f9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

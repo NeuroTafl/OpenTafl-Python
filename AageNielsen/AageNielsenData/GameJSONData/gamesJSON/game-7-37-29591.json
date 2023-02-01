@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "jarcin",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-g2",
+        "e4-d4",
+        "e8-c8",
+        "e6-h6",
+        "a6-g6xh6",
+        "e5-e6",
+        "b5-b6",
+        "e7-g7xg6",
+        "d9-d7",
+        "d5-d6",
+        "c8-c6",
+        "e6-h6",
+        "f9-h9",
+        "d4-h4xh5",
+        "i5-h5",
+        "h6-h7",
+        "i6-i7",
+        "h7-h6xh5",
+        "i7-i6",
+        "h6-h8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

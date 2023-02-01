@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "unhandyandy",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "e4-e5",
+        "f4-f5",
+        "d5-a5",
+        "b4-b3",
+        "c4-c6",
+        "d6-d5xe5",
+        "d4-e4",
+        "e2-f2",
+        "e4-e5",
+        "f2-d2xd3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

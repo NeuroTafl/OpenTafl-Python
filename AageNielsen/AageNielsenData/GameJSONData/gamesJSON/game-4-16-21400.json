@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Angle",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6j10",
+        "e5b5",
+        "f2b2",
+        "e7b7",
+        "f10b10",
+        "d6b6",
+        "d11c11",
+        "e6e2",
+        "d1d6",
+        "f6e6",
+        "e11e9",
+        "e6e3",
+        "k4k3",
+        "e3a3",
+        "b2a2",
+        "a3j3",
+        "k3k2",
+        "j3k3",
+        "j10j2",
+        "k3k1"
+    ],
+    "WhoWon": "White"
+}

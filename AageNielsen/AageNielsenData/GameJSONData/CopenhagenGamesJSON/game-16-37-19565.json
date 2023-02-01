@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "Haio",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "e5-e2",
+        "d3-d2xe2",
+        "e6-e2",
+        "g1-g3",
+        "d6-d9",
+        "a5-c5",
+        "f6-c6",
+        "d11-c11",
+        "c6-c10",
+        "b6-b10",
+        "d9-a9",
+        "a8-b8",
+        "a9-a10xb10",
+        "a7-b7",
+        "c10-b10",
+        "c11-b11",
+        "a10-a9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

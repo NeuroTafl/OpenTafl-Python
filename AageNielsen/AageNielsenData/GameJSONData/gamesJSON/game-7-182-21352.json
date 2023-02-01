@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Mihkkal",
+    "BlackSidePlayerName": "Eilidhaniorua",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i4-i3",
+        "g5-g8",
+        "h5-g5",
+        "f5-f8",
+        "f1-h1",
+        "e7-h7",
+        "f9-h9",
+        "e5-f5",
+        "e2-f2",
+        "h7-h5xg5",
+        "i3-g3",
+        "f5-f7",
+        "i6-i7",
+        "f7-a7"
+    ],
+    "WhoWon": "White"
+}

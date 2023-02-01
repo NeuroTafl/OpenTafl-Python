@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "labralege",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11d8",
+        "g7g9",
+        "k8h8",
+        "h6h7",
+        "h11h9",
+        "g9d9",
+        "a7d7",
+        "g6h6",
+        "g11g7",
+        "f6g6",
+        "k4h4",
+        "f8g8",
+        "f10f8",
+        "g6g10",
+        "j6j10",
+        "d9a9",
+        "a5d5",
+        "g10a10",
+        "b6d6",
+        "a10a11"
+    ],
+    "WhoWon": "White"
+}

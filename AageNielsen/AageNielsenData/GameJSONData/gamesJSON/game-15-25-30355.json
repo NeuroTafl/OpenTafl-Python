@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Harry64",
+    "BlackSidePlayerName": "Wesley Alves",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "f10-f8",
+        "g7-g9",
+        "f11-f9",
+        "e7-e9xf9",
+        "f8-f9",
+        "h6-h9",
+        "d11-d9xe9",
+        "e6-e9xf9",
+        "h11-h10",
+        "f7-f10",
+        "a8-c8",
+        "f10-b10",
+        "e11-e10",
+        "f6-f11",
+        "e10-e11",
+        "i8-i11",
+        "h10-f10"
+    ],
+    "WhoWon": "Black"
+}

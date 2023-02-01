@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Colophonius",
+    "BlackSidePlayerName": "beyn",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "c2-b2",
+        "d1-b1",
+        "d3-b3",
+        "b1-c1",
+        "d5-b5xb4",
+        "f4-f3",
+        "b3-a3",
+        "a4-a5",
+        "d4-a4",
+        "c6-c5xb5",
+        "a3-b3",
+        "g4-f4xe4",
+        "a4-a1"
+    ],
+    "WhoWon": "White"
+}

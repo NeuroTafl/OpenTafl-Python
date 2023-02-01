@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "i1-i4",
+        "h6-h3",
+        "f2-f5",
+        "g6-g5xf5",
+        "f1-f5",
+        "g4-f4xf5",
+        "i4-h4xh3",
+        "i5-i4",
+        "c7-c4",
+        "g5-g4xh4",
+        "h2-d2",
+        "h7-h3",
+        "k7-k4",
+        "f4-f3xg3",
+        "m5-j5",
+        "f3-f1",
+        "a5-d5",
+        "f6-d6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "skallatorc",
+    "BlackSidePlayerName": "Eirik",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "k8-h8",
+        "h10-j10",
+        "j6-j9",
+        "d6-d3",
+        "a4-c4",
+        "g5-g3",
+        "f2-f3xg3",
+        "g6-g3",
+        "k6-h6",
+        "e5-b5",
+        "c4-b4xb5",
+        "g7-g5",
+        "h11-j11xj10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

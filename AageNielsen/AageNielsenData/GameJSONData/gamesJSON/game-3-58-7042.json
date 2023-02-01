@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "arne64",
+    "BlackSidePlayerName": "Cvok",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "e5-c5",
+        "a4-c4",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "d10-c10",
+        "g7-g10xf10",
+        "k8-i8",
+        "d6-d11",
+        "b6-c6xc5",
+        "f8-b8",
+        "c10-c11xd11",
+        "e10-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

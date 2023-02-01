@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Ivarmil",
+    "BlackSidePlayerName": "Ivarmoy",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-i1",
+        "c6-c5",
+        "e10-c10",
+        "f3-e3",
+        "e2-c2",
+        "f5-g5",
+        "c10-c6",
+        "f4-f3",
+        "c2-c4xc5",
+        "h6-h4",
+        "g10-i10",
+        "i6-h6",
+        "c4-e4",
+        "e6-e5xe4",
+        "e11-e6xd6",
+        "f9-e9",
+        "b7-e7",
+        "f6-f4",
+        "j7-g7xf7",
+        "f4-a4"
+    ],
+    "WhoWon": "White"
+}

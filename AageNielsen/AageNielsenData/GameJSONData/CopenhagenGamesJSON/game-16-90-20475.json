@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Torc",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "f2-b2",
+        "f5-i5",
+        "k4-i4",
+        "f4-f2",
+        "d1-d3",
+        "f6-f3",
+        "h2-h3",
+        "g2-i2",
+        "g1-g3",
+        "f3-f5",
+        "h3-i3",
+        "f5-h5",
+        "f1-i1xi2",
+        "h6-h9",
+        "k5-j5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

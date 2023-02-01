@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "e4-f4",
+        "d6-e6",
+        "d4-e4",
+        "d7-d6xd5",
+        "d3-e3",
+        "d2-d3xe3",
+        "e4-e2",
+        "e6-e4xf4",
+        "e2-g2",
+        "g4-g3"
+    ],
+    "WhoWon": "Black"
+}

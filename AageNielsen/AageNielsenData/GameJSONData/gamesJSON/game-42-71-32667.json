@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 42,
+    "AageGameTypeName": "Sea battle tafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f15-f11",
+        "g10-g11",
+        "a10-e10",
+        "i10-i12",
+        "g14-g12",
+        "g8-g10",
+        "b9-e9",
+        "h10-l10",
+        "j15-j12xi12",
+        "i8-i12",
+        "j12-l12",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

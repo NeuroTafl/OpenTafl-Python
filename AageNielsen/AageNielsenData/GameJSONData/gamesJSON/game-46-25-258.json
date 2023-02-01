@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 46,
+    "AageGameTypeName": "Historical Hnefatafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g3-d3",
+        "e7-e3",
+        "f2-f3xe3",
+        "f7-e7",
+        "a9-d9",
+        "f8-f10",
+        "e13-e10",
+        "f6-c6",
+        "a5-c5xc6",
+        "g7-f7",
+        "b8-d8",
+        "e7-e3",
+        "g1-g3",
+        "g4-c4",
+        "d3-c3xc4",
+        "f7-f4",
+        "c5-f5"
+    ],
+    "WhoWon": "Black"
+}

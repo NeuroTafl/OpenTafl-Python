@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "herknungr",
+    "BlackSidePlayerName": "sikim",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j6-i6",
+        "h6-h7",
+        "g1-g4",
+        "h7-h4xg4",
+        "g11-g9",
+        "g7-g8",
+        "i6-i4",
+        "g6-i6",
+        "k7-i7",
+        "g8-i8xi7",
+        "g9-h9",
+        "f6-h6",
+        "h9-h8",
+        "f8-g8xh8",
+        "k8-j8",
+        "h6-h10",
+        "f10-g10",
+        "h10-k10",
+        "h11-j11",
+        "k10-k11"
+    ],
+    "WhoWon": "White"
+}

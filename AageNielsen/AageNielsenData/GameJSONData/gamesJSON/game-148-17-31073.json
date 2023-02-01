@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 148,
+    "AageGameTypeName": "Hex 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "f6",
+        "e4",
+        "g5",
+        "f8",
+        "d5",
+        "b4",
+        "c6",
+        "j6",
+        "i6",
+        "i4",
+        "j7",
+        "a5",
+        "b7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

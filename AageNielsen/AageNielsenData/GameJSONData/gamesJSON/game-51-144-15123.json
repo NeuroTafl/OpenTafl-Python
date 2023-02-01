@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f6",
+        "e4-f4",
+        "d2-e2",
+        "d4-e4",
+        "d1-d2xd3",
+        "d5-g5",
+        "d6-e6",
+        "g5-c5",
+        "b4-b5",
+        "c4-b4",
+        "d2-d1",
+        "c5-c1",
+        "e2-e3",
+        "e4-c4",
+        "e3-b3xb4",
+        "c4-c2",
+        "e6-e2xf4",
+        "c2-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

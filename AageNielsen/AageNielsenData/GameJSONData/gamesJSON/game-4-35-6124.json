@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "chuck ward",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8h8",
+        "e5e2",
+        "a4d4",
+        "g5g2",
+        "a5c5",
+        "f4f2",
+        "d1d2",
+        "f5j5",
+        "k4k2",
+        "f6f3",
+        "k5k3",
+        "f3a3",
+        "d2a2",
+        "a3j3",
+        "k2j2",
+        "j3a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

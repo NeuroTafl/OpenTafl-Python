@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1d2",
+        "e3b3",
+        "a4b4",
+        "e4h4",
+        "i6h6",
+        "g5g2",
+        "f1f3",
+        "f5f8",
+        "b4g4",
+        "e5e4",
+        "a5a4",
+        "e4c4",
+        "e1c1",
+        "c4c2",
+        "a4a2",
+        "c2b2",
+        "c1b1",
+        "b2c2"
+    ],
+    "WhoWon": "White"
+}

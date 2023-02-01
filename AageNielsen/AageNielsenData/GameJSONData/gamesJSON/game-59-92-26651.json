@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Edmond-dantes",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "d3-a3",
+        "b4-b5",
+        "d4-d3",
+        "f4-f3",
+        "e4-e6",
+        "g4-d4xd5",
+        "e6-e4xd4",
+        "b5-b4",
+        "c4-c5",
+        "f3-e3",
+        "c5-c3",
+        "d1-d2",
+        "d3-d4",
+        "b4-c4xc3",
+        "a3-c3",
+        "d6-d5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

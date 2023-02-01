@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 96,
+    "AageGameTypeName": "Brandubh throneless circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-e2",
+        "d3-c3",
+        "b6-c6",
+        "d5-e5",
+        "b2-b3",
+        "d4-d3",
+        "f6-f5",
+        "e5-e7",
+        "e2-e3",
+        "c4-d4",
+        "d1-d2",
+        "e4-f4",
+        "c6-c4",
+        "f4-f3xe3",
+        "g4-e4xd4",
+        "d3-d5",
+        "c4-c5",
+        "e7-e5",
+        "d7-d6",
+        "f3-e3xe4",
+        "d2-d4"
+    ],
+    "WhoWon": "Black"
+}

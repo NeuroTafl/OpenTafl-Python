@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "p59xy",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g11-g9",
+        "h6-h9",
+        "f10-f9",
+        "g5-i5",
+        "d11-d8",
+        "e7-e10",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

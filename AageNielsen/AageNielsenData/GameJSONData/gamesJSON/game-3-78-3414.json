@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "f4-c4",
+        "d1-c1",
+        "e5-e2",
+        "g1-g3",
+        "f5-b5",
+        "b6-b4",
+        "f6-f3",
+        "b4-b3",
+        "h6-h3xg3",
+        "f2-i2",
+        "f3-c3",
+        "c1-c2",
+        "d6-d1",
+        "c2-c1xd1",
+        "c3-c2",
+        "b3-b2",
+        "h3-a3",
+        "b2-a2xa3",
+        "c2-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

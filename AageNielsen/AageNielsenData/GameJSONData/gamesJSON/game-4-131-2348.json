@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Bogd khan",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "f8-i8",
+        "k8-j8",
+        "g7-g10",
+        "e11-e10",
+        "f7-i7",
+        "k7-k9",
+        "f6-f9",
+        "d11-d9",
+        "f9-j9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

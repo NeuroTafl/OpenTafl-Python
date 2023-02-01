@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Cacreal",
+    "BlackSidePlayerName": "Corbeau",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-c2",
+        "f4-f2",
+        "h1-h2",
+        "f5-f3",
+        "g1-g2",
+        "f6-f4",
+        "c2-e2xf2",
+        "f4-b4",
+        "e2-b2",
+        "f3-a3",
+        "d1-b1",
+        "b4-c4",
+        "b1-c1",
+        "c4-c11",
+        "b6-b11",
+        "c11-c2",
+        "b2-a2xa3",
+        "c2-c11xb11",
+        "f10-b10",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

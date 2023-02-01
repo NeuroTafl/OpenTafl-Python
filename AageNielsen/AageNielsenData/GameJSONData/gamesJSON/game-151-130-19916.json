@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h10",
+        "e5-e2",
+        "f3-f1",
+        "f5-b5",
+        "c6-a6",
+        "f6-f5",
+        "k8-k5",
+        "b5-a5",
+        "a8-a7",
+        "f5-b5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "Bruland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-f3",
+        "g5-g2",
+        "f3-g3xg2",
+        "f5-j5",
+        "h1-h5",
+        "f4-h4xh5",
+        "k4-j4xj5",
+        "f6-f2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

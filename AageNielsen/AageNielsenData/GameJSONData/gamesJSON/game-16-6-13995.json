@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Ytreza",
+    "BlackSidePlayerName": "Firefinch",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "k8-i8",
+        "g5-g2",
+        "h3-g3xg2",
+        "g7-g10",
+        "e11-e9",
+        "g6-g9",
+        "f2-i2",
+        "f6-h6",
+        "i8-i10",
+        "f8-j8",
+        "i10-j10",
+        "h6-h1",
+        "i2-i1",
+        "h1-h2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

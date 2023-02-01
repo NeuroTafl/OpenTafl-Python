@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-k4",
+        "h6-k6",
+        "m5-k5",
+        "j7-k7",
+        "i13-i10",
+        "h7-h3",
+        "l8-i8xi9",
+        "g7-j7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

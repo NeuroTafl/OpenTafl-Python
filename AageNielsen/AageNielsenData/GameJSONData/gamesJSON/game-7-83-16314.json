@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Conanlib",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-b3",
+        "d5-d2",
+        "e2-g2",
+        "c5-b5",
+        "e8-c8",
+        "e5-c5",
+        "d1-c1",
+        "d2-a2",
+        "c1-c3",
+        "e3-e2",
+        "a4-c4",
+        "e6-c6",
+        "c3-e3xe4xe2",
+        "b5-b4",
+        "d9-d5",
+        "b4-b5",
+        "b3-b4",
+        "a2-a4",
+        "a6-b6xb5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

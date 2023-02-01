@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "rosk",
+    "BlackSidePlayerName": "dfghj",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f1-f3",
+        "g5-g3xf3",
+        "h5-g5",
+        "g3-g4",
+        "i6-f6",
+        "e7-f7xf6",
+        "g5-g7",
+        "e4-b4",
+        "b5-b6",
+        "e3-i3",
+        "e2-i2xi3",
+        "e5-e3",
+        "i2-i3",
+        "e3-a3"
+    ],
+    "WhoWon": "White"
+}

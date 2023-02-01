@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hachit",
+    "BlackSidePlayerName": "Unhandyandy",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "d5-b5",
+        "b4-b3",
+        "e4-e6",
+        "f4-e4",
+        "d3-f3",
+        "d1-d3",
+        "b5-d5",
+        "g4-f4",
+        "f3-f2",
+        "c2-d2",
+        "c4-b4",
+        "d6-c6",
+        "d5-c5",
+        "d7-d5"
+    ],
+    "WhoWon": "Black"
+}

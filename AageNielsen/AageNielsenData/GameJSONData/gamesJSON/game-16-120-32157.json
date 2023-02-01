@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Bigwurm91",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "e5-c5",
+        "g1-g3",
+        "e7-e10",
+        "g11-g9",
+        "e10-b10",
+        "a7-c7",
+        "e6-e9",
+        "d11-d9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

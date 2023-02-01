@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Auskor",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "d6-c6",
+        "d2-b2",
+        "f4-f3",
+        "d4-d3",
+        "a4-a3",
+        "d5-a5",
+        "b4-a4",
+        "d3-d5",
+        "a4-b4xc4",
+        "e4-e6",
+        "e2-e5",
+        "a5-a4",
+        "c6-c5"
+    ],
+    "WhoWon": "Black"
+}

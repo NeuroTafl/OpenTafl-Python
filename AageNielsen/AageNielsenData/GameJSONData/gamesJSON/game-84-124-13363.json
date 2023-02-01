@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 84,
+    "AageGameTypeName": "Foteviken tablut 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-g3xg2",
+        "h6-h3",
+        "f2-f3",
+        "g6-g4",
+        "k4-i4",
+        "f6-i6",
+        "k8-i8",
+        "h3-i3",
+        "k5-i5",
+        "i6-h6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

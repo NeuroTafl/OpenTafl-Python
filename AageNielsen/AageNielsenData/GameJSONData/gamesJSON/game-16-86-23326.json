@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "chuck ward",
+    "BlackSidePlayerName": "kAAgEE",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "f10-b10",
+        "f8-f10",
+        "d11-c11",
+        "f7-j7",
+        "j6-j3",
+        "f6-f9",
+        "k8-k9",
+        "j7-j10",
+        "k7-j7",
+        "f9-j9",
+        "g11-i11",
+        "j10-i10xh10",
+        "i11-j11",
+        "i10-i11xj11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

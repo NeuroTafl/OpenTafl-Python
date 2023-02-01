@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "f8-c8",
+        "h11-h9",
+        "e7-e9",
+        "a8-a9",
+        "f7-d7",
+        "k8-i8",
+        "f6-f9",
+        "i8-f8"
+    ],
+    "WhoWon": "Black"
+}

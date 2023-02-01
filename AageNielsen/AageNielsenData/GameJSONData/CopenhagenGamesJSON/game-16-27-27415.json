@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "rosk",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "g1-g3",
+        "d6-d10",
+        "g3-e3xe2",
+        "f6-c6",
+        "a8-c8",
+        "e7-b7",
+        "a5-b5",
+        "c6-c1",
+        "b5-b1",
+        "c1-c2",
+        "e1-c1",
+        "c2-a2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

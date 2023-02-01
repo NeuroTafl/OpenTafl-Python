@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hugo",
+    "BlackSidePlayerName": "nissen",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4g4",
+        "e5e3",
+        "h1h5",
+        "h6h9",
+        "a4e4",
+        "f5e5",
+        "f2f5",
+        "g6g5",
+        "k7h7",
+        "e3g3",
+        "h11h10",
+        "f6f4",
+        "f1f2",
+        "f4a4",
+        "f2a2",
+        "a4a3",
+        "k8h8",
+        "a3a1"
+    ],
+    "WhoWon": "White"
+}

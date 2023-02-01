@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Abbas Agraphicus",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "d2-f2",
+        "e4-e1",
+        "f2-f1xe1",
+        "f3-a3",
+        "b4-b5",
+        "c4-c2",
+        "f1-f2",
+        "d4-c4",
+        "f5-e5",
+        "c4-c3",
+        "b5-b3",
+        "c3-e3",
+        "b3-c3",
+        "d5-a5xa4",
+        "d6-d2",
+        "a3-b3",
+        "d7-d3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

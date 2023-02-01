@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Chuck ward",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-f2",
+        "c4-c3",
+        "d6-c6",
+        "d5-d6",
+        "f4-f6",
+        "d4-c4",
+        "f2-c2",
+        "d3-d5",
+        "b4-b5",
+        "e4-e6",
+        "b5-c5",
+        "c4-e4",
+        "a4-c4xc3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

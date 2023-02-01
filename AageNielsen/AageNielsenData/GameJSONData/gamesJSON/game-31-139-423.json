@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Uriahdagoat",
+    "BlackSidePlayerName": "mochabocha",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j7-j9",
+        "g6-g3",
+        "g10-g6",
+        "g3-g5",
+        "g2-g4xg5",
+        "f5-g5",
+        "e2-e4xf4",
+        "f6-f5",
+        "b5-c5",
+        "e6-e5",
+        "b7-c7xc6",
+        "f7-g7xg6",
+        "e10-e7",
+        "f5-f6",
+        "b6-c6",
+        "f3-g3xg4",
+        "f2-f5",
+        "g3-e3xe4",
+        "e7-f7"
+    ],
+    "WhoWon": "Black"
+}

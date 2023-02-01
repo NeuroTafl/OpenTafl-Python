@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "whocanhebe",
+    "BlackSidePlayerName": "Rymz06",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "e5-b5",
+        "a4-b4xb5",
+        "e7-c7",
+        "a8-c8",
+        "f8-d8",
+        "i8-e8xd8",
+        "f7-f8",
+        "g11-g8xf8",
+        "f6-f9",
+        "e11-e9",
+        "f9-i9",
+        "j6-j10",
+        "g7-j7",
+        "k7-k9",
+        "i9-i1",
+        "f2-j2",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

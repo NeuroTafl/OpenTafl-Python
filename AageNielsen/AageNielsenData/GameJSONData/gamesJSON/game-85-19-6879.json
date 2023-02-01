@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "Thatoneguy",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c1-c2",
+        "d5-b5",
+        "c7-c6",
+        "b5-b2",
+        "a3-a2xb2",
+        "d3-a3xa2",
+        "c2-c3",
+        "d4-d2",
+        "e1-e2",
+        "d2-a2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

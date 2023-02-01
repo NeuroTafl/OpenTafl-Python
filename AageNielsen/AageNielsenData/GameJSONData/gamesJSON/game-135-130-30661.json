@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 135,
+    "AageGameTypeName": "Old Tyr-1 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "a9-b9",
+        "j7-k7",
+        "j4-j5",
+        "h9-k9xk8",
+        "i13-i10",
+        "i8-m8",
+        "j5-j8",
+        "h5-k5xk6",
+        "h3-h5",
+        "i6-m6xm7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

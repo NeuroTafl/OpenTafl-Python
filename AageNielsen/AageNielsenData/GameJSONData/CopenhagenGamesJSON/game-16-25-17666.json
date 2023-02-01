@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Beartooth",
+    "BlackSidePlayerName": "Haio",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "f8-d8",
+        "e11-e9",
+        "g7-h7",
+        "g11-g10",
+        "g5-h5",
+        "g10-i10",
+        "h6-i6",
+        "f2-i2",
+        "g6-g2",
+        "j6-j3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

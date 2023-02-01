@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 154,
+    "AageGameTypeName": "Tyr 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i1-i2",
+        "d6-c6",
+        "a1-b1",
+        "f6-g6",
+        "i6-h6",
+        "e7-e8",
+        "g7-f7",
+        "e8-c8xc7",
+        "f9-e9",
+        "g5-i5",
+        "h6-h4",
+        "e5-h5",
+        "f7-h7",
+        "h5-f5",
+        "i9-f9",
+        "i5-i7",
+        "i4-i5",
+        "f5-f7",
+        "a9-a7",
+        "f7-g7xh7"
+    ],
+    "WhoWon": "White"
+}

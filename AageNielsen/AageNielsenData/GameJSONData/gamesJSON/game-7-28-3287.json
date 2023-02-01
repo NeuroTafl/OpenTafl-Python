@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "ErzyaKS",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "e3-h3",
+        "b5-b3",
+        "c5-c8",
+        "d9-d8",
+        "d5-b5",
+        "a4-c4",
+        "e5-c5",
+        "a6-c6"
+    ],
+    "WhoWon": "Black"
+}

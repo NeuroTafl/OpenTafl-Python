@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "m9-j9",
+        "f6-c6",
+        "b8-c8",
+        "d7-d3",
+        "i1-i4",
+        "f7-f3",
+        "h2-h4",
+        "g7-d7",
+        "a9-d9",
+        "d3-b3",
+        "m5-j5",
+        "d7-d1"
+    ],
+    "WhoWon": "White"
+}

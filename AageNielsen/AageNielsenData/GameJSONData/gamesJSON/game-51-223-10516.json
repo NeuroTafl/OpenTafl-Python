@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "TorchwoodThree",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "e4-f4",
+        "d6-e6",
+        "d4-e4",
+        "b4-b3",
+        "c4-c1",
+        "d2-e2",
+        "e4-b4",
+        "d1-d2xd3",
+        "c1-c7",
+        "e6-b6",
+        "d5-d6",
+        "b6-b5"
+    ],
+    "WhoWon": "Black"
+}

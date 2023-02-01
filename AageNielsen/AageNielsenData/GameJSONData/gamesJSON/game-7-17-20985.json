@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Mark-Sam",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-g2",
+        "e7-a7",
+        "d9-d7",
+        "c5-c7",
+        "a4-c4",
+        "e6-e7xd7",
+        "e8-d8",
+        "e7-e8",
+        "f9-f7",
+        "c7-c8xd8",
+        "a6-c6",
+        "e5-e7",
+        "c6-e6",
+        "e7-b7",
+        "e9-b9",
+        "a7-a6",
+        "c4-c7",
+        "b7-a7"
+    ],
+    "WhoWon": "White"
+}

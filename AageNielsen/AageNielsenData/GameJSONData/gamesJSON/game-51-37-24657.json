@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Mamajumbo",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-e6",
+        "d5-d6",
+        "d2-c2",
+        "d6-b6",
+        "a4-a6",
+        "d4-d5",
+        "f4-f5",
+        "d5-a5xa6",
+        "b4-a4",
+        "a5-a7"
+    ],
+    "WhoWon": "White"
+}

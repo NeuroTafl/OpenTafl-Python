@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "e4-e5",
+        "f4-f3",
+        "d5-a5",
+        "c2-c3",
+        "e5-e2",
+        "d1-d2",
+        "e2-f2",
+        "d6-e6",
+        "d4-e4",
+        "f3-e3xd3",
+        "f2-e2xe3",
+        "e6-e5",
+        "e4-d4",
+        "b4-b6",
+        "d4-d5",
+        "a4-b4xc4",
+        "a5-a2",
+        "c3-c5"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Max5929",
+    "BlackSidePlayerName": "G'nome",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g11-g9",
+        "e5-e3",
+        "a5-c5",
+        "f4-c4",
+        "g1-g3",
+        "f5-f3",
+        "k4-f4xf3",
+        "f6-f5",
+        "k5-i5",
+        "f5-d5",
+        "d1-d2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

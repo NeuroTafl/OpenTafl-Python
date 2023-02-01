@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Brotheribram(kt)",
+    "BlackSidePlayerName": "Edmond-dantes",
+    "AageGameTypeKey": 106,
+    "AageGameTypeName": "Skalk Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-g3",
+        "h6-h4",
+        "j7-i7",
+        "g5-i5",
+        "f2-h2",
+        "g6-g4",
+        "g10-h10",
+        "g7-g10",
+        "b7-b9",
+        "h4-h7",
+        "b9-g9xg10",
+        "f8-g8",
+        "b6-b8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

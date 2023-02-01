@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "Cardiff City FC",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g1-g3",
+        "d6-d9",
+        "d11-d10",
+        "e7-e10",
+        "a8-d8xd9",
+        "g7-g10xf10",
+        "k4-k2",
+        "h6-h3",
+        "k2-j2",
+        "f4-f3xg3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

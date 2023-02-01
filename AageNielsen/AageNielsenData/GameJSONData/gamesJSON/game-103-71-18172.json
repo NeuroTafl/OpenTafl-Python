@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 103,
+    "AageGameTypeName": "Ard Ri friendly-throne unarmed circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f6-f5",
+        "e4-f4",
+        "b6-e6",
+        "c4-b4",
+        "b2-c2",
+        "d5-a5",
+        "e6-a6xa5",
+        "d4-e4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

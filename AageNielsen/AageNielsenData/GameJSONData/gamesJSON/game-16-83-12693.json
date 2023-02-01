@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "p59xy",
+    "BlackSidePlayerName": "Kwakko",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a8-a9",
+        "e7-b7",
+        "a5-c5",
+        "f7-c7",
+        "d11-c11",
+        "f4-c4",
+        "f2-c2",
+        "d6-c6xc5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Cantlose",
+    "BlackSidePlayerName": "Mike0127",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "e4-g4",
+        "b5-b3",
+        "e3-h3",
+        "i4-i3",
+        "d5-d8",
+        "e8-g8",
+        "c5-c9",
+        "b3-b9xc9",
+        "e5-c5",
+        "d9-c9",
+        "e7-e8",
+        "c2-c3",
+        "c5-c7",
+        "h5-h7",
+        "c7-a7"
+    ],
+    "WhoWon": "White"
+}

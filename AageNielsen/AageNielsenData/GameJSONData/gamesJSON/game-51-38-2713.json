@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Ded Fomich",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-a3",
+        "c6-c5",
+        "d4-d3",
+        "d7-d6xd5",
+        "d3-b3",
+        "d1-b1",
+        "c2-b2",
+        "f4-f3",
+        "e4-e7",
+        "f3-c3",
+        "e7-c7",
+        "e2-e7",
+        "c7-c6",
+        "e7-c7xc6",
+        "b2-c2",
+        "b1-b2"
+    ],
+    "WhoWon": "Black"
+}

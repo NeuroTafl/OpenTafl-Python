@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Gungnir",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-d2",
+        "e6-e7",
+        "b5-b6",
+        "e5-e6",
+        "h5-h6",
+        "f6-f9",
+        "b8-d8",
+        "f4-f1",
+        "e8-g8",
+        "e4-h4",
+        "g3-g1xf1",
+        "e6-e3",
+        "g7-g3",
+        "e7-h7",
+        "g8-g9xf9",
+        "f5-h5xh6",
+        "g9-g5xh5",
+        "e3-f3",
+        "h2-f2",
+        "f3-f9"
+    ],
+    "WhoWon": "White"
+}

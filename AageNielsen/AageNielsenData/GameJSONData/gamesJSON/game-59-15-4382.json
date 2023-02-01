@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "mccluskeyp",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f3",
+        "e4-f4",
+        "d6-e6",
+        "d5-d6",
+        "e6-e5",
+        "d4-d5",
+        "a4-a5",
+        "f4-f5xe5",
+        "d1-e1",
+        "d5-e5",
+        "d7-e7",
+        "d6-d7",
+        "b4-b6",
+        "f5-f7xe7",
+        "b6-e6",
+        "e5-g5"
+    ],
+    "WhoWon": "White"
+}

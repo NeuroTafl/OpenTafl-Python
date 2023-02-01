@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "shaphopafo",
+    "BlackSidePlayerName": "L3monMan",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "e5-e3",
+        "a4-d4",
+        "e6-e5",
+        "d11-d8",
+        "g7-g9",
+        "f2-f3xe3",
+        "f7-i7",
+        "h11-h8",
+        "f6-f7",
+        "e11-e9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

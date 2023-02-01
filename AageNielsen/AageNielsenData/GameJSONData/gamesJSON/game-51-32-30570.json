@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "bigwurm91",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b5",
+        "c4-b4",
+        "d2-c2",
+        "b4-b2",
+        "d1-d2",
+        "e4-e1",
+        "a4-a2xb2",
+        "e1-d1xd2",
+        "a2-a3",
+        "d3-c3",
+        "c2-c1",
+        "d4-d2",
+        "a3-b3",
+        "d2-f2",
+        "d6-e6",
+        "d1-e1",
+        "g4-g2",
+        "f2-f1",
+        "d7-d6xd5",
+        "f1-g1"
+    ],
+    "WhoWon": "White"
+}

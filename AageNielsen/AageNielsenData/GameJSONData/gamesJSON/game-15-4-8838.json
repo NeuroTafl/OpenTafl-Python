@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "remi",
+    "BlackSidePlayerName": "Hugues",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1d3",
+        "g7g8",
+        "k8i8",
+        "e7e9",
+        "d11d9",
+        "g8g9",
+        "h11h9",
+        "g9f9",
+        "g11g9",
+        "f7c7",
+        "a8c8",
+        "f6f7",
+        "k7j7",
+        "e9e10",
+        "b6c6",
+        "f7b7",
+        "c8b8",
+        "b7b1",
+        "e1c1",
+        "b1a1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Thorrthunderr",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g3-j3",
+        "g4-c4",
+        "a9-d9",
+        "f8-f9",
+        "e13-e10",
+        "g8-e8",
+        "k7-k4",
+        "i9-i11",
+        "l8-l10",
+        "g10-f10",
+        "h12-h10",
+        "g7-g9",
+        "m9-i9",
+        "i11-h11",
+        "i13-i11xh11",
+        "h8-h9",
+        "m8-h8xh9",
+        "g6-g2",
+        "h8-g8",
+        "h7-h9",
+        "g11-g10xf10"
+    ],
+    "WhoWon": "Black"
+}

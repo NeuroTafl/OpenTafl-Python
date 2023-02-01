@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "commentjouer",
+    "BlackSidePlayerName": "Huscarl",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j2",
+        "h6-h5",
+        "f10-j10",
+        "f8-d8",
+        "b6-b10",
+        "g6-g8",
+        "f2-b2",
+        "i6-j6",
+        "a8-c8",
+        "f6-i6",
+        "h11-i11",
+        "i6-i1"
+    ],
+    "WhoWon": "White"
+}

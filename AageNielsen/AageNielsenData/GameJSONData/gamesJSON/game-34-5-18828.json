@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "m5-j5",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "h2-h5xi5",
+        "g4-h4xh5",
+        "i1-i7xj7",
+        "h8-h11xg11",
+        "g13-g11xf11",
+        "f6-f11xg11",
+        "b6-b4",
+        "d7-d11xe11",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

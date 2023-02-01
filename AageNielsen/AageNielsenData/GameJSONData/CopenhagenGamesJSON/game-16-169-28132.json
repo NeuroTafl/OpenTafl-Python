@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "bingoboy",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f4-i4",
+        "h1-h3",
+        "d6-d3",
+        "d1-d2",
+        "f8-c8",
+        "a4-d4xd3",
+        "e7-e10",
+        "g11-g9",
+        "e6-e9",
+        "d11-d10xe10",
+        "f6-c6",
+        "a5-c5",
+        "f7-f8",
+        "e11-c11",
+        "c8-c10",
+        "b6-b10xc10",
+        "c6-b6",
+        "c5-b5",
+        "b6-c6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

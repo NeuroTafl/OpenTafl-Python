@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "jAck-Merr1dew",
+    "BlackSidePlayerName": "vonraider",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-b2",
+        "g7-g10",
+        "h11-h10xg10",
+        "h6-h9",
+        "g11-i11",
+        "g6-g10",
+        "e11-e9",
+        "f6-i6",
+        "k4-i4",
+        "i6-i10xh10",
+        "j6-j10",
+        "h9-k9",
+        "j10-k10xk9",
+        "i10-j10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "mccluskeyp",
+    "BlackSidePlayerName": "herjan",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-d3",
+        "g7-g9",
+        "f9-d9",
+        "f8-f10",
+        "j7-h7",
+        "f7-f9",
+        "c6-c8",
+        "f6-f8",
+        "i6-i8",
+        "g5-i5",
+        "i8-g8xg9",
+        "e7-e8",
+        "k6-i6",
+        "d6-d7",
+        "g10-h10",
+        "f9-i9",
+        "d9-f9xf10",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

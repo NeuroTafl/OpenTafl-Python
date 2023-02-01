@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Rossomaha",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "e7-c7",
+        "d11-d9",
+        "f8-c8",
+        "e11-c11",
+        "e6-e10",
+        "d9-d10xe10",
+        "e5-e10",
+        "d10-b10",
+        "g7-g10xf10",
+        "j6-j9",
+        "f6-e6",
+        "e1-e3",
+        "c7-c2",
+        "f1-c1",
+        "c8-c3",
+        "b6-b3xc3",
+        "e6-e9",
+        "a8-a9",
+        "e9-i9",
+        "k8-k10"
+    ],
+    "WhoWon": "Draw"
+}

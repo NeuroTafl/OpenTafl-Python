@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 99,
+    "AageGameTypeName": "Ard Ri unarmed cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g4-g3",
+        "d5-g5",
+        "f4-f6",
+        "e4-e6",
+        "f6-f4",
+        "c4-c6xd6",
+        "b4-b5",
+        "d4-d5",
+        "d1-e1",
+        "g5-g4",
+        "f4-f5",
+        "e6-e7",
+        "f5-e5",
+        "c6-c7xd7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

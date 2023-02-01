@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 66,
+    "AageGameTypeName": "Fidchell (Sea Battle 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a1-b1",
+        "d6-g6",
+        "c7-c6",
+        "d5-e5",
+        "a5-b5",
+        "d4-d5",
+        "b1-b3xb4",
+        "e5-e6",
+        "c1-c2",
+        "d2-f2",
+        "g3-f3",
+        "f2-f1",
+        "g5-f5xf4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

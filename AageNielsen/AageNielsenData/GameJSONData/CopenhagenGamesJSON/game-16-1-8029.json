@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Rasmusruge",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j10",
+        "h6-h2",
+        "f2-b2",
+        "g5-g3",
+        "h11-h3xh2",
+        "g6-j6",
+        "h1-h2",
+        "f6-i6",
+        "h2-i2",
+        "i6-i11",
+        "j10-j11",
+        "i11-i3xh3",
+        "k4-k3",
+        "i3-i11xj11",
+        "k8-k10",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

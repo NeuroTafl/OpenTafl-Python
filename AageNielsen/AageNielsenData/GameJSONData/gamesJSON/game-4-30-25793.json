@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "rosk",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "g1-g3",
+        "d6-d3",
+        "a4-d4xd3",
+        "f6-c6",
+        "a5-c5",
+        "c6-c11",
+        "b6-b11",
+        "c11-c9",
+        "d11-c11",
+        "c9-a9",
+        "f10-a10",
+        "a9-k9",
+        "a10-k10",
+        "k9-b9",
+        "a6-b6",
+        "b9-k9xk10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

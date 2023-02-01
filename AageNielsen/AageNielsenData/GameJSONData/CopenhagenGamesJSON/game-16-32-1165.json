@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "fjorlag",
+    "BlackSidePlayerName": "Brench",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-i8",
+        "f4-c4",
+        "a4-b4",
+        "e5-b5",
+        "a7-c7",
+        "f5-c5",
+        "k4-f4",
+        "d6-d3",
+        "d1-d2",
+        "d3-b3xb4",
+        "d11-d3",
+        "e6-e3",
+        "f2-f3xe3",
+        "e7-e3",
+        "d3-d8",
+        "g5-g3xf3",
+        "e11-e9",
+        "f6-f5",
+        "f4-j4",
+        "f5-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

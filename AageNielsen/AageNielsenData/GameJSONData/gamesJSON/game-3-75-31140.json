@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Bogd khan",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "d6-d9",
+        "f10-c10",
+        "h6-h3",
+        "f2-i2",
+        "e5-c5",
+        "d1-d3",
+        "e6-e3",
+        "a4-c4",
+        "f6-d6",
+        "b6-c6xc5",
+        "d9-b9",
+        "j6-h6xg6"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Davberd",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "f8-d8",
+        "a10-c10",
+        "g9-d9",
+        "g12-g11",
+        "h8-h9",
+        "j13-j12",
+        "g8-g9",
+        "l7-l12",
+        "g7-g8",
+        "a9-a11",
+        "g8-k8",
+        "g2-k2",
+        "k8-k13",
+        "l12-l13",
+        "k13-k12",
+        "m10-m12",
+        "k12-k13xl13",
+        "m12-l12",
+        "k13-m13"
+    ],
+    "WhoWon": "White"
+}

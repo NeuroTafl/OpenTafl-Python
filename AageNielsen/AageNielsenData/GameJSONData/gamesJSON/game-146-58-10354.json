@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Bogd Khan",
+    "AageGameTypeKey": 146,
+    "AageGameTypeName": "Saami S&aacute;hkku 3x15 (K&aring;fjord)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "a2-e2-a3-c2-d3-c3",
+        "o2-l2-o1-n2-n1-o2",
+        "e2-h2-i2-i2-l2-e3-d3xl2",
+        "n2-l2-k2-l1-m1-k2-j2",
+        "h2-j2-k2-k2-l2-l2-o2xl2xo2",
+        "k1-l1-m1-o1-o1-n2",
+        "o2-l1-l1-i1-j2-n2xl1xi1xn2",
+        "n2-j2-i1-l1-l1-o2xl1xi1xn2",
+        "i1-h1-h1-f1-n2-n1xh1xf1",
+        "n1-n2-f1-h1-h1-i1xh1xf1",
+        "n1-j1-j1-g1-f1-b1xj1xg1xb1",
+        "b1-f1-g1-j1-j1-n1xj1xg1xb1",
+        "g1-e1-b1-a1-c2-f2xe1xa1",
+        "f2-c2-a1-b1-e1-g1xe1xa1",
+        "e1-c1-f2-j2-j2-n2xc1",
+        "d1-e1-e1-h1-h1-l1",
+        "b3-a3-a3-c2-c2-f2",
+        "l1-o2-o2-n2-n2-l2xn2",
+        "f2-j2-j2-l2xl2"
+    ],
+    "WhoWon": "Black"
+}

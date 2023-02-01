@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "edmond-dantes",
+    "BlackSidePlayerName": "Torc",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "f10-i10",
+        "f7-f10",
+        "b6-b10",
+        "f6-f9",
+        "d11-d9",
+        "f9-j9",
+        "h11-j11",
+        "j9-k9",
+        "i10-k10",
+        "i8-i11xj11",
+        "j6-j9",
+        "i11-i9xj9",
+        "d9-f9xf10",
+        "k9-j9",
+        "k10-j10",
+        "j9-j1",
+        "f2-j2",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

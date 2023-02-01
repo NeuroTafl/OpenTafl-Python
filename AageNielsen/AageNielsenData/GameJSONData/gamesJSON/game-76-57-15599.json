@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "e7-e9",
+        "g10-g9",
+        "f7-c7",
+        "b5-c5",
+        "g7-i7",
+        "j5-i5",
+        "f8-j8",
+        "a7-a8",
+        "e6-e8",
+        "a8-c8xc7",
+        "f6-f8",
+        "b7-f7"
+    ],
+    "WhoWon": "Black"
+}

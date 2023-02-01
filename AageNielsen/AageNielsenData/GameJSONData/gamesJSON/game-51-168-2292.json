@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "c4-c3",
+        "b4-b3",
+        "d5-c5",
+        "d6-c6",
+        "c5-b5",
+        "d2-e2",
+        "c3-c5",
+        "e2-e3",
+        "d4-b4",
+        "g4-f4xe4",
+        "b5-b7",
+        "f4-c4xc5"
+    ],
+    "WhoWon": "Black"
+}

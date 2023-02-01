@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Parzival",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "f10-i10",
+        "f7-f10",
+        "a8-f8",
+        "g5-g2",
+        "k4-i4",
+        "f5-j5",
+        "h3-h2xg2",
+        "f4-b4",
+        "f2-f4",
+        "f6-f7",
+        "f8-f9xf10",
+        "f7-f8",
+        "e11-e8",
+        "d6-d8xe8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

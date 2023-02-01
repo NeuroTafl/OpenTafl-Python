@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "gunnarnjalsson",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "m9-j9",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "h12-h9xi9",
+        "g10-h10xh9",
+        "h13-h11",
+        "d7-d11xe11",
+        "c7-e7",
+        "g8-e8",
+        "e7-d7",
+        "g7-g10",
+        "d7-d10",
+        "e9-d9xd10",
+        "i13-i7xj7",
+        "g10-a10"
+    ],
+    "WhoWon": "White"
+}

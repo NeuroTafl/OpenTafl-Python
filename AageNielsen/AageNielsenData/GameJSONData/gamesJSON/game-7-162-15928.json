@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h5-h7",
+        "e4-d4",
+        "b5-b3",
+        "d5-d8",
+        "f9-f8",
+        "c5-b5",
+        "a6-c6",
+        "d4-c4",
+        "c6-c8xd8",
+        "e5-c5",
+        "c8-c7",
+        "c4-c2",
+        "i4-e4xe3",
+        "f5-f3",
+        "e4-h4",
+        "g5-h5",
+        "h4-g4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

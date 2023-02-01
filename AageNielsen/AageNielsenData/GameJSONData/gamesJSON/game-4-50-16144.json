@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Rossomaha",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10-f9",
+        "h6-h9",
+        "f2-i2",
+        "d6-d9",
+        "b6-b10",
+        "f4-b4",
+        "h11-h10",
+        "g7-g9",
+        "e11-e9",
+        "f5-f2",
+        "k4-c4xb4",
+        "f6-f3",
+        "d1-d3",
+        "f3-k3",
+        "i2-k2",
+        "f2-j2",
+        "j6-h6xg6",
+        "g5-g3",
+        "k8-h8xh9",
+        "k3-k4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

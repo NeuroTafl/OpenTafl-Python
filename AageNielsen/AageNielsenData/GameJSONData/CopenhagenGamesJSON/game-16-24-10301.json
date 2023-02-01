@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "d11-d9",
+        "g5-g2",
+        "f2-c2",
+        "g6-g3",
+        "k4-i4",
+        "f5-j5",
+        "i4-i5xj5",
+        "f4-i4",
+        "h3-i3xi4",
+        "h6-h1",
+        "b6-b3",
+        "g2-i2",
+        "j6-j2",
+        "f6-j6",
+        "d9-j9",
+        "j6-j3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

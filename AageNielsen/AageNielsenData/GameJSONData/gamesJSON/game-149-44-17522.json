@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Haio",
+    "AageGameTypeKey": 149,
+    "AageGameTypeName": "Saami Cuhkka 5x5",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "b3-c3",
+        "d3-b3xc3",
+        "a3-c3xb3",
+        "d2-d3",
+        "b4-b3",
+        "d1-d2",
+        "b5-b4",
+        "e1-d1",
+        "c5-b5",
+        "a2-a3",
+        "a4-a2xa3",
+        "a1-a3-c5xa2xb4",
+        "b3-a3",
+        "b1-a1",
+        "b5-b4",
+        "d3-b3-b5xc3xb4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

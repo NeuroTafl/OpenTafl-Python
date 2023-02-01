@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Bogd Khan",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "h11-h9",
+        "g7-g9",
+        "f10-f9xg9",
+        "g6-g9",
+        "g11-g10",
+        "i8-i9xh9",
+        "f9-b9",
+        "f7-j7",
+        "k5-j5",
+        "f6-f10",
+        "d11-d10",
+        "h6-h10xg10",
+        "k8-k9",
+        "h10-h11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

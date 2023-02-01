@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Rollo",
+    "AageGameTypeKey": 155,
+    "AageGameTypeName": "Old Tyr 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i4-k4",
+        "h11-h12",
+        "m6-k6xk5",
+        "j9-j12xi12",
+        "g12-e12",
+        "e11-g11",
+        "l12-k12",
+        "i10-i14",
+        "m10-k10xk11",
+        "i14-j14xj13",
+        "d15-g15",
+        "h9-k9",
+        "k10-i10",
+        "h8-h11",
+        "o12-o11",
+        "h11-i11",
+        "k12-i12"
+    ],
+    "WhoWon": "Black"
+}

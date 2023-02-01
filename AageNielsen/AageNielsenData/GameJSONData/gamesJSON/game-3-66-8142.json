@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "RedJack",
+    "BlackSidePlayerName": "epoc",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "h11-h9",
+        "g7-i7",
+        "k4-i4",
+        "f7-h7",
+        "g11-i11",
+        "g6-g9",
+        "h9-h10",
+        "g9-k9",
+        "f10-f9",
+        "i8-i10",
+        "j6-j10xi10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

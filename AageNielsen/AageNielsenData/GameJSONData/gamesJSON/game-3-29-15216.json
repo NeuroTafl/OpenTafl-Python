@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Epoc",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "e7-c7",
+        "a4-c4",
+        "f8-c8",
+        "b6-b10",
+        "f7-d7",
+        "e11-c11",
+        "f6-f9",
+        "f10-j10",
+        "f9-k9",
+        "j10-k10",
+        "k9-e9",
+        "k8-k9",
+        "c8-c9xd9",
+        "a8-a9",
+        "e9-e11",
+        "k10-d10",
+        "e11-e10",
+        "c11-c10",
+        "e10-k10",
+        "j6-j10"
+    ],
+    "WhoWon": "Black"
+}

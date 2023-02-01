@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Corndogboy",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "h6-h11",
+        "g10-i10",
+        "g6-g4",
+        "g2-h2",
+        "g4-h4",
+        "j7-h7",
+        "f8-h8",
+        "h7-h6xi6",
+        "h8-h7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

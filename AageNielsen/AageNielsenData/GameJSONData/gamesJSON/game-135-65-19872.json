@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "187Gallo",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 135,
+    "AageGameTypeName": "Old Tyr-1 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "c8-b8",
+        "f9-c9",
+        "h11-h12",
+        "i6-i4",
+        "h3-h4xi4",
+        "i8-i4xh4",
+        "m7-k7",
+        "h5-l5",
+        "i13-i7xj7",
+        "l5-l4",
+        "j4-h4",
+        "f5-j5",
+        "d4-f4xg4",
+        "g6-g4xh4",
+        "f4-h4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Rook",
+    "AageGameTypeKey": 70,
+    "AageGameTypeName": "Sea battle square 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e8-g8",
+        "d4-d2",
+        "f1-f3",
+        "e6-e8",
+        "h5-h7",
+        "e5-e7",
+        "b5-b7",
+        "e7-c7",
+        "a6-c6",
+        "c7-c9"
+    ],
+    "WhoWon": "White"
+}

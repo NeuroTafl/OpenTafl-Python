@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j7-j8",
+        "f7-j7",
+        "j5-j4",
+        "f9-j9xj8",
+        "f10-f9",
+        "f6-f7",
+        "e10-d10",
+        "i6-i10",
+        "g11-i11",
+        "f7-i7",
+        "g2-i2",
+        "i7-i8",
+        "k7-k8",
+        "j7-k7",
+        "b7-i7",
+        "h6-i6xi7",
+        "a7-i7",
+        "i8-h8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

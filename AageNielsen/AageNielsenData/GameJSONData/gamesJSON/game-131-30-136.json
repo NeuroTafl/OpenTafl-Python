@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Mari",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b4",
+        "f8-b8",
+        "b2-d2",
+        "d6-d10",
+        "j10-h10",
+        "g7-g8",
+        "e11-e10",
+        "f7-i7",
+        "a7-d7",
+        "e6-c6",
+        "f10-f7xe7",
+        "f6-e6",
+        "e10-e7",
+        "g6-f6",
+        "d2-d6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

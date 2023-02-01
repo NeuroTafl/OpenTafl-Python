@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1f2",
+        "e7b7",
+        "f9f7",
+        "d5d8",
+        "d1d5",
+        "e4c4",
+        "i4e4",
+        "c4d4",
+        "a4c4",
+        "e6f6",
+        "d5d7",
+        "e5e6",
+        "a6d6",
+        "f6g6",
+        "b5e5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

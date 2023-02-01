@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "mrwalrus",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d9-d8",
+        "e7-c7",
+        "e9-c9",
+        "e4-f4",
+        "a6-c6",
+        "e5-e4",
+        "c9-c8xc7",
+        "f5-f7",
+        "a4-c4xc5",
+        "f4-f2",
+        "b5-c5xd5",
+        "g5-d5",
+        "i4-g4",
+        "d5-d2xe2",
+        "d8-d3xd2",
+        "e3-h3",
+        "g4-f4",
+        "e4-e5",
+        "d3-f3xf2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

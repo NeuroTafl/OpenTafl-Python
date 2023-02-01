@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 117,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g3-d3",
+        "g4-d4",
+        "c7-c4",
+        "i5-k5",
+        "e1-e4xd4",
+        "g5-g3",
+        "b6-e6xe5",
+        "i7-i2",
+        "e4-g4",
+        "h6-h4",
+        "h2-g2xg3",
+        "j7-j1",
+        "l8-i8",
+        "g7-j7",
+        "i8-j8",
+        "j7-j2",
+        "l6-l2",
+        "j2-k2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

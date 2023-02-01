@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "griffin",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "k7-j7",
+        "h6-h9",
+        "f10-j10",
+        "f7-f10",
+        "b6-b10",
+        "f6-f9",
+        "a8-a9",
+        "f9-c9",
+        "f2-c2",
+        "c9-c3",
+        "b10-b3",
+        "e5-e3xd3",
+        "a7-c7",
+        "d6-d1",
+        "e1-e2",
+        "d1-c1xc2",
+        "e2-j2",
+        "c3-c2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

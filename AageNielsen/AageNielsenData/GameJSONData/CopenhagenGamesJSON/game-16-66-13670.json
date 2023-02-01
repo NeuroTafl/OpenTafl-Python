@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Freyja",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "e7-e10",
+        "d9-d10xe10",
+        "e6-e10",
+        "g11-g9",
+        "d6-d9",
+        "a8-d8xd9",
+        "f6-c6",
+        "a7-c7",
+        "c6-c1",
+        "b6-b1",
+        "c1-c3",
+        "a4-a3",
+        "c3-c1xb1",
+        "g9-e9xe10",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

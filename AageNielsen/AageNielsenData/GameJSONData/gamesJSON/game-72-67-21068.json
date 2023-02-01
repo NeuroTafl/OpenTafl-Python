@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 72,
+    "AageGameTypeName": "Sea battle T circle 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f4-f2",
+        "b6-b3",
+        "f6-f3",
+        "h1-h3",
+        "f3-c3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

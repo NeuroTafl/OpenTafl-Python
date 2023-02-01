@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Cromwell",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "f4-c4",
+        "e1-e2",
+        "f8-i8",
+        "g11-g10",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "h11-h8xi8",
+        "f6-f9",
+        "j8-j9",
+        "f9-b9",
+        "f10-b10",
+        "b9-a9",
+        "b10-a10",
+        "a9-i9",
+        "g10-i10",
+        "i9-a9xa10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

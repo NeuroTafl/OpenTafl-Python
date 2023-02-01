@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Casshern",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "f5-f4",
+        "b5-b3",
+        "e5-f5",
+        "f9-f8",
+        "e7-h7",
+        "e9-g9",
+        "f4-f2",
+        "i4-h4",
+        "f5-f3",
+        "i5-i3",
+        "f3-h3",
+        "f1-h1",
+        "f2-i2",
+        "f8-f5xg5",
+        "e3-f3",
+        "g9-g3",
+        "i2-h2",
+        "b3-e3xf3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

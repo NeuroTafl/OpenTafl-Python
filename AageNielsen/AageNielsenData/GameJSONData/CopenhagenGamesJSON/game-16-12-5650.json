@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "cdafo",
+    "BlackSidePlayerName": "Thrizian",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "f8-c8",
+        "k8-h8",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

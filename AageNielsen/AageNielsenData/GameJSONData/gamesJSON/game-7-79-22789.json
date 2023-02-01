@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Jilles",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-c2",
+        "f5-f6",
+        "b5-b7",
+        "e3-h3",
+        "i4-h4",
+        "e5-f5",
+        "d1-d3",
+        "f6-f8",
+        "d9-d8",
+        "f5-f7",
+        "h5-h7",
+        "g5-h5xh4",
+        "c2-g2",
+        "f7-f4",
+        "i5-i4",
+        "h5-i5",
+        "e1-e3xe4",
+        "f4-g4",
+        "i6-g6",
+        "h3-i3xi4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

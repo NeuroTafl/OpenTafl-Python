@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "xerxes",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-f2",
+        "e6-d6",
+        "i6-h6",
+        "e7-i7",
+        "d9-d7",
+        "e3-d3",
+        "a6-c6",
+        "e4-h4",
+        "i5-i6",
+        "d5-d4",
+        "a4-c4xc5",
+        "e5-e3",
+        "e8-e4xd4"
+    ],
+    "WhoWon": "Black"
+}

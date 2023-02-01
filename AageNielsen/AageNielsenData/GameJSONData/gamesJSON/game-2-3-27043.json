@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Budik",
+    "BlackSidePlayerName": "Bud",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g7g10",
+        "h11h10",
+        "f8h8",
+        "k7h7",
+        "f7g7",
+        "f10f7",
+        "g6g7",
+        "h10h9",
+        "d6d9",
+        "f11f7",
+        "g5g7",
+        "k5h5",
+        "f6f10",
+        "b6b9",
+        "f10i10",
+        "j6i6",
+        "i10i11",
+        "h9h11",
+        "i11k11"
+    ],
+    "WhoWon": "White"
+}

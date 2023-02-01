@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Rossomaha",
+    "BlackSidePlayerName": "hachit",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h9",
+        "g7-g10",
+        "f10-b10",
+        "g6-g9",
+        "k8-i8",
+        "f7-j7",
+        "j6-j2",
+        "h6-h8",
+        "f2-i2",
+        "g10-h10xh9",
+        "i8-i7xj7",
+        "f6-j6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

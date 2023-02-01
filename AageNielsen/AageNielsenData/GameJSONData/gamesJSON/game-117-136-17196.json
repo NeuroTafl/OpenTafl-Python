@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Borjk",
+    "AageGameTypeKey": 117,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "f2-f4",
+        "e5-e4xf4",
+        "f1-f4",
+        "h6-h4",
+        "l6-i6",
+        "h8-h6",
+        "i1-i4xi5",
+        "g5-i5xi6",
+        "m6-i6xi5",
+        "j7-j6xi6",
+        "m5-g5xg4",
+        "h4-g4xf4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

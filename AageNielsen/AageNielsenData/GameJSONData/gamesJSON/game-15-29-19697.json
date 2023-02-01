@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Coemgein",
+    "BlackSidePlayerName": "Charon",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-a2",
+        "d6-d3",
+        "b6-b3",
+        "e6-c6",
+        "f10-b10",
+        "f6-d6",
+        "a5-a3",
+        "c6-c11",
+        "j6-j9",
+        "f8-f9",
+        "b10-b11xc11",
+        "d6-d10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

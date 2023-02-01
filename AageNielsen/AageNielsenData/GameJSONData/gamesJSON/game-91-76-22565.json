@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-i2",
+        "d6-d11",
+        "e1-d1",
+        "f5-d5",
+        "e10-c10",
+        "d11-c11",
+        "f10-d10",
+        "f9-c9xc10",
+        "b7-b11",
+        "f8-a8"
+    ],
+    "WhoWon": "Ongoing"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Gungnir",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-f2",
+        "d6-a6",
+        "b5-b4",
+        "e6-e7",
+        "e8-d8",
+        "f6-i6",
+        "c7-a7xa6",
+        "e5-e6",
+        "b4-b6",
+        "e6-h6",
+        "h8-h7",
+        "f4-i4xi5",
+        "d8-i8",
+        "i6-i7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

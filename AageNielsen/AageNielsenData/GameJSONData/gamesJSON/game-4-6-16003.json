@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "halldav3",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-j2",
+        "f4-f2",
+        "b6-b2",
+        "g5-g2",
+        "k4-g4",
+        "f5-j5",
+        "g4-j4xj5",
+        "f6-f3",
+        "j6-j10",
+        "f3-c3",
+        "f10-b10",
+        "c3-a3",
+        "b2-a2",
+        "a3-c3",
+        "d11-c11",
+        "c3-a3xa2",
+        "b10-b2",
+        "a3-a1"
+    ],
+    "WhoWon": "White"
+}

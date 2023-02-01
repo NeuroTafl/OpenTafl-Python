@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Eirik",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "h1-h2",
+        "d6-d9",
+        "d11-d10",
+        "f6-c6",
+        "a4-c4",
+        "c6-c10",
+        "b6-b10",
+        "d9-a9",
+        "e11-b11",
+        "a9-a10xb10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Owen",
+    "BlackSidePlayerName": "griffin",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "g5-g3",
+        "h1-h3",
+        "g3-e3",
+        "f2-f3xe3",
+        "g6-g3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

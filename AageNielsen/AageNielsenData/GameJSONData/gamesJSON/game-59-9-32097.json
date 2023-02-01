@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "bluepot9",
+    "BlackSidePlayerName": "mettaray",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "e4-e3",
+        "d2-e2",
+        "d3-d2",
+        "g4-e4xe3",
+        "d4-d3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

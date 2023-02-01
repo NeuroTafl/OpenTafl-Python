@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "leoak477",
+    "BlackSidePlayerName": "Klanczi",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-i6",
+        "e7-e9",
+        "e11-e10",
+        "f7-c7",
+        "a8-d8",
+        "f6-f7",
+        "h11-h9",
+        "f7-d7",
+        "d11-d9",
+        "c7-c9xd9",
+        "a7-c7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

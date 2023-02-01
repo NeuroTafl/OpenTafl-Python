@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Stryker10g",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g6-g3",
+        "k4-i4",
+        "f7-i7",
+        "h11-h9",
+        "e6-e9",
+        "a8-d8",
+        "f6-e6",
+        "f2-c2",
+        "e9-e8",
+        "a7-c7",
+        "e6-e2",
+        "g1-g2",
+        "i7-i9",
+        "a4-e4",
+        "e2-d2",
+        "e1-e2"
+    ],
+    "WhoWon": "Black"
+}

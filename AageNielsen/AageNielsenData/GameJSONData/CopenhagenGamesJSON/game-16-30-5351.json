@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "k8-i8",
+        "g7-j7",
+        "i8-i7xj7",
+        "f8-i8",
+        "i7-i2",
+        "g6-g10",
+        "h11-h10xg10",
+        "g5-g10",
+        "g1-g9xg10",
+        "f7-f9xg9",
+        "a8-f8xf9",
+        "e7-c7",
+        "h1-h8xh9",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

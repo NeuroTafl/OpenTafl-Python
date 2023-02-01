@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "arne64",
+    "BlackSidePlayerName": "Sasquatch",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "a8-b8",
+        "g7-g9",
+        "f10-g10",
+        "e7-b7",
+        "b8-b9",
+        "e5-b5xb6",
+        "a6-b6",
+        "f8-b8",
+        "a4-b4xb5",
+        "f5-b5xb6",
+        "k8-g8xg9",
+        "f4-j4",
+        "h1-j1",
+        "f6-f3",
+        "j1-j3",
+        "f3-b3xb4",
+        "a5-a3",
+        "b3-b1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

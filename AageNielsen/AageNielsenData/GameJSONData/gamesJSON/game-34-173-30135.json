@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Matematician",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i1-i4",
+        "h6-h4",
+        "m5-j5",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "g11-j11",
+        "d7-d11xe11",
+        "l6-i6xi5",
+        "g10-g12",
+        "j11-g11xg12",
+        "g7-d7",
+        "e1-d1",
+        "d7-d10",
+        "c7-c10",
+        "d10-m10"
+    ],
+    "WhoWon": "White"
+}

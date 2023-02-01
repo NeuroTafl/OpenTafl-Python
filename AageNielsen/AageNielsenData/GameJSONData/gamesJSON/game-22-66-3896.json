@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Edmond-dantes",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "f5-f6",
+        "b5-b3",
+        "e6-b6",
+        "e8-b8",
+        "e7-e8",
+        "h5-h7",
+        "e5-e7",
+        "a6-a7",
+        "e7-g7",
+        "f9-g9",
+        "g5-h5",
+        "i4-g4",
+        "e8-h8",
+        "i6-h6",
+        "f6-f9",
+        "g4-g6",
+        "g7-g8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

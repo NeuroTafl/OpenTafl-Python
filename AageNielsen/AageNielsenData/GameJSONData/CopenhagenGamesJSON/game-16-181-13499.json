@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Kratzer",
+    "BlackSidePlayerName": "Gjallarhorn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-b2",
+        "f4-c4",
+        "j6-j2",
+        "f5-f2",
+        "k4-k3",
+        "f6-f3",
+        "a4-a3",
+        "f3-i3",
+        "h11-j11",
+        "i3-i11xj11",
+        "j2-j11",
+        "i11-i9",
+        "h1-i1",
+        "i9-i11xj11",
+        "f10-j10",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

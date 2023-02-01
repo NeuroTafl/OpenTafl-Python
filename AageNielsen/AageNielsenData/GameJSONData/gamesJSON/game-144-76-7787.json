@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Kaagee",
+    "AageGameTypeKey": 144,
+    "AageGameTypeName": "Old TYR! 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e1-e3",
+        "g10-g11",
+        "i13-i9",
+        "e8-e11xf11",
+        "g13-g12",
+        "g8-g10",
+        "a9-d9",
+        "g10-i10xi9",
+        "j10-g10xg11",
+        "h9-h10",
+        "g10-g11",
+        "j7-j13",
+        "m7-k7",
+        "g7-g10",
+        "m9-g9"
+    ],
+    "WhoWon": "Black"
+}

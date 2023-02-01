@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 145,
+    "AageGameTypeName": "Tyr 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g4-g2",
+        "h11-h12",
+        "i12-i14",
+        "f9-f12xg12",
+        "d15-g15",
+        "e11-e14"
+    ],
+    "WhoWon": "Ongoing"
+}

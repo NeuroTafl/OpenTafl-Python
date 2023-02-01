@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "MasterLuke",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 141,
+    "AageGameTypeName": "Old TYR! 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h15-h12",
+        "k11-k14",
+        "h12-h10",
+        "h8-j8",
+        "h10-h8",
+        "j8-l8",
+        "h8-j8",
+        "i6-l6xl7",
+        "j3-j6xj7",
+        "l8-l7",
+        "m10-m7",
+        "h7-j7xj8",
+        "f3-j3",
+        "k5-n5",
+        "m7-n7",
+        "g6-l6",
+        "o8-l8",
+        "n5-n6xm6",
+        "m3-m6",
+        "l7-l5",
+        "c6-k6xl6"
+    ],
+    "WhoWon": "Black"
+}

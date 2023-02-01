@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "dayvigco",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "e3-b3",
+        "d1-d3",
+        "c5-c1",
+        "a4-a3",
+        "b3-b2",
+        "b5-b4",
+        "d5-d8",
+        "f9-f8",
+        "e5-c5",
+        "d9-c9",
+        "c5-c2",
+        "a3-a1",
+        "e7-b7",
+        "c9-c4",
+        "b2-b1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

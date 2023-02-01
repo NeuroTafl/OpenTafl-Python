@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 143,
+    "AageGameTypeName": "Old TYR! 17x17",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "m3-i3",
+        "i12-i13",
+        "j5-i5xi4",
+        "k10-k13xj13",
+        "o13-l13",
+        "g10-g13xh13",
+        "n11-l11xl12",
+        "j11-j15",
+        "e15-h15",
+        "i9-i11",
+        "m15-k15",
+        "f12-f15",
+        "h15-i15xj15xj15",
+        "i11-i12",
+        "e10-e12",
+        "i12-q12"
+    ],
+    "WhoWon": "White"
+}

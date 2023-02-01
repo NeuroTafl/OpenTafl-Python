@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "davis",
+    "AageGameTypeKey": 84,
+    "AageGameTypeName": "Foteviken tablut 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-c1",
+        "g7-g9",
+        "k7-i7",
+        "e5-e2",
+        "k4-k3",
+        "g5-g2xf2",
+        "k3-g3xg2",
+        "f4-g4",
+        "g3-e3xe2",
+        "f5-f3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

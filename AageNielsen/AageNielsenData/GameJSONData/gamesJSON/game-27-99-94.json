@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Torc",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "j6-j9",
+        "e7-e10",
+        "d11-d10xe10",
+        "h6-j6",
+        "f10-i10",
+        "g5-g2",
+        "k4-i4",
+        "e5-e2xf2",
+        "h3-g3xg2",
+        "f5-b5",
+        "a4-b4xb5",
+        "f6-f5",
+        "a5-c5",
+        "f5-h5",
+        "g3-h3",
+        "h5-e5",
+        "a6-a3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

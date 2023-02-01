@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 172,
+    "AageGameTypeName": "Tyr 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "m7-k7",
+        "d7-c7",
+        "a7-b7",
+        "f7-d7",
+        "d10-d9",
+        "f5-c5xc6",
+        "a10-e10",
+        "e6-e2",
+        "a4-a6",
+        "g6-b6",
+        "g1-e1",
+        "g4-g1",
+        "f3-g3",
+        "e2-g2",
+        "j4-h4",
+        "c5-c4",
+        "e1-e6",
+        "g7-g4xg3"
+    ],
+    "WhoWon": "White"
+}

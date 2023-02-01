@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "norris37@msu.edu",
+    "BlackSidePlayerName": "Birkasee",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j10",
+        "f7-e7",
+        "e10-b10",
+        "f5-g5",
+        "b5-b2",
+        "g5-h5",
+        "g2-j2",
+        "c6-c5",
+        "b6-b4",
+        "c5-c4",
+        "b7-c7",
+        "f4-h4",
+        "j6-j7",
+        "f6-f4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Pi&eacute;96",
+    "BlackSidePlayerName": "Trygve",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "d3-d2",
+        "b4-b3",
+        "d5-a5",
+        "f4-f5",
+        "d4-d3",
+        "f5-f2",
+        "e4-e6",
+        "d6-a6xa5",
+        "d3-d5",
+        "f2-f5",
+        "d5-a5xa6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

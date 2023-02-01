@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "animals",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c5",
+        "b4-b3",
+        "d5-g5",
+        "g4-g3",
+        "g5-g4xf4",
+        "e2-f2",
+        "e4-e5",
+        "d6-d5",
+        "d4-f4",
+        "b3-b5xc5",
+        "f4-f5",
+        "d1-d2xd3",
+        "f5-g5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

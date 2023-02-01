@@ -1,11 +1,9 @@
+from copy import copy
+
 from Board import Board
 from Coordinate import Coordinate
 
 ### !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
-## Make 3 check, remove, set in board and change classes that use boards
-# This class
-# Move Decider
-# Tensor Move Decider
 # add wincheck on board
 
 
@@ -29,6 +27,7 @@ class NextBoardState:
         boardList = []
         for move in moveList:
             boardList.append((move, self.getNext(move)))
+            # gets the next boarrd for each given move, and returns it in tuple format with the board, and the move
         return boardList
 
     def getNext(self, move):
@@ -40,7 +39,7 @@ class NextBoardState:
         endingCoord = Coordinate()
         endingCoord.loadFromCoordinate(ending)
         self.endingCoord = endingCoord
-        piece = self.cur_board.board[originCoord.getYIndex()][originCoord.getXIndex()]
+        piece = self.cur_board.getPieceAtCoord(originCoord)
         if piece == "K":
             self.isKing = True
             self.piece = "T"
@@ -54,9 +53,11 @@ class NextBoardState:
 
     def checkLegal(self, coord):
         if coord is self.isCorner(coord) and not self.isKing:
-            return "Illegal Move"
+            # illegal move
+            return copy(self.cur_board)
         elif coord is self.isCorner(coord) and self.isKing:
-            return "Victory Defenders"
+            # victory defenders
+            return self.makeBoard([])
         else:
             return self.checkMove(coord)
 
@@ -84,14 +85,14 @@ class NextBoardState:
     def makeBoard(self, captured):
         new_board = Board(self.cur_board.__str__())
         for coord in captured:
-            new_board.board[coord.y][coord.x] = "e"
+            new_board.removePieceAtCoord(coord)
 
         if self.isKing:
-            new_board.board[self.endingCoord.y][self.endingCoord.x] = "K"
+            new_board.setPieceAtCoord(self.endingCoord, "K")
         else:
-            new_board.board[self.endingCoord.y][self.endingCoord.x] = self.piece
+            new_board.setPieceAtCoord(self.endingCoord, self.piece)
 
-        new_board.board[self.startingCoord.y][self.startingCoord.x] = "e"
+        new_board.removePieceAtCoord(self.startingCoord)
         return new_board
 
 
@@ -130,8 +131,8 @@ class NextBoardState:
             toCheckOpp.y = coord.getYIndex()
 
         if self.checkPossilbe(toCheckTeam):
-            if self.cur_board.board[toCheckTeam.getYIndex()][toCheckTeam.getXIndex()] == self.piece:
-                between = self.cur_board.board[toCheckOpp.getYIndex()][toCheckOpp.getXIndex()]
+            if self.cur_board.getPieceAtCoord(toCheckTeam) == self.piece:
+                between = self.cur_board.getPieceAtCoord(toCheckOpp)
                 if between != self.piece and between != "e":
                     return toCheckOpp
         return None
@@ -147,7 +148,6 @@ class NextBoardState:
             return False
         return True
 
-        ## FIX BOARD BEFORE MOVING ON
 
 
     def checkShield(self, coord):

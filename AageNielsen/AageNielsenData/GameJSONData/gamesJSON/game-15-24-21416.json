@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "chuck ward",
+    "BlackSidePlayerName": "Everhard",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "j6-j10",
+        "f4-b4",
+        "f1-f4",
+        "f6-f5",
+        "h1-i1",
+        "e5-e3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

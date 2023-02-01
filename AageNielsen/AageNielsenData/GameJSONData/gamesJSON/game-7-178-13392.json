@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Matematician",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-h6",
+        "c5-c2",
+        "a6-c6",
+        "e3-a3",
+        "d9-d7",
+        "e4-c4",
+        "h5-h3",
+        "g5-g4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

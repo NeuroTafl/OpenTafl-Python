@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Teondrae",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d6-c6",
+        "d5-e5",
+        "f4-f5",
+        "d3-f3",
+        "d7-d5xe5",
+        "d4-d3",
+        "b4-b3",
+        "f3-f2",
+        "f5-f4xe4",
+        "d3-e3",
+        "d2-e2",
+        "c4-e4",
+        "g4-g3",
+        "e3-f3",
+        "b3-e3",
+        "e4-e6",
+        "c6-d6",
+        "e6-f6",
+        "d5-f5",
+        "f2-g2",
+        "e2-f2"
+    ],
+    "WhoWon": "Black"
+}

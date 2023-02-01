@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Efra",
+    "BlackSidePlayerName": "di Bathory",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a5-b5",
+        "e5-d5",
+        "b6-b9",
+        "f4-b4",
+        "k4-c4xb4",
+        "d5-d2",
+        "c4-c2",
+        "e6-e2",
+        "f2-i2",
+        "g5-g3",
+        "f10-c10",
+        "g3-b3",
+        "c2-b2",
+        "b3-a3",
+        "b2-a2xa3",
+        "d2-d3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

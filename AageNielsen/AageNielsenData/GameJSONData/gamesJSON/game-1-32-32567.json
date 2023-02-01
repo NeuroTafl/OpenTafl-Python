@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 1,
+    "AageGameTypeName": "Rachunek tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e3b3",
+        "a4a3",
+        "e4h4",
+        "h5h7",
+        "g5g1",
+        "i4i3",
+        "e5e4",
+        "a5a4",
+        "e4g4",
+        "i6g6",
+        "h4h6",
+        "i3i4",
+        "f5f6",
+        "e8g8",
+        "g4g2",
+        "i4i2",
+        "g2h2",
+        "i5h5",
+        "h2h1"
+    ],
+    "WhoWon": "White"
+}

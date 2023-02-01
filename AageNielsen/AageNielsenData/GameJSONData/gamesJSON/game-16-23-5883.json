@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "Boulderman",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d1-d3",
+        "h6-h3",
+        "h11-h9",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "d11-d9",
+        "h3-j3xj4",
+        "h1-j1",
+        "g7-j7xj6",
+        "k5-k3",
+        "g6-g2",
+        "d3-i3xj3",
+        "e5-e2xf2",
+        "i3-e3xe2",
+        "f6-i6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

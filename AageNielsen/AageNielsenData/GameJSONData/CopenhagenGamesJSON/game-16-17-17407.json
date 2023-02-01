@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Garun19",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "h11-h9",
+        "d6-d9",
+        "a8-c8",
+        "h6-h3",
+        "k4-i4",
+        "f4-c4",
+        "k5-i5",
+        "e6-d6",
+        "a4-b4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

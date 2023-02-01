@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "c1-c3",
+        "d5-d6",
+        "e1-e3xd3",
+        "d4-d5",
+        "g5-e5xe4",
+        "d5-c5",
+        "c7-c6",
+        "c5-b5",
+        "c6-b6",
+        "c4-c7",
+        "c3-c6",
+        "c7-b7xb6",
+        "c6-b6",
+        "b7-c7",
+        "b6-b7",
+        "b5-b6",
+        "a5-a6",
+        "c7-c5",
+        "e7-c7",
+        "c5-a5xa6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "teondrae",
+    "BlackSidePlayerName": "AreVidar",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-b7",
+        "a5-c5",
+        "f8-b8",
+        "k8-c8xb8",
+        "f7-c7",
+        "f10-f8",
+        "h6-h9",
+        "g11-g9",
+        "g7-j7",
+        "k5-i5",
+        "g6-g8",
+        "e11-e8",
+        "f6-i6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

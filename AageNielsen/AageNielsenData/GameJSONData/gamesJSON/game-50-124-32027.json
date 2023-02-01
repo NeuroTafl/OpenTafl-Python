@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 50,
+    "AageGameTypeName": "Sea battle sparse 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e1-e3",
+        "f6-f2",
+        "h1-h2",
+        "f7-f3",
+        "e3-e2xf2",
+        "e7-e11",
+        "b7-e7",
+        "g7-f7",
+        "a6-f6",
+        "g5-e5",
+        "i1-i4",
+        "e5-e6xf6",
+        "m5-f5",
+        "f8-e8xe7",
+        "a7-e7",
+        "f7-f10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Pimms",
+    "BlackSidePlayerName": "Haner Adigard",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-g3",
+        "d6-d2",
+        "a4-c4",
+        "e6-c6",
+        "d11-d6xc6",
+        "e7-d7",
+        "a8-d8xd7",
+        "f7-d7",
+        "d6-d3xd2",
+        "f6-c6",
+        "a7-c7",
+        "c6-c5",
+        "a5-b5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

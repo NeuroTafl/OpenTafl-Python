@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Mihkkal",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "e2-g2",
+        "d5-d6",
+        "d1-d5xc5",
+        "e4-d4xd5",
+        "b5-c5",
+        "d6-c6",
+        "a4-c4",
+        "e3-b3",
+        "e1-e4xd4",
+        "b3-e3xe4",
+        "d9-d5",
+        "g5-g4",
+        "c4-e4",
+        "e3-c3",
+        "a6-b6",
+        "c3-c4xc5",
+        "f1-f4",
+        "c6-c5xd5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

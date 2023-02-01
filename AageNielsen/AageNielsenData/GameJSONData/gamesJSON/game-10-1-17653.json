@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hjuke",
+    "BlackSidePlayerName": "wiscon",
+    "AageGameTypeKey": 10,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h5h6",
+        "c5c4",
+        "h6f6",
+        "e7f7",
+        "f9f8",
+        "e4h4",
+        "i6f6",
+        "g5g6",
+        "a6c6",
+        "e5e4",
+        "i5h5",
+        "g6h6",
+        "d9d6",
+        "e4g4",
+        "d1d4",
+        "g4g9",
+        "i4i8",
+        "g9i9"
+    ],
+    "WhoWon": "White"
+}

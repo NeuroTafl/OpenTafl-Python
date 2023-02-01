@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Audunbart",
+    "BlackSidePlayerName": "Audenbush",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-i1",
+        "i6-i11",
+        "k7-k10",
+        "h6-i6",
+        "b5-b2",
+        "d6-d2",
+        "k10-k11",
+        "e6-e3",
+        "i1-i3",
+        "f6-d6",
+        "e11-b11",
+        "d6-d11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "frenir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "k7-i7",
+        "f4-b4",
+        "j4-c4xb4",
+        "f6-f3",
+        "i7-i5xj5",
+        "f3-a3",
+        "f2-a2",
+        "a3-c3",
+        "a4-a3",
+        "c3-c1",
+        "b6-b1",
+        "c1-c2",
+        "d1-c1",
+        "c2-k2",
+        "k5-k3",
+        "k2-k1"
+    ],
+    "WhoWon": "White"
+}

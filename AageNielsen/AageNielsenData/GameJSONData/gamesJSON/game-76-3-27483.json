@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "mccluskeyp",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f3-d3",
+        "h6-h10",
+        "i6-i10xh10",
+        "g7-i7",
+        "i10-i8",
+        "g6-g9",
+        "i8-h8",
+        "e7-e9xf9",
+        "h8-h7xi7",
+        "f6-i6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

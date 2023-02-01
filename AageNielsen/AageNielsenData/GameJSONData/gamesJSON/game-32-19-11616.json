@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Davberd",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-i2",
+        "h6-h3",
+        "g10-h10",
+        "f4-c4",
+        "e10-c10",
+        "f5-f3",
+        "g1-g3",
+        "f6-f4",
+        "j5-j4",
+        "f4-d4",
+        "e2-d2",
+        "c4-a4",
+        "b5-b3",
+        "d4-c4",
+        "e1-c1",
+        "c4-c9",
+        "c1-c8"
+    ],
+    "WhoWon": "Black"
+}

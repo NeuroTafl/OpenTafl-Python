@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 99,
+    "AageGameTypeName": "Ard Ri unarmed cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "f4-f3",
+        "d2-b2",
+        "a4-a3",
+        "d5-a5",
+        "d6-d5",
+        "a5-a4xb4",
+        "d5-a5xa4",
+        "c4-c7",
+        "a3-a4",
+        "d4-c4",
+        "e2-c2",
+        "c4-c6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "vastatoris",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a8-d8",
+        "e7-b7",
+        "a5-b5",
+        "b7-b10",
+        "b5-d5",
+        "f4-d4xd5",
+        "h11-h8",
+        "g7-g10",
+        "k7-h7",
+        "e6-e10xf10",
+        "k5-h5xh6",
+        "f6-e6",
+        "a7-d7",
+        "e6-e9",
+        "h8-h9",
+        "e9-a9",
+        "d11-b11",
+        "a9-a11"
+    ],
+    "WhoWon": "White"
+}

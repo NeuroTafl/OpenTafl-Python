@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "AznNugget",
+    "BlackSidePlayerName": "Joy",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 6,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h4",
+        "e5-b5",
+        "a4-b4xb5",
+        "e6-e3",
+        "e1-e2",
+        "f5-c5",
+        "b4-e4xe3",
+        "d6-d4xe4",
+        "a5-b5",
+        "f6-c6",
+        "d11-d5xc5",
+        "f8-f9",
+        "a8-f8xf9xf7",
+        "e7-b7",
+        "d1-d3xd4",
+        "c6-c11",
+        "f10-b10",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

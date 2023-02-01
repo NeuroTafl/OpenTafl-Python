@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h3-d3",
+        "j7-j3",
+        "i2-k2",
+        "i6-i3",
+        "h4-m4",
+        "h5-h3",
+        "m4-h4xh3",
+        "h7-l7",
+        "n9-l9",
+        "h6-m6",
+        "o6-o4",
+        "h8-h5",
+        "g2-g5",
+        "h5-o5"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Bunce",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b2",
+        "d6-d10",
+        "a8-b8",
+        "e6-b6",
+        "b2-c2",
+        "f6-c6",
+        "d11-c11",
+        "c6-c3",
+        "j6-j3",
+        "c3-a3",
+        "c2-a2",
+        "a3-i3",
+        "h1-i1",
+        "i3-a3xa2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

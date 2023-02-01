@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Thebigfoot",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-d2",
+        "h8-k8",
+        "m9-k9xk8",
+        "g8-k8",
+        "m5-k5",
+        "g10-k10xk9",
+        "i13-i10",
+        "j7-j11",
+        "i10-h10",
+        "j11-h11",
+        "g11-g10",
+        "i9-h9xh10",
+        "f12-f10",
+        "g7-g9",
+        "g13-g11",
+        "h9-h10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

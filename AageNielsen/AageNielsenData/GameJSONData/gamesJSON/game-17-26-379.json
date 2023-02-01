@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Arne64",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-b7",
+        "a8-b8xb7",
+        "f7-b7",
+        "b6-b3",
+        "d6-b6",
+        "d11-d9",
+        "e6-c6",
+        "f10-c10",
+        "f4-i4",
+        "k8-i8",
+        "g5-g2",
+        "h3-g3xg2",
+        "h6-h2",
+        "g1-h1",
+        "f8-f10",
+        "d9-f9xf10",
+        "f6-d6",
+        "i8-d8",
+        "d6-d2",
+        "g3-d3"
+    ],
+    "WhoWon": "Black"
+}

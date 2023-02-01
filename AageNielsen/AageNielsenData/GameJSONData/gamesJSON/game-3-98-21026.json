@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Cvok",
+    "BlackSidePlayerName": "Jack",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-c1",
+        "f8-c8",
+        "b6-b8",
+        "d6-d8",
+        "d11-d9",
+        "c8-c11",
+        "f10-f8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-f3",
+        "f4-f5",
+        "c4-c2",
+        "b4-b3",
+        "c2-c6",
+        "a4-c4",
+        "d5-b5",
+        "f5-d5",
+        "f3-d3",
+        "b3-b4",
+        "b5-a5",
+        "e2-e3",
+        "a5-a2",
+        "c4-c3xd3",
+        "d4-d3",
+        "d1-d2",
+        "a2-c2",
+        "d5-d4"
+    ],
+    "WhoWon": "Black"
+}

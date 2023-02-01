@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "fairland",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e2",
+        "d5-d6",
+        "c7-d7",
+        "d4-d5",
+        "d7-c7",
+        "e4-e5",
+        "c7-c6",
+        "c4-b4",
+        "c6-b6",
+        "d3-c3",
+        "a3-b3",
+        "d5-b5",
+        "e7-c7",
+        "e5-e4",
+        "g5-c5"
+    ],
+    "WhoWon": "Black"
+}

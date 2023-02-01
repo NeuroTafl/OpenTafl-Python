@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Barba",
+    "AageGameTypeKey": 10,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-h6",
+        "e7-i7",
+        "e8-e7",
+        "c5-c8",
+        "d9-d8",
+        "c8-c2",
+        "b5-b2",
+        "e6-b6",
+        "h6-c6xb6",
+        "f5-f7",
+        "c6-d6",
+        "i7-h7",
+        "i5-i7",
+        "c2-c4",
+        "d1-d4xd5",
+        "c4-c9",
+        "a5-c5",
+        "e5-f5",
+        "e2-h2",
+        "f5-d5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

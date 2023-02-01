@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "mettaray",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e5",
+        "d2-e2",
+        "d3-d2",
+        "b4-b3",
+        "c4-c3",
+        "d6-c6",
+        "d4-d3",
+        "d7-d6xd5",
+        "d3-f3",
+        "d6-d3xc3xd2",
+        "f3-f1",
+        "d1-e1"
+    ],
+    "WhoWon": "Black"
+}

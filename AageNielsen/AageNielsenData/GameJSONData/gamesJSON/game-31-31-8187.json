@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "cheemas4",
+    "BlackSidePlayerName": "Birkaluft",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e10-c10",
+        "f9-b9",
+        "e11-e9",
+        "f8-c8",
+        "f10-f8",
+        "f7-h7",
+        "j7-i7",
+        "h7-h9",
+        "e9-e7",
+        "d6-d11",
+        "b5-e5xe6",
+        "c6-e6",
+        "j5-i5xi6",
+        "g6-g3",
+        "g10-g6",
+        "h6-h3",
+        "f8-f7",
+        "f3-a3",
+        "i5-g5xf5",
+        "d11-d7",
+        "g5-f5"
+    ],
+    "WhoWon": "Black"
+}

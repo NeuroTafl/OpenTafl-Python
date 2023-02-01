@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Weatherwax",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 147,
+    "AageGameTypeName": "Saami Daabloe 11x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "a7-b6",
+        "a3-b4",
+        "b6-a5",
+        "b2-a3",
+        "g9-h8",
+        "e3-d4",
+        "b8-c7",
+        "h4-g5",
+        "e9-e7",
+        "d2-e3",
+        "f10-e9",
+        "c1-b2",
+        "h10-g9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

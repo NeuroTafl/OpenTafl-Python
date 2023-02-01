@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Athomas",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j10",
+        "i6-j6",
+        "f2-j2",
+        "h6-h2",
+        "b6-b2",
+        "g6-g10",
+        "h11-h10xg10",
+        "f6-i6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

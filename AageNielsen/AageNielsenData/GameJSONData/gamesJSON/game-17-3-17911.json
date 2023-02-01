@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "arne64",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "d6-d10",
+        "a4-c4",
+        "e7-e10",
+        "f10-i10",
+        "f7-c7",
+        "a8-c8",
+        "f8-j8",
+        "d3-d9xd10",
+        "e5-e2",
+        "g1-g3",
+        "e10-d10",
+        "c8-i8xj8",
+        "f6-f8",
+        "b6-b8",
+        "f8-d8xd9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

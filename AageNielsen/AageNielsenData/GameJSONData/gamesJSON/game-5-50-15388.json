@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Luigi005",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "e4-h4",
+        "h5-h7",
+        "f5-f2",
+        "f9-f5",
+        "e5-e4",
+        "f5-f4",
+        "e3-f3",
+        "f4-g4xh4",
+        "f3-g3xg4",
+        "e1-e3",
+        "e4-h4",
+        "f1-h1",
+        "g3-i3",
+        "e9-f9",
+        "h4-h2",
+        "e3-h3",
+        "h2-i2"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "cmm",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "b6c6",
+        "g5g3",
+        "a4d4",
+        "g6g4",
+        "k4h4",
+        "f5h5",
+        "h1h3",
+        "g7g10",
+        "h11h10",
+        "f6g6",
+        "k8g8",
+        "h6h8",
+        "g11g8",
+        "g6i6",
+        "h10i10",
+        "i6i1",
+        "j6j1",
+        "i1i3",
+        "i10j10",
+        "i1k1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Davberd",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-j3",
+        "h6-i6",
+        "g10-h10",
+        "f8-c8",
+        "f10-f8",
+        "g7-g9",
+        "f8-i8",
+        "f7-f10",
+        "e10-e9",
+        "f6-f8",
+        "b7-b8",
+        "f8-d8",
+        "e11-d11",
+        "d6-d1",
+        "j3-d3",
+        "d8-d4",
+        "b5-b4",
+        "f4-i4",
+        "d11-d5"
+    ],
+    "WhoWon": "Black"
+}

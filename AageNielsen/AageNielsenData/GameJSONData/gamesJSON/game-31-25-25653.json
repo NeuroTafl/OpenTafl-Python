@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Olafhora",
+    "BlackSidePlayerName": "Ragnarpink",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-g5",
+        "f7-c7",
+        "e10-e7",
+        "i6-i7",
+        "j5-h5",
+        "g6-g9",
+        "g5-g6",
+        "f6-f7",
+        "g6-g7"
+    ],
+    "WhoWon": "Black"
+}

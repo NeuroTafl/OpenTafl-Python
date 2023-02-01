@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "sqAree",
+    "BlackSidePlayerName": "halldav3",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "f8-b8",
+        "f10-b10",
+        "e7-e10",
+        "j6-j10",
+        "f7-f10",
+        "d11-c11",
+        "f6-f9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

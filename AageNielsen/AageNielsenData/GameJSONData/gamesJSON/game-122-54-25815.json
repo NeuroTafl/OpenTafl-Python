@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Branan",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "c2-c1",
+        "d5-d7",
+        "f5-d5",
+        "d7-d6xd5",
+        "c6-c7",
+        "e4-f4",
+        "e6-f6",
+        "d4-d5",
+        "f6-f5xf4",
+        "c4-b4",
+        "c7-c6",
+        "d6-f6",
+        "c6-d6",
+        "b4-f4xf5",
+        "e2-e5",
+        "f4-f5xe5",
+        "f3-g3",
+        "d5-d4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Oddur",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1h3",
+        "e7c7",
+        "f10b10",
+        "f7d7",
+        "d11c11",
+        "f8b8",
+        "c11c8",
+        "f6f9",
+        "j6j10",
+        "f9a9",
+        "b10a10",
+        "a9k9",
+        "j10k10",
+        "k9a9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

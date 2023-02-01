@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j9",
+        "h6-h3",
+        "k4-i4",
+        "f8-c8",
+        "e11-e8",
+        "d6-d9",
+        "b6-b8",
+        "c8-c2",
+        "k5-j5",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2xd2",
+        "a6-d6",
+        "g5-g2xf2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

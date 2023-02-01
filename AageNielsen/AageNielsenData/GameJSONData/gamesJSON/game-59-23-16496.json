@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "Bean",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g4-g7",
+        "c4-c3",
+        "d6-c6",
+        "d5-d6",
+        "a4-a5",
+        "d4-d5",
+        "g7-g5",
+        "d5-e5",
+        "d7-e7",
+        "e4-c4",
+        "d1-e1",
+        "c3-a3",
+        "e7-e6xd6",
+        "e5-d5",
+        "b4-b7",
+        "d5-d7"
+    ],
+    "WhoWon": "White"
+}

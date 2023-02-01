@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "floki",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "g11-g10",
+        "d6-d3",
+        "a4-c4",
+        "e7-b7",
+        "a8-b8xb7",
+        "f7-f9",
+        "h11-h9",
+        "e6-e9",
+        "a7-a9",
+        "f6-c6",
+        "d11-c11",
+        "c6-c5",
+        "c4-c3",
+        "c5-b5",
+        "c3-b3",
+        "f4-a4",
+        "k4-b4",
+        "a4-a3",
+        "c11-c5"
+    ],
+    "WhoWon": "Black"
+}

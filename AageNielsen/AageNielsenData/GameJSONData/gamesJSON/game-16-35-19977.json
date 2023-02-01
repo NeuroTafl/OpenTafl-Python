@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a8-a9",
+        "e7-b7",
+        "a5-c5",
+        "b7-b10",
+        "d11-b11",
+        "e6-e10",
+        "a9-b9xb10",
+        "f6-c6",
+        "e11-c11",
+        "e10-b10",
+        "a7-a9",
+        "c6-c10",
+        "f11-d11",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

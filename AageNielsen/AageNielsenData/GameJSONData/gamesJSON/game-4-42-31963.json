@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10-h10",
+        "f8-d8",
+        "a8-b8",
+        "g7-g8",
+        "a7-b7",
+        "g8-g9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

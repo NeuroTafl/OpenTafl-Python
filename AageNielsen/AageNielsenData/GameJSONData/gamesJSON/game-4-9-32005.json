@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "death",
+    "BlackSidePlayerName": "denkichBG",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j9",
+        "h6-h3",
+        "h1-h2",
+        "g5-g2",
+        "h11-h4xh3",
+        "e5-e2xf2",
+        "h4-g4",
+        "f4-c4",
+        "a4-a2",
+        "f5-b5",
+        "a7-b7",
+        "f6-f3",
+        "g4-g3xg2",
+        "f3-a3xa2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

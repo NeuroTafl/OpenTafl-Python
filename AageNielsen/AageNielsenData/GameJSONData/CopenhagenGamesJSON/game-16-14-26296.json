@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "fairland",
+    "BlackSidePlayerName": "robind",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j10",
+        "f4-j4",
+        "f2-j2",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "b4-i4xj4",
+        "f6-f3",
+        "d1-d3",
+        "f3-k3",
+        "j2-k2",
+        "k3-i3",
+        "k4-k3",
+        "i3-i1",
+        "j10-j1",
+        "i1-i2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

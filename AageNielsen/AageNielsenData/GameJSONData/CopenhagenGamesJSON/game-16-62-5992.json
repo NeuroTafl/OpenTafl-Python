@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "schlumpf",
+    "BlackSidePlayerName": "schlumpf2",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "f10-f9",
+        "g7-g9",
+        "h11-h9xg9",
+        "g6-g9",
+        "g11-g10",
+        "e7-e9xf9",
+        "k8-g8xg9",
+        "h6-h8xg8",
+        "h1-h7xh8",
+        "f8-h8",
+        "j6-g6",
+        "f7-g7xg6",
+        "a7-f7xg7",
+        "h8-f8xf7",
+        "h7-f7",
+        "f6-j6",
+        "h9-j9",
+        "j6-j1",
+        "k4-k2",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

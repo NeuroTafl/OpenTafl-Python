@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Seeontic",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j1-j5",
+        "i10-m10",
+        "n9-n11",
+        "k8-k2",
+        "j15-j11",
+        "i6-i5",
+        "j5-k5",
+        "j7-j1",
+        "n7-n1",
+        "f7-f3",
+        "b7-b3",
+        "h7-c7",
+        "a6-c6xc7",
+        "h8-h7",
+        "o7-k7",
+        "h7-d7",
+        "c6-d6"
+    ],
+    "WhoWon": "Black"
+}

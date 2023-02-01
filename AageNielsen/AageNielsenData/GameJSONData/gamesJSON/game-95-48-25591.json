@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 95,
+    "AageGameTypeName": "Brandubh throneless cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "f4-f3",
+        "d4-d3",
+        "a4-a3",
+        "d5-a5",
+        "d6-d4xc4",
+        "d3-c3",
+        "d4-c4",
+        "a5-c5xc4",
+        "f3-d3xd2",
+        "e4-e3xd3",
+        "e2-c2",
+        "c3-d3",
+        "d7-d4",
+        "c5-d5xd4",
+        "g4-d4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

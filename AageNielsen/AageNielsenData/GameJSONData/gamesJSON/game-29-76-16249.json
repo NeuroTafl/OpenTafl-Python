@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Schachus",
+    "BlackSidePlayerName": "Helfrich",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g2-h2",
+        "g5-g2",
+        "j5-j4",
+        "g2-f2xf3",
+        "i6-i3",
+        "d6-d2xe2",
+        "e1-e2",
+        "e7-e9",
+        "g10-g9",
+        "h6-h10",
+        "c6-c2xd2",
+        "g6-i6",
+        "g1-g2xf2",
+        "f6-h6",
+        "j7-j9",
+        "h6-h8",
+        "k7-k8",
+        "h10-j10",
+        "j4-j8",
+        "h8-h11"
+    ],
+    "WhoWon": "White"
+}

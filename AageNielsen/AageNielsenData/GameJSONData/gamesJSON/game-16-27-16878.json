@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-g3",
+        "h6-h3",
+        "g3-c3",
+        "g6-i6",
+        "h11-h6xi6",
+        "f6-g6",
+        "f2-i2",
+        "g7-g10",
+        "j6-j10",
+        "g6-g9",
+        "k8-k9",
+        "g9-a9",
+        "f10-a10",
+        "a9-j9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

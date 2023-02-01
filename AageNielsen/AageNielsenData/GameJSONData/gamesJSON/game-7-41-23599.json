@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "ChaolAibhne",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-c2",
+        "e3-i3",
+        "d1-d3",
+        "g5-g2",
+        "f1-h1",
+        "f5-f8",
+        "i4-g4",
+        "d5-d8xe8",
+        "d3-d5xc5",
+        "e5-f5",
+        "c2-f2",
+        "e4-e2xf2",
+        "g4-f4",
+        "i3-f3xf4",
+        "h1-f1",
+        "f5-f4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

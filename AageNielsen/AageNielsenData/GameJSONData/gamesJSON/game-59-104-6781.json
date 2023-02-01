@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Efra",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "b4-b3",
+        "d5-f5",
+        "d6-d5",
+        "c4-c5",
+        "a4-c4",
+        "f5-e5xd5",
+        "d7-d5",
+        "c5-c6",
+        "f4-f5xe5",
+        "c6-d6xd5",
+        "b3-b5",
+        "d6-a6",
+        "f5-d5",
+        "a6-d6xd5",
+        "d1-f1",
+        "d6-a6",
+        "f1-f7",
+        "d4-d7"
+    ],
+    "WhoWon": "White"
+}

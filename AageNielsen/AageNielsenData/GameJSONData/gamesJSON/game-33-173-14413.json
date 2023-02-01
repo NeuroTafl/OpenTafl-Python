@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Epoc",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "m5-j5",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "a9-d9",
+        "h8-h11xg11",
+        "m9-j9",
+        "g8-j8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

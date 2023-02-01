@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "earlyfire27",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "k8-h8",
+        "h6-h3",
+        "d11-d8",
+        "f4-i4",
+        "a4-d4",
+        "g7-g8",
+        "h1-h2",
+        "g5-g2",
+        "h8-h4xh3",
+        "g6-g4xh4",
+        "h11-h4",
+        "f6-i6",
+        "g11-i11",
+        "i4-i2xh2",
+        "d4-f4xf5xg4",
+        "e5-e2xf2",
+        "k4-k3",
+        "i6-i10",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Kihtan",
+    "AageGameTypeKey": 109,
+    "AageGameTypeName": "Brandubh weak-throne 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "c4-c5",
+        "d6-c6",
+        "c5-a5",
+        "b4-b3",
+        "d5-d6",
+        "c6-a6xa5",
+        "d4-d5",
+        "a6-a5",
+        "d5-g5",
+        "a5-d5xd6",
+        "g5-g7"
+    ],
+    "WhoWon": "White"
+}

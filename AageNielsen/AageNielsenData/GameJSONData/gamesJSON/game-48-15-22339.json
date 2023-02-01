@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j1-j5",
+        "g10-c10",
+        "o6-k6",
+        "f9-d9",
+        "b7-d7",
+        "g8-g12",
+        "i14-i12",
+        "f8-f13",
+        "a10-b10",
+        "h8-f8",
+        "a9-a13",
+        "f8-f11",
+        "a8-a12",
+        "f11-a11"
+    ],
+    "WhoWon": "White"
+}

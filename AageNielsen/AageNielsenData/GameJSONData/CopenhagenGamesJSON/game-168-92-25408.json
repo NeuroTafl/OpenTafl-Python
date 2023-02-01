@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 168,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f5-f8",
+        "f1-f7xf8",
+        "g5-g7xf7",
+        "b5-b7",
+        "e3-b3",
+        "i4-g4",
+        "e7-d7",
+        "d9-d8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 168,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f5-f8",
+        "f1-f5xg5",
+        "e6-g6",
+        "f5-f7xf8",
+        "g6-g7xf7",
+        "a6-e6xe7",
+        "g7-e7xe6",
+        "i6-e6xe7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

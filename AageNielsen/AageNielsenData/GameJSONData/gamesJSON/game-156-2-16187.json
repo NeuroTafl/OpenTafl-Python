@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 156,
+    "AageGameTypeName": "Old Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k1-k2",
+        "e7-b7",
+        "c6-a6",
+        "e5-e2",
+        "f3-f1",
+        "f5-a5",
+        "a8-a7",
+        "f7-c7",
+        "d8-b8",
+        "g5-j5",
+        "i6-k6",
+        "e6-e11",
+        "h11-f11xe11",
+        "e2-a2",
+        "a4-a3xa2",
+        "f6-e6",
+        "c3-e3",
+        "e6-e11"
+    ],
+    "WhoWon": "White"
+}

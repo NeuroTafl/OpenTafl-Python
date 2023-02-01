@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "fairland",
+    "BlackSidePlayerName": "Unterwichtel",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h4",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "k7-i7",
+        "f4-b4",
+        "f2-f4",
+        "g6-g4",
+        "e1-e4",
+        "d6-d3",
+        "i7-i5xj5",
+        "f6-f5",
+        "e4-e3",
+        "e5-e4xf4",
+        "d11-d5",
+        "f5-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

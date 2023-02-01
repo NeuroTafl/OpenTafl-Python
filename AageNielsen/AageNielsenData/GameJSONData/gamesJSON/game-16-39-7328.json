@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Wandrille",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "k8-k9",
+        "f8-k8",
+        "f10-f8",
+        "g7-g8",
+        "h11-h8xg8",
+        "g6-g8",
+        "j6-j8",
+        "e7-e8xf8",
+        "f11-f8xg8",
+        "g5-g8xf8",
+        "g11-g9",
+        "f7-i7",
+        "g9-f9",
+        "i7-i8xh8xj8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Sun231",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-g2",
+        "d5-d8",
+        "e8-g8",
+        "e5-d5",
+        "b5-b3",
+        "c5-b5",
+        "d9-c9",
+        "d5-d7",
+        "a6-a7",
+        "e6-a6",
+        "a7-b7",
+        "a6-a7",
+        "c9-c7",
+        "d8-b8",
+        "g8-d8",
+        "d7-d6",
+        "a5-a6",
+        "b5-a5xa6",
+        "c7-c6",
+        "e7-c7xb7",
+        "i6-e6"
+    ],
+    "WhoWon": "Black"
+}

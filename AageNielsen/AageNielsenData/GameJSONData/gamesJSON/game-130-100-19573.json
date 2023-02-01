@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 130,
+    "AageGameTypeName": "Brandubh noreturn 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "b4-b3",
+        "d2-b2",
+        "b3-b5",
+        "c4-c1",
+        "a4-a3",
+        "d4-c4",
+        "f4-f3",
+        "c4-c2",
+        "a3-a4",
+        "b2-b3",
+        "d6-c6",
+        "c2-b2",
+        "a4-a3",
+        "b2-b1",
+        "f3-c3xb3",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

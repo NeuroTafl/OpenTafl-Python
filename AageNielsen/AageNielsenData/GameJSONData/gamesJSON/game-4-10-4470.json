@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "Anto2016",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10-c10",
+        "f8-c8",
+        "b6-b2",
+        "f7-f10",
+        "j6-j10",
+        "f6-f9",
+        "a8-a9",
+        "f9-k9",
+        "j10-k10",
+        "k9-i9",
+        "k10-j10",
+        "i9-k9",
+        "j10-k10",
+        "k9-b9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Dimetr",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "f5-f6",
+        "b5-b7",
+        "e5-f5",
+        "e8-g8",
+        "e4-h4",
+        "a4-g4xh4",
+        "e3-g3xg4",
+        "d1-d3",
+        "e6-e3",
+        "i4-c4",
+        "e7-e4",
+        "c2-g2",
+        "f5-f3",
+        "i5-i3",
+        "e4-h4",
+        "i3-h3xh4",
+        "f3-f4",
+        "h5-h4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

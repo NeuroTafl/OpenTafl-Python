@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 117,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g3-d3",
+        "g4-c4",
+        "b6-b4",
+        "j7-j2",
+        "d3-d4xc4",
+        "g5-g2",
+        "d4-g4",
+        "i5-i2xh2",
+        "h1-h2xg2",
+        "h6-h4",
+        "k7-k4",
+        "f6-f4xg4",
+        "l8-i8",
+        "g7-g3",
+        "h2-h3",
+        "g3-a3"
+    ],
+    "WhoWon": "White"
+}

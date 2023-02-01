@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 168,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f5-f8",
+        "d9-d8",
+        "e5-f5",
+        "i6-i7",
+        "e6-i6",
+        "i7-g7",
+        "i6-i7",
+        "a6-e6xe7",
+        "f8-h8",
+        "e2-g2",
+        "c5-c7",
+        "e6-e7",
+        "d5-d6",
+        "b5-b7",
+        "f5-b5",
+        "g2-b2",
+        "c7-c9",
+        "d1-c1",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

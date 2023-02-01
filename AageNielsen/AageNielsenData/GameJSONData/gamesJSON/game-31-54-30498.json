@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "thuleghis",
+    "BlackSidePlayerName": "Norseange",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j8",
+        "i6-i7",
+        "j8-i8",
+        "g6-g7",
+        "j6-i6xi7",
+        "f6-g6",
+        "g2-h2",
+        "g6-g5",
+        "i6-i5",
+        "g5-g4",
+        "j5-j4",
+        "g4-h4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

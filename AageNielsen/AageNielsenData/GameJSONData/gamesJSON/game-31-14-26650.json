@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Диас",
+    "BlackSidePlayerName": "Refi",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-e3",
+        "f4-d4",
+        "g2-g3xf3",
+        "d4-b4",
+        "e3-b3xb4",
+        "e6-e3",
+        "e10-e6",
+        "f5-e5",
+        "f2-f4",
+        "f7-e7xe6",
+        "j7-f7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

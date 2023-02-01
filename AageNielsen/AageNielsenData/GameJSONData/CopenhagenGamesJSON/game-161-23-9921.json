@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Abbas Agraphicus",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 161,
+    "AageGameTypeName": "Ard Ri-1 whitefriendlypass 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "e4-e5",
+        "b4-b3",
+        "c4-c3",
+        "d6-c6",
+        "e5-f5",
+        "g4-f4",
+        "d5-d6",
+        "d2-c2",
+        "d4-d5",
+        "a4-c4xc3",
+        "d5-e5",
+        "d7-e7",
+        "e5-e6",
+        "f4-g4",
+        "e6-f6",
+        "g4-g6",
+        "f6-f7"
+    ],
+    "WhoWon": "White"
+}

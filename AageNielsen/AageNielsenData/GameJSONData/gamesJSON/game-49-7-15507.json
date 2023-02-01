@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 49,
+    "AageGameTypeName": "Historical Hnefatafl 15x15 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-d2",
+        "h11-l11",
+        "o11-m11",
+        "k8-k11",
+        "i14-l14",
+        "i10-i13",
+        "h13-d13",
+        "h9-h14",
+        "f15-f14",
+        "h8-h12",
+        "e15-e12",
+        "h12-o12"
+    ],
+    "WhoWon": "White"
+}

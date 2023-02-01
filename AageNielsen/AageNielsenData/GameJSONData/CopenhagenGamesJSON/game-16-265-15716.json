@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Mike0127",
+    "BlackSidePlayerName": "Biscuitman",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f5-d5",
+        "f2-j2",
+        "f6-f5",
+        "h1-h3",
+        "i5-i1",
+        "k5-i5",
+        "f5-g5",
+        "j2-j1",
+        "g5-g2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

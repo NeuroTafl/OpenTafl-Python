@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "sea slug",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 1,
+    "AageGameTypeName": "Rachunek tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e3h3",
+        "e2h2",
+        "e4h4",
+        "h5h7",
+        "e5e2",
+        "b5b2",
+        "h3a3",
+        "f1f2",
+        "a3a1",
+        "a4e4",
+        "c5b5",
+        "e4e3",
+        "e2c2",
+        "d1c1",
+        "c2c9"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "branan",
+    "BlackSidePlayerName": "Firefinch",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d6-e6",
+        "c4-c6",
+        "b4-c4",
+        "d5-a5",
+        "a4-a3",
+        "a5-a4",
+        "f4-f5",
+        "a4-b4xc4",
+        "a3-a5",
+        "c6-c2",
+        "a5-c5",
+        "b4-b5",
+        "c5-c4",
+        "b5-b4xc4",
+        "d2-f2",
+        "b4-b5",
+        "e6-a6",
+        "d4-a4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

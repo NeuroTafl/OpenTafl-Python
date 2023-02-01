@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "SimpleMath",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f4-c4",
+        "a8-c8",
+        "g5-g3",
+        "h1-h3",
+        "f5-i5",
+        "k4-i4",
+        "e7-b7",
+        "c8-c7xb7",
+        "f8-c8",
+        "b6-c6",
+        "f6-f3",
+        "f2-b2",
+        "f3-a3",
+        "b2-a2",
+        "a3-b3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

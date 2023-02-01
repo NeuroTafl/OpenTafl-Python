@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Kratzer",
+    "BlackSidePlayerName": "Slowlybutalsoqui",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "g7-g10",
+        "f10-h10",
+        "f7-i7",
+        "k8-i8",
+        "g6-g9",
+        "j6-j10",
+        "g9-i9xi8",
+        "h10-i10",
+        "h6-h3",
+        "d9-g9xg10",
+        "f6-j6",
+        "f2-j2",
+        "i7-i1",
+        "j10-j9",
+        "f8-j8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

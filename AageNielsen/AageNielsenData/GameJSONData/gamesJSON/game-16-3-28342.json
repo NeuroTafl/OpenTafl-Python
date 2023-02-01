@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Harry64",
+    "BlackSidePlayerName": "Torc",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "d11-d9",
+        "h6-h3",
+        "j6-j3",
+        "g6-j6",
+        "h11-h9",
+        "f6-i6",
+        "h9-i9",
+        "i6-i1",
+        "j3-j1",
+        "j6-j2",
+        "i9-i2",
+        "h3-i3xi2",
+        "f2-i2",
+        "i3-h3",
+        "h1-h2",
+        "h3-i3xi2",
+        "k4-k2",
+        "i3-k3xk2xk2",
+        "k5-i5",
+        "i1-i2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

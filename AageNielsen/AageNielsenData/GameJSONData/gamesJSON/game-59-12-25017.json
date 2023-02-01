@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "unhandyandy",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-c1",
+        "e4-e1",
+        "f4-e4",
+        "e1-d1xd2",
+        "e4-e1xd1",
+        "d3-d1",
+        "e1-e3",
+        "d4-d2",
+        "e3-e1xd1",
+        "d2-a2"
+    ],
+    "WhoWon": "White"
+}

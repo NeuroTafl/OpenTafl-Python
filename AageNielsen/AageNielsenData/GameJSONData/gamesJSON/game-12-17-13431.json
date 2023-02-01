@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Fishbreath",
+    "BlackSidePlayerName": "Nasa",
+    "AageGameTypeKey": 12,
+    "AageGameTypeName": "Old Hnefatafl 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h5-h8",
+        "e3-d3",
+        "b5-b2",
+        "d5-d6",
+        "e8-b8",
+        "c5-b5",
+        "d1-c1",
+        "e7-e8",
+        "f9-f8",
+        "e5-c5",
+        "d9-c9",
+        "c5-c7",
+        "b8-d8xe8",
+        "c7-i7",
+        "h8-i8",
+        "i7-a7"
+    ],
+    "WhoWon": "Draw"
+}

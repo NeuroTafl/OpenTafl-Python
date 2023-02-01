@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "c7-c6",
+        "e4-e3",
+        "g3-f3",
+        "d4-d3",
+        "e2-d2",
+        "e5-e4",
+        "b5-b4",
+        "f4-g4",
+        "h5-h4",
+        "g4-g3xf3",
+        "h2-g2",
+        "f5-f1",
+        "h4-g4xg3",
+        "e4-f4",
+        "i5-f5",
+        "f4-f2",
+        "f5-f3",
+        "f1-g1",
+        "e1-f1",
+        "e3-e1xf1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "cyningstan",
+    "AageGameTypeKey": 55,
+    "AageGameTypeName": "Old Magpie circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f6-f5",
+        "e4-e3",
+        "f2-e2",
+        "d4-e4",
+        "b6-c6",
+        "e4-e5",
+        "c6-d6xd5",
+        "e5-e6",
+        "a4-b4xc4",
+        "e6-f6",
+        "g4-g6",
+        "e3-e7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

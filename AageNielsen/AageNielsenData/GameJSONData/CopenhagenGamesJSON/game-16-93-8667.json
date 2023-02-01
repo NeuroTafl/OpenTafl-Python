@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Olle",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h9",
+        "f4-c4",
+        "a4-b4",
+        "e5-e2",
+        "g1-g3",
+        "f5-f3",
+        "h1-h4",
+        "e2-b2",
+        "h4-f4xf3",
+        "c4-c1",
+        "a5-a2",
+        "e6-e3",
+        "f2-c2xb2",
+        "e3-a3xa2",
+        "b4-b1xc1xc1",
+        "f6-f5",
+        "f1-f3",
+        "f5-b5",
+        "b6-b9",
+        "b5-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

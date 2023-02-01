@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Sigurd",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j9",
+        "f4-b4",
+        "a5-a4",
+        "d6-d1",
+        "a4-a3",
+        "f5-c5",
+        "a6-a4",
+        "f6-f4",
+        "k5-k4",
+        "f4-d4",
+        "e11-d11",
+        "d4-d2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

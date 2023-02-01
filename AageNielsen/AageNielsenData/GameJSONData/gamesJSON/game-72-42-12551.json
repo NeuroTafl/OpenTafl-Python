@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Efra",
+    "AageGameTypeKey": 72,
+    "AageGameTypeName": "Sea battle T circle 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-c6",
+        "e8-c8",
+        "e11-e6xd6",
+        "d5-e5",
+        "e6-e9",
+        "d7-c7",
+        "d1-d5",
+        "h7-j7",
+        "k8-j8xj7",
+        "c7-j7",
+        "a7-i7xj7",
+        "f6-f7",
+        "e9-e7",
+        "h6-e6",
+        "a6-a7",
+        "f8-e8xe7",
+        "a7-e7",
+        "f7-f9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

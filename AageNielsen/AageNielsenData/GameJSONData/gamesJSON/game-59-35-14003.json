@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Biscuitman",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-a3",
+        "d1-d3",
+        "c4-c3",
+        "b4-c4",
+        "a3-b3",
+        "a4-b4",
+        "b3-b2",
+        "e2-c2xc3",
+        "b2-b1",
+        "d7-e7",
+        "b1-f1",
+        "e7-e5",
+        "f1-f2",
+        "c2-d2",
+        "f2-f1",
+        "d3-e3xe4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-i5",
+        "f4-i4",
+        "j6-i6",
+        "f5-f3",
+        "b5-c5",
+        "f6-f4",
+        "c5-c4",
+        "i4-i3",
+        "j7-j4",
+        "f4-h4",
+        "g2-h2",
+        "g5-g2",
+        "h2-i2",
+        "h4-h1"
+    ],
+    "WhoWon": "White"
+}

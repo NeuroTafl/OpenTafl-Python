@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Davis",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "l8-l10",
+        "f6-c6",
+        "f2-d2",
+        "f8-c8xc7",
+        "g3-c3",
+        "d7-b7",
+        "b6-b4",
+        "e9-b9xb8",
+        "g11-c11",
+        "f7-f11",
+        "e13-e11",
+        "g7-d7",
+        "f12-d12",
+        "g10-a10",
+        "g13-g11xf11",
+        "d7-d10",
+        "l10-j10",
+        "d10-b10",
+        "c11-b11",
+        "a10-a11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hjuke",
+    "BlackSidePlayerName": "kostas",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a7c7",
+        "g5j5",
+        "k4j4",
+        "g7g10",
+        "h11h10",
+        "g6g2",
+        "e1e2",
+        "f6g6",
+        "g11g9",
+        "g6g3",
+        "h1h2",
+        "g3k3",
+        "h2k2",
+        "k3a3",
+        "e2b2",
+        "a3k3",
+        "f2k2",
+        "k3a3",
+        "b2a2"
+    ],
+    "WhoWon": "Black"
+}

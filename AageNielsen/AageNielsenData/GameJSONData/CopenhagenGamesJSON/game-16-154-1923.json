@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "f10-i10",
+        "e7-e10",
+        "d11-d10",
+        "f8-f10",
+        "b6-b9",
+        "g5-g3",
+        "f2-j2",
+        "i4-i3xh3",
+        "g1-i1",
+        "i3-k3",
+        "i10-i2",
+        "e6-e9",
+        "k8-k9",
+        "f7-f9",
+        "e11-d11",
+        "f6-f8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

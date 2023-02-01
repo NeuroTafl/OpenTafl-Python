@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-h2",
+        "d6-d10",
+        "e11-d11",
+        "e6-c6",
+        "b6-b4",
+        "f8-b8",
+        "i9-d9xd10",
+        "h6-h10",
+        "j6-j8",
+        "g7-g9",
+        "k7-k9",
+        "g6-g7",
+        "j2-j4",
+        "f6-i6",
+        "j10-i10",
+        "i6-h6",
+        "g11-h11",
+        "g9-j9",
+        "i3-i9xj9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Branan",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 130,
+    "AageGameTypeName": "Brandubh noreturn 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f4-f3",
+        "d5-e5",
+        "b4-b5",
+        "e5-e7",
+        "f3-f7xe7",
+        "e4-e7xf7",
+        "g4-f4",
+        "c4-c7xd7",
+        "f4-e4",
+        "e7-d7",
+        "b5-d5",
+        "d7-f7",
+        "a4-c4",
+        "f7-f4xe4",
+        "d6-e6",
+        "f4-f2",
+        "e6-f6",
+        "d4-g4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

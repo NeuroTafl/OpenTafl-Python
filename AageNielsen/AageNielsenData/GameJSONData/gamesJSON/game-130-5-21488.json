@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "branan",
+    "BlackSidePlayerName": "bender",
+    "AageGameTypeKey": 130,
+    "AageGameTypeName": "Brandubh noreturn 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "g4-g3",
+        "d5-g5",
+        "g3-g4",
+        "d3-g3xg4",
+        "f4-f2",
+        "e4-e2",
+        "d6-d5",
+        "c4-c2xd2",
+        "d1-d3",
+        "c2-d2xd3",
+        "b4-c4",
+        "d2-c2",
+        "f2-f1",
+        "e2-e1xf1",
+        "d7-e7",
+        "d4-d1",
+        "a4-b4",
+        "d1-a1"
+    ],
+    "WhoWon": "White"
+}

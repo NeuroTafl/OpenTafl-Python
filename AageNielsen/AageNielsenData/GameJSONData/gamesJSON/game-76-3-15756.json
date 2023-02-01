@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "bender",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f3-h3",
+        "e7-c7",
+        "e10-c10",
+        "e6-e9",
+        "b7-b9",
+        "e5-c5xc6",
+        "b9-d9xe9",
+        "d6-d2",
+        "f1-f3",
+        "g5-i5",
+        "f3-c3",
+        "f4-f2xe2",
+        "e11-e2xf2",
+        "f5-d5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

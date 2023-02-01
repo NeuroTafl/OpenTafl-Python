@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "AudunSpac",
+    "BlackSidePlayerName": "AudunShi2",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g11-h11",
+        "i6-i5",
+        "j5-j4",
+        "e6-e5",
+        "e10-e7",
+        "i5-i1",
+        "j7-g7xf7",
+        "f5-j5",
+        "e7-e6",
+        "f8-e8",
+        "g2-g5xg6",
+        "f6-f8",
+        "k7-k8",
+        "f9-e9",
+        "f10-f9",
+        "d6-d11",
+        "g7-f7"
+    ],
+    "WhoWon": "Black"
+}

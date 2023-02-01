@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 98,
+    "AageGameTypeName": "Brandubh throneless line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e2",
+        "d3-d1",
+        "a3-b3",
+        "e4-e3",
+        "e7-e4xe3",
+        "d5-f5",
+        "a5-d5",
+        "d1-d3",
+        "e4-f4",
+        "f5-f6",
+        "e2-e6",
+        "c4-c6",
+        "c1-c4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

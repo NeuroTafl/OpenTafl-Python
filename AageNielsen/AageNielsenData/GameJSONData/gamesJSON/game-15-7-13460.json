@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hjuke",
+    "BlackSidePlayerName": "Fionn",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1g3",
+        "f8c8",
+        "a8b8",
+        "d6d8",
+        "d11d9",
+        "e7b7",
+        "a5b5",
+        "f7c7",
+        "d1d7",
+        "f6f9",
+        "j6j9",
+        "f9i9",
+        "f10i10",
+        "i9i1",
+        "j9j1",
+        "i1i9",
+        "k8k10",
+        "i9i1",
+        "k6j6",
+        "i1k1"
+    ],
+    "WhoWon": "White"
+}

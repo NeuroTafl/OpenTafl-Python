@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Miky",
+    "BlackSidePlayerName": "Ninasema",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h12-j12",
+        "j7-j2",
+        "l6-l4",
+        "i9-i11",
+        "m9-g9xg10",
+        "h8-h9",
+        "k7-k2",
+        "f8-f9xg9",
+        "l8-l9",
+        "g8-l8",
+        "k2-k8xl8",
+        "g7-g10",
+        "c7-c10",
+        "g10-m10"
+    ],
+    "WhoWon": "White"
+}

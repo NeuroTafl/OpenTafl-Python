@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "Mike0127",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-h2xg2",
+        "g6-g2",
+        "j6-j3",
+        "h6-h9",
+        "j3-g3xg2",
+        "f6-j6",
+        "k7-j7",
+        "j6-j1",
+        "g1-i1",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

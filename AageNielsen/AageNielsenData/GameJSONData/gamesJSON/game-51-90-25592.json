@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "RusMadrid",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-e6",
+        "c4-c6",
+        "b4-c4",
+        "d3-a3",
+        "d2-a2xa3",
+        "d4-d3",
+        "a2-d2",
+        "d5-b5",
+        "c4-c2",
+        "d3-d5",
+        "c2-c4",
+        "b5-b4xc4",
+        "d2-c2",
+        "d5-a5",
+        "c2-c4xb4",
+        "a5-a7"
+    ],
+    "WhoWon": "White"
+}

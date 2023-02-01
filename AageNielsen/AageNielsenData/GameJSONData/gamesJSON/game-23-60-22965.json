@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Sun231",
+    "AageGameTypeKey": 23,
+    "AageGameTypeName": "David Brown Hnefatafl 11x11 (unarmed king)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a8-d8",
+        "e7-e9",
+        "d11-d9",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "h10-i10",
+        "e9-e10xf10",
+        "d9-e9xe10",
+        "g10-e10",
+        "e9-d9",
+        "e10-a10",
+        "a7-a9",
+        "h6-h10",
+        "g11-g10xh10",
+        "f6-h6",
+        "k7-h7",
+        "h6-h3",
+        "g1-g3",
+        "h3-k3"
+    ],
+    "WhoWon": "White"
+}

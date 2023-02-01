@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "skallatorc",
+    "BlackSidePlayerName": "chuck ward",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "e5-e2",
+        "d1-d2xe2",
+        "d6-d10",
+        "h3-c3",
+        "d6-d10",
+        "h3-c3",
+        "d10-b10",
+        "a4-b4",
+        "f8-b8",
+        "f10-c10",
+        "f7-f10",
+        "k8-f8",
+        "f6-f7",
+        "a8-a10xb10",
+        "f10-f9xf8",
+        "h11-h9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

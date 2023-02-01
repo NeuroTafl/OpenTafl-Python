@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Casshern",
+    "AageGameTypeKey": 42,
+    "AageGameTypeName": "Sea battle tafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h4-e4",
+        "j9-j12",
+        "i14-k14",
+        "i10-l10",
+        "i15-i12",
+        "k8-k13",
+        "j15-j13",
+        "h9-l9",
+        "n9-n12",
+        "l10-l12",
+        "h15-l15",
+        "h10-l10",
+        "m8-m11",
+        "j7-l7xl8",
+        "l15-l13xk13",
+        "j8-m8",
+        "i2-l2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

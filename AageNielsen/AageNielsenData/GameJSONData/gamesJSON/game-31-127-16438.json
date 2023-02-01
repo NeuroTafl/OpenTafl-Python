@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Audunzuke",
+    "BlackSidePlayerName": "Ivarwit",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g2-g3",
+        "h6-h3xg3",
+        "g1-g5",
+        "c6-c5",
+        "g10-g7xg6",
+        "h3-h5xg5",
+        "b6-c6",
+        "f5-g5",
+        "g7-g6",
+        "h5-h6xg6",
+        "e10-e7",
+        "h6-h7",
+        "g11-g7xf7",
+        "f6-h6",
+        "j7-i7xh7",
+        "h6-h11"
+    ],
+    "WhoWon": "White"
+}

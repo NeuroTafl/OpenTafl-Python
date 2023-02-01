@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k7-k4",
+        "i9-i11",
+        "m9-g9xg10",
+        "h8-h10",
+        "g9-i9",
+        "h7-h9",
+        "g11-g9xh9",
+        "h10-g10xg9",
+        "m7-k7",
+        "g7-h7",
+        "i9-i7xj7",
+        "i11-i8",
+        "i13-i9xi8",
+        "h7-h11",
+        "i9-i11",
+        "h11-a11"
+    ],
+    "WhoWon": "White"
+}

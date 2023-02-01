@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Sqaree",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "d11-d9",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "d9-g9xg10",
+        "f7-j7",
+        "k8-j8xj7",
+        "f6-f9",
+        "f10-c10",
+        "f9-a9",
+        "c10-a10",
+        "a9-b9",
+        "a10-b10",
+        "d6-d11",
+        "a8-a9",
+        "d11-b11xb10",
+        "h10-a10",
+        "b11-c11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

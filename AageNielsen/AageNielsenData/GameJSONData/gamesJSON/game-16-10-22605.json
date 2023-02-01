@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "eric",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h4",
+        "k5-h5xh4",
+        "f8-j8",
+        "a8-i8xj8",
+        "f4-g4",
+        "h11-h9",
+        "f7-f9",
+        "d11-d9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

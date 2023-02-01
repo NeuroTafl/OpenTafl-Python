@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "J&uuml;rgen",
+    "BlackSidePlayerName": "Rowan-Dark",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "i2-i5xj5",
+        "f4-i4",
+        "h1-h4xi4",
+        "f6-f2",
+        "k5-k2",
+        "f2-a2",
+        "k2-b2",
+        "a2-a1"
+    ],
+    "WhoWon": "White"
+}

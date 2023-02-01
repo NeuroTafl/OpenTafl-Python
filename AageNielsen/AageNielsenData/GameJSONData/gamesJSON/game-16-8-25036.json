@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "RussJenkins",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-k9",
+        "e5-e2",
+        "b6-b2",
+        "g5-g2xf2",
+        "j6-j2",
+        "f4-c4",
+        "f10-b10",
+        "f5-i5",
+        "d11-c11",
+        "f6-f3",
+        "a4-a3",
+        "f3-k3",
+        "j2-k2",
+        "k3-j3",
+        "h1-j1",
+        "j3-j11",
+        "k9-k10",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

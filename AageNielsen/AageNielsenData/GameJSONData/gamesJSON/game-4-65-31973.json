@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "sneadious@",
+    "BlackSidePlayerName": "Eirik",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-c8",
+        "d11-d9",
+        "d6-d3",
+        "a4-c4",
+        "h6-h9",
+        "k8-i8",
+        "e7-b7",
+        "a8-b8xb7",
+        "g6-i6",
+        "k4-i4",
+        "g7-g10",
+        "h11-h10xg10",
+        "f7-f9",
+        "h3-h6xi6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

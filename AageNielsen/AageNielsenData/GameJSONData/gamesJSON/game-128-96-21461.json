@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Tirjera",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h5-h4",
+        "d5-c5",
+        "h8-h6",
+        "e5-d5",
+        "e2-f2",
+        "d6-d9",
+        "b5-b6",
+        "d5-d8",
+        "a5-a9",
+        "f6-f9xe9",
+        "g7-g9",
+        "d9-c9",
+        "h6-h7",
+        "d8-d9"
+    ],
+    "WhoWon": "White"
+}

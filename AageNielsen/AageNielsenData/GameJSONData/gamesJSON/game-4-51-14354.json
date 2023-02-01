@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "wewe",
+    "BlackSidePlayerName": "Trygve",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "e7-d7",
+        "d11-d9",
+        "g7-h7",
+        "h11-h9",
+        "e6-e8",
+        "a8-c8",
+        "f7-g7",
+        "k8-i8",
+        "f4-h4",
+        "k4-i4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

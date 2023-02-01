@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 170,
+    "AageGameTypeName": "Historical Hnefatafl-w 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h6-h4",
+        "h2-j2",
+        "f6-f3",
+        "g3-k3",
+        "g6-c6",
+        "a5-c5xc6",
+        "g7-g6",
+        "f2-d2",
+        "d7-d3",
+        "c5-c3",
+        "g6-d6",
+        "a9-d9",
+        "d6-d4",
+        "c7-c4",
+        "h4-m4",
+        "e1-e4"
+    ],
+    "WhoWon": "Black"
+}

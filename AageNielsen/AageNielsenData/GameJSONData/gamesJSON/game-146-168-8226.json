@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "mihkkal",
+    "BlackSidePlayerName": "Ded Fomich",
+    "AageGameTypeKey": 146,
+    "AageGameTypeName": "Saami S&aacute;hkku 3x15 (K&aring;fjord)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "b1-c1-c1-g1-m1-n1xg1",
+        "a3-a2-b3-a3-g3-d3",
+        "n1-m2-i1-m1-h1-i1",
+        "d3-c3-a2-c2-a3-b2",
+        "i1-k1-k1-l1-g1-k1",
+        "c3-b3-b3-a3-c2-g2",
+        "m2-k2-o2-n2-m1-o2",
+        "b2-o168-l2-a3-d2",
+        "n2-m2-m2-i2-o2-l2-k2xk2",
+        "e2-f2-f2-h2-d2-g2",
+        "i2-h2-k2-i2-i2-g2xh2xg2"
+    ],
+    "WhoWon": "White"
+}

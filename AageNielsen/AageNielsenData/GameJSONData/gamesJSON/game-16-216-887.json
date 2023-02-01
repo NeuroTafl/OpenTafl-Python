@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "onelightyear",
+    "BlackSidePlayerName": "APdex",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-k2",
+        "f4-f3",
+        "j6-j11",
+        "f3-k3xk2",
+        "h1-h5",
+        "f5-f2",
+        "k7-h7xh6",
+        "f6-f3",
+        "a4-a3",
+        "f3-j3",
+        "g1-j1",
+        "j3-j2",
+        "h5-h2",
+        "j2-k2",
+        "h2-j2",
+        "k2-k1"
+    ],
+    "WhoWon": "White"
+}

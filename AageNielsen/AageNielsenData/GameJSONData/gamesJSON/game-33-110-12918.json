@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "L3monman",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h2-j2",
+        "h8-h11",
+        "f12-f11",
+        "i9-i12",
+        "k7-k11",
+        "g8-k8",
+        "l8-l10",
+        "f8-j8",
+        "b8-b10",
+        "d7-d13",
+        "k11-i11xh11xi12",
+        "f7-f10",
+        "f2-d2",
+        "g7-d7",
+        "f11-d11",
+        "d7-d3",
+        "d11-d4"
+    ],
+    "WhoWon": "Black"
+}

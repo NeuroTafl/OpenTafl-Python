@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "AreVidar",
+    "BlackSidePlayerName": "Seeontic",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "e5-e2",
+        "f2-i2",
+        "e6-e3",
+        "b6-b2",
+        "d6-d3",
+        "a6-c6",
+        "d3-a3",
+        "a8-b8",
+        "f6-d6",
+        "k8-i8",
+        "f4-c4",
+        "d1-c1",
+        "d6-d2",
+        "a5-b5",
+        "d2-c2",
+        "a4-b4",
+        "a3-a2xb2",
+        "b4-b2",
+        "a2-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

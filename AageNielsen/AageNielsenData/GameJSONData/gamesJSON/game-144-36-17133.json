@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Kaagee",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 144,
+    "AageGameTypeName": "Old TYR! 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "m7-k7",
+        "g10-g11",
+        "g13-g12",
+        "g8-g10",
+        "a7-c7",
+        "i8-i11xh11",
+        "i13-h13",
+        "h9-h12",
+        "g12-i12",
+        "i6-i10",
+        "i1-i7xj7",
+        "e8-e11xf11",
+        "k6-h6",
+        "h5-i5",
+        "k8-h8xh7",
+        "i5-i6xh6",
+        "m5-i5xi6",
+        "f7-f8",
+        "c8-e8",
+        "e6-e7",
+        "c6-e6xe7"
+    ],
+    "WhoWon": "Black"
+}

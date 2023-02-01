@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Faith-of-Steel-5",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j6-j9",
+        "h6-j6",
+        "k5-j5",
+        "f4-j4xj5",
+        "f2-i2",
+        "g5-g3",
+        "h1-j1",
+        "f5-k5",
+        "j1-j3",
+        "e5-b5",
+        "a4-b4xb5",
+        "k5-b5",
+        "d1-c1",
+        "g3-b3xb4",
+        "a5-a3",
+        "e7-b7xb6",
+        "f10-c10",
+        "f6-f2",
+        "c1-c2",
+        "d6-d1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

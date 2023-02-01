@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Norsefred",
+    "BlackSidePlayerName": "ragnarpett",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g10-g9",
+        "f7-h7",
+        "g9-g8",
+        "f9-g9",
+        "g8-g7",
+        "f6-f7xg7",
+        "j5-i5",
+        "f7-c7",
+        "b7-b8",
+        "c7-c11"
+    ],
+    "WhoWon": "White"
+}

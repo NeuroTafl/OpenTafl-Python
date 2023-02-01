@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "floki",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-c2",
+        "f4-f2",
+        "b6-b3",
+        "f2-j2",
+        "j6-j3",
+        "j2-h2",
+        "b3-h3xh2",
+        "f8-i8",
+        "f10-i10",
+        "f7-f10",
+        "c2-c10",
+        "f6-f9",
+        "c10-c9",
+        "i8-c8",
+        "a7-c7xc8",
+        "f9-k9",
+        "i10-k10",
+        "f10-j10",
+        "j3-j9"
+    ],
+    "WhoWon": "Black"
+}

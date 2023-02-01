@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e1-e2",
+        "h6-h9",
+        "h1-h3",
+        "g7-j7",
+        "k5-i5",
+        "g6-i6",
+        "e11-e9",
+        "f4-i4xi5",
+        "h3-h6xi6",
+        "i4-i6",
+        "h6-h3",
+        "g5-j5xj6",
+        "f10-j10",
+        "i6-i1",
+        "k4-j4",
+        "f6-i6",
+        "h3-i3",
+        "i6-i11",
+        "j10-j11",
+        "i11-i10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

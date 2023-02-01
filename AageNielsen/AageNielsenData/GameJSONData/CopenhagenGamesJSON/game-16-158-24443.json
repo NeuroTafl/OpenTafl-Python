@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Helfrich",
+    "BlackSidePlayerName": "Arthur",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-h2xg2",
+        "g6-g2",
+        "j6-j3",
+        "h6-j6",
+        "h11-j11",
+        "f6-i6",
+        "g11-i11",
+        "i6-i1",
+        "j3-j1",
+        "i1-i10",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

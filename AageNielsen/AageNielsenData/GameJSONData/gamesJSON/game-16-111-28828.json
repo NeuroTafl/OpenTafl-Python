@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Tyllier",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "g5-h5",
+        "h1-h3",
+        "e5-e3",
+        "a4-c4",
+        "f5-e5",
+        "d1-d3",
+        "e3-e4",
+        "e1-e3",
+        "e7-c7",
+        "d11-d9",
+        "c7-c10",
+        "a8-c8",
+        "g6-g4",
+        "k4-i4",
+        "g7-g9",
+        "h11-h9",
+        "f8-f9",
+        "k7-i7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

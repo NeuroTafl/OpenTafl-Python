@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-c2",
+        "d6-d1",
+        "b5-b3",
+        "e6-c6",
+        "e10-d10",
+        "f6-d6",
+        "d10-d8",
+        "d6-d3",
+        "g2-g3",
+        "d1-c1",
+        "e1-d1",
+        "e5-e1xd1",
+        "f2-d2",
+        "e1-d1xd2",
+        "c2-d2",
+        "d3-e3",
+        "f1-e1",
+        "f4-f1xe1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

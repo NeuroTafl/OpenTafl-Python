@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Gore23",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-b2",
+        "f4-i4",
+        "j6-j2",
+        "d6-d9",
+        "b6-d6",
+        "g5-h5",
+        "f1-f4",
+        "e7-c7",
+        "a5-c5",
+        "g7-j7",
+        "h11-h8",
+        "f7-i7",
+        "g11-g8",
+        "e6-e9",
+        "a8-e8xf8",
+        "i7-e7xe8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

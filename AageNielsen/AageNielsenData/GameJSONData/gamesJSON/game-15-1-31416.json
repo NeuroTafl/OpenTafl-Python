@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Tom_mercia",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2j2",
+        "f4f2",
+        "b6b2",
+        "f5f3",
+        "j6j10",
+        "f6f4",
+        "f10b10",
+        "f3k3",
+        "j2k2",
+        "f4f3",
+        "k2j2",
+        "f3k3",
+        "j2k2",
+        "k3a3",
+        "b2a2",
+        "a3k3",
+        "h1h2",
+        "k3k1"
+    ],
+    "WhoWon": "White"
+}

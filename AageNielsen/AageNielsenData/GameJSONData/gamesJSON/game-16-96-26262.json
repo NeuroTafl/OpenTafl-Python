@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Chuck ward",
+    "BlackSidePlayerName": "Nath",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "g2-j2",
+        "d11-d9",
+        "f4-j4",
+        "a4-i4xj4",
+        "f5-i5",
+        "f1-f2",
+        "f6-f3",
+        "g1-g3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "dayvigco",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i6-i4",
+        "h6-i6",
+        "f9-h9",
+        "e5-c5",
+        "c6-c8",
+        "e6-e3",
+        "e1-d1",
+        "d6-d2",
+        "a6-d6",
+        "f6-e6",
+        "c8-c6",
+        "f5-d5",
+        "d1-c1",
+        "e7-d7xd6",
+        "e10-e9",
+        "d7-c7xc6",
+        "e11-d11",
+        "e6-a6"
+    ],
+    "WhoWon": "White"
+}

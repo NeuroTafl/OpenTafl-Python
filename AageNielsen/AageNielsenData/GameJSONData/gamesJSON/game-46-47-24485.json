@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 46,
+    "AageGameTypeName": "Historical Hnefatafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "m9-j9",
+        "g10-l10",
+        "h12-h10",
+        "h8-j8",
+        "i13-i10",
+        "h7-h9",
+        "a9-d9",
+        "l10-j10xj9",
+        "g13-g12",
+        "g7-h7",
+        "i1-i3",
+        "h9-l9",
+        "g12-l12",
+        "l9-l10",
+        "m5-j5",
+        "h7-h9",
+        "e13-e10",
+        "h9-m9"
+    ],
+    "WhoWon": "White"
+}

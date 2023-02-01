@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 75,
+    "AageGameTypeName": "Tawlbwrdd T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j9",
+        "e6-e2",
+        "d1-d2xe2",
+        "f6-e6",
+        "a8-c8",
+        "d6-d9",
+        "a4-c4",
+        "f3-c3",
+        "a5-c5",
+        "f7-c7",
+        "e11-e9",
+        "d9-c9xc8",
+        "g11-g9xf9",
+        "c3-c2",
+        "h11-h8",
+        "e6-e3",
+        "g1-g3",
+        "e3-a3"
+    ],
+    "WhoWon": "White"
+}

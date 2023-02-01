@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "jilles",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h2-j2",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "a9-d9",
+        "g10-c10",
+        "c7-c9",
+        "g8-c8xc9",
+        "g11-g9",
+        "c8-c9xd9",
+        "g13-g11xf11",
+        "c10-g10",
+        "f12-f9",
+        "g7-g8xg9",
+        "f9-g9xg10",
+        "g8-d8",
+        "e11-d11",
+        "d8-d10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

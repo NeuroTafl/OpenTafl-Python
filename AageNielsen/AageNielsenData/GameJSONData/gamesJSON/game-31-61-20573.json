@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j7-j8",
+        "h6-h1",
+        "g2-i2",
+        "h1-i1",
+        "g1-g3",
+        "i6-i3xi2",
+        "e2-e3xf3",
+        "g6-g7",
+        "j6-h6",
+        "f6-g6",
+        "j5-i5",
+        "f4-f3",
+        "k5-k4",
+        "i3-h3xg3",
+        "k4-g4",
+        "d6-d3xe3",
+        "g4-f4xf3",
+        "g6-g1"
+    ],
+    "WhoWon": "White"
+}

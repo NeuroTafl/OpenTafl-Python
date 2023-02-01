@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "xerxes",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 100,
+    "AageGameTypeName": "Ard Ri throneless unarmed cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-c6",
+        "d3-f3",
+        "d2-d3",
+        "c4-c2",
+        "d3-c3",
+        "d4-d3",
+        "g4-g3",
+        "d3-e3",
+        "d1-e1",
+        "e4-c4xc3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

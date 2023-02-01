@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Frenir",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a5-a4",
+        "f4-b4",
+        "e2-e4",
+        "c6-c3",
+        "b7-c7",
+        "f8-c8",
+        "b6-c6",
+        "f7-i7",
+        "g10-g8",
+        "f9-b9",
+        "a7-b7",
+        "f3-j3",
+        "f2-f3",
+        "g6-g4",
+        "e1-e3",
+        "h6-h8",
+        "f10-f8",
+        "f6-h6",
+        "f3-h3",
+        "h6-h4",
+        "j5-h5"
+    ],
+    "WhoWon": "Black"
+}

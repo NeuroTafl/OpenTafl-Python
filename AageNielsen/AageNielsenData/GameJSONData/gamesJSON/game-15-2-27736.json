@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Omega",
+    "BlackSidePlayerName": "Aattas",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6c6",
+        "d6d5",
+        "d1d4",
+        "e7d7",
+        "d11d8",
+        "e6d6",
+        "e11e6",
+        "d5d6",
+        "h11h7",
+        "f8h8",
+        "k8i8",
+        "f7f8",
+        "g11g8",
+        "h6h8",
+        "k4g4",
+        "h8h4",
+        "i8h8",
+        "g6h6",
+        "k5h5",
+        "g7h7"
+    ],
+    "WhoWon": "White"
+}

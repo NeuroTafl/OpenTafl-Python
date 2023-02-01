@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Gore23",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a8-d8",
+        "e7-b7",
+        "e11-e8",
+        "e5-b5xb6",
+        "a6-b6",
+        "b5-b1",
+        "g11-g8xf8",
+        "f5-b5xb6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

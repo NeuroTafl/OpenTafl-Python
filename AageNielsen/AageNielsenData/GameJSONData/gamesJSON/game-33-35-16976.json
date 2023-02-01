@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Waegn",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e4",
+        "f6-d6",
+        "e13-e10",
+        "f8-f10",
+        "b8-e8xe9",
+        "f7-f4",
+        "e8-e7xd7",
+        "g8-d8",
+        "a9-g9xg10",
+        "g7-f7",
+        "g11-g10xf10",
+        "f7-f11",
+        "e10-f10"
+    ],
+    "WhoWon": "Black"
+}

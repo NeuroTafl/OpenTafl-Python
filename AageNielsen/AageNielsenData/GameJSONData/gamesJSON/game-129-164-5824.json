@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e5",
+        "d2-e2",
+        "d3-d2",
+        "b4-b2",
+        "c4-b4",
+        "d6-b6",
+        "d4-c4",
+        "b2-c2xd2",
+        "d5-b5",
+        "g4-e4",
+        "b4-b3",
+        "d1-d5xe5",
+        "c4-c3",
+        "e4-c4"
+    ],
+    "WhoWon": "Black"
+}

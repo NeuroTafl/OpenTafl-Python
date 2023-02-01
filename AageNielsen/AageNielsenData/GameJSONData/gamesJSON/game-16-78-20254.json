@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Rini0-o",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-i2",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "j6-j3",
+        "f8-c8",
+        "d11-d9",
+        "e7-e9",
+        "e11-e10",
+        "c8-c9xd9",
+        "e10-c10",
+        "e9-j9xj8",
+        "b6-b3",
+        "e6-e11",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

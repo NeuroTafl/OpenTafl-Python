@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "unhandyandy",
+    "BlackSidePlayerName": "ChaolAibhne",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "e4-e2",
+        "f4-f3",
+        "e2-f2",
+        "d6-e6",
+        "d4-f4xf3",
+        "e6-e4"
+    ],
+    "WhoWon": "Black"
+}

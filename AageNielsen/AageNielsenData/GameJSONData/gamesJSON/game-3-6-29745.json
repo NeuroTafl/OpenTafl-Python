@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "edmond-dantes",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-b11",
+        "e7-c7",
+        "e11-c11",
+        "e6-e10",
+        "g11-g10",
+        "f6-e6",
+        "a8-a10",
+        "e6-e9",
+        "a7-a9",
+        "e9-k9",
+        "g10-k10",
+        "k9-k11"
+    ],
+    "WhoWon": "White"
+}

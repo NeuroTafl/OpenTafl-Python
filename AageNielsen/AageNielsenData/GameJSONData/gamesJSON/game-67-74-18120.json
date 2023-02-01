@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Dimetr",
+    "BlackSidePlayerName": "Jilles",
+    "AageGameTypeKey": 67,
+    "AageGameTypeName": "Fidchell armed (Hnefatafl edge 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-b1",
+        "d6-g6",
+        "a5-a6",
+        "d5-d6",
+        "a6-b6",
+        "d4-d5",
+        "a7-a5",
+        "c4-c1",
+        "g3-g2",
+        "f4-f7",
+        "g2-f2",
+        "e4-e2",
+        "g1-g3",
+        "d2-a2",
+        "a5-b5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

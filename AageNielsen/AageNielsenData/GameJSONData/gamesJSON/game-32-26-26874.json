@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g2-g4",
+        "h6-h4xg4",
+        "f2-h2",
+        "d6-d11",
+        "a7-a8",
+        "e6-c6",
+        "a8-d8",
+        "f6-d6",
+        "b5-d5",
+        "c6-c5xd5",
+        "e2-d2",
+        "d6-d3",
+        "d8-d4"
+    ],
+    "WhoWon": "Black"
+}

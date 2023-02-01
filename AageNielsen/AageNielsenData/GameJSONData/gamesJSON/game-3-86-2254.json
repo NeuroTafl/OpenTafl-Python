@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Jack",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "d3-g3xg2",
+        "h6-h3",
+        "h11-h4xh3",
+        "f6-i6",
+        "k4-i4",
+        "i6-i11",
+        "j6-j11",
+        "i11-i9",
+        "j11-j9",
+        "e7-e10",
+        "g11-g10",
+        "i9-a9",
+        "d11-d10xe10",
+        "a9-a11"
+    ],
+    "WhoWon": "White"
+}

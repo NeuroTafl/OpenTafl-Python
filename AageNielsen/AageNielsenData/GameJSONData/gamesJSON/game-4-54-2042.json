@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Noobchen",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h4",
+        "e7-e9",
+        "a8-a9",
+        "f7-b7",
+        "a5-b5",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "f10-b10",
+        "f8-i8",
+        "g11-i11",
+        "i8-i10xh10",
+        "j6-j10",
+        "e9-k9",
+        "j10-k10xk9",
+        "f6-f9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

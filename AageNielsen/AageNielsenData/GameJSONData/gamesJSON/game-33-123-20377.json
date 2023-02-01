@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "m5-j5",
+        "f6-c6",
+        "a5-c5xc6",
+        "g6-c6",
+        "l6-j6",
+        "g4-c4xc5",
+        "l8-j8xj7",
+        "f8-c8xc7",
+        "i1-i4",
+        "g7-g4",
+        "e1-e4",
+        "d7-d3",
+        "f2-f4",
+        "g4-g6",
+        "h2-h5xi5",
+        "g6-d6",
+        "g11-d11",
+        "d6-d5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

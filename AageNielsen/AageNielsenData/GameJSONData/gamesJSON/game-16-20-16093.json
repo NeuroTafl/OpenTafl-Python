@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "h11-i11",
+        "g5-g3",
+        "h3-i3",
+        "f5-j5",
+        "i11-i5xj5xi4",
+        "f6-f4",
+        "a4-a3",
+        "h6-h2",
+        "g1-i1",
+        "f4-j4",
+        "i1-j1",
+        "j4-j2",
+        "k4-k2",
+        "h2-h1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

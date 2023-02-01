@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Epoc",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-h2xg2",
+        "g6-g2",
+        "e1-e3",
+        "h6-h9",
+        "h11-i11",
+        "f6-i6",
+        "e3-i3",
+        "i6-i10",
+        "j6-j10",
+        "h9-k9",
+        "k6-j6",
+        "k9-k10xj10",
+        "k8-k9xk10",
+        "i10-k10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

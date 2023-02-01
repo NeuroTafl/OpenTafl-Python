@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "TorchwoodThree",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "c4-c3",
+        "b4-c4xc3",
+        "d3-c3",
+        "c4-b4",
+        "d4-d2",
+        "b4-c4xc3",
+        "d2-d4",
+        "c4-c5",
+        "d4-d3",
+        "f4-f3",
+        "d3-b3",
+        "c5-b5",
+        "e4-c4",
+        "b5-b4xc4",
+        "d5-b5xb4",
+        "f3-c3",
+        "b3-b1",
+        "d1-c1"
+    ],
+    "WhoWon": "Black"
+}

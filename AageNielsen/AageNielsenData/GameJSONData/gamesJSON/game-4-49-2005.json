@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Firefinch",
+    "BlackSidePlayerName": "Meady",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h5",
+        "f4-h4xh5",
+        "k4-i4",
+        "h6-h9",
+        "g1-g4xh4",
+        "e5-c5",
+        "a4-c4",
+        "f5-d5",
+        "b6-c6xc5",
+        "f6-f3",
+        "i4-i3",
+        "f3-a3",
+        "f2-a2",
+        "a3-b3",
+        "f10-b10",
+        "b3-a3xa2",
+        "i3-i2",
+        "a3-a1"
+    ],
+    "WhoWon": "White"
+}

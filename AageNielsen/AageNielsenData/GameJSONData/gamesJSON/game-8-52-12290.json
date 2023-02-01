@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Barba",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 8,
+    "AageGameTypeName": "Ashton tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e7-b7",
+        "b5-b3",
+        "e3-h3",
+        "f9-f7",
+        "c5-c9",
+        "a6-a7",
+        "d5-d7",
+        "e2-c2",
+        "e5-d5",
+        "c2-c7xb7",
+        "e4-c4",
+        "e8-e7xd7xe6",
+        "d5-d3",
+        "f1-f3",
+        "c4-c6",
+        "d9-d4",
+        "c9-c8xc7",
+        "d1-d2"
+    ],
+    "WhoWon": "Black"
+}

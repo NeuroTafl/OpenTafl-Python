@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "Ded Fomich",
+    "BlackSidePlayerName": "haitsdevin",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j5-i5",
+        "f4-i4xi5",
+        "j7-j8",
+        "h6-h1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

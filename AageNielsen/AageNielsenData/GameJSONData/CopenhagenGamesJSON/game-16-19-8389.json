@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "Vhailor",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-c8",
+        "f10-c10",
+        "f7-f10",
+        "h11-h10",
+        "f4-i4",
+        "k8-i8",
+        "f6-f9",
+        "i8-i9",
+        "f9-a9",
+        "c10-a10",
+        "a9-b9",
+        "a10-b10",
+        "c8-c11",
+        "d11-d10",
+        "c11-b11xb10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Arevidar",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f6",
+        "e4-e3",
+        "d2-e2",
+        "e3-e6",
+        "d6-c6",
+        "d5-d6",
+        "b4-b5",
+        "d3-b3",
+        "b5-d5xd6",
+        "e6-d6xd5",
+        "f6-e6xd6",
+        "c4-c1",
+        "c6-b6",
+        "d4-c4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

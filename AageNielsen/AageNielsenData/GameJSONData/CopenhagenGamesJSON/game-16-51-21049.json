@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "nath",
+    "BlackSidePlayerName": "Schachus",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-i1",
+        "g5-g2",
+        "f2-b2",
+        "g6-g3",
+        "j6-j2",
+        "h6-h10",
+        "k8-j8",
+        "f6-i6",
+        "k7-i7",
+        "f8-i8xi7",
+        "k6-k9",
+        "i8-b8",
+        "h11-i11",
+        "h10-j10",
+        "d11-d9",
+        "i6-i10",
+        "d9-j9",
+        "j10-k10",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

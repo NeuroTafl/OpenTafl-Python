@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h3",
+        "f2-h2",
+        "f4-h4",
+        "k4-i4",
+        "g5-j5",
+        "i4-j4xj5",
+        "f5-j5",
+        "k7-i7",
+        "h3-j3xj4",
+        "i7-i5xj5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

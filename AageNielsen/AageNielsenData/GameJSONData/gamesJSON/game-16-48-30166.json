@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Chuck ward",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-g3",
+        "f8-i8",
+        "h11-i11",
+        "h6-h11",
+        "k4-i4",
+        "e7-e10",
+        "f10-j10",
+        "f7-b7",
+        "f11-f8",
+        "f6-f7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-f2",
+        "d5-d3",
+        "d9-d8",
+        "e4-b4",
+        "a6-b6",
+        "c5-c9",
+        "e9-d9",
+        "e7-d7",
+        "i4-c4xb4",
+        "e5-e4",
+        "h5-h4",
+        "g5-h5",
+        "i6-h6xh5",
+        "f5-h5",
+        "b5-g5xh5",
+        "e4-f4",
+        "h6-f6",
+        "e6-e7",
+        "c4-e4xe3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

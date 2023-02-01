@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "Wesley Alves",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-b2",
+        "f4-i4",
+        "j6-j2",
+        "f5-f2",
+        "h1-i1",
+        "f6-f3",
+        "k8-j8",
+        "f3-a3",
+        "b2-a2",
+        "a3-k3",
+        "j2-k2",
+        "k3-a3xa2",
+        "b6-b2",
+        "a3-a1"
+    ],
+    "WhoWon": "White"
+}

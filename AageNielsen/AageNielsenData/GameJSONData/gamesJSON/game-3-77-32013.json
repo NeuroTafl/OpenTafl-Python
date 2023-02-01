@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Bogd khan",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "d6-d9",
+        "d1-d3",
+        "e7-c7",
+        "a4-c4",
+        "f8-i8",
+        "f10-d10",
+        "f7-f10",
+        "j6-j10",
+        "f6-f9",
+        "e11-e10",
+        "f9-k9",
+        "j10-k10",
+        "k9-j9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

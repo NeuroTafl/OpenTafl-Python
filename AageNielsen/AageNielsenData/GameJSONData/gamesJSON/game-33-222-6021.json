@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "APdex",
+    "BlackSidePlayerName": "earlyfire27",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i1-i4",
+        "h6-h4",
+        "l6-i6xi5",
+        "j7-j4xi4",
+        "m5-g5xg4",
+        "h4-g4xg5",
+        "e1-e4",
+        "f6-e6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c5",
+        "a4-a5",
+        "d3-c3",
+        "f4-f3",
+        "c3-a3",
+        "d6-c6",
+        "c5-c2",
+        "d1-c1",
+        "d4-d2",
+        "d7-d6xd5",
+        "e4-c4",
+        "f3-d3",
+        "a3-a4xb4",
+        "c1-d1"
+    ],
+    "WhoWon": "Black"
+}

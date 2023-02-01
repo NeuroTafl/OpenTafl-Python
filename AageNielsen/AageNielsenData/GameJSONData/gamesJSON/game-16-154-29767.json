@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "d6-d9",
+        "a8-c8",
+        "e7-b7",
+        "c8-c7xb7",
+        "f8-c8",
+        "b6-c6",
+        "e6-e10",
+        "g11-g9",
+        "f6-d6",
+        "d1-d3",
+        "d9-b9",
+        "d11-d10xe10",
+        "d6-d9",
+        "a7-a9",
+        "d9-c9",
+        "d10-c10",
+        "b9-b11",
+        "e11-c11xb11",
+        "c9-b9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

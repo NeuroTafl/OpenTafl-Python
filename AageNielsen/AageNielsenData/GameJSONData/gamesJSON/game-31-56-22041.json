@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-c1",
+        "f5-h5",
+        "c1-c3",
+        "g6-g8",
+        "g1-h1",
+        "f7-d7",
+        "k7-k9",
+        "d7-d11",
+        "k6-k8",
+        "f8-b8",
+        "f1-d1",
+        "f6-f8",
+        "a7-a10",
+        "f8-c8",
+        "e10-c10",
+        "c8-c9",
+        "a6-a9",
+        "d11-c11xc10",
+        "a9-b9xb8",
+        "c9-d9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

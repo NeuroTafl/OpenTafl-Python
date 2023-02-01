@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Alex hnefatafl",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-c2",
+        "h6-h11",
+        "j7-j9",
+        "f4-k4",
+        "j5-h5",
+        "f5-e5",
+        "g1-i1",
+        "f6-f4",
+        "a5-a4",
+        "f4-h4",
+        "f1-h1",
+        "i6-h6xh5",
+        "j6-j3",
+        "h4-i4",
+        "k5-i5",
+        "h6-i6xi5",
+        "a4-h4",
+        "g6-g4xh4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

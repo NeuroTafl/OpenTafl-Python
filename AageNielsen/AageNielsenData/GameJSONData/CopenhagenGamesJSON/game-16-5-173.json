@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "f10-i10",
+        "f7-f10",
+        "d11-d9",
+        "g5-g2",
+        "f2-c2",
+        "i8-i1",
+        "j6-j2",
+        "f6-f8",
+        "a8-c8",
+        "f8-j8",
+        "i10-j10",
+        "j8-j3",
+        "j2-j1",
+        "j3-k3",
+        "h3-h1xi1",
+        "k3-k1"
+    ],
+    "WhoWon": "White"
+}

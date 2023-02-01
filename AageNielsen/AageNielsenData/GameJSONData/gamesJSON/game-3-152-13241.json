@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "e7-e9",
+        "a8-c8",
+        "e5-e3",
+        "d11-d9",
+        "e9-c9xd9",
+        "a7-a9",
+        "e6-e10",
+        "f10-i10",
+        "f8-b8",
+        "k8-k9",
+        "f7-f9",
+        "e11-c11",
+        "b8-b11",
+        "f11-d11",
+        "f6-f8",
+        "c11-c10",
+        "f8-b8",
+        "a6-a8",
+        "b8-b10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

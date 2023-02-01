@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "HOK",
+    "BlackSidePlayerName": "torc",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-b8",
+        "f10-b10",
+        "e7-b7",
+        "a8-a9",
+        "f7-c7",
+        "d11-c11",
+        "f6-f9",
+        "j6-j9",
+        "f9-i9",
+        "h11-i11",
+        "i9-i1",
+        "j9-j1",
+        "i1-i10",
+        "k8-k10",
+        "i10-i1xj1",
+        "i11-i2",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

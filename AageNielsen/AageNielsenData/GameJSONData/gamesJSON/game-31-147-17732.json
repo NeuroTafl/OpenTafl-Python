@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "mochabocha",
+    "BlackSidePlayerName": "MochaBoi",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-k8",
+        "f8-j8",
+        "g10-i10",
+        "f9-i9",
+        "f10-f9",
+        "h6-h11",
+        "i10-i11xh11",
+        "g6-g9",
+        "e10-e9",
+        "f6-h6",
+        "j5-h5",
+        "h6-h11"
+    ],
+    "WhoWon": "White"
+}

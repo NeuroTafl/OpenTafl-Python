@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "EilidhAnIorua",
+    "BlackSidePlayerName": "di Bathory",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "f8-f9",
+        "j6-j9",
+        "d6-c6",
+        "f2-c2",
+        "e7-c7",
+        "d9-c9",
+        "e6-e9",
+        "f1-f3",
+        "f7-f8",
+        "k6-i6",
+        "e9-e10",
+        "d1-d10xe10",
+        "e5-e3",
+        "f3-j3",
+        "f6-d6",
+        "e1-d1",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

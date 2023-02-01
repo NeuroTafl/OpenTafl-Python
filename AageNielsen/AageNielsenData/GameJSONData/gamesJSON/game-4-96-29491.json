@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "marvaden",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "d1-d2",
+        "e5-e2",
+        "b6-b5",
+        "g5-g2xf2",
+        "f1-f2xe2",
+        "e6-e2xf2",
+        "h1-h4",
+        "f4-c4",
+        "d2-d4",
+        "e7-e4xd4",
+        "k7-h7",
+        "f8-h8xh7",
+        "f10-k10",
+        "d6-d9",
+        "h4-h1",
+        "f6-b6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

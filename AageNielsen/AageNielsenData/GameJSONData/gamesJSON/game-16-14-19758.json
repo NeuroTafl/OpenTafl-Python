@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "rogers",
+    "BlackSidePlayerName": "Olafkrum",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b7",
+        "d6-c6",
+        "b7-c7",
+        "e7-d7",
+        "c7-c8",
+        "e5-d5",
+        "c8-d8",
+        "e6-e3",
+        "d8-d9",
+        "f4-c4",
+        "d9-e9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

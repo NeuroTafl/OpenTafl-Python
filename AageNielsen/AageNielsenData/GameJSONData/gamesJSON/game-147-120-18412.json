@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "herjan",
+    "AageGameTypeKey": 147,
+    "AageGameTypeName": "Saami Daabloe 11x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "e9-e7",
+        "i5-h6",
+        "i9-i7",
+        "h4-i5",
+        "i11-i9",
+        "h6-g7",
+        "e11-e9",
+        "g3-f4",
+        "b8-c7",
+        "c3-d4",
+        "a9-b8",
+        "d4-e5",
+        "c7-c5",
+        "e5-d6",
+        "e7-f6",
+        "g7-e5-a5-a9-c7xf6xc5xa7xb8"
+    ],
+    "WhoWon": "White"
+}

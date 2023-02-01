@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 98,
+    "AageGameTypeName": "Brandubh throneless line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e7-e6",
+        "d5-d7",
+        "c1-c3",
+        "c4-b4",
+        "g3-e3xd3",
+        "d4-d2",
+        "a3-a2",
+        "d2-f2",
+        "e1-f1",
+        "f2-f7",
+        "e6-e7xd7"
+    ],
+    "WhoWon": "Black"
+}

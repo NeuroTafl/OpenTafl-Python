@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Abbas agraphicus",
+    "BlackSidePlayerName": "Jilles",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-e1",
+        "e4-g4",
+        "f3-g3",
+        "g4-g5",
+        "e6-e4",
+        "d5-e5xf5",
+        "c6-d6",
+        "d3-e3xe4",
+        "b3-d3",
+        "d4-g4"
+    ],
+    "WhoWon": "White"
+}

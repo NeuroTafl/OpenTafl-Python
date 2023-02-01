@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Pimms",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "m10-m11",
+        "g10-m10",
+        "m9-j9",
+        "m10-k10",
+        "j13-k13",
+        "g9-g11",
+        "a10-g10xg11",
+        "h8-j8",
+        "j9-l9",
+        "h7-h10",
+        "g10-d10",
+        "j8-l8",
+        "m5-l5",
+        "h6-l6xl7",
+        "m7-l7xl8xl6",
+        "g8-l8",
+        "l9-l12",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

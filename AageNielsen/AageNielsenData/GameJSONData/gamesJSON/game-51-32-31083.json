@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Firefinch",
+    "BlackSidePlayerName": "Oddur",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-e3",
+        "f4-f5",
+        "d4-d2",
+        "b4-b3",
+        "c4-c3",
+        "f5-f4xe4",
+        "d2-d4",
+        "d1-d3xc3",
+        "d4-b4",
+        "f4-c4"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Wesley Alves",
+    "BlackSidePlayerName": "Archibald K.",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e3",
+        "b4-b3",
+        "d4-f4",
+        "b3-b4xc4",
+        "f4-f2",
+        "f5-f3",
+        "e3-e1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

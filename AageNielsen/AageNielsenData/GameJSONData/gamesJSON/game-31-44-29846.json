@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Ivarost",
+    "BlackSidePlayerName": "Ivargra",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g10-g9",
+        "h6-h7",
+        "e10-e9xf9",
+        "f4-h4",
+        "b7-c7",
+        "f5-g5",
+        "b5-c5xc6",
+        "f6-f4",
+        "g2-g4",
+        "f4-a4"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Yozara",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "d6-c6",
+        "c4-c3",
+        "b4-b2",
+        "c3-c2",
+        "f4-f5",
+        "e4-e6",
+        "d7-e7",
+        "d4-d3",
+        "f5-e5xe6",
+        "d3-f3",
+        "c6-c5xd5",
+        "f3-f7",
+        "e7-d7",
+        "f7-g7"
+    ],
+    "WhoWon": "White"
+}

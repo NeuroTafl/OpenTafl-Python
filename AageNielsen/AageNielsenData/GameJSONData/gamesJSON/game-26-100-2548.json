@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-b2",
+        "f7-g7",
+        "f10-b10",
+        "c6-c5",
+        "j6-j10",
+        "f8-j8",
+        "a8-b8",
+        "f9-k9",
+        "j10-k10xk9",
+        "f6-f9",
+        "b10-b9",
+        "f9-k9"
+    ],
+    "WhoWon": "White"
+}

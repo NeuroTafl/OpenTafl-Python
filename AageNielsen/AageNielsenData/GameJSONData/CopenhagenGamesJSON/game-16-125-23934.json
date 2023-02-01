@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "duhawk93",
+    "BlackSidePlayerName": "teondrae",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "e11-e9",
+        "h6-h4",
+        "k5-i5",
+        "g2-h2xh3",
+        "i5-i9",
+        "f6-i6",
+        "b6-b3",
+        "h2-j2",
+        "g1-i1",
+        "i6-i2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

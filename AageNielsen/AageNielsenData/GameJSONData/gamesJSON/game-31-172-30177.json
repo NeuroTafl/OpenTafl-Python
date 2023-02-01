@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j8",
+        "f7-j7",
+        "j8-j9",
+        "f8-j8",
+        "a7-a9",
+        "i6-i10",
+        "j9-j10",
+        "f6-f8",
+        "a6-a8",
+        "f8-i8",
+        "g11-i11",
+        "i8-i1"
+    ],
+    "WhoWon": "White"
+}

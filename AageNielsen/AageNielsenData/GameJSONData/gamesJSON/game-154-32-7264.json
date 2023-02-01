@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Dimetr",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 154,
+    "AageGameTypeName": "Tyr 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i4-h4",
+        "c5-b5",
+        "a6-b6",
+        "d4-b4",
+        "a9-a5",
+        "e7-e9",
+        "f9-f8",
+        "e9-f9",
+        "f8-e8",
+        "f6-g6",
+        "d9-d7",
+        "f9-g9",
+        "g7-f7",
+        "g6-g8",
+        "c7-c4xb4",
+        "e5-e6",
+        "i9-h9",
+        "e6-g6",
+        "h9-h6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

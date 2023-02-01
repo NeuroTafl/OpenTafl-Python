@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Unterwichtel",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-d4",
+        "e5-b5",
+        "d4-b4xb5",
+        "f5-b5",
+        "a7-c7",
+        "g5-c5",
+        "k5-i5",
+        "f4-i4",
+        "j6-i6",
+        "f6-f3",
+        "d1-d3",
+        "f3-j3",
+        "d3-i3xi4",
+        "j3-j1",
+        "b4-c4",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

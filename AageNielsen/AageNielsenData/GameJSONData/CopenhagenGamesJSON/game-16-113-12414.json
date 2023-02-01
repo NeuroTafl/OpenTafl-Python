@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k4-i4",
+        "g5-j5",
+        "k7-i7",
+        "f8-i8",
+        "k8-j8",
+        "h6-i6xi7",
+        "i4-j4xj5",
+        "g6-g2",
+        "h11-h8xi8",
+        "f6-h6",
+        "e1-e3",
+        "h6-h3",
+        "j4-j3",
+        "i6-i1",
+        "h1-h2xg2",
+        "i1-h1xh2",
+        "f2-j2",
+        "h3-i3",
+        "j8-i8",
+        "i3-i1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

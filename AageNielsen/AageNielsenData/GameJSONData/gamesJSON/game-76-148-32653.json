@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Gavinbegbie",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c6-c8",
+        "g7-g9",
+        "f9-d9",
+        "g5-g3",
+        "f3-d3",
+        "f7-i7",
+        "i6-i4",
+        "f6-f7",
+        "g11-i11",
+        "f7-h7",
+        "f11-h11",
+        "h7-h9",
+        "k7-k9",
+        "f5-i5",
+        "i4-h4",
+        "g6-g8",
+        "k6-k8",
+        "g8-i8",
+        "h11-h10",
+        "h9-j9",
+        "i11-i9"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Corndogboy",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b7-b9",
+        "i6-i2",
+        "j5-j3",
+        "h6-h10",
+        "k5-h5",
+        "f9-j9",
+        "j7-i7",
+        "f3-g3",
+        "i7-i10xh10",
+        "f4-h4",
+        "e2-e4",
+        "g6-h6xh5",
+        "g10-h10",
+        "h6-h8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

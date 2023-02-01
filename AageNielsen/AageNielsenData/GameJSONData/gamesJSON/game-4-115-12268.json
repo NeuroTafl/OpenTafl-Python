@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "sneadious@",
+    "BlackSidePlayerName": "skallatorc",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "e5-e3",
+        "b6-b2",
+        "f4-i4",
+        "f2-j2",
+        "h6-h2",
+        "h1-i1",
+        "d6-b6",
+        "a4-a3",
+        "f5-c5",
+        "k8-i8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

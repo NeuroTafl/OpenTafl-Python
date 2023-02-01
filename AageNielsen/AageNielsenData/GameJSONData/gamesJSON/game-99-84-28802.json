@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 99,
+    "AageGameTypeName": "Ard Ri unarmed cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f3",
+        "e4-f4",
+        "d6-e6",
+        "d5-d6",
+        "b4-b5",
+        "f4-f6xe6",
+        "g4-e4",
+        "c4-b4",
+        "b5-c5",
+        "d6-c6",
+        "c5-d5",
+        "d4-c4",
+        "d2-c2",
+        "c6-d6xd5",
+        "f3-f5",
+        "c4-c7"
+    ],
+    "WhoWon": "White"
+}

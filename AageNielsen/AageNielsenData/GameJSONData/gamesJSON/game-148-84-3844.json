@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Frenir",
+    "BlackSidePlayerName": "Haio",
+    "AageGameTypeKey": 148,
+    "AageGameTypeName": "Hex 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "c4",
+        "f5",
+        "e5",
+        "f6",
+        "f7",
+        "g7",
+        "h8",
+        "g8",
+        "g10",
+        "h9",
+        "i11",
+        "j10",
+        "f4",
+        "e4",
+        "e2",
+        "d3",
+        "b1",
+        "d2",
+        "i10",
+        "i9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

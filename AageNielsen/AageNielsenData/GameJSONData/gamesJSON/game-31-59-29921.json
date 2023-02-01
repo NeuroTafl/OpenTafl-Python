@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "RomanGeneral",
+    "BlackSidePlayerName": "Eve4807",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g11-h11",
+        "f7-h7",
+        "b7-f7",
+        "f8-g8",
+        "f7-f8xf9",
+        "e6-e8xf8",
+        "e2-e6",
+        "f6-f9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

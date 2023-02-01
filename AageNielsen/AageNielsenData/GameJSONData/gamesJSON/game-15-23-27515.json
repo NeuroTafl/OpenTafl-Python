@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "whocanhebe",
+    "BlackSidePlayerName": "Paul",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h8",
+        "d6-d3",
+        "f2-c2",
+        "f8-g8",
+        "k7-i7",
+        "e7-b7",
+        "a8-b8xb7",
+        "f7-f9",
+        "d11-d9",
+        "g8-g10",
+        "h8-h10xg10",
+        "g7-e7",
+        "k8-f8xf9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

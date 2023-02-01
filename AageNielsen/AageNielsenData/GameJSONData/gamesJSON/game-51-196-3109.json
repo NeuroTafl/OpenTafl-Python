@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Epoc",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f6",
+        "c4-c3",
+        "d2-c2",
+        "c3-a3",
+        "b4-b5",
+        "d4-b4",
+        "c2-b2xd3",
+        "a3-b3",
+        "d6-c6",
+        "b4-d4",
+        "b5-b4xb3",
+        "d3-d2",
+        "f6-f2",
+        "d5-d6",
+        "b4-b3",
+        "e4-f4",
+        "b3-b5",
+        "d4-d5",
+        "g4-g5",
+        "d5-e5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

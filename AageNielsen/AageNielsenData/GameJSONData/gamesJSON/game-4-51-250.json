@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Jota",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d4",
+        "h6-h8",
+        "g11-g8",
+        "h8-h9",
+        "e11-e8xf8",
+        "f7-f8",
+        "a7-d7",
+        "h9-g9xg8",
+        "f10-f9",
+        "g6-h6",
+        "k8-h8",
+        "h6-h5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

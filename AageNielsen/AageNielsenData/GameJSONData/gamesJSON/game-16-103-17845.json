@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "ragnar76",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-h8",
+        "g7-j7",
+        "h8-j8xj7",
+        "f7-j7",
+        "g11-g7",
+        "f8-g8xg7",
+        "b6-b10",
+        "f6-f9",
+        "h11-h9",
+        "f9-c9",
+        "a8-c8",
+        "c9-c11",
+        "b10-b11",
+        "c11-c10",
+        "a7-a10",
+        "c10-c11xb11",
+        "c8-c10",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

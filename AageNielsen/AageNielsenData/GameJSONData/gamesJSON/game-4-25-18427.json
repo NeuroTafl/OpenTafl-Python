@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "vonraider",
+    "BlackSidePlayerName": "gunnarnjalsson",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-i6",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "a7-b7",
+        "f4-c4",
+        "d1-d4xc4",
+        "f6-f3",
+        "e1-e3",
+        "f3-j3",
+        "f2-j2",
+        "j3-j11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

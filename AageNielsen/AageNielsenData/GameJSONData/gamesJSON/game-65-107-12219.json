@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Drzhbe",
+    "BlackSidePlayerName": "Hrafnblod",
+    "AageGameTypeKey": 65,
+    "AageGameTypeName": "Magpie circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b5",
+        "c4-c6",
+        "d7-c7",
+        "d5-c5",
+        "b5-b6",
+        "e4-e6",
+        "f2-f5",
+        "d4-d5",
+        "g4-g6",
+        "d5-d6",
+        "b2-d2xd3",
+        "c5-d5",
+        "a4-c4",
+        "d6-d7",
+        "c4-c5xc6",
+        "d7-e7",
+        "b6-d6xe6xd5",
+        "e7-f7",
+        "c7-e7"
+    ],
+    "WhoWon": "Black"
+}

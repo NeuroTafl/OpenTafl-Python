@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "unhandyandy",
+    "BlackSidePlayerName": "Orca",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "d3-d2",
+        "c2-c3",
+        "d2-c2xc3",
+        "f4-f3",
+        "e4-e1",
+        "f3-f1xe1",
+        "d4-d3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

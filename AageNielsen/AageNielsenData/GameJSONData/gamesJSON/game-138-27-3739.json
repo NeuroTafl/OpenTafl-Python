@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "thebigfoot",
+    "AageGameTypeKey": 138,
+    "AageGameTypeName": "Old Tyr-2 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d2",
+        "g7-j7",
+        "i6-i5",
+        "g5-h5",
+        "i3-g3",
+        "g6-g4",
+        "i5-j5",
+        "h6-k6",
+        "d11-g11",
+        "f6-j6",
+        "k4-k5",
+        "j7-h7",
+        "k8-k7xk6"
+    ],
+    "WhoWon": "Black"
+}

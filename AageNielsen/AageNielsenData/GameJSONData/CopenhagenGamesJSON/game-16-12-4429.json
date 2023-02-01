@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g11-g9",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "h2-j2",
+        "e5-e2xf2",
+        "d1-d2",
+        "h6-h9",
+        "j6-h6",
+        "f6-g6",
+        "f1-f2xe2",
+        "g6-g3",
+        "j2-h2xg2",
+        "g3-j3",
+        "h2-j2",
+        "j3-j11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

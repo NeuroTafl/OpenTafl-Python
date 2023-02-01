@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "cdafo",
+    "BlackSidePlayerName": "Archibald K.",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-g2",
+        "f8-c8",
+        "a4-c4",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "h11-h10",
+        "f7-b7",
+        "a8-b8xb7",
+        "f6-f9",
+        "d10-b10",
+        "f9-a9",
+        "b10-a10",
+        "a9-k9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

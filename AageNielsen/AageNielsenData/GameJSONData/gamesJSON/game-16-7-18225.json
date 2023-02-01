@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Harry64",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h9",
+        "f4-i4",
+        "f2-i2",
+        "f5-f2",
+        "b6-b3",
+        "f6-f3",
+        "j6-j3",
+        "f2-b2",
+        "d1-b1xb2",
+        "f3-c3",
+        "f10-c10",
+        "c3-c1xb1",
+        "b3-b1",
+        "c1-c2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

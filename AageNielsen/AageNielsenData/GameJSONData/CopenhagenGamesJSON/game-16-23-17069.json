@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Harry64",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "f8-i8",
+        "j6-j8",
+        "i8-i10",
+        "j8-j10",
+        "h6-h10",
+        "h1-h9xh10",
+        "g6-i6",
+        "h9-h10xi10",
+        "i6-i11",
+        "g1-j1",
+        "f6-i6",
+        "j10-j11xi11",
+        "g7-j7",
+        "h10-i10",
+        "i6-i1xj1",
+        "f2-j2",
+        "i1-j1",
+        "k4-k2",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

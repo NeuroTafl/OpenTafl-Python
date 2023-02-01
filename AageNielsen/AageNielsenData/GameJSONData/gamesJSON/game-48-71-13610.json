@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Drzhbe",
+    "BlackSidePlayerName": "Hrafnblod",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "m8-m5",
+        "h11-m11",
+        "i14-l14",
+        "j9-j13",
+        "n9-n12",
+        "f9-f13",
+        "b9-b14",
+        "g10-d10",
+        "a10-a13",
+        "h9-c9",
+        "f15-c15",
+        "f7-c7xc8",
+        "d8-d7xc7",
+        "g6-d6",
+        "o10-o13",
+        "h8-h9",
+        "o9-o10",
+        "h9-o9"
+    ],
+    "WhoWon": "White"
+}

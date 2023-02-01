@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "The fifth seal",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-e2",
+        "d5-c5",
+        "g4-g5",
+        "e4-f4",
+        "b6-b5",
+        "f4-f3",
+        "d7-d5xc5",
+        "d4-g4",
+        "e2-g2",
+        "f3-g3xg2",
+        "b2-g2",
+        "g4-e4",
+        "g5-g4xg3",
+        "e4-e7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

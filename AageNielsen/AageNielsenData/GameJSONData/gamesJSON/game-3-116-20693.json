@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-j2",
+        "e7-e9",
+        "f10-b10",
+        "f7-c7",
+        "d11-c11",
+        "f8-b8",
+        "a8-a9",
+        "b8-j8",
+        "j2-i2",
+        "g7-i7",
+        "h11-h9",
+        "f6-f10",
+        "g11-g10",
+        "i7-i9",
+        "a7-a8",
+        "e9-g9xh9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

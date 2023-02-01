@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Jens Klooster",
+    "BlackSidePlayerName": "Fluxquark",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "g5-i5",
+        "k4-i4",
+        "i5-h5",
+        "d1-d4",
+        "g6-g3",
+        "h1-h3",
+        "f6-g6",
+        "f2-f3xg3",
+        "g6-g2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

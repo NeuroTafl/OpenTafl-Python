@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Ded Fomich",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i3-g3",
+        "g7-j7",
+        "i6-i5",
+        "g5-h5",
+        "i5-j5",
+        "g6-g8",
+        "h8-h10",
+        "g8-i8",
+        "k8-j8",
+        "f6-g6",
+        "h11-g11",
+        "h6-k6",
+        "k11-k7",
+        "g6-i6",
+        "k1-i1",
+        "e5-e2",
+        "f3-f2",
+        "i6-i3",
+        "j5-j3",
+        "i3-h3xh4",
+        "i1-i3"
+    ],
+    "WhoWon": "Black"
+}

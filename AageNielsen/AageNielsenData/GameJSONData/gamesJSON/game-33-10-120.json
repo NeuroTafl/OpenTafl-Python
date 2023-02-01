@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Waegn",
+    "BlackSidePlayerName": "hachit",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "l8-l10",
+        "h8-j8",
+        "l6-l4",
+        "h6-h4",
+        "h2-j2",
+        "h7-h10",
+        "b8-b10",
+        "g6-j6",
+        "f2-d2",
+        "f8-d8",
+        "f12-d12",
+        "g4-a4",
+        "g3-a3xa4",
+        "j8-j12",
+        "g11-k11",
+        "g7-g3",
+        "k7-k3",
+        "g3-c3",
+        "d2-c2",
+        "d7-d1",
+        "c7-c4"
+    ],
+    "WhoWon": "Black"
+}

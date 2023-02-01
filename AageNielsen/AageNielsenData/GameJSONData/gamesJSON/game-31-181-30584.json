@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Norseflem",
+    "BlackSidePlayerName": "Norseburn",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g10-i10",
+        "f7-g7",
+        "e10-e9",
+        "d6-d9xe9",
+        "b7-b9",
+        "f4-b4",
+        "e2-c2",
+        "f5-c5",
+        "a5-a4",
+        "h6-h5",
+        "c2-c4xb4",
+        "f6-f4",
+        "j5-j4",
+        "d9-d4",
+        "e1-e4xd4",
+        "i6-i4",
+        "g2-g4"
+    ],
+    "WhoWon": "Black"
+}

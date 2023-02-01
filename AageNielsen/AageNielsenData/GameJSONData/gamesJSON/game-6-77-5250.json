@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Arne64",
+    "BlackSidePlayerName": "Luigi005",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g5-g2",
+        "h5-h2",
+        "f5-f8",
+        "i5-g5",
+        "d5-d8xe8",
+        "d1-d5xc5",
+        "e6-g6",
+        "i4-g4",
+        "g6-g9",
+        "f1-f2xg2",
+        "e5-e6",
+        "a6-c6",
+        "e6-h6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 123,
+    "AageGameTypeName": "Sea battle-1571 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-g1",
+        "c5-c1",
+        "d2-d1",
+        "d5-d2",
+        "b5-d5",
+        "e4-d4",
+        "b6-c6",
+        "e3-b3",
+        "f2-f3",
+        "e6-d6xd5",
+        "a5-c5",
+        "e5-e3",
+        "h6-e6xd6xe7",
+        "e3-c3",
+        "c6-a6",
+        "c3-c2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

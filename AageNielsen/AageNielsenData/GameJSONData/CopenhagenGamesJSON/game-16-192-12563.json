@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Halldav3",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-i1",
+        "d6-d10",
+        "a4-a3",
+        "e7-e10",
+        "f10-j10",
+        "e6-e9",
+        "a8-a9",
+        "e5-b5",
+        "b6-b10",
+        "f6-c6",
+        "f2-c2",
+        "c6-c11",
+        "b10-b11",
+        "d10-a10",
+        "a7-a8",
+        "c11-c3",
+        "d1-b1",
+        "c3-c11xb11",
+        "a6-b6",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

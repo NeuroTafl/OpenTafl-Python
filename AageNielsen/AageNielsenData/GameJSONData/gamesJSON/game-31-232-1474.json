@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Olafrobi",
+    "BlackSidePlayerName": "Riiem",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "d6-d9",
+        "f2-d2",
+        "f5-d5",
+        "k5-k4",
+        "f4-a4",
+        "e1-e4",
+        "i6-i2",
+        "k4-i4",
+        "f6-f4",
+        "i4-g4"
+    ],
+    "WhoWon": "Black"
+}

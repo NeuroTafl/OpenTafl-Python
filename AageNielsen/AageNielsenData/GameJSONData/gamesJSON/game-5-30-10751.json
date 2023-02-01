@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Wandrille",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-c2",
+        "e6-d6",
+        "i6-e6xe7",
+        "f5-f6xe6",
+        "e8-e6",
+        "d6-d8",
+        "e6-e7",
+        "g5-g4",
+        "f9-g9",
+        "d8-d7",
+        "f1-f4",
+        "f6-f7xe7",
+        "a6-e6",
+        "f7-f6",
+        "g9-g6xf6",
+        "e5-f5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

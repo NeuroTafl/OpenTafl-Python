@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Rasit42",
+    "BlackSidePlayerName": "herknungr",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i4-g4",
+        "g5-g7",
+        "i6-f6",
+        "d5-d7",
+        "a6-d6xe6",
+        "e5-e6",
+        "d1-d5xc5",
+        "d7-d8",
+        "g4-f4xf5",
+        "e3-f3",
+        "h5-f5",
+        "g7-i7",
+        "a4-d4xe4",
+        "e7-d7",
+        "e8-e7"
+    ],
+    "WhoWon": "Black"
+}

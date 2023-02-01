@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Beartooth",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-b2",
+        "e4-e2",
+        "g4-g2",
+        "d3-g3xg2",
+        "d6-f6",
+        "e2-f2",
+        "d1-d2",
+        "d4-e4",
+        "d2-e2",
+        "d5-d2xe2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

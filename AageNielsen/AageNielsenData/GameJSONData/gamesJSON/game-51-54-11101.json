@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "mihkkal",
+    "BlackSidePlayerName": "EilidhAnIorua",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g4-g6",
+        "d5-g5xg6",
+        "d6-g6",
+        "g5-g4xf4",
+        "d7-d5",
+        "g4-g5xg6",
+        "d2-e2",
+        "g5-g6",
+        "d5-g5xg6",
+        "d4-d7",
+        "b4-b7",
+        "d7-g7"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "MaC",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2g2",
+        "e4b4",
+        "b5b7",
+        "d5d2",
+        "e8c8",
+        "e5d5",
+        "h5h3",
+        "d5d3",
+        "a4a3",
+        "d3b3",
+        "d1b1",
+        "c5c1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

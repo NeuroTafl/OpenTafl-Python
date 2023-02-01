@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b5",
+        "e4-e3",
+        "d6-e6",
+        "e3-g3",
+        "g4-g5",
+        "d4-e4",
+        "f4-f5",
+        "d3-f3",
+        "d2-e2",
+        "e4-d4",
+        "e6-c6",
+        "f3-f2",
+        "g5-g4",
+        "d4-d2xe2",
+        "d7-d6xd5",
+        "d2-e2",
+        "d1-e1",
+        "f2-f3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

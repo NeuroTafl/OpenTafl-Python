@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "thebigfoot",
+    "BlackSidePlayerName": "cacreal",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "d6-d9",
+        "h11-h9",
+        "f4-c4",
+        "a8-c8",
+        "e7-b7",
+        "c8-c7xb7",
+        "f8-b8",
+        "a7-a9",
+        "e6-e10",
+        "d11-d10xe10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

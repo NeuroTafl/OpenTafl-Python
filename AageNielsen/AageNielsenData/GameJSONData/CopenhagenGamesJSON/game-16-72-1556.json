@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-b2",
+        "h6-h3",
+        "j6-j2",
+        "g6-j6",
+        "h11-h8",
+        "f6-i6",
+        "k7-i7",
+        "h3-k3",
+        "h1-i1",
+        "i6-i2",
+        "j2-k2xk3",
+        "i2-i3",
+        "g1-g3",
+        "i3-k3xk2",
+        "b2-k2",
+        "k3-h3",
+        "k2-k3",
+        "h3-h2",
+        "i1-i2",
+        "h2-a2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

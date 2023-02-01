@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-c8",
+        "f10-c10",
+        "f7-f10",
+        "j6-j9",
+        "f10-k10",
+        "g11-g9",
+        "f4-i4",
+        "h3-i3",
+        "g5-j5",
+        "k4-j4",
+        "f5-i5",
+        "a4-h4xi4",
+        "f6-f4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

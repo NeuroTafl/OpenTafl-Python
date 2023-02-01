@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "smackay",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6i6",
+        "e7e9",
+        "k8g8",
+        "h6h8",
+        "i6i8",
+        "g7g10",
+        "h11h10",
+        "g6g10",
+        "f10e10",
+        "f6j6",
+        "k7j7",
+        "j6j1",
+        "h1i1",
+        "j1k1"
+    ],
+    "WhoWon": "White"
+}

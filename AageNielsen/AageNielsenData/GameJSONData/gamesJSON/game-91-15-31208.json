@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Tonythebook",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-h1",
+        "f7-e7",
+        "e10-d10",
+        "f8-c8",
+        "b7-b9",
+        "i6-i10",
+        "g10-g8",
+        "e7-e8",
+        "j7-g7",
+        "f9-f8",
+        "g7-h7",
+        "f5-h5",
+        "h1-h3",
+        "f4-i4",
+        "a5-a3",
+        "i4-i7",
+        "j6-j7xi7",
+        "f6-f4",
+        "b5-b4",
+        "f4-k4"
+    ],
+    "WhoWon": "White"
+}

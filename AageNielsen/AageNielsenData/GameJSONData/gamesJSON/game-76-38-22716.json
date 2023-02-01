@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "unhandyandy",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-h2",
+        "e7-c7",
+        "c6-c4",
+        "e6-e9",
+        "f9-h9",
+        "d6-d11",
+        "e10-c10",
+        "f8-b8",
+        "i6-i8",
+        "f6-d6",
+        "c10-c11xd11",
+        "d6-d1"
+    ],
+    "WhoWon": "White"
+}

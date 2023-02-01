@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "d5-e5",
+        "b4-b5",
+        "e5-e7",
+        "d6-c6",
+        "e4-e1",
+        "d2-c2",
+        "d3-d2",
+        "f3-f2",
+        "d4-d5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

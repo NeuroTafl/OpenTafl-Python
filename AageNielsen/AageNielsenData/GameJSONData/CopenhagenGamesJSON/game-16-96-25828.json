@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "c.s.a.",
+    "BlackSidePlayerName": "OdinHimself",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-h5",
+        "k8-i8",
+        "g6-g4",
+        "k4-i4",
+        "g4-g2",
+        "h3-h2xg2",
+        "g7-g2",
+        "f2-c2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

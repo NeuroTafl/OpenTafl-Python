@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "g5-g8",
+        "h5-h7",
+        "e6-b6",
+        "a4-b4",
+        "f5-f6",
+        "i5-h5",
+        "e4-c4",
+        "i4-g4",
+        "e3-g3",
+        "g4-h4",
+        "g3-g6",
+        "e1-e2",
+        "f6-f4",
+        "d1-d3",
+        "c5-c8",
+        "h4-g4",
+        "e5-e3",
+        "f1-f3"
+    ],
+    "WhoWon": "Black"
+}

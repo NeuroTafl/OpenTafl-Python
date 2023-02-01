@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g3-d3",
+        "h8-h11",
+        "i13-i11xh11",
+        "h7-h11",
+        "m9-j9",
+        "f8-f11xg11",
+        "f12-d12",
+        "g8-k8",
+        "j9-k9xk8",
+        "j7-j11xi11",
+        "l8-l11",
+        "g10-g12",
+        "b8-g8",
+        "g7-j7",
+        "l6-j6",
+        "j7-j10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

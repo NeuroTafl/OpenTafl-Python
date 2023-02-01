@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "e5-b5",
+        "a7-c7",
+        "f5-c5",
+        "f2-b2",
+        "f4-f3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

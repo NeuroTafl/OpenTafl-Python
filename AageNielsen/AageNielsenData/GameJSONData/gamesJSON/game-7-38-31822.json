@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Hujtak",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-b4",
+        "e3-h3",
+        "i4-h4",
+        "h3-i3",
+        "i5-i4",
+        "i3-g3",
+        "d1-d3",
+        "e7-b7",
+        "d9-d8",
+        "e6-b6",
+        "f9-f7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

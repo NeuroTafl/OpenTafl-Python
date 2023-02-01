@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Firefinch",
+    "BlackSidePlayerName": "Meady",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-d8",
+        "g7-g9",
+        "a7-a8",
+        "g6-g8",
+        "h11-h9",
+        "h6-h2",
+        "f10-f9xg9",
+        "f6-i6",
+        "k4-i4",
+        "i6-i10",
+        "j6-j10",
+        "i10-a10",
+        "j10-b10",
+        "a10-a11"
+    ],
+    "WhoWon": "White"
+}

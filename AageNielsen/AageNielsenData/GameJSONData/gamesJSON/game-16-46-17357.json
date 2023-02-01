@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "themightyglider",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f4-f2",
+        "b6-b3",
+        "f5-f3",
+        "f10-c10",
+        "f6-f4",
+        "a5-b5",
+        "f4-j4",
+        "i2-j2",
+        "f3-k3",
+        "b3-f3xf2",
+        "j4-i4",
+        "k7-i7",
+        "i4-i1",
+        "j2-j1",
+        "i1-i2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

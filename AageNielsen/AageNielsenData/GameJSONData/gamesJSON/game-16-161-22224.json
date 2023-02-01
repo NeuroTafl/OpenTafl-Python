@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Deligoth",
+    "BlackSidePlayerName": "Tyllier",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-i7",
+        "f8-g8",
+        "a8-d8",
+        "e7-e8",
+        "k8-h8",
+        "g7-h7",
+        "f10-f8xe8xg8",
+        "e6-e8",
+        "g11-g7xh7",
+        "g5-i5",
+        "h1-h5"
+    ],
+    "WhoWon": "Draw"
+}

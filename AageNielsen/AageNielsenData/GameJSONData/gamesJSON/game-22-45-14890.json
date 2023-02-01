@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d2",
+        "e7-h7",
+        "d9-d7",
+        "e6-h6",
+        "h5-h3",
+        "e5-e6",
+        "a6-c6",
+        "e6-g6",
+        "e8-g8",
+        "g6-g7",
+        "c6-g6xh6",
+        "h7-h8",
+        "h3-h7",
+        "f5-f8xg8",
+        "f9-g9",
+        "f8-f9",
+        "f1-f8",
+        "g7-g8",
+        "i4-g4xg5",
+        "h8-h9xg9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

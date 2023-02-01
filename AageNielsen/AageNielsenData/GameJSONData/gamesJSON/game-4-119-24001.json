@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "j6-i6",
+        "d6-d3",
+        "d1-d2",
+        "e5-e2",
+        "d11-d4xd3",
+        "g5-g2xf2",
+        "a8-c8",
+        "f5-c5",
+        "f1-f2xe2",
+        "e6-e2xf2",
+        "k5-f5",
+        "c5-c2xd2",
+        "a5-d5",
+        "f4-g4",
+        "b6-d6",
+        "g4-f4xf5",
+        "k4-h4",
+        "f4-f1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

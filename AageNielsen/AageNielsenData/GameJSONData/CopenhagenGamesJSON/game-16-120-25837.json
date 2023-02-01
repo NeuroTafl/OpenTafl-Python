@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "torchwoodthree",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j9",
+        "h6-j6",
+        "k5-j5",
+        "g6-i6",
+        "f10-i10",
+        "f4-j4xj5",
+        "f2-j2",
+        "f6-h6",
+        "h1-h4",
+        "f5-f3",
+        "g1-g3",
+        "h6-h9",
+        "f11-f9",
+        "i6-i3",
+        "g11-g10",
+        "h9-h5",
+        "e1-e3xf3",
+        "i3-h3xh4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Rollo",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-c1",
+        "f7-h7",
+        "g11-h11",
+        "h6-h1",
+        "g2-i2",
+        "h1-i1",
+        "i2-h2",
+        "f3-h3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "unhandyandy",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "e4-e1",
+        "d2-c2",
+        "d3-a3",
+        "d1-d3",
+        "d4-e4",
+        "d7-e7",
+        "e1-f1",
+        "c2-e2",
+        "d5-a5xa4",
+        "d3-d4xc4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

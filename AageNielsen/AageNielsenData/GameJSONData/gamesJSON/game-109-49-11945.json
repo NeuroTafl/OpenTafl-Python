@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Kihtan",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 109,
+    "AageGameTypeName": "Brandubh weak-throne 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b4-b5",
+        "c4-c3",
+        "d2-c2",
+        "d5-c5",
+        "d6-d5xc5",
+        "c3-c6",
+        "d5-f5",
+        "d3-b3",
+        "b5-b6",
+        "c6-c3",
+        "f5-d5",
+        "e4-e6",
+        "d5-c5",
+        "d4-e4",
+        "c2-e2",
+        "e4-e5",
+        "f4-f5",
+        "c3-e3",
+        "c5-d5"
+    ],
+    "WhoWon": "Black"
+}

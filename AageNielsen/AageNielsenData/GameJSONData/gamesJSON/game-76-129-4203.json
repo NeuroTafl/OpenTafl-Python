@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b7-b8",
+        "e5-c5",
+        "a7-c7",
+        "e6-e3",
+        "a5-a3",
+        "g5-g3xf3",
+        "e2-d2",
+        "f4-d4",
+        "a3-c3",
+        "f5-i5",
+        "j7-i7",
+        "d4-b4",
+        "k5-k3",
+        "d6-d3",
+        "c3-a3",
+        "b4-b1",
+        "f1-f3",
+        "f6-f4",
+        "k6-k4",
+        "f4-a4"
+    ],
+    "WhoWon": "White"
+}

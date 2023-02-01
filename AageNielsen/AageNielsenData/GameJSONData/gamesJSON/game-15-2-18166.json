@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Epoc",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "e5-e2",
+        "f2-j2",
+        "f5-b5",
+        "a4-b4xb5",
+        "f4-d4",
+        "d3-d2",
+        "f6-f3",
+        "d2-c2",
+        "f3-k3",
+        "j2-k2",
+        "k3-a3",
+        "c2-a2",
+        "a3-k3xk2",
+        "j6-j2",
+        "k3-k1"
+    ],
+    "WhoWon": "White"
+}

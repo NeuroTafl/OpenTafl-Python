@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 104,
+    "AageGameTypeName": "Ard Ri-1 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "d3-e3",
+        "b4-b3",
+        "c4-c5",
+        "d6-c6",
+        "c5-b5",
+        "a4-b4",
+        "b5-b6",
+        "d7-d6",
+        "e4-e7",
+        "f4-e4xe3",
+        "e7-d7xd6",
+        "c6-e6",
+        "d5-e5",
+        "e6-e7",
+        "d4-d5",
+        "g4-g6",
+        "d5-d6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e11-e9",
+        "e7-c7",
+        "a8-c8",
+        "c7-b7",
+        "c8-c7xb7",
+        "f8-b8",
+        "c7-b7",
+        "d6-d9",
+        "d11-c11",
+        "f7-f9xe9",
+        "k8-f8xf9",
+        "f6-f7",
+        "c11-b11",
+        "f7-c7",
+        "d1-c1",
+        "c7-c11xb11",
+        "a7-a10",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

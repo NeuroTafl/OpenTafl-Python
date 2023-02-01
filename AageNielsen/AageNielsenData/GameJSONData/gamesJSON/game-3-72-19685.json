@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Filosondre",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "f4-i4",
+        "h1-h3",
+        "e5-e3",
+        "d1-d3",
+        "f5-f3",
+        "a4-f4xf3",
+        "f6-f4",
+        "a8-c8",
+        "f4-b4",
+        "f2-b2",
+        "g5-g3",
+        "a5-a3",
+        "i4-i3xh3",
+        "k4-e4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Потапыч",
+    "BlackSidePlayerName": "Paul7",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-i1",
+        "e6-e7",
+        "a5-a3",
+        "f8-j8",
+        "k7-k9",
+        "d6-d4",
+        "e11-c11",
+        "i6-i10",
+        "k9-j9xj8",
+        "f6-d6",
+        "f11-d11",
+        "d6-d8",
+        "c11-c8",
+        "d8-k8"
+    ],
+    "WhoWon": "White"
+}

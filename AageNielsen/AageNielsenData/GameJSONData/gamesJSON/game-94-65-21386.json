@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Floki",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 94,
+    "AageGameTypeName": "Copenhagen Hnefatafl Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j7-j8",
+        "d6-d3",
+        "e2-e3",
+        "f4-c4",
+        "g2-c2",
+        "d3-b3",
+        "a5-a4",
+        "e7-c7",
+        "b5-c5",
+        "e6-e9",
+        "g10-g9",
+        "f6-d6",
+        "e3-d3",
+        "d6-d11",
+        "b7-b11",
+        "d11-c11xb11",
+        "d3-d9xe9",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

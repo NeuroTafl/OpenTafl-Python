@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Epoc",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-c2",
+        "e4-e3",
+        "f4-e4",
+        "d5-e5xe4",
+        "g4-e4",
+        "e3-f3",
+        "d6-e6xe5",
+        "f3-f4xe4",
+        "c2-c3",
+        "d4-e4",
+        "e6-e5",
+        "e4-e1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

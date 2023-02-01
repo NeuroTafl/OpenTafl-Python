@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "urme",
+    "BlackSidePlayerName": "p59xy",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-g2",
+        "f4-i4",
+        "k8-i8",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "j6-j3",
+        "d6-d3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

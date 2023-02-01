@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "f4-c4",
+        "f2-b2",
+        "f5-f2",
+        "j6-j2",
+        "f6-f3",
+        "i8-i3",
+        "f3-a3",
+        "b2-a2",
+        "c4-c1",
+        "i3-c3",
+        "a3-b3",
+        "a2-b2",
+        "c1-b1xb2",
+        "a4-a3",
+        "b1-c1",
+        "d1-d2",
+        "b3-b1",
+        "b6-b2",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

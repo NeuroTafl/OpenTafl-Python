@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "RedJack",
+    "BlackSidePlayerName": "cedarhus",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-j11",
+        "d6-d3",
+        "d1-d2",
+        "e5-d5",
+        "a4-d4xd3",
+        "f8-b8",
+        "f10-b10",
+        "h6-i6",
+        "j11-j10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

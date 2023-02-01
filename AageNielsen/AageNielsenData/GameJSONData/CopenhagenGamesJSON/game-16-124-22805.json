@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "g11-g10",
+        "f6-e6",
+        "d10-d9",
+        "e6-e9",
+        "h11-h9",
+        "f8-c8",
+        "d9-d10xe10",
+        "e9-b9",
+        "d10-b10",
+        "c8-c11",
+        "b10-b11",
+        "b9-b10",
+        "a8-a10",
+        "c11-d11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

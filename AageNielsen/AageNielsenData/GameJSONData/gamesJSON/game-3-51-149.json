@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "g7-g10",
+        "e11-e9",
+        "d6-d9",
+        "e9-g9xg10",
+        "e5-b5",
+        "a7-c7",
+        "f4-c4",
+        "d1-c1",
+        "e6-e2",
+        "g1-g3",
+        "f6-c6",
+        "a8-c8",
+        "e7-e3",
+        "a4-b4xb5",
+        "h6-h3",
+        "j6-h6xg6"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-e9",
+        "j6-j10",
+        "f8-i8",
+        "f2-j2",
+        "f7-b7",
+        "a8-b8xb7",
+        "f6-f9",
+        "k8-k9",
+        "e9-a9",
+        "b8-b10",
+        "f9-b9",
+        "h11-i11",
+        "a9-a8",
+        "a5-c5",
+        "b9-a9",
+        "b10-a10",
+        "a9-a11"
+    ],
+    "WhoWon": "White"
+}

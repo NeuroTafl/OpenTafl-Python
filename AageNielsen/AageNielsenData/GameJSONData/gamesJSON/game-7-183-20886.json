@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Volkenpuk",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "e3-e2",
+        "i4-g4",
+        "e4-f4",
+        "b5-b3",
+        "e5-e3",
+        "g2-g3",
+        "c5-c2",
+        "a4-e4xf4",
+        "f5-f4",
+        "b3-d3",
+        "f4-f3",
+        "d1-d2",
+        "c2-c3xd3",
+        "f1-f2xe2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

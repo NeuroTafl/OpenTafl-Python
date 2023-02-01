@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Weatherwax",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-b10",
+        "e5-c5",
+        "d1-d3",
+        "f4-d4",
+        "e1-e2",
+        "f5-f4",
+        "k8-i8",
+        "g7-g8",
+        "k4-h4",
+        "g5-g3",
+        "a4-c4",
+        "c5-c9",
+        "j6-j10",
+        "g3-j3",
+        "a5-d5xd4",
+        "f4-d4xd5",
+        "f2-j2",
+        "j3-k3",
+        "a6-a5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

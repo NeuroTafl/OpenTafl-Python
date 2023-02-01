@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Bender",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g4-g5",
+        "d3-g3",
+        "d2-d3",
+        "c4-c2",
+        "b4-c4",
+        "c2-d2xd3",
+        "a4-a3",
+        "g3-b3",
+        "d6-b6",
+        "b3-b4xc4",
+        "a3-d3xd2",
+        "b4-b2",
+        "b6-b4",
+        "d4-c4",
+        "d1-c1",
+        "c4-c6",
+        "d3-a3",
+        "c6-g6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

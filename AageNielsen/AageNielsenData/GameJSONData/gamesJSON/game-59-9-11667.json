@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-c1",
+        "e4-e1",
+        "d6-e6",
+        "e1-d1xd2",
+        "e6-e1xd1",
+        "d3-b3",
+        "c1-d1",
+        "d4-d2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

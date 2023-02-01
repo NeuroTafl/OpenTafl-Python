@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "dayvigco",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d1-e1",
+        "c4-c1",
+        "e1-d1",
+        "e4-e1xd1",
+        "f4-e4",
+        "c1-d1xd2",
+        "a4-a5",
+        "d3-b3",
+        "a5-a2",
+        "d5-b5xb4",
+        "a2-a4",
+        "d4-c4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

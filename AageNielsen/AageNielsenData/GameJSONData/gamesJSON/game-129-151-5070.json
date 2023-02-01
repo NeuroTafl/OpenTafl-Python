@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Bender",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g4-g5",
+        "d3-g3",
+        "b4-b3",
+        "e4-e3",
+        "g5-e5",
+        "g3-g5",
+        "d2-e2",
+        "g5-f5xe5",
+        "d6-f6xf5",
+        "d5-f5",
+        "d7-d5",
+        "e3-f3xf4",
+        "f6-g6",
+        "d4-g4",
+        "e2-g2",
+        "g4-g5xg6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

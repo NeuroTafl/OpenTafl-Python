@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Paul7",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-i1",
+        "d6-d11",
+        "e1-d1",
+        "f5-d5",
+        "e10-c10",
+        "d11-c11",
+        "c10-c9",
+        "c6-c8",
+        "f10-c10",
+        "f9-f10",
+        "g10-h10",
+        "f8-k8",
+        "b7-c7xc8",
+        "f7-f9",
+        "b6-b8",
+        "f6-f8",
+        "j7-j9",
+        "k8-k9",
+        "j9-j8",
+        "k9-k8"
+    ],
+    "WhoWon": "Ongoing"
+}

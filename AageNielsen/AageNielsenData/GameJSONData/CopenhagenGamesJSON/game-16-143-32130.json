@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "rosk",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-c10",
+        "g5-g2",
+        "f2-c2",
+        "h6-h10",
+        "j6-j9",
+        "g6-j6",
+        "h1-h9xh10",
+        "f6-i6",
+        "g1-i1",
+        "i6-i11",
+        "j9-j11",
+        "i11-i2",
+        "k4-k2",
+        "i2-i11xj11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

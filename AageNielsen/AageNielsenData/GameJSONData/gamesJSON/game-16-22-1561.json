@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "a7-b7",
+        "f4-i4",
+        "j6-j3",
+        "f6-f5",
+        "d1-c1",
+        "f5-c5",
+        "a8-c8",
+        "d6-d3",
+        "c1-c3",
+        "d3-d2",
+        "e1-c1",
+        "d2-b2",
+        "c3-b3",
+        "e6-e3",
+        "f1-d1",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

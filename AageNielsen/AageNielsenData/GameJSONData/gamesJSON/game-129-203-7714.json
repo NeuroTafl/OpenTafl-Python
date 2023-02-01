@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "themightyglider",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "d3-c3",
+        "b4-b3",
+        "c4-c7",
+        "d6-e6",
+        "d4-b4",
+        "e6-b6",
+        "d5-b5",
+        "g4-f4xe4",
+        "b4-e4",
+        "a4-b4xb5",
+        "e4-e7xd7",
+        "f5-f7",
+        "e7-e5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

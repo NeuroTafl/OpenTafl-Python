@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Badeand",
+    "AageGameTypeKey": 68,
+    "AageGameTypeName": "Tawlbwrdd Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-h1",
+        "f8-a8",
+        "e10-b10",
+        "f7-f9",
+        "j7-j10",
+        "f6-f8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

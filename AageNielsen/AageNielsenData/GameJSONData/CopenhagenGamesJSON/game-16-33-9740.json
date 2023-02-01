@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Luizz",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "d6-d10",
+        "a8-d8",
+        "e7-e10",
+        "g11-g9",
+        "e6-e9",
+        "a7-c7",
+        "f6-c6",
+        "d1-c1",
+        "c6-c3",
+        "k5-k3",
+        "c3-a3",
+        "f2-a2",
+        "a3-i3",
+        "h1-i1",
+        "i3-a3xa2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

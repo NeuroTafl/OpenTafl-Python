@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Kaykyber",
+    "AageGameTypeKey": 67,
+    "AageGameTypeName": "Fidchell armed (Hnefatafl edge 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a1-b1",
+        "f4-f7",
+        "g1-f1",
+        "e4-e2",
+        "f1-f2",
+        "d6-a6",
+        "b1-b2",
+        "d4-f4",
+        "g3-e3xe2",
+        "f4-f3xe3",
+        "g4-g3",
+        "a6-g6",
+        "e7-e3",
+        "f3-f6",
+        "d7-e7xf7",
+        "f6-f7"
+    ],
+    "WhoWon": "White"
+}

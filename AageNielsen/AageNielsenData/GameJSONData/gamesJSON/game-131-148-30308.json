@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Mari",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-h2",
+        "f4-j4",
+        "j2-j3",
+        "g5-j5",
+        "i3-i5xj5",
+        "h6-h3",
+        "i5-i3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

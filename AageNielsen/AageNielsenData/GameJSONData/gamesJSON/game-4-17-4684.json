@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Floki",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k7-i7",
+        "f8-i8",
+        "h11-h9",
+        "h6-i6xi7",
+        "f10-j10",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "k4-g4",
+        "i6-i2xh2",
+        "j6-i6",
+        "f6-h6",
+        "k5-h5",
+        "h6-h8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

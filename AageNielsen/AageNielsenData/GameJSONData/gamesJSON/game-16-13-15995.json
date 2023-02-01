@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "bender",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "g7-j7",
+        "i8-j8xj7",
+        "f7-j7",
+        "k5-i5",
+        "e7-i7",
+        "a8-c8",
+        "f8-e8",
+        "d11-d9",
+        "f6-f9",
+        "h11-h9",
+        "f9-g9",
+        "j8-i8",
+        "j7-j9",
+        "i8-i9",
+        "g9-g10",
+        "i9-i10",
+        "g10-h10",
+        "i10-j10",
+        "h10-h11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

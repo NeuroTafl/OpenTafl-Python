@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "h11-h9",
+        "g5-g3",
+        "j6-j2",
+        "i4-i3xh3",
+        "k4-k3",
+        "i3-i1",
+        "k6-j6",
+        "f5-j5",
+        "a4-j4xj5",
+        "e5-j5",
+        "k3-i3",
+        "g7-j7xj6",
+        "i3-i5xj5",
+        "f6-f3",
+        "i5-i3",
+        "f3-a3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

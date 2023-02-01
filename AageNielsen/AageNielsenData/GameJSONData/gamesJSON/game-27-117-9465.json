@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Davberd",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "g5-g3",
+        "h1-h3",
+        "f8-c8",
+        "k8-i8",
+        "g7-g9",
+        "h11-h9",
+        "f7-j7",
+        "k5-i5",
+        "f6-f9",
+        "d11-d9",
+        "g9-g10",
+        "i8-f8"
+    ],
+    "WhoWon": "Black"
+}

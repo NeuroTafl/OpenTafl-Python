@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Calidesert",
+    "BlackSidePlayerName": "Ragnar76",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d4",
+        "h6-h9",
+        "j6-j10",
+        "g6-j6",
+        "f2-j2",
+        "f6-i6",
+        "k4-i4",
+        "i6-i11",
+        "j10-j11",
+        "i11-i10",
+        "k8-k10",
+        "i10-i11xj11",
+        "i4-i10",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

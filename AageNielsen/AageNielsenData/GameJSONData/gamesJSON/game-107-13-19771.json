@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "rasmusruge",
+    "AageGameTypeKey": 107,
+    "AageGameTypeName": "Skalk Lewis diamond strong-corners 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-j2",
+        "f8-b8",
+        "e10-b10",
+        "f7-f9",
+        "j7-j10",
+        "f6-f8",
+        "k7-k9",
+        "f8-c8",
+        "e2-b2",
+        "c8-c11",
+        "b10-b11",
+        "c11-c1",
+        "b2-b1",
+        "c1-c11xb11",
+        "f10-b10",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

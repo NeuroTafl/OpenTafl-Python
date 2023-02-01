@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "wilfridsigurdson",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "o10-k10",
+        "g6-d6",
+        "f1-f5",
+        "g8-g5",
+        "f5-d5",
+        "f7-d7",
+        "b9-d9",
+        "f8-f4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Wesley alves",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f1-f2",
+        "f5-f4",
+        "f9-f8",
+        "e4-b4",
+        "e2-b2",
+        "e6-b6xb5",
+        "i6-e6xe7",
+        "d5-d6",
+        "a5-b5",
+        "f4-f6xe6",
+        "b2-b3xb4",
+        "e5-e7",
+        "d9-d7",
+        "e7-i7"
+    ],
+    "WhoWon": "White"
+}

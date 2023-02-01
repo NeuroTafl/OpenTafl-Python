@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-i1",
+        "e7-c7",
+        "e11-c11",
+        "e6-e9",
+        "b7-b9",
+        "f6-e6",
+        "e2-c2",
+        "d6-d1",
+        "f3-d3",
+        "e5-c5xc6",
+        "f11-d11",
+        "f4-f2",
+        "i6-i3",
+        "e6-e4",
+        "d3-d4",
+        "e4-k4"
+    ],
+    "WhoWon": "White"
+}

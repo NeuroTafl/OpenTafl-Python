@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "g5-g2",
+        "e1-e3",
+        "g6-g3",
+        "h1-h3",
+        "h6-h10",
+        "d9-i9",
+        "f6-i6",
+        "k4-i4",
+        "i6-i8",
+        "k8-k9",
+        "i8-j8",
+        "h11-j11",
+        "j8-j10",
+        "k9-k10",
+        "h10-h11",
+        "i9-i11xh11",
+        "f8-k8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

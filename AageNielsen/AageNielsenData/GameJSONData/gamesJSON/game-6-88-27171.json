@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d5-d4",
+        "b5-b7",
+        "d4-b4",
+        "d1-b1",
+        "e5-d5",
+        "e8-c8",
+        "d5-d2",
+        "a4-a2",
+        "f5-f2xe2",
+        "f9-f5xg5",
+        "d2-d3",
+        "a5-a3",
+        "e4-f4",
+        "i6-f6",
+        "e3-i3",
+        "i4-g4",
+        "d3-h3",
+        "f1-h1",
+        "h3-h2",
+        "e1-e4xf4",
+        "h2-i2"
+    ],
+    "WhoWon": "White"
+}

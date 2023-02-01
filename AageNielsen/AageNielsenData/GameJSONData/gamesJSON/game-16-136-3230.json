@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "steiger",
+    "BlackSidePlayerName": "SimpleMath",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "d11-d9",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "k5-i5",
+        "f6-f9",
+        "h11-h9",
+        "g6-g10",
+        "e11-e10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

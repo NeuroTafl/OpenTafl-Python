@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "St&ouml;rtebeker",
+    "BlackSidePlayerName": "fordette",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "f2-j2",
+        "g5-j5",
+        "h1-h5",
+        "f4-h4xh5",
+        "k4-j4xj5",
+        "f5-j5",
+        "a4-f4",
+        "e5-e3",
+        "d11-d7",
+        "f6-f5",
+        "d1-d5xd6",
+        "e3-f3xf4",
+        "e1-e4",
+        "f5-e5",
+        "b6-b2",
+        "f3-e3xe4",
+        "a6-d6xe6",
+        "e3-j3xj4",
+        "f1-e1",
+        "f7-f1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

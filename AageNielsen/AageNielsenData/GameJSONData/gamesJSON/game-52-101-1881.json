@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "cyningstan",
+    "AageGameTypeKey": 52,
+    "AageGameTypeName": "Brandubh-2 Tablut 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-e2",
+        "d3-d2",
+        "e2-e4xf4",
+        "d4-d3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

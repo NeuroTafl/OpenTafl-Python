@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Dimetr",
+    "BlackSidePlayerName": "jules",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "d6-d3",
+        "a5-b5",
+        "e7-e10",
+        "d11-d10xe10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

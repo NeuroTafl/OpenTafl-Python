@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 11,
+    "AageGameTypeName": "Sea battle T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-i6",
+        "f4-i4",
+        "k5-i5",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "a4-g4",
+        "e5-e2xf2",
+        "f1-f2xg2",
+        "f5-b5",
+        "f2-f5",
+        "e7-b7xb6",
+        "g4-g6xh6",
+        "e6-e5",
+        "d1-d5xe5",
+        "f6-e6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

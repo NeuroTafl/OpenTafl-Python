@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Stryker10g",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j9",
+        "i6-i2",
+        "j9-j2",
+        "i2-h2",
+        "h11-h9",
+        "f5-i5",
+        "a5-f5",
+        "h6-h5",
+        "j2-i2",
+        "g6-g7",
+        "f2-g2xh2",
+        "f6-j6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

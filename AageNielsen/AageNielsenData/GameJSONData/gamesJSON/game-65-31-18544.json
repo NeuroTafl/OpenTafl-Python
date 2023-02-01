@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Drzhbe",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 65,
+    "AageGameTypeName": "Magpie circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-e2",
+        "d3-f3",
+        "f6-f5",
+        "d4-d3",
+        "d7-d6xd5",
+        "d3-d2",
+        "e2-f2",
+        "e4-f4",
+        "a4-b4xc4",
+        "d2-e2",
+        "b4-e4xf4",
+        "e2-e1",
+        "f5-f4xf3",
+        "e1-f1",
+        "d1-e1"
+    ],
+    "WhoWon": "Black"
+}

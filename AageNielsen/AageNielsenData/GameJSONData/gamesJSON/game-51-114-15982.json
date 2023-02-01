@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Anto2016",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "b4-b3",
+        "d2-b2",
+        "a4-b4",
+        "d5-a5",
+        "b4-b6",
+        "c4-b4xb3",
+        "f4-f5",
+        "d4-d3",
+        "f5-f4xe4",
+        "d3-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

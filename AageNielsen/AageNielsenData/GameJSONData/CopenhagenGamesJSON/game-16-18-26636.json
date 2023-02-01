@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "frig45",
+    "BlackSidePlayerName": "c.s.a.",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h4",
+        "g5-g3",
+        "k5-h5",
+        "g3-h3",
+        "f2-h2xh3",
+        "f5-g5",
+        "k7-h7xh6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

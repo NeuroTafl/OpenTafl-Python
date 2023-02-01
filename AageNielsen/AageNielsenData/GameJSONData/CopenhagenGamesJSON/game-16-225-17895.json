@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Thegameterrorist",
+    "BlackSidePlayerName": "Calidesert",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j2",
+        "e7-e9",
+        "f10-b10",
+        "f7-b7",
+        "b6-b2",
+        "f6-f7",
+        "a8-a9",
+        "f7-c7",
+        "d1-c1",
+        "c7-c11",
+        "b10-b11",
+        "c11-c10",
+        "a9-a10",
+        "c10-k10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

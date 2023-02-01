@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g11-g9",
+        "d6-d2",
+        "d11-d3xd2",
+        "e6-d6",
+        "g9-d9",
+        "e7-e10",
+        "d9-d10xe10",
+        "e5-e10",
+        "k4-k2",
+        "f6-e6",
+        "d10-a10",
+        "e6-e9",
+        "f10-k10",
+        "e9-a9xa10",
+        "b6-b10",
+        "a9-a11"
+    ],
+    "WhoWon": "White"
+}

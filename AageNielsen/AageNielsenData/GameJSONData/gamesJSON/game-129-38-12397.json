@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "paul7",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "d2-f2",
+        "e4-e1",
+        "f5-f4xf3",
+        "c4-c1xd1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

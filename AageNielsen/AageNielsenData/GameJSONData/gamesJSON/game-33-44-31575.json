@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i1-k1",
+        "h6-h3",
+        "f2-f3",
+        "h7-h4",
+        "h1-i1",
+        "j7-j1",
+        "h12-j12",
+        "d7-d2",
+        "e1-e2",
+        "f8-f11",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

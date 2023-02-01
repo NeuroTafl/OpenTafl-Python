@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Vadim",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k7-i7",
+        "f8-i8",
+        "j6-i6",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "a8-e8",
+        "d6-d8",
+        "e8-e9xe10",
+        "f6-c6",
+        "e9-c9",
+        "c6-c1",
+        "b6-b1",
+        "c1-c3",
+        "a4-a3",
+        "c3-c1xb1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Cacreal",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 148,
+    "AageGameTypeName": "Hex 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "j10",
+        "g8",
+        "e4",
+        "h7",
+        "h10",
+        "f9",
+        "h6",
+        "e10",
+        "i7",
+        "d4",
+        "e5",
+        "c5",
+        "b2",
+        "c2",
+        "e6",
+        "d7",
+        "g7",
+        "e8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

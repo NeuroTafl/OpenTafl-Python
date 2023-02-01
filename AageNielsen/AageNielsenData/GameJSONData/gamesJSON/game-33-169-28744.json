@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "L3monman",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e1-e4",
+        "d7-d3",
+        "b6-e6xe5",
+        "d3-d6xe6",
+        "a5-d5",
+        "d6-d11",
+        "h12-j12",
+        "f8-f11",
+        "a9-c9",
+        "h8-h11xg11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

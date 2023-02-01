@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "fjorlag",
+    "BlackSidePlayerName": "Lord Yorkshire P",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k7-h7",
+        "f8-h8xh7",
+        "k8-i8",
+        "g7-j7",
+        "i8-j8xj7",
+        "f7-j7",
+        "a8-d8",
+        "f6-f9",
+        "h11-h9",
+        "f9-a9",
+        "f10-a10",
+        "a9-d9",
+        "a7-d7",
+        "d9-a9xa10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

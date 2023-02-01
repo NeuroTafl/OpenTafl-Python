@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Luizz",
+    "BlackSidePlayerName": "bad emperor",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a8-d8",
+        "h6-h3",
+        "h11-h8",
+        "g5-j5",
+        "d1-d4",
+        "g7-j7xj6",
+        "k6-j6",
+        "g6-g10",
+        "g1-g9xg10",
+        "f6-i6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

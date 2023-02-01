@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Leafbeard",
+    "AageGameTypeKey": 64,
+    "AageGameTypeName": "Magpie 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f3",
+        "d5-c5",
+        "d1-e1",
+        "c4-c1",
+        "e1-d1",
+        "e4-e1xd1",
+        "d2-b2",
+        "c5-c2",
+        "f3-e3",
+        "d4-e4",
+        "e3-f3",
+        "e4-f4",
+        "f3-g3",
+        "f4-f3",
+        "b4-f4",
+        "f3-f2",
+        "d6-e6",
+        "f2-f1",
+        "f4-f2",
+        "f1-g1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Mari",
+    "AageGameTypeKey": 102,
+    "AageGameTypeName": "Alea Berserk 19x19 (Bartley)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "o11-p11",
+        "p10-r10",
+        "s6-s10",
+        "j13-j15",
+        "n17-j17",
+        "l11-l15xk15",
+        "i15-i14",
+        "n14-n15xm15",
+        "i14-l14xl15",
+        "j15-h15",
+        "l14-j14",
+        "n15-j15",
+        "j14-i14",
+        "h15-h17xh16",
+        "q6-q10xr10",
+        "k12-k16",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

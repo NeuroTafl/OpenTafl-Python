@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "chuck ward",
+    "BlackSidePlayerName": "cacreal",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "g5-g2",
+        "h1-h2xg2",
+        "e5-e2",
+        "d1-d2xe2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

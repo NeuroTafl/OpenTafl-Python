@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "themightyglider",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-c2",
+        "f4-i4",
+        "h1-i1",
+        "f5-f2",
+        "b6-b3",
+        "f6-f3",
+        "j6-j3",
+        "f2-j2",
+        "k4-j4",
+        "h6-h1",
+        "i1-j1xj2",
+        "i4-i1xj1",
+        "k5-k2",
+        "f3-i3",
+        "f10-j10",
+        "i3-i11",
+        "j10-j11",
+        "i11-i10",
+        "k8-k10",
+        "i10-a10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Borjk",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-h2",
+        "d5-d6",
+        "d1-d5xc5",
+        "e4-d4xd5",
+        "b5-d5",
+        "e3-e2",
+        "a4-a3",
+        "e5-e3",
+        "h5-h3",
+        "e3-b3",
+        "e1-b1",
+        "b3-b7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Irish raven",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "b4-b3",
+        "e4-e2",
+        "b3-c3",
+        "d4-f4",
+        "d6-e6",
+        "c4-e4",
+        "g4-g3",
+        "d5-d3",
+        "d7-d5",
+        "e2-g2",
+        "g3-g4",
+        "f3-f1",
+        "g4-g3xg2",
+        "f4-f2",
+        "d1-e1xf1",
+        "f2-f1",
+        "g3-e3xd3",
+        "f1-g1"
+    ],
+    "WhoWon": "White"
+}

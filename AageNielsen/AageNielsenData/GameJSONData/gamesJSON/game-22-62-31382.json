@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h5-h7",
+        "d5-d8",
+        "e8-g8",
+        "e4-b4",
+        "d1-d5xc5",
+        "e6-b6xb5",
+        "i6-e6",
+        "e5-e4",
+        "e2-d2",
+        "e4-c4",
+        "d2-c2",
+        "c4-c8",
+        "a6-a8",
+        "c8-c9"
+    ],
+    "WhoWon": "White"
+}

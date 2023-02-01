@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "d5-d6",
+        "h5-h3",
+        "e5-d5",
+        "e8-h8",
+        "d6-b6",
+        "a4-b4",
+        "d5-d8",
+        "a6-a8",
+        "c5-c9",
+        "a8-b8",
+        "e7-a7",
+        "d1-d7",
+        "d8-c8",
+        "b4-c4",
+        "c9-b9",
+        "d9-c9",
+        "b6-b7xb8",
+        "c4-c7",
+        "c8-a8"
+    ],
+    "WhoWon": "White"
+}

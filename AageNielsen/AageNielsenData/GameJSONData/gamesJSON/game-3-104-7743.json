@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d11-d9",
+        "f4-i4",
+        "a8-c8",
+        "g5-g2",
+        "e1-e3",
+        "f5-i5",
+        "h1-h2xg2",
+        "f6-f3",
+        "j6-j3",
+        "d6-d3xe3",
+        "f2-c2",
+        "f3-i3",
+        "g1-i1",
+        "i3-i2",
+        "k4-k2",
+        "i2-j2",
+        "i1-j1",
+        "i4-i1xj1",
+        "b6-d6xe6",
+        "j2-j1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

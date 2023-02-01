@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 99,
+    "AageGameTypeName": "Ard Ri unarmed cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "g4-g3",
+        "d5-g5",
+        "g3-d3xd2",
+        "d4-d5",
+        "b4-b5",
+        "g5-g4xf4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

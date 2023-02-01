@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "d6-d3",
+        "f2-f3",
+        "e7-e9",
+        "f10-e10",
+        "e6-e8",
+        "a5-c5",
+        "f6-c6",
+        "c5-c3xd3",
+        "c6-c10",
+        "b6-b10",
+        "e9-a9",
+        "a8-b8",
+        "a9-a10xb10",
+        "d11-c11",
+        "c10-b10",
+        "c11-b11",
+        "a10-a9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-e6",
+        "d5-d6",
+        "d2-c2",
+        "d3-d2",
+        "f4-f2",
+        "e4-f4",
+        "e6-e5",
+        "d4-d5",
+        "b4-b5",
+        "f4-f5xe5",
+        "f2-e2xd2",
+        "d5-e5",
+        "d7-e7",
+        "f5-f7",
+        "e2-f2",
+        "e5-g5",
+        "a4-b4xc4",
+        "g5-g7"
+    ],
+    "WhoWon": "White"
+}

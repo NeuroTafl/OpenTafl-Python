@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "e7-e10",
+        "g11-g9",
+        "e6-e9",
+        "d11-d10xe10",
+        "d6-d2",
+        "a4-c4",
+        "f6-d6",
+        "e11-c11",
+        "d6-d3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

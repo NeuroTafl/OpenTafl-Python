@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "di Bathory",
+    "BlackSidePlayerName": "Mari",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-d8",
+        "e5-e2",
+        "d1-d2xe2",
+        "f4-b4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

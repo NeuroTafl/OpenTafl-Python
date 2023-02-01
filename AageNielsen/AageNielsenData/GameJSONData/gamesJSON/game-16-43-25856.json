@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Firefinch",
+    "BlackSidePlayerName": "J&uuml;rgen",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "e7-e9",
+        "e11-e10",
+        "d6-d2",
+        "a8-c8",
+        "e5-e2",
+        "d11-d3xd2",
+        "e2-d2",
+        "b6-b2",
+        "e6-e8",
+        "a7-b7",
+        "f6-c6",
+        "a4-c4",
+        "h6-h2",
+        "f11-d11",
+        "g6-h6",
+        "k8-i8",
+        "h6-h8",
+        "k4-i4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

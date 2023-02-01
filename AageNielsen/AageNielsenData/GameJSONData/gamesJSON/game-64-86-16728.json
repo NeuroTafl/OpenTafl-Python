@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 64,
+    "AageGameTypeName": "Magpie 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-b2",
+        "e4-e2",
+        "f4-f2",
+        "d3-d2",
+        "b2-c2",
+        "d5-e5",
+        "b4-b3",
+        "d4-d3",
+        "d1-e1",
+        "c4-c5",
+        "d6-e6",
+        "d3-e3",
+        "a4-e4xe5",
+        "c5-e5xe4",
+        "g4-e4xe5",
+        "e3-f3",
+        "b3-e3xe2",
+        "f3-g3",
+        "e1-e2xd2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

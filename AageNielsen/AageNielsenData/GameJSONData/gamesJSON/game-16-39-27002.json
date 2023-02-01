@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Mj&oslash;lnir",
+    "BlackSidePlayerName": "Conanlib",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "d6-d2",
+        "b6-b2",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "g11-g9",
+        "f6-c6",
+        "a8-c8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

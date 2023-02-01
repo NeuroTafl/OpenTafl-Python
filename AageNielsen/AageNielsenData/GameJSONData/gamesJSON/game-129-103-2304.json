@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Colophonius",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "e4-e2",
+        "d6-e6",
+        "e2-f2",
+        "e6-e5",
+        "d3-e3",
+        "b4-b3",
+        "c4-c6",
+        "g4-g3",
+        "c6-f6",
+        "c2-c5xd5",
+        "d4-e4",
+        "e5-e6",
+        "e3-d3",
+        "d1-e1",
+        "d3-d6xe6",
+        "c5-d5xd6",
+        "e4-e7",
+        "e1-e6",
+        "e7-g7"
+    ],
+    "WhoWon": "White"
+}

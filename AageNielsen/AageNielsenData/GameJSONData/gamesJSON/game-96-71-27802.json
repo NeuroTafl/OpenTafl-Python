@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 96,
+    "AageGameTypeName": "Brandubh throneless circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-e2",
+        "d3-e3",
+        "f6-f3",
+        "e3-c3",
+        "f3-f5",
+        "c4-b4",
+        "b2-b3",
+        "d5-a5",
+        "d1-d3xc3",
+        "d4-c4",
+        "d3-c3",
+        "c4-c5",
+        "c3-c4xb4",
+        "c5-d5",
+        "c4-d4",
+        "d5-c5",
+        "d4-c4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

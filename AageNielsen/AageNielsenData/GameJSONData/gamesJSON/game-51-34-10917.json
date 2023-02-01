@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "d1-c1",
+        "e4-e1",
+        "d6-e6",
+        "e1-d1xd2",
+        "e6-e1xd1",
+        "d5-f5",
+        "d7-d5",
+        "d3-f3xf4",
+        "c1-c3",
+        "c4-c6",
+        "g4-e4",
+        "f5-f4xe4",
+        "b4-c4",
+        "c6-d6xd5",
+        "c4-c5",
+        "d4-e4",
+        "c5-f5",
+        "e4-e7",
+        "f5-f7",
+        "e7-a7"
+    ],
+    "WhoWon": "White"
+}

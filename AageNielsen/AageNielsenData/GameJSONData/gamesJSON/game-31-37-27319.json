@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "Gungnir",
+    "BlackSidePlayerName": "Rollo",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-c1",
+        "d6-d9",
+        "b5-d5",
+        "f7-d7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

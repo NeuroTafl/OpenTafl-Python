@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Deadpool",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "h6-h9",
+        "f10-i10",
+        "f8-b8",
+        "f11-f9",
+        "d6-d9",
+        "k8-c8xb8",
+        "f4-b4",
+        "f2-b2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

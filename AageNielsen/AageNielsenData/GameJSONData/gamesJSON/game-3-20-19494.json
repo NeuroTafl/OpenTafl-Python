@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "arne64",
+    "BlackSidePlayerName": "Epoc",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "h3-h9xh10",
+        "g7-g10",
+        "e11-e9",
+        "f7-i7",
+        "f2-i2",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "k7-j7",
+        "i7-k7xj7",
+        "i2-i5xj5",
+        "f4-i4",
+        "i5-i3",
+        "f6-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "SneakyBear",
+    "BlackSidePlayerName": "kAAgEE",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "d6-d8",
+        "d11-d9",
+        "e7-c7",
+        "a8-c8",
+        "e6-c6",
+        "a4-c4",
+        "e5-b5",
+        "a7-b7",
+        "f6-e6",
+        "e11-e8xd8",
+        "e6-e2",
+        "c4-c2",
+        "g5-g2xf2",
+        "f1-f2",
+        "e2-e3",
+        "h1-h2xg2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

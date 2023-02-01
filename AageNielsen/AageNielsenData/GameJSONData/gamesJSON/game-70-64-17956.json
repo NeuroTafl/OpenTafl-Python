@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 70,
+    "AageGameTypeName": "Sea battle square 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "d4-b4",
+        "a6-c6",
+        "e4-c4",
+        "e1-e4",
+        "d5-d4xe4",
+        "g2-e2",
+        "e5-e3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

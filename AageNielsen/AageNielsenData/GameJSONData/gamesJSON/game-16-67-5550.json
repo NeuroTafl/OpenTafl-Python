@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Mj&oslash;lnir",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "g1-g3",
+        "e7-e3",
+        "e1-c1",
+        "d6-d3",
+        "d2-b2",
+        "f6-c6",
+        "a8-c8",
+        "d3-d9",
+        "b6-b9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

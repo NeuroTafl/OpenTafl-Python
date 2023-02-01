@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "Wim",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "e5-e2",
+        "d3-e3xe2",
+        "d6-d3",
+        "h11-h9",
+        "f4-f3xe3",
+        "e1-e3",
+        "f3-i3",
+        "b6-b2",
+        "e6-b6",
+        "f10-b10",
+        "f6-c6",
+        "f1-c1",
+        "c6-c11",
+        "b10-b11",
+        "c11-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "crust (tourn.)",
+    "BlackSidePlayerName": "Jonas (tourn.)",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1h4",
+        "g5g2",
+        "h4h2",
+        "g6g2",
+        "e1e3",
+        "g7g3",
+        "h2h3",
+        "h6h10",
+        "k8h8",
+        "f6i6",
+        "k7i7",
+        "i6i3",
+        "j6j2",
+        "i3k3",
+        "j2k2",
+        "k3j3",
+        "k6j6",
+        "j3k3",
+        "h8h2",
+        "k3k1"
+    ],
+    "WhoWon": "White"
+}

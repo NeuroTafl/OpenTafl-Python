@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "RussJenkins",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-f2",
+        "d4-e4",
+        "b4-b2",
+        "c4-b4",
+        "f2-f3xf4",
+        "e4-e6",
+        "f5-f6"
+    ],
+    "WhoWon": "Black"
+}

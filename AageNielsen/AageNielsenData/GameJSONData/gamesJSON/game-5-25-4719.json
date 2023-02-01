@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hartwig",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d9-d8",
+        "e6-h6",
+        "a6-e6xe7",
+        "g5-g6",
+        "f9-f7",
+        "f5-f6",
+        "h5-f5xf6",
+        "g6-f6",
+        "f1-f4",
+        "c5-c6",
+        "d8-d6",
+        "d5-d4",
+        "b5-d5",
+        "c6-c5",
+        "a5-b5xc5",
+        "e3-f3",
+        "d1-d3xd4",
+        "e4-d4",
+        "e2-e4"
+    ],
+    "WhoWon": "Black"
+}

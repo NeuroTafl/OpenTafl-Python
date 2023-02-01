@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Colophonius",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 67,
+    "AageGameTypeName": "Fidchell armed (Hnefatafl edge 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a1-a2",
+        "b4-b1",
+        "a2-a1xb1",
+        "c4-c3",
+        "c1-c2",
+        "d4-b4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

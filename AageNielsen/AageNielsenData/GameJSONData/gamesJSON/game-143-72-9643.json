@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Ded Fomich",
+    "AageGameTypeKey": 143,
+    "AageGameTypeName": "Old TYR! 17x17",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "o13-l13",
+        "f9-e9",
+        "e10-e12",
+        "h7-e7xe8",
+        "g14-g12xf12",
+        "g8-c8",
+        "d7-b7",
+        "i9-g9",
+        "c13-c10",
+        "f6-a6",
+        "a7-a8",
+        "g9-f9",
+        "b7-a7xa6",
+        "f9-f17"
+    ],
+    "WhoWon": "White"
+}

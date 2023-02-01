@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Dimetr",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 67,
+    "AageGameTypeName": "Fidchell armed (Hnefatafl edge 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "a1-b1",
+        "f4-f7",
+        "g7-g6",
+        "f7-g7",
+        "g1-f1",
+        "e4-e5",
+        "f1-f2",
+        "d4-f4",
+        "g6-f6",
+        "f4-f5",
+        "e7-f7",
+        "e5-e7xf7",
+        "e1-e5",
+        "e7-f7xf6",
+        "e5-e7",
+        "f5-f6",
+        "g5-g6",
+        "d5-g5xg6",
+        "a5-d5xd6",
+        "f6-a6"
+    ],
+    "WhoWon": "White"
+}

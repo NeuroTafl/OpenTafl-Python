@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Sauron",
+    "AageGameTypeKey": 173,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d6-d11",
+        "f9-d9",
+        "f8-a8",
+        "j7-j8",
+        "e5-e3",
+        "g2-g3",
+        "f7-f10",
+        "d9-f9xf10",
+        "f6-f8",
+        "c6-c8",
+        "g7-g9",
+        "k7-f7"
+    ],
+    "WhoWon": "Black"
+}

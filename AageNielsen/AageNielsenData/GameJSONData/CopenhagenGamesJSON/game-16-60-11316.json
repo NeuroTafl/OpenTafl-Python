@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-g3xg2",
+        "h6-h3",
+        "g3-c3",
+        "g6-g2",
+        "c3-g3xg2",
+        "f6-i6",
+        "k8-i8",
+        "i6-i1",
+        "j6-j1",
+        "i1-i2",
+        "j1-j2",
+        "h3-k3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

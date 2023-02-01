@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Yozara",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "b4-b3",
+        "d4-e4",
+        "d2-e2",
+        "f4-f2",
+        "g4-g2xf2",
+        "e4-g4",
+        "f5-g5",
+        "g4-g3xg2",
+        "e2-g2",
+        "g3-e3",
+        "d1-e1",
+        "e3-e7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "L3monman",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j2-h2",
+        "g7-g10",
+        "j10-h10xg10",
+        "d6-d3",
+        "b2-d2",
+        "f4-b4",
+        "f10-d10",
+        "b4-b3xc3",
+        "b10-b8",
+        "f5-f3",
+        "b6-b4",
+        "f6-f4",
+        "j6-j4",
+        "f4-c4",
+        "d2-c2",
+        "e5-b5xb4",
+        "a5-a4",
+        "b5-a5",
+        "a4-b4",
+        "g5-b5xb4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "g5-g2",
+        "i6-g6",
+        "g2-g5",
+        "i4-g4xg5",
+        "f5-f2",
+        "f9-f3xf2",
+        "e5-f5",
+        "e8-f8",
+        "e4-f4",
+        "d1-d3xe3",
+        "e6-f6",
+        "e1-e4xf4",
+        "e7-h7",
+        "e9-e6xf6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

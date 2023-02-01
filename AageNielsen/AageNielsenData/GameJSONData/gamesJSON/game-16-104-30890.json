@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "HOK",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-c1",
+        "e5-e2",
+        "f2-j2",
+        "d6-d1",
+        "b6-b2",
+        "e6-e3",
+        "d11-c11",
+        "e3-a3",
+        "b2-a2xa3",
+        "f6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

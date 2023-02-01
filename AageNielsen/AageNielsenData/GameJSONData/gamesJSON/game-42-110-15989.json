@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 42,
+    "AageGameTypeName": "Sea battle tafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h4-k4",
+        "h11-l11",
+        "n9-n11",
+        "i10-l10",
+        "h13-l13",
+        "h10-h11",
+        "i14-k14",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "BrotherIbram(KT)",
+    "AageGameTypeKey": 106,
+    "AageGameTypeName": "Skalk Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j7-j9",
+        "d6-d1",
+        "e10-c10",
+        "e6-c6",
+        "e2-c2",
+        "f6-d6",
+        "e11-d11",
+        "d6-d3",
+        "c2-c1xd1",
+        "d3-k3",
+        "g2-k2",
+        "k3-a3",
+        "f2-a2",
+        "a3-k3xk2",
+        "a2-k2",
+        "k3-i3",
+        "g11-i11",
+        "i3-k3xk2",
+        "j5-j2",
+        "k3-k1"
+    ],
+    "WhoWon": "White"
+}

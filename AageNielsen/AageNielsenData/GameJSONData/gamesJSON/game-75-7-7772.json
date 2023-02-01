@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Helfrich",
+    "AageGameTypeKey": 75,
+    "AageGameTypeName": "Tawlbwrdd T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "c6-c10",
+        "a4-c4",
+        "f9-b9",
+        "d11-d9",
+        "f7-d7",
+        "k8-i8",
+        "f8-c8",
+        "a8-a9",
+        "f6-f9",
+        "i8-f8"
+    ],
+    "WhoWon": "Black"
+}

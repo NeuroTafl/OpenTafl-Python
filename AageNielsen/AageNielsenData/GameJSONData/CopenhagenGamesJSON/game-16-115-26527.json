@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Luizz",
+    "BlackSidePlayerName": "Thou",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d4",
+        "f8-i8",
+        "k4-i4",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "e11-e9",
+        "i8-i10xh10",
+        "e9-g9xg10",
+        "h6-h11",
+        "k8-i8",
+        "g5-j5",
+        "i4-i5xj5",
+        "f6-i6",
+        "h1-h4",
+        "i6-i7",
+        "g9-i9",
+        "i7-j7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

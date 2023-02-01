@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "Kratzer",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "e4-g4",
+        "a4-b4",
+        "f5-f8",
+        "e8-c8",
+        "e7-i7",
+        "h5-h8",
+        "i7-i8",
+        "h8-h7",
+        "i8-i7",
+        "h7-f7xf8",
+        "g5-g7",
+        "i5-h5",
+        "e6-e7xf7",
+        "f9-f7",
+        "e5-g5",
+        "c8-g8",
+        "i7-i9",
+        "h5-h7xg7",
+        "g5-i5"
+    ],
+    "WhoWon": "White"
+}

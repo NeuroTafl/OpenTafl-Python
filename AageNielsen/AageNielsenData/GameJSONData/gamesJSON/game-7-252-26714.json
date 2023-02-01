@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Epoc",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-c2",
+        "f5-f8",
+        "h5-h7",
+        "d5-d8xe8",
+        "b5-b8",
+        "e4-c4",
+        "i4-i3",
+        "e5-e4",
+        "h7-h4",
+        "e3-h3",
+        "e1-e2",
+        "g5-h5xh4",
+        "f1-f4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

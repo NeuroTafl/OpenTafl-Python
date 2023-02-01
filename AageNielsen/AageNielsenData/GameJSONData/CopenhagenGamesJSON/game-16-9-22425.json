@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "jules",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-i6",
+        "h6-h9",
+        "k8-k9",
+        "f4-c4",
+        "k4-h4",
+        "d6-d3",
+        "f2-b2",
+        "e5-b5",
+        "d1-c1",
+        "e7-b7xb6",
+        "f10-b10",
+        "e6-b6",
+        "a8-a9",
+        "f5-f2",
+        "g1-g2",
+        "f6-f3",
+        "e1-e2xf2",
+        "f3-j3",
+        "g2-j2",
+        "j3-j11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

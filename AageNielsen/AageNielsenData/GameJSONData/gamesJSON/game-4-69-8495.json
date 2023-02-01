@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "arthur",
+    "BlackSidePlayerName": "vonraider",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "f4-f2",
+        "b6-b2",
+        "e5-b5",
+        "f10-b10",
+        "f5-d5",
+        "d1-c1",
+        "f6-f3",
+        "h1-h3",
+        "f3-a3",
+        "b2-a2",
+        "a3-b3",
+        "a2-b2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

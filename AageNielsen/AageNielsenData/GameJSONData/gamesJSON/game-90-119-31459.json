@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 90,
+    "AageGameTypeName": "Unst king hammer only cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g6-g3",
+        "k4-i4",
+        "f5-j5",
+        "k7-j7",
+        "j5-j3",
+        "i4-i3",
+        "f6-g6",
+        "k5-k3xj3",
+        "g6-g5",
+        "j6-j2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

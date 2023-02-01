@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Matematician",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "c4-c3",
+        "b4-b3",
+        "d3-d2",
+        "f4-f3",
+        "d4-c4",
+        "f3-d3xc3xd2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

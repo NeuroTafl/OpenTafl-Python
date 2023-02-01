@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "skallatorc",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h4",
+        "f8-i8",
+        "f10-j10",
+        "d6-d3",
+        "f2-d2",
+        "f4-c4",
+        "a4-b4",
+        "e5-d5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

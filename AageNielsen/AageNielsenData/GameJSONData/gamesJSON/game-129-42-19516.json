@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Auskor",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-c2",
+        "d3-d2",
+        "d6-e6",
+        "d2-f2",
+        "g4-g3",
+        "d5-g5",
+        "b4-b5",
+        "g5-g4xf4",
+        "b5-g5xg4",
+        "e4-g4",
+        "g3-b3",
+        "d4-d3",
+        "e6-e3",
+        "f2-f3xe3",
+        "d1-e1",
+        "f3-f2",
+        "g5-f5",
+        "d3-g3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

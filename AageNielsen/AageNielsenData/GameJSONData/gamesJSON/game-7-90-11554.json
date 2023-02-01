@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 6,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h5-h3",
+        "g5-g2",
+        "i5-g5",
+        "d5-d2",
+        "d9-d5xc5",
+        "e4-d4",
+        "a6-d6",
+        "g2-f2xe2",
+        "b5-b3",
+        "e7-h7",
+        "b3-d3xd4xd2",
+        "e5-e4",
+        "a4-d4",
+        "f5-f4",
+        "e1-e2",
+        "f4-g4",
+        "h3-f3xe3xf2",
+        "g4-f4",
+        "e8-e7xe6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

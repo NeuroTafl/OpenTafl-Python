@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "commentjouer",
+    "BlackSidePlayerName": "herjan",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-b3",
+        "f8-h8",
+        "k7-k9",
+        "f9-j9",
+        "a7-a8",
+        "f7-f9",
+        "a8-d8",
+        "d6-d7",
+        "d8-f8xf9",
+        "j9-f9",
+        "f8-e8",
+        "f6-f8",
+        "g10-g8"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Сергей",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h5-h7",
+        "d5-d2",
+        "e2-g2",
+        "e6-d6",
+        "e8-c8",
+        "f5-f4",
+        "b5-b3",
+        "e5-d5",
+        "b3-c3",
+        "e4-c4",
+        "c3-b3",
+        "d2-b2",
+        "a4-b4",
+        "d5-d3",
+        "d1-d2",
+        "e3-e2",
+        "f1-f2xe2",
+        "d3-i3"
+    ],
+    "WhoWon": "White"
+}

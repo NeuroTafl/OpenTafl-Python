@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Maria",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1h2",
+        "g5g2",
+        "h2j2",
+        "h6h2",
+        "k4k2",
+        "g6g3",
+        "j6g6",
+        "f5g5",
+        "k6g6",
+        "h2h6",
+        "a8e8",
+        "h6j6",
+        "k8g8",
+        "f6i6",
+        "j2j5",
+        "i6i11",
+        "k7j7",
+        "i11k11"
+    ],
+    "WhoWon": "White"
+}

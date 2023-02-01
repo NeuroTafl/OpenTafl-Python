@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Murray",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10c10",
+        "g5i5",
+        "f2i2",
+        "g6g2",
+        "k4g4",
+        "h6h4",
+        "h11h8",
+        "h4k4",
+        "j6j3",
+        "k4k3",
+        "i2i4",
+        "f6h6",
+        "k6i6",
+        "h6h3",
+        "i4i3",
+        "h3a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

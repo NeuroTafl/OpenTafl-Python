@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c7-c5",
+        "d3-b3",
+        "g5-e5xd5",
+        "d4-d2",
+        "c1-c3xb3xc4",
+        "d2-a2",
+        "e1-e3xe4",
+        "a2-a1"
+    ],
+    "WhoWon": "White"
+}

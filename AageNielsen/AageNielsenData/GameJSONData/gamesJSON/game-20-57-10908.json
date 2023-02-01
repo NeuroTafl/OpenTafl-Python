@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "arne64",
+    "BlackSidePlayerName": "Mr erh",
+    "AageGameTypeKey": 20,
+    "AageGameTypeName": "King anvil only edge 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "k7-j7",
+        "e5-e3",
+        "f2-f3",
+        "g5-g3xf3",
+        "f1-f3",
+        "f5-c5",
+        "k5-f5xf4",
+        "e6-e5",
+        "d1-d5xe5",
+        "e7-e5xd5",
+        "h1-h5",
+        "g6-g5xf5",
+        "f3-f5xg5",
+        "g7-g5xf5",
+        "j7-h7xh6",
+        "f6-f1"
+    ],
+    "WhoWon": "White"
+}

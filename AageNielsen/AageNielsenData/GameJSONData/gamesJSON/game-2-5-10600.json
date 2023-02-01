@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Hamlet",
+    "BlackSidePlayerName": "javier",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2f3",
+        "f8j8",
+        "h11i11",
+        "g7g10",
+        "i11i8",
+        "f7g7",
+        "k8k10",
+        "e7e10",
+        "k10h10",
+        "f6f9",
+        "f11f10",
+        "f9a9",
+        "d11b11",
+        "a9a11"
+    ],
+    "WhoWon": "White"
+}

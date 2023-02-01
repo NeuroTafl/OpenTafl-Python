@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Borson",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d3",
+        "b6-b2",
+        "e6-b6",
+        "d11-d9",
+        "f6-c6",
+        "e11-c11",
+        "c6-c1",
+        "b2-b1",
+        "c1-c10",
+        "a8-a9",
+        "c10-a10",
+        "d9-d8",
+        "a10-a11"
+    ],
+    "WhoWon": "White"
+}

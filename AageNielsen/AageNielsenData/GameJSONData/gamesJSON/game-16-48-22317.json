@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "ratatoskr",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "h2-h3",
+        "h6-h4",
+        "k8-i8",
+        "f6-i6",
+        "h3-h2xg2",
+        "i6-i1",
+        "j6-j1",
+        "i1-i3",
+        "j1-j2",
+        "i3-k3",
+        "j2-k2",
+        "k3-j3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Silversplitter",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "a4-b4",
+        "g7-g10",
+        "h11-f11",
+        "e7-b7",
+        "a8-a6",
+        "f7-j7",
+        "k4-k6",
+        "f6-f7",
+        "k1-j1",
+        "j7-j6xi6",
+        "i9-i7",
+        "b7-b6xc6",
+        "c3-c7",
+        "g10-f10xf9",
+        "c9-f9xf10",
+        "j6-j10",
+        "d1-c1",
+        "j10-f10xf9",
+        "c1-c6xb6",
+        "f7-g7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

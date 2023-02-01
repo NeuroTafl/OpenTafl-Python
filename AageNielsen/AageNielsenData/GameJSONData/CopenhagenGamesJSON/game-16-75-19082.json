@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "kAAgEE",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "k8-h8",
+        "h6-h3",
+        "j6-h6",
+        "g7-h7",
+        "k5-h5",
+        "f4-i4",
+        "h5-i5",
+        "g6-g10",
+        "h11-h10xg10",
+        "g5-g10",
+        "g1-g6",
+        "e7-e10xf10",
+        "f11-f10xg10",
+        "f5-h5xh6",
+        "f2-f4",
+        "h5-h6xg6",
+        "k4-j4",
+        "h6-i6xi5",
+        "f4-h4xi4",
+        "f6-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

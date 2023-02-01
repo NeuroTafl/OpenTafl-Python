@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Jenna.morgan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c3",
+        "d6-c6",
+        "c3-a3",
+        "b4-c4",
+        "d5-a5xa4",
+        "d7-d5",
+        "a5-b5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

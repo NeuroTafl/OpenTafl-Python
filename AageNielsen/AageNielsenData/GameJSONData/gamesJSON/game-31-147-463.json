@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "AdhMor",
+    "BlackSidePlayerName": "MochaBoi",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k7-k8",
+        "g6-g8",
+        "g2-g6",
+        "f5-e5",
+        "j5-f5",
+        "d6-d5",
+        "e10-d10",
+        "h6-h5",
+        "g1-g5",
+        "i6-h6xg6",
+        "k5-i5xh5",
+        "f4-g4",
+        "g5-g6",
+        "g4-g5xf5",
+        "f2-g2",
+        "f6-f4",
+        "e2-e4",
+        "f4-k4"
+    ],
+    "WhoWon": "White"
+}

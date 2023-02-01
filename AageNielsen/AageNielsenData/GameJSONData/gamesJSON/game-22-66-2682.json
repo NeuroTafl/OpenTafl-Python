@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h5-h7",
+        "d5-d8",
+        "d1-d5xc5",
+        "f5-f8xe8",
+        "h7-f7xf8",
+        "g5-g7xf7",
+        "i5-f5",
+        "e6-f6",
+        "f9-f7xf6",
+        "e5-e6",
+        "a6-d6",
+        "e6-h6",
+        "f5-h5",
+        "h6-h9"
+    ],
+    "WhoWon": "White"
+}

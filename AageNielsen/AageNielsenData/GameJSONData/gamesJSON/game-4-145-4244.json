@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Cacreal",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d3",
+        "f2-b2",
+        "e5-b5",
+        "a7-b7",
+        "e6-e3",
+        "a4-b4xb5",
+        "f6-c6",
+        "a8-c8",
+        "c6-c1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

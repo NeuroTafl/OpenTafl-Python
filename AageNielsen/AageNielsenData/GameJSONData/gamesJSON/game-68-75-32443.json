@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 68,
+    "AageGameTypeName": "Tawlbwrdd Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g1-i1",
+        "d6-d10",
+        "e1-c1",
+        "e6-c6",
+        "b5-d5",
+        "c6-c5xd5",
+        "b6-d6",
+        "e5-d5",
+        "g10-g9",
+        "e7-d7xd6",
+        "e11-c11",
+        "d10-b10",
+        "a7-a10",
+        "f8-a8",
+        "c11-c10xb10",
+        "d7-c7",
+        "b7-b3",
+        "f6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

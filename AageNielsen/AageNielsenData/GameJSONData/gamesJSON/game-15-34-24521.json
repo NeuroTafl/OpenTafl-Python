@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "epoc",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10b10",
+        "d6d3",
+        "b6b2",
+        "h6h3",
+        "f2j2",
+        "f4f2",
+        "j6j10",
+        "g6j6",
+        "h11h6",
+        "f6g6",
+        "g11i11",
+        "e6b6",
+        "i11i6",
+        "g6c6",
+        "a7c7",
+        "c6c1",
+        "b2b1",
+        "c1c2",
+        "b1b2",
+        "d3a3",
+        "a4b4"
+    ],
+    "WhoWon": "Black"
+}

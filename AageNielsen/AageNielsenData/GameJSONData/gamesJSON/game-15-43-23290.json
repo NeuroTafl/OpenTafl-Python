@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "filosondre",
+    "BlackSidePlayerName": "barba",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d3",
+        "h6-h10",
+        "k8-k10",
+        "g7-g10",
+        "e11-e9",
+        "g6-g9",
+        "h11-i11",
+        "f6-i6",
+        "k4-i4",
+        "g9-k9xk10",
+        "j6-j10",
+        "i6-i10",
+        "j10-k10",
+        "h10-h11",
+        "k7-k8xk9",
+        "i10-j10",
+        "h1-j1",
+        "j10-j11xi11",
+        "i4-i11xh11",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

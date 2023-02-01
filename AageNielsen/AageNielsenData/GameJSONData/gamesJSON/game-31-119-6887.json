@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Riiem",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-b3",
+        "h6-h11",
+        "j7-h7",
+        "f5-h5",
+        "g2-h2",
+        "i6-i7",
+        "k7-j7xi7",
+        "g6-h6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

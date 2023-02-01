@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Ded Fomich",
+    "BlackSidePlayerName": "casshern",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-c2",
+        "f5-f4",
+        "b5-b3",
+        "e6-h6",
+        "a6-g6xh6",
+        "e7-g7xg6",
+        "d9-d7",
+        "e5-e6",
+        "b3-b6",
+        "e6-g6",
+        "b6-f6",
+        "e4-e6xf6",
+        "f9-f6",
+        "g6-h6",
+        "f6-g6"
+    ],
+    "WhoWon": "Black"
+}

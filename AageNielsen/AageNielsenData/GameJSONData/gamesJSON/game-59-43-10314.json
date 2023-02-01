@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-e2",
+        "c4-c6",
+        "b4-c4",
+        "d3-b3",
+        "c4-b4",
+        "d5-b5xb4",
+        "d1-d3",
+        "d4-c4",
+        "e2-c2",
+        "b5-a5",
+        "d3-d4xe4",
+        "b3-a3xa4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

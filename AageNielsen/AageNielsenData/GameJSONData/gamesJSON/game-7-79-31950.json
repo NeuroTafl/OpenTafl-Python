@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Conanlib",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "g5-g4",
+        "h5-h3",
+        "f5-f8",
+        "e8-c8",
+        "e5-h5",
+        "f9-h9",
+        "e7-i7",
+        "e9-e7xe6",
+        "h5-h7",
+        "h9-h8",
+        "h7-g7",
+        "d9-g9",
+        "e4-e6",
+        "e7-d7",
+        "e6-d6",
+        "c8-e8",
+        "i7-i8",
+        "g9-g8xf8",
+        "g7-i7"
+    ],
+    "WhoWon": "White"
+}

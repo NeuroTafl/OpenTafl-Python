@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Taschenguger",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "b6-b10",
+        "d6-b6",
+        "e1-e4",
+        "f4-i4",
+        "f2-f3",
+        "h6-h9",
+        "d1-c1",
+        "f6-f4",
+        "d11-d6xe6",
+        "f4-h4",
+        "h1-h2",
+        "h4-h3",
+        "k4-k3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

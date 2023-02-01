@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "krieger",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10a10",
+        "d6d9",
+        "a10d10",
+        "f8d8",
+        "a8c8",
+        "e7e8",
+        "e11e10",
+        "g7g10",
+        "e10e9",
+        "f7f9",
+        "f11f10",
+        "e8e10",
+        "g11f11",
+        "f6f8",
+        "f11f10",
+        "f8i8",
+        "k8j8",
+        "i8i1"
+    ],
+    "WhoWon": "White"
+}

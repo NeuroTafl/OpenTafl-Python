@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Evans",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4i4",
+        "g5j5",
+        "j6j9",
+        "h6h3",
+        "k5k3",
+        "g6g2",
+        "h1h2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

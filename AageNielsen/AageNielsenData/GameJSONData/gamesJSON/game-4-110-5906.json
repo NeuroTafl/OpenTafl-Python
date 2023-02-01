@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "skallatorc",
+    "BlackSidePlayerName": "Dagmar",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j9",
+        "d6-d10",
+        "j9-d9xd10",
+        "g5-i5",
+        "g1-g3",
+        "h6-h3",
+        "k6-j6",
+        "g6-i6",
+        "h11-h6xi6",
+        "f4-f3xg3",
+        "a5-c5",
+        "f3-c3",
+        "e1-e3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

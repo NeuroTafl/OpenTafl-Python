@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Schachus",
+    "BlackSidePlayerName": "barba",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "h6-h3",
+        "j6-j3",
+        "g6-j6",
+        "k8-i8",
+        "d6-d9",
+        "h11-h9",
+        "e7-b7",
+        "c8-c7xb7",
+        "f8-b8",
+        "d11-b11",
+        "e6-e10",
+        "f10-j10",
+        "f7-f9",
+        "a4-c4",
+        "d9-a9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

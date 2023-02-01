@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Gore23",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k4-i4",
+        "g5-j5",
+        "i4-j4xj5",
+        "f5-j5",
+        "j4-j2",
+        "g7-j7xj6",
+        "k6-j6",
+        "f4-j4",
+        "k8-j8xj7",
+        "f7-j7xj6",
+        "j8-h8",
+        "f6-f4",
+        "b6-c6",
+        "f4-i4",
+        "h8-i8",
+        "i4-i1"
+    ],
+    "WhoWon": "White"
+}

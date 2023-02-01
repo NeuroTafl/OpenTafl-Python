@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f10-c10",
+        "h6-h3",
+        "h1-h2",
+        "g5-g2",
+        "e1-e3",
+        "g6-g3",
+        "k4-h4xh3",
+        "f6-i6",
+        "h11-i11",
+        "i6-i2xh2",
+        "k5-k2",
+        "g3-k3xk2",
+        "j6-j2",
+        "k3-k2xj2",
+        "g1-i1",
+        "i2-j2",
+        "i1-j1",
+        "k2-k3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

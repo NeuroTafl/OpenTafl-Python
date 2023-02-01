@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Unterwichtel",
+    "BlackSidePlayerName": "duruk",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e5-e3",
+        "d1-d3",
+        "f5-c5",
+        "a4-c4",
+        "f4-f3",
+        "k4-f4xf3",
+        "e3-f3",
+        "f4-i4",
+        "f6-f4",
+        "b6-c6xc5",
+        "g7-g9",
+        "j6-j9",
+        "f4-f5",
+        "h11-h10",
+        "f5-b5",
+        "f2-b2",
+        "b5-b11",
+        "c6-c11",
+        "b11-a11"
+    ],
+    "WhoWon": "White"
+}

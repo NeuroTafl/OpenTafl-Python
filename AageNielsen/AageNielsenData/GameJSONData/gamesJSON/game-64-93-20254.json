@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "commentjouer",
+    "BlackSidePlayerName": "mccluskeyp",
+    "AageGameTypeKey": 64,
+    "AageGameTypeName": "Magpie 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d5-f5",
+        "d6-f6xf5",
+        "d4-d5",
+        "b4-b5",
+        "d5-e5",
+        "a4-b4xc4",
+        "e5-f5",
+        "g4-g5",
+        "d3-d5",
+        "d7-d6xd5",
+        "f5-e5",
+        "e2-e3",
+        "e5-e6",
+        "g5-e5xe4",
+        "e6-e7",
+        "d6-d7",
+        "e7-f7",
+        "e5-e7"
+    ],
+    "WhoWon": "Black"
+}

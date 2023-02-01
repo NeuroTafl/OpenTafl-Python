@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-h4",
+        "d6-d3",
+        "b6-b2",
+        "e6-b6",
+        "f10-b10",
+        "f6-c6",
+        "f2-c2",
+        "c6-c11",
+        "b10-b11",
+        "c11-c10",
+        "b11-b10",
+        "c10-k10",
+        "c2-c6xb6",
+        "k10-k11"
+    ],
+    "WhoWon": "White"
+}

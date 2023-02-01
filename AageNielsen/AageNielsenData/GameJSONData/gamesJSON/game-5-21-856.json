@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Jarl",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2g2",
+        "e3b3",
+        "h5h3",
+        "c5c1",
+        "a6c6",
+        "d5d6",
+        "a4c4",
+        "e4f4",
+        "d1d3",
+        "e5e2",
+        "d3d2",
+        "e2e3",
+        "d2d3",
+        "f5c5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

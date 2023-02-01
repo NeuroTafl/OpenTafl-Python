@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 23,
+    "AageGameTypeName": "David Brown Hnefatafl 11x11 (unarmed king)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "e5-e2",
+        "b6-b3",
+        "d6-d3",
+        "a5-d5",
+        "e6-b6",
+        "a7-c7",
+        "e7-e10",
+        "d11-d10xe10",
+        "b6-b5",
+        "d1-d2",
+        "f6-b6",
+        "c7-b7",
+        "b6-c6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

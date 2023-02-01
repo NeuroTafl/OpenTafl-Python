@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Oddur",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "e4-b4",
+        "e1-e2",
+        "e6-b6xb5",
+        "i6-e6xe7",
+        "d5-d8",
+        "i4-e4xe3",
+        "e5-d5",
+        "f9-f7",
+        "d5-d3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "test3",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-c2",
+        "c4-b4",
+        "a3-b3",
+        "e4-e5",
+        "g5-f5",
+        "d5-d7",
+        "e1-d1",
+        "d4-d6",
+        "a5-b5xb4",
+        "d6-d4",
+        "b3-b4",
+        "d7-d5",
+        "c7-d7",
+        "d3-f3",
+        "c2-f2",
+        "d4-f4",
+        "b4-e4",
+        "e5-e6",
+        "g3-g4"
+    ],
+    "WhoWon": "Black"
+}

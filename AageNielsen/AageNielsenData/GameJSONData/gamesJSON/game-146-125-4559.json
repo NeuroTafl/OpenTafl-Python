@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Bogd khan",
+    "BlackSidePlayerName": "Thou",
+    "AageGameTypeKey": 146,
+    "AageGameTypeName": "Saami S&aacute;hkku 3x15 (K&aring;fjord)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "a2-b2-b2-e2-e2-g2",
+        "o2-k2-k2-h2-g2-g2-e2xg2",
+        "a3-a2-a2-c2-c2-g2",
+        "h2-g2-e2-c2-c2-b3xg2xb3",
+        "d3-c3-c3-a2-e3-d3",
+        "b3-f3-o1-l2-f3-i3xf3xi3",
+        "g3-f3-h3-g3-d3-a3",
+        "g2-c2-c2-a3-i3-k3xa3xk3",
+        "f3-d3-a2-e2-j3-i3",
+        "a3-d3-k3-l3-l3-n3xd3xl3xn3",
+        "g3-d3-e2-h2-i3-f3xd3",
+        "l2-i2-i2-h2-n1-n2xh2",
+        "m3-l3-l3-j3-j3-h3",
+        "n3-o3-n2-k2-h2-e2xo3",
+        "d3-c3-c3-b2-f3-b3",
+        "e2-c2-c2-a2-a2-b3xb3",
+        "h3-d3-d3-b3-b2-d2xb3",
+        "l1-m1-m1-o1-o1-l2",
+        "d2-e2-b3-a2-a2-b2",
+        "k2-g2-g2-e2-e2-b2xe2xb2"
+    ],
+    "WhoWon": "White"
+}

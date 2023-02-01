@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j5-j3",
+        "e5-e3",
+        "g2-g3",
+        "f5-c5",
+        "b7-c7",
+        "f4-b4",
+        "a5-a3",
+        "f6-f4",
+        "k5-k4",
+        "f4-c4",
+        "e1-c1",
+        "d6-d1",
+        "c1-c3",
+        "b4-b3",
+        "b5-b4",
+        "c4-d4",
+        "e10-d10",
+        "d4-d3xc3",
+        "e2-b2xb3",
+        "d3-d2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

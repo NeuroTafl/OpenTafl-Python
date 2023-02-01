@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "duhawk93",
+    "BlackSidePlayerName": "arne64",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f1-f2",
+        "d5-d6",
+        "i6-h6",
+        "e5-d5",
+        "e2-c2",
+        "d6-d8",
+        "b5-b7",
+        "f5-f8xe8",
+        "f2-f5xg5",
+        "d8-b8",
+        "b7-c7",
+        "d5-d8",
+        "c7-c8",
+        "d8-d7",
+        "c8-c7",
+        "e6-c6",
+        "c7-a7",
+        "d7-b7",
+        "a6-b6",
+        "c6-c9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

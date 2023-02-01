@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "TorchwoodThree",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-j2",
+        "f4-j4",
+        "b6-b2",
+        "f5-f2",
+        "d1-c1",
+        "f6-f3",
+        "a4-a3",
+        "f3-k3",
+        "j2-k2",
+        "k3-i3",
+        "k2-j2",
+        "i3-i11",
+        "j6-j11",
+        "i11-i1",
+        "j2-j1",
+        "i1-i11xj11",
+        "a3-f3xf2",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "J&uuml;rgen",
+    "BlackSidePlayerName": "Vadim",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k7-i7",
+        "f4-b4",
+        "d1-d4",
+        "e5-b5",
+        "d4-d5",
+        "b4-d4xd5",
+        "a4-b4xb5",
+        "f5-b5",
+        "b6-b9",
+        "f6-f3",
+        "h1-h3",
+        "f3-b3xb4",
+        "e1-b1",
+        "b3-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "teondrae",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "f6-f3",
+        "g3-j3",
+        "d7-d3xe3",
+        "c7-c4",
+        "f7-b7",
+        "c4-c7xb7",
+        "g7-d7",
+        "a5-d5",
+        "d7-d13"
+    ],
+    "WhoWon": "White"
+}

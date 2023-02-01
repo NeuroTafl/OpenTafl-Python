@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Riiem",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j8",
+        "f4-j4",
+        "b6-b4",
+        "h6-h2",
+        "g1-g2",
+        "g6-j6",
+        "i9-i6xj6",
+        "d6-b6",
+        "c3-c6xb6",
+        "h2-h3",
+        "j2-j3",
+        "h3-b3",
+        "f10-h10",
+        "f6-h6",
+        "b4-h4",
+        "h6-h9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

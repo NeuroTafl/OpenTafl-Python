@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j5-h5",
+        "f4-h4xh5",
+        "k5-h5",
+        "f5-g5",
+        "b5-f5xg5",
+        "f3-f4xf5",
+        "j7-h7xh6",
+        "i6-i10",
+        "g10-g8",
+        "f9-g9",
+        "e10-e8xf8",
+        "g6-h6xh5",
+        "g11-g10xg9",
+        "f6-f5",
+        "g8-g5",
+        "f5-d5",
+        "e2-d2",
+        "d5-d3",
+        "e1-e3",
+        "d3-a3"
+    ],
+    "WhoWon": "White"
+}

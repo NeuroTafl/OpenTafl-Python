@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Потапыч",
+    "BlackSidePlayerName": "Paul7",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-i1",
+        "f8-a8",
+        "b7-b9",
+        "f7-e7",
+        "k7-k8",
+        "f6-f8",
+        "e11-c11",
+        "d6-d11",
+        "c11-c8",
+        "f9-c9",
+        "b9-a9xa8",
+        "e7-c7xc8",
+        "b6-b8",
+        "f8-d8",
+        "e2-d2",
+        "d8-d10",
+        "b8-b10",
+        "d10-d9"
+    ],
+    "WhoWon": "Ongoing"
+}

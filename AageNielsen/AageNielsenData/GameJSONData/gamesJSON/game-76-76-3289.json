@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f3-h3",
+        "e7-c7",
+        "e10-c10",
+        "e5-c5xc6",
+        "a6-c6",
+        "d6-d2",
+        "c10-c8xc7",
+        "e6-e9",
+        "g10-g8",
+        "f7-c7xc6",
+        "e1-d1",
+        "f6-a6"
+    ],
+    "WhoWon": "White"
+}

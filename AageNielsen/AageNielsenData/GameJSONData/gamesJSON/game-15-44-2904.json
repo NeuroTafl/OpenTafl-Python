@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "Feritayl",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a4-c4",
+        "f8-i8",
+        "k8-j8",
+        "i8-i9",
+        "f10-i10",
+        "g7-j7",
+        "j8-i8xi9",
+        "g5-j5xj6",
+        "k6-j6",
+        "j5-j2",
+        "i8-j8xj7",
+        "f7-j7",
+        "i10-i7xj7",
+        "f6-f10",
+        "e11-e10",
+        "f10-k10",
+        "j8-j10",
+        "k10-k11"
+    ],
+    "WhoWon": "White"
+}

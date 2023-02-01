@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "jules",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "d6-d3",
+        "d1-d2",
+        "e5-e2",
+        "g1-g2",
+        "e6-e3",
+        "d11-d4xd3",
+        "e3-d3",
+        "a5-d5",
+        "f6-c6",
+        "b6-b5",
+        "c6-c5",
+        "a6-c6"
+    ],
+    "WhoWon": "Black"
+}

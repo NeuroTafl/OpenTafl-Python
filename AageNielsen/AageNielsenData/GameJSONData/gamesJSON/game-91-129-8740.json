@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "f9-d9",
+        "e10-d10",
+        "e6-e10",
+        "e1-e9xe10",
+        "f8-f9xe9",
+        "k7-k8",
+        "f6-e6",
+        "f1-e1",
+        "f4-b4",
+        "a5-a4",
+        "c6-c3",
+        "j5-j4",
+        "f3-f4",
+        "k8-f8xf9xf7",
+        "c3-c11",
+        "f8-d8xd9",
+        "e6-e9",
+        "c2-c4xb4",
+        "e9-k9"
+    ],
+    "WhoWon": "White"
+}

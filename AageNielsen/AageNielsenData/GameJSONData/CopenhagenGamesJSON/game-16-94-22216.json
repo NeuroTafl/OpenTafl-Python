@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "f10-i10",
+        "g5-g3",
+        "d1-d3",
+        "i4-i3xh3",
+        "f2-j2",
+        "f5-j5",
+        "j6-j9",
+        "h6-h1",
+        "e1-e2",
+        "f6-f2",
+        "k4-k3",
+        "f2-i2",
+        "a4-c4",
+        "i2-i1",
+        "j2-j1",
+        "h1-h2",
+        "k3-k2",
+        "i3-k3xk2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

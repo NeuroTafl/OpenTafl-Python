@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "h6-h9",
+        "j6-j10",
+        "g6-j6",
+        "h11-i11",
+        "d6-d3",
+        "i11-i6xj6",
+        "e5-c5",
+        "b6-b2",
+        "e6-e2",
+        "b2-d2xe2",
+        "f6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

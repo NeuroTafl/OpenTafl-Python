@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Bogd khan",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "l8-l10",
+        "e9-c9",
+        "e13-e10",
+        "f8-c8",
+        "b6-c6",
+        "f6-f3",
+        "e1-e3xf3",
+        "e5-b5",
+        "a6-b6",
+        "d7-d3",
+        "f2-f4",
+        "f7-f11",
+        "e10-e11xf11",
+        "g7-d7",
+        "e11-e7"
+    ],
+    "WhoWon": "Black"
+}
