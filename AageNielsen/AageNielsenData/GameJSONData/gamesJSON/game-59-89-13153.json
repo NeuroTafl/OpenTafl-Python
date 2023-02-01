@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Hachit",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "d5-c5",
+        "f4-f5",
+        "e4-f4",
+        "d7-e7",
+        "d3-d2",
+        "b4-b3",
+        "d4-e4",
+        "b3-e3",
+        "d2-e2xe3",
+        "d1-e1",
+        "e4-e3",
+        "e7-e4xf4",
+        "e3-g3"
+    ],
+    "WhoWon": "White"
+}

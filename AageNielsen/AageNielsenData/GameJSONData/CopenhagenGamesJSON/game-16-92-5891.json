@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Nordrljos",
+    "BlackSidePlayerName": "cdafo",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "h3-h9xh10",
+        "g6-i6",
+        "h9-h6xi6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

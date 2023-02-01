@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "altti",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b5-b3",
+        "f8-b8",
+        "j7-j9",
+        "f7-f9",
+        "j6-j8",
+        "f6-f8",
+        "e10-e8",
+        "f9-e9xe8",
+        "f10-c10",
+        "f8-i8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

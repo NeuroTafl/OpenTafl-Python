@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Olle",
+    "BlackSidePlayerName": "Floki",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "f4-i4",
+        "f2-i2",
+        "e5-c5",
+        "a4-c4",
+        "c5-c10",
+        "e11-c11",
+        "e7-e10",
+        "g11-g10",
+        "f5-f2",
+        "d9-c9xc10",
+        "f6-f3",
+        "a5-a2",
+        "f3-a3xa2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

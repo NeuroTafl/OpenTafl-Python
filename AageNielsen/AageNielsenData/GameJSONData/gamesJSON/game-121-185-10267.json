@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Alex hnefatafl",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f3-g3",
+        "d3-d1",
+        "f5-f1",
+        "d1-e1",
+        "e2-d2",
+        "d5-d7",
+        "c6-c7",
+        "e4-e5",
+        "g3-g4",
+        "d7-e7xe6",
+        "b5-d5",
+        "c4-c5xd5",
+        "c2-c4",
+        "d4-d7"
+    ],
+    "WhoWon": "White"
+}

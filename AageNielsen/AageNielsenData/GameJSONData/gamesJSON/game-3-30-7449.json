@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-g3",
+        "h6-h3",
+        "f2-f3",
+        "g7-j7",
+        "j6-j8",
+        "g6-g9",
+        "a4-d4",
+        "f6-i6",
+        "h11-i11",
+        "i6-i1",
+        "k6-j6xj7",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

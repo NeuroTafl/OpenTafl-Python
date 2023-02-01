@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 52,
+    "AageGameTypeName": "Brandubh-2 Tablut 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b4-b5",
+        "d3-c3",
+        "f4-f3",
+        "e4-e7",
+        "f3-f7xe7",
+        "d5-e5",
+        "d6-e6",
+        "d4-e4",
+        "d2-e2",
+        "e4-e3",
+        "g4-e4xe5"
+    ],
+    "WhoWon": "Black"
+}

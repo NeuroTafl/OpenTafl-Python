@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "josh",
+    "BlackSidePlayerName": "Lance",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j10",
+        "h6-h2",
+        "h11-h3xh2",
+        "f4-c4",
+        "b6-b2",
+        "g6-j6",
+        "f10-b10",
+        "f6-i6",
+        "f2-j2",
+        "i6-i11",
+        "j10-j11",
+        "i11-i1",
+        "j2-j1",
+        "i1-i11xj11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

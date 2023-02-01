@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Barba",
+    "AageGameTypeKey": 8,
+    "AageGameTypeName": "Ashton tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e7-h7",
+        "e8-h8",
+        "e6-b6",
+        "d9-d7",
+        "e4-b4xb5",
+        "i4-e4xe3",
+        "c5-c7",
+        "i6-i7",
+        "e5-e7xd7",
+        "e4-c4xb4",
+        "e7-g7",
+        "f9-g9",
+        "b6-b7",
+        "a6-a7",
+        "g7-d7",
+        "h5-h6xh7",
+        "d5-d6",
+        "i7-f7",
+        "d7-d8",
+        "f7-d7"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "MasterLuke",
+    "BlackSidePlayerName": "jilles",
+    "AageGameTypeKey": 154,
+    "AageGameTypeName": "Tyr 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f1-f2",
+        "f4-g4",
+        "i6-i5",
+        "e7-e9",
+        "a9-a8",
+        "f6-g6",
+        "i9-i8",
+        "d6-c6",
+        "i1-e1",
+        "e5-e8",
+        "i8-f8",
+        "e8-c8xc7"
+    ],
+    "WhoWon": "White"
+}

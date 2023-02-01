@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Branan",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-e1",
+        "e4-g4",
+        "f5-g5",
+        "g4-g3",
+        "f3-f2",
+        "d5-f5",
+        "c6-d6",
+        "c4-c7",
+        "b3-b4",
+        "c7-d7",
+        "b5-c5",
+        "d3-a3",
+        "e1-e5xf5",
+        "d4-d1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

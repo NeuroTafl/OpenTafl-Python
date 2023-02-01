@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-a3",
+        "b4-b5",
+        "d4-d3",
+        "b5-b2",
+        "d5-a5xa4",
+        "d1-d2xc2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

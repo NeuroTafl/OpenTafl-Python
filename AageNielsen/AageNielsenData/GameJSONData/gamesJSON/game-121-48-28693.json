@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-e1",
+        "d3-d1",
+        "c6-c7",
+        "d5-d7",
+        "f5-e5",
+        "e4-f4",
+        "e1-e4",
+        "f4-f5",
+        "e5-d5",
+        "d4-d3",
+        "b3-c3",
+        "d3-d2",
+        "e4-e2"
+    ],
+    "WhoWon": "Black"
+}

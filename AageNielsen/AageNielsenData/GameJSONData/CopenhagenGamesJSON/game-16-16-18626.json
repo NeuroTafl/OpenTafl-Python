@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "Jayce429",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-h8",
+        "e5-c5",
+        "a4-c4",
+        "d6-d3",
+        "b6-c6xc5",
+        "f5-c5",
+        "c4-c3",
+        "e7-c7xc6",
+        "e1-e3xd3",
+        "e6-e10",
+        "a5-b5",
+        "f6-b6",
+        "a8-b8",
+        "f4-b4xb5",
+        "d11-d10xe10",
+        "b4-b3",
+        "a6-a3xb3",
+        "b6-b1",
+        "c3-c1",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

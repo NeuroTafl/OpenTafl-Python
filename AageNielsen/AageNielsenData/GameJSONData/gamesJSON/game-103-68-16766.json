@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 103,
+    "AageGameTypeName": "Ard Ri friendly-throne unarmed circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-c6",
+        "e4-e2",
+        "f6-e6",
+        "d3-g3",
+        "d1-d3",
+        "d5-g5xg4",
+        "e6-e4",
+        "d4-d5",
+        "c6-c5",
+        "d5-f5",
+        "d7-f7",
+        "f5-f4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

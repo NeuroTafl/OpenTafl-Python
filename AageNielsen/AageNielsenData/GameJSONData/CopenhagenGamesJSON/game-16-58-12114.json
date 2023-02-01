@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j3",
+        "f8-c8",
+        "e11-e8",
+        "d6-d9",
+        "f10-f9",
+        "e7-b7",
+        "a8-b8xb7",
+        "f7-b7",
+        "k7-h7",
+        "f6-f8",
+        "g11-g8",
+        "c8-d8xe8",
+        "b6-d6xe6",
+        "d9-b9xb8",
+        "k5-h5xh6",
+        "d8-d10",
+        "f11-f10",
+        "f8-a8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

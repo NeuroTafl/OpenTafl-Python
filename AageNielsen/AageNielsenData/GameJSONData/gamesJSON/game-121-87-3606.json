@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "c6-c7",
+        "d3-d1",
+        "e2-e1",
+        "d1-c1",
+        "c2-d2",
+        "c4-c2",
+        "c7-c4",
+        "d5-d7",
+        "f5-d5",
+        "d7-d6xd5",
+        "b5-d5",
+        "e4-e2xd2",
+        "f3-d3"
+    ],
+    "WhoWon": "Black"
+}

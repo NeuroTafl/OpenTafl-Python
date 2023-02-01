@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "d6-d3",
+        "d1-d2",
+        "e5-b5",
+        "c4-c5xb5",
+        "d3-b3",
+        "a5-a3",
+        "e6-e2",
+        "g1-g3",
+        "f6-c6",
+        "c5-c3xb3",
+        "f8-b8",
+        "k8-c8xb8",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

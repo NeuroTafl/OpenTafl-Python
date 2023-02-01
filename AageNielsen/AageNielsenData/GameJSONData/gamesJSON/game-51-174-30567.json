@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "c4-c3",
+        "f5-e5",
+        "c3-a3",
+        "b4-b5",
+        "d4-c4",
+        "d2-c2",
+        "d3-d2",
+        "b5-c5xd5",
+        "c4-d4",
+        "c2-a2xa3",
+        "d4-d3",
+        "a4-a3",
+        "d3-g3",
+        "a3-d3xd2",
+        "g3-g1"
+    ],
+    "WhoWon": "White"
+}

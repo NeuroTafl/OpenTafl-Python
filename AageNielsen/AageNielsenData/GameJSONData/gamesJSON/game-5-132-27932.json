@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "arne64",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "e4-b4",
+        "e1-e2",
+        "e6-b6xb5",
+        "i6-e6xe7",
+        "d5-d6",
+        "f9-f6",
+        "c5-b5",
+        "i4-c4xb4",
+        "e5-c5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

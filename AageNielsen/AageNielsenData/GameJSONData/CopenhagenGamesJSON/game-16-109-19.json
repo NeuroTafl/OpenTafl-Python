@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "p59xy",
+    "BlackSidePlayerName": "Noobus3000",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "a4-f4",
+        "g5-g3",
+        "f4-f3xg3",
+        "g6-g3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

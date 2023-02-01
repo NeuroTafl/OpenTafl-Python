@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "philip",
+    "BlackSidePlayerName": "Domi",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4h4",
+        "f8b8",
+        "k8h8",
+        "g7g8",
+        "f10f8",
+        "d6c6",
+        "d1d6",
+        "e7e9",
+        "f8c8",
+        "e9c9",
+        "a7e7",
+        "f7f10",
+        "k5h5",
+        "f6f9",
+        "d11d10",
+        "f9k9",
+        "k7h7",
+        "k9k11"
+    ],
+    "WhoWon": "White"
+}

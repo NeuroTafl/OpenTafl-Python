@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "John",
+    "BlackSidePlayerName": "michaelasd",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6i6",
+        "f8f9",
+        "g11g9",
+        "g7g8",
+        "e11e9",
+        "f7f8",
+        "e9e8",
+        "f6f7",
+        "k8h8",
+        "f7j7",
+        "g9j9",
+        "j7j1",
+        "j9j2",
+        "j1k1"
+    ],
+    "WhoWon": "White"
+}

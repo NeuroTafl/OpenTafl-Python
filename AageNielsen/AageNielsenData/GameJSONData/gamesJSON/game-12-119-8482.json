@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "rosk",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 12,
+    "AageGameTypeName": "Old Hnefatafl 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-f2",
+        "c5-c1",
+        "b5-b1xc1",
+        "d5-d8",
+        "d1-d7xd8",
+        "e5-c5",
+        "e1-c1",
+        "c5-c3",
+        "d7-b7",
+        "c3-c2",
+        "a4-a3",
+        "c2-a2",
+        "b1-b2"
+    ],
+    "WhoWon": "Black"
+}

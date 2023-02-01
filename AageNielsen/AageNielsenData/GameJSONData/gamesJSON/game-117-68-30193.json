@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Kllimm",
+    "AageGameTypeKey": 117,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h2-j2",
+        "f8-f11",
+        "e13-e11xf11",
+        "f6-f11",
+        "f2-f10xf11",
+        "g7-f7",
+        "b6-b4",
+        "f7-f3",
+        "c7-c3",
+        "h6-h2",
+        "f1-f2",
+        "h2-g2xg3",
+        "f2-d2",
+        "f3-m3"
+    ],
+    "WhoWon": "White"
+}

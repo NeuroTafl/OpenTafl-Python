@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f3",
+        "d5-c5",
+        "d6-c6",
+        "c4-c1",
+        "b4-c4xc5xc1xc5",
+        "e4-e1xd1",
+        "d2-d1",
+        "e1-e2",
+        "d1-e1",
+        "e2-e6",
+        "d7-d6",
+        "e6-e5",
+        "d6-d5",
+        "d3-e3",
+        "f3-f5xe5",
+        "d4-d2",
+        "d5-d3",
+        "d2-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

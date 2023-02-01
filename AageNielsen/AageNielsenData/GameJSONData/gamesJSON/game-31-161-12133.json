@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "malicious",
+    "BlackSidePlayerName": "Big-MA-J",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-g3",
+        "f7-e7",
+        "e2-e3xf3",
+        "f8-g8",
+        "e3-e4",
+        "g6-g4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

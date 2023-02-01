@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Jilles",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "e4-f4",
+        "e8-g8",
+        "f5-f6",
+        "b5-b7",
+        "e3-h3",
+        "d1-d3",
+        "g5-g1",
+        "i4-h4",
+        "f4-f2",
+        "i5-i2",
+        "e5-e3",
+        "e1-e2",
+        "e3-g3",
+        "i2-g2xf2",
+        "g3-f3",
+        "g2-f2",
+        "f6-f4",
+        "g8-g3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Dimetr",
+    "AageGameTypeKey": 67,
+    "AageGameTypeName": "Fidchell armed (Hnefatafl edge 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a1-b1",
+        "f4-f7",
+        "g4-f4",
+        "d3-f3",
+        "a3-d3xd2",
+        "d5-f5xf4",
+        "e1-e3xf3",
+        "f5-f2",
+        "e3-e2",
+        "e4-g4",
+        "a5-d5xd6",
+        "d4-f4",
+        "g7-g6",
+        "f2-g2xg3",
+        "d3-g3xg4xg2",
+        "f4-g4"
+    ],
+    "WhoWon": "White"
+}

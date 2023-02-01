@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "Bean",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g10-g9",
+        "h6-h9xg9",
+        "j7-i7",
+        "f8-i8xi7",
+        "k7-k11",
+        "g6-g10",
+        "g1-h1",
+        "f7-j7"
+    ],
+    "WhoWon": "Draw"
+}

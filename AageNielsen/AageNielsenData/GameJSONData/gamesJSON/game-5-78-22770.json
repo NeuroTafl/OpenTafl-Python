@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Wandrille",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b5-b7",
+        "g5-g2",
+        "h5-g5",
+        "e3-h3",
+        "f1-f3",
+        "h3-h5xg5",
+        "i4-g4",
+        "h5-h8",
+        "e1-g1",
+        "d5-d6",
+        "a4-c4",
+        "e6-f6",
+        "f3-g3xg2",
+        "e5-e6",
+        "a5-b5",
+        "f5-f4",
+        "i5-f5",
+        "h8-h4xg4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

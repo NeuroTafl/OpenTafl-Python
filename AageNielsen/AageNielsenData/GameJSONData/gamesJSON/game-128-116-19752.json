@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Tirjera",
+    "BlackSidePlayerName": "Gungnir",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-d2",
+        "f5-g5",
+        "h5-h4",
+        "e5-f5",
+        "h2-f2",
+        "f6-g6",
+        "e8-f8",
+        "e6-e7",
+        "f8-f7",
+        "d6-d8",
+        "c7-d7xe7",
+        "d5-d6xd7",
+        "c3-c6",
+        "d6-d7",
+        "h8-h6",
+        "f5-f6",
+        "c6-e6",
+        "d4-c4",
+        "b5-e5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Mj&oslash;lnir",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "g11-g9",
+        "e5-e9",
+        "a4-d4",
+        "f8-c8",
+        "b6-b10",
+        "c8-c10xd10",
+        "e11-c11",
+        "d6-d8",
+        "f2-b2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

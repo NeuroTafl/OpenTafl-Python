@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Потапыч",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "a7-a8",
+        "f7-g7",
+        "a8-d8",
+        "d6-d7",
+        "e10-e9",
+        "c6-c9",
+        "b6-d6xd7",
+        "c9-d9xe9",
+        "f10-d10xd9",
+        "g7-d7",
+        "e11-e9",
+        "f5-d5xd6",
+        "a6-d6xd7",
+        "f4-b4",
+        "e2-e4",
+        "d5-c5",
+        "e4-f4xf3",
+        "c5-c6xd6",
+        "b7-f7",
+        "f8-g8",
+        "f4-f5"
+    ],
+    "WhoWon": "Black"
+}

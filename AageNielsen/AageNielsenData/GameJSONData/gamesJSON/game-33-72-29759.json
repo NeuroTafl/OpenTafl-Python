@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Rollo",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "b8-b10",
+        "h8-k8",
+        "m9-k9xk8",
+        "g8-k8",
+        "k7-k4",
+        "g10-k10xk9",
+        "i13-i10",
+        "i9-l9",
+        "h12-l12",
+        "j7-l7xl8",
+        "m8-l8xl7",
+        "h7-l7xl8",
+        "m5-k5",
+        "g7-j7",
+        "g11-j11",
+        "j7-j1"
+    ],
+    "WhoWon": "White"
+}

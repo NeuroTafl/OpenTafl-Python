@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d6-e6",
+        "f4-f2",
+        "d2-c2",
+        "d3-g3",
+        "d1-f1",
+        "d4-d3",
+        "f1-e1",
+        "d3-e3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

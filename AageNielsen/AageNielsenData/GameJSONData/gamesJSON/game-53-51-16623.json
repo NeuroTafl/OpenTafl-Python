@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Rook",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b3",
+        "d5-b5",
+        "d6-b6",
+        "c4-c7",
+        "a4-b4xb5",
+        "d4-d6",
+        "f4-f5",
+        "e4-e7xd7",
+        "b4-a4",
+        "d6-f6",
+        "g4-g6",
+        "f6-f7",
+        "a4-e4",
+        "f7-g7"
+    ],
+    "WhoWon": "White"
+}

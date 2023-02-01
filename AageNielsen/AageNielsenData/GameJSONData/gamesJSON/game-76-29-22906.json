@@ -1,0 +1,16 @@
+{
+    "WhiteSidePlayerName": "AceVandervex",
+    "BlackSidePlayerName": "QuisUtDeus",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c6-c8",
+        "f8-i8",
+        "f9-i9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

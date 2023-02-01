@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "d11-d9",
+        "d6-d2",
+        "b6-b2",
+        "e6-b6",
+        "a4-c4",
+        "f6-c6",
+        "a8-c8",
+        "b6-b10",
+        "a7-b7",
+        "f8-d8",
+        "e11-e8xd8",
+        "e7-e9xe8",
+        "h11-h9",
+        "c6-c11",
+        "f10-c10",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

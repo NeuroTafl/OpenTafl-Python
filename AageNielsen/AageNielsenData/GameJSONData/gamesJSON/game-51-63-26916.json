@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "CornDogBoy",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f5",
+        "d5-c5",
+        "d7-c7",
+        "e4-e7",
+        "d2-e2",
+        "d4-d5",
+        "b4-b6",
+        "e7-d7xd6",
+        "b6-d6",
+        "d7-e7",
+        "d6-b6",
+        "e7-e6",
+        "c7-d7",
+        "c5-c7",
+        "b6-b5",
+        "e6-e7xd7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

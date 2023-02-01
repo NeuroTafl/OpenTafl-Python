@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Cacreal",
+    "BlackSidePlayerName": "Rossomaha",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b10",
+        "d6-b6",
+        "f2-b2",
+        "e6-c6",
+        "j6-j2",
+        "f6-d6",
+        "a8-a9",
+        "d6-d3",
+        "a4-a3",
+        "d3-k3",
+        "j2-k2",
+        "k3-j3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

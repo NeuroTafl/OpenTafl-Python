@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "animals",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-d1",
+        "e4-e2",
+        "g3-f3",
+        "e2-a2",
+        "a3-b3",
+        "c4-c1",
+        "c7-c4",
+        "d5-c5",
+        "e1-e4",
+        "d4-d7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

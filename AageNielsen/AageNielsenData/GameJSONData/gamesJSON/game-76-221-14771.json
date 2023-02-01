@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Thebloodyjarl",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-i4",
+        "g5-i5",
+        "k6-i6xi5",
+        "f5-i5",
+        "j7-i7",
+        "e5-e3",
+        "f3-h3",
+        "d6-d1",
+        "b5-f5",
+        "e6-e5",
+        "a5-d5xe5",
+        "e7-e5",
+        "f5-h5xi5",
+        "f7-e7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

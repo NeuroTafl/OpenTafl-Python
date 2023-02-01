@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "RedPython",
+    "BlackSidePlayerName": "Polychoron",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f2-j2",
+        "h6-h9",
+        "k4-k2",
+        "h9-j9",
+        "k5-k3",
+        "g7-j7",
+        "h1-j1",
+        "g5-j5xj6",
+        "g1-i1",
+        "g6-g2",
+        "b6-b2",
+        "f6-i6",
+        "h11-i11",
+        "d6-b6",
+        "d1-b1",
+        "i6-i10",
+        "k8-k10",
+        "j9-k9xk10",
+        "i1-i9",
+        "f8-i8xi9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "Simplemath",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a8-c8",
+        "f4-i4",
+        "d1-d3",
+        "g5-g2",
+        "e1-e3",
+        "f5-j5",
+        "k4-j4xj5",
+        "f6-f3",
+        "h1-h2xg2",
+        "f3-j3",
+        "h2-j2",
+        "i4-i1",
+        "j2-j1",
+        "j3-j2",
+        "k5-k2",
+        "h6-h1",
+        "f2-i2",
+        "h1-h2xi2",
+        "g1-h1xi1",
+        "h2-h3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

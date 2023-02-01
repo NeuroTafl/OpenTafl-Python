@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "duhawk93",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-h6",
+        "d5-d4",
+        "a4-b4",
+        "e5-d5",
+        "d9-d8",
+        "d4-d2",
+        "f1-f2",
+        "e3-a3",
+        "f2-f3",
+        "d5-d3",
+        "b4-b2",
+        "d3-b3",
+        "f3-d3xd2",
+        "a3-a4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

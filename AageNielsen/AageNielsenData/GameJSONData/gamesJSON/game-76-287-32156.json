@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Tonythebook",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g2-g3",
+        "f8-c8",
+        "f9-c9",
+        "f7-f10",
+        "i6-i9",
+        "d6-d10xe10",
+        "e11-e10xf10",
+        "f6-f10xe10",
+        "i9-f9"
+    ],
+    "WhoWon": "Black"
+}

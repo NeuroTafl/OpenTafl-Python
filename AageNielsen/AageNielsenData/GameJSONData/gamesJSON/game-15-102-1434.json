@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Wesley alves",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "h11-h10",
+        "f8-i8",
+        "k8-j8",
+        "g7-g10",
+        "h1-h8xh9xi8",
+        "f7-i7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

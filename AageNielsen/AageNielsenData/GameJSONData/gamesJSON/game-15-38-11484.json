@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "fairland",
+    "BlackSidePlayerName": "Coemgein",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j10",
+        "d6-d2",
+        "d11-d3xd2",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "d3-e3xe2",
+        "f6-c6",
+        "a5-c5",
+        "c6-c10",
+        "b6-b10",
+        "g6-c6",
+        "a7-c7xc6",
+        "c10-c11",
+        "b10-b11",
+        "c11-c9",
+        "a8-a9",
+        "c9-c11xb11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

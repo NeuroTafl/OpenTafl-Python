@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Miramix",
+    "BlackSidePlayerName": "Themightyglider",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f4-f2",
+        "f10-c10",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "b4-f4",
+        "f2-f3",
+        "f1-f2xf3",
+        "f8-j8",
+        "c10-c5xb5",
+        "g7-j7",
+        "i2-i7xj7",
+        "f7-h7",
+        "g11-g7xh7",
+        "f6-f10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

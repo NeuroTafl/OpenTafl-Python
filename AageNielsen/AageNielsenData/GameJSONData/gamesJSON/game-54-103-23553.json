@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "b4-b2",
+        "d4-d3",
+        "b2-c2xd2",
+        "d3-c3",
+        "a4-a3",
+        "c3-b3",
+        "d1-b1",
+        "b3-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

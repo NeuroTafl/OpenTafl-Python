@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "f4-i4",
+        "j6-j2",
+        "g5-j5",
+        "k4-j4",
+        "h6-j6",
+        "f10-j10",
+        "f5-i5",
+        "b6-b4",
+        "e5-e4",
+        "d1-d3",
+        "f6-f3",
+        "g1-g3",
+        "e4-e2",
+        "b4-f4"
+    ],
+    "WhoWon": "Black"
+}

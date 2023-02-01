@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "edmond-dantes",
+    "BlackSidePlayerName": "Rasmusruge",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b2",
+        "d6-d9",
+        "f10-b10",
+        "e6-b6",
+        "j6-j10",
+        "f6-c6",
+        "f2-j2",
+        "c6-c11",
+        "b10-b11",
+        "c11-c1",
+        "b2-b1",
+        "c1-c11xb11",
+        "j10-b10",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

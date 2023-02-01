@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "sun231",
+    "BlackSidePlayerName": "tomtso",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f8-f9",
+        "d11-d9",
+        "e7-c7",
+        "a8-c8",
+        "g7-g9",
+        "h11-h9",
+        "f7-i7",
+        "j6-i6xi7",
+        "e6-e10",
+        "b6-c6xc7",
+        "f6-f7",
+        "i8-f8xf9",
+        "f7-b7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

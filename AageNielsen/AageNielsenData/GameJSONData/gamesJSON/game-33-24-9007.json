@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i13-i10",
+        "f6-f3",
+        "a5-d5",
+        "h6-h3xg3",
+        "g1-g3",
+        "f3-c3",
+        "f2-f5xe5",
+        "h8-k8",
+        "m9-k9xk8",
+        "c3-f3xg3",
+        "e1-e7xd7",
+        "g6-j6",
+        "l8-i8xi9",
+        "g4-g2",
+        "i1-i2",
+        "g7-g4",
+        "f5-f4",
+        "g4-m4"
+    ],
+    "WhoWon": "White"
+}

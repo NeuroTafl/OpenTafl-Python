@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Bogd Khan",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-g3",
+        "d6-d3",
+        "k4-i4",
+        "e5-b5",
+        "b6-b9",
+        "e6-e2",
+        "a4-c4",
+        "f6-c6",
+        "d1-d2xe2",
+        "c6-c11",
+        "b9-b11",
+        "c11-c5",
+        "d11-c11",
+        "d3-c3xc4",
+        "d2-b2",
+        "c5-c9",
+        "a8-a9",
+        "c9-k9",
+        "f10-k10",
+        "k9-d9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "d5-c5",
+        "b4-b5",
+        "c4-c1",
+        "d2-e2",
+        "d3-d2",
+        "d6-d5xc5",
+        "d4-b4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

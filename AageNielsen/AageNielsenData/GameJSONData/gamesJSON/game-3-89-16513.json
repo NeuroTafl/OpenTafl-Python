@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h4",
+        "g5-g3",
+        "d1-d3",
+        "e7-e10",
+        "d11-d10xe10",
+        "e5-e2",
+        "g1-g2",
+        "f5-h5",
+        "h4-g4xg3",
+        "f6-f3",
+        "j6-j3",
+        "f3-c3",
+        "d10-c10",
+        "d6-d2",
+        "b6-b2",
+        "c3-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

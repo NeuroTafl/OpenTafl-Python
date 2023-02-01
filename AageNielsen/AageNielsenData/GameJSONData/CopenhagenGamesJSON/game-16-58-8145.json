@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "edmond-dantes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "k8-j8",
+        "d6-d9",
+        "h11-h8xi8",
+        "g7-j7",
+        "g11-g9",
+        "g5-j5xj6",
+        "k4-j4",
+        "f4-c4",
+        "k6-j6xj7xj5",
+        "e5-e3",
+        "b6-b3",
+        "e6-b6",
+        "f10-b10",
+        "c4-c11",
+        "b10-b11xc11",
+        "f6-c6",
+        "d11-c11",
+        "c6-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

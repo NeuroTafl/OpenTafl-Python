@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "Corbeau",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10-j10",
+        "f8-f10",
+        "b6-b10",
+        "f7-f9",
+        "f2-b2",
+        "f6-f8",
+        "j6-j2",
+        "f8-i8",
+        "h1-i1",
+        "i8-i11",
+        "j10-j11",
+        "i11-i3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

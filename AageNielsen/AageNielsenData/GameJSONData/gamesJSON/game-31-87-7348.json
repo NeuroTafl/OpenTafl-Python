@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Eyiri",
+    "BlackSidePlayerName": "X-Event",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "f3-c3",
+        "b5-b4",
+        "f4-c4",
+        "e1-e4",
+        "f5-b5",
+        "e4-d4xc4",
+        "c3-b3xb4",
+        "d4-b4xb5",
+        "f6-f4",
+        "j5-j4",
+        "c6-c4",
+        "g2-g3",
+        "d6-c6",
+        "f2-e2",
+        "f4-d4",
+        "b7-d7",
+        "d4-d1"
+    ],
+    "WhoWon": "White"
+}

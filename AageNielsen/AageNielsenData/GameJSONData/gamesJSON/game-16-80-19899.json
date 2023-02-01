@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "ragnar76",
+    "BlackSidePlayerName": "arthur",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d4",
+        "f4-f3",
+        "j6-j3",
+        "f8-j8",
+        "f10-f8",
+        "j8-j10",
+        "e1-c1",
+        "f3-a3",
+        "f2-a2xa3",
+        "h6-h10",
+        "h1-h9xh10",
+        "g5-g2",
+        "j3-j2",
+        "f5-f2",
+        "k4-f4",
+        "g6-g4",
+        "k6-h6",
+        "f6-f5",
+        "k5-h5",
+        "d6-c6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

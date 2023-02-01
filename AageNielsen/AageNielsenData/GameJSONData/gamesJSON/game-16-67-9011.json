@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "fairland",
+    "BlackSidePlayerName": "2016champ",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-i8",
+        "h6-h9",
+        "f10-c10",
+        "g7-j7",
+        "i8-i7xj7",
+        "g6-g10",
+        "h11-h10",
+        "f8-i8",
+        "f11-f9",
+        "f6-i6xi7",
+        "k7-k9",
+        "i8-i10xh10",
+        "g11-i11",
+        "f7-j7",
+        "a8-j8xj7",
+        "i10-j10",
+        "e11-h11",
+        "i6-i10",
+        "k6-k8",
+        "j10-j9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

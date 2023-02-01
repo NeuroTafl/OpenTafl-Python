@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Matematician",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i1-i4",
+        "h6-j6",
+        "m5-j5",
+        "j6-k6",
+        "j5-k5xk6",
+        "j7-j1",
+        "l6-i6xi5",
+        "h7-h3",
+        "i4-i3xh3",
+        "h8-h3",
+        "h12-h4xh3",
+        "g7-j7",
+        "l8-j8",
+        "j7-j2",
+        "k5-k2",
+        "j1-i1",
+        "h2-i2",
+        "j2-j1"
+    ],
+    "WhoWon": "White"
+}

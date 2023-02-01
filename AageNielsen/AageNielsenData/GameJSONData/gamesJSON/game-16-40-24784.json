@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Vercingetorix",
+    "BlackSidePlayerName": "ragnar76",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h4",
+        "g5-g2",
+        "h4-g4",
+        "g2-j2",
+        "e1-e4xf4",
+        "h6-h1",
+        "k8-h8",
+        "f5-j5",
+        "b6-b2",
+        "f6-f3",
+        "g4-g3",
+        "f3-a3",
+        "b2-a2",
+        "a3-b3",
+        "d1-b1",
+        "b3-b11",
+        "k4-j4xj5",
+        "b11-a11"
+    ],
+    "WhoWon": "White"
+}

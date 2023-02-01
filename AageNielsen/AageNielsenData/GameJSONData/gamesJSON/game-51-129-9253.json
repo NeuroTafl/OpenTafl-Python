@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "jilles",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "b4-b3",
+        "c4-b4",
+        "b3-b2",
+        "b4-b6",
+        "f4-f3",
+        "d4-c4",
+        "d7-c7",
+        "e4-e7",
+        "b2-c2xd2",
+        "e7-d7xd6",
+        "e2-e7xd7",
+        "d5-d7",
+        "c7-c6",
+        "d7-d6xc6",
+        "e7-c7",
+        "c4-c5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

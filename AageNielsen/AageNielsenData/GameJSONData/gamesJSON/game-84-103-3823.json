@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "animals",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 84,
+    "AageGameTypeName": "Foteviken tablut 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "h11-i11",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "a8-h8xi8",
+        "f6-f9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

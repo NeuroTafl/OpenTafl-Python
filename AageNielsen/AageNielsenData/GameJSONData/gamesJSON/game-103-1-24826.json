@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Casshern",
+    "AageGameTypeKey": 103,
+    "AageGameTypeName": "Ard Ri friendly-throne unarmed circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b2-c2",
+        "d3-d2",
+        "f2-f3",
+        "d2-f2",
+        "f3-d3",
+        "e4-e3",
+        "d3-d2",
+        "d4-f4",
+        "d1-g1",
+        "e3-g3",
+        "f6-f5",
+        "f4-e4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

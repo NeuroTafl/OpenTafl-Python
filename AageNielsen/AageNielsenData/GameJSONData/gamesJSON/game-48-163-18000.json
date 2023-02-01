@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Mccluskeyp",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h13-d13",
+        "k8-k13",
+        "h12-c12",
+        "h11-m11",
+        "i14-k14",
+        "g10-g12",
+        "n9-n12",
+        "m11-m15",
+        "n12-k12xk13",
+        "i10-i13",
+        "j15-l15",
+        "h10-m10",
+        "k12-m12",
+        "h9-h11",
+        "l8-l11",
+        "h8-h10",
+        "n8-n15xm15",
+        "h10-l10",
+        "o9-l9"
+    ],
+    "WhoWon": "Black"
+}

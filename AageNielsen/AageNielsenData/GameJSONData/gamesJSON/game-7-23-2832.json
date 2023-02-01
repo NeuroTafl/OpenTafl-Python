@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-g2",
+        "g5-g4",
+        "h5-h3",
+        "f5-h5",
+        "e8-g8",
+        "h5-h9",
+        "i4-h4",
+        "e6-g6",
+        "f1-f4xg4",
+        "g6-g4xf4",
+        "f9-f4xg4",
+        "e5-f5",
+        "e9-f9",
+        "f5-f7",
+        "h4-h7",
+        "e7-e9",
+        "d9-d7",
+        "h9-g9xf9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-d2",
+        "g7-g9",
+        "e10-e9",
+        "f7-i7",
+        "j5-i5",
+        "f6-f7",
+        "c6-c8",
+        "f7-h7",
+        "g10-h10",
+        "h6-h2",
+        "i6-h6xg6",
+        "g5-h5xh6",
+        "h10-h9xg9",
+        "e6-i6",
+        "i5-i2xh2",
+        "h5-h2",
+        "g1-h1",
+        "f5-j5",
+        "f3-h3xh2",
+        "h7-h4",
+        "h9-h5"
+    ],
+    "WhoWon": "Black"
+}

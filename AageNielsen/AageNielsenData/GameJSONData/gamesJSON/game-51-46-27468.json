@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Wesley Alves",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "d3-d2",
+        "f4-f3",
+        "e4-e5",
+        "f3-d3xd2",
+        "d4-f4",
+        "d3-e3",
+        "f4-f6",
+        "b4-b3",
+        "e5-e7",
+        "g4-g6",
+        "f6-f7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

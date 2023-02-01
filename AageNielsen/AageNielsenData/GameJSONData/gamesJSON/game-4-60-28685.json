@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Tamzarian",
+    "BlackSidePlayerName": "Bogd Khan",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "f8-i8",
+        "f2-i2",
+        "e7-e9",
+        "d11-d9",
+        "f7-f9",
+        "j6-j9",
+        "h6-h3",
+        "d1-d3",
+        "g6-j6",
+        "h1-h2",
+        "j6-j8",
+        "k4-j4",
+        "i8-i10",
+        "k7-j7xj8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

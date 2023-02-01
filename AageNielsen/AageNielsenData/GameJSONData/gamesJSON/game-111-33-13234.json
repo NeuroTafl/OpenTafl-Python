@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 111,
+    "AageGameTypeName": "Tablut 13x13 (modif. Parlett)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i1-j1",
+        "h6-h3",
+        "j1-j3",
+        "f6-f3xg3",
+        "i13-i10",
+        "g6-j6",
+        "l8-i8xi9",
+        "g4-j4",
+        "a5-a4",
+        "g7-g4",
+        "b8-e8",
+        "d7-d8xe8",
+        "l6-l4",
+        "f7-f6",
+        "m5-j5xj4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

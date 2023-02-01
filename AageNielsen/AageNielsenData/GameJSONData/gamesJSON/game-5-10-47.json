@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "nath",
+    "BlackSidePlayerName": "cyningstan",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-h6",
+        "c5-c1",
+        "a6-c6",
+        "d5-d8",
+        "e8-g8",
+        "e5-d5",
+        "e2-b2",
+        "d5-d2",
+        "e1-e2",
+        "d2-c2",
+        "e2-d2",
+        "e3-b3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

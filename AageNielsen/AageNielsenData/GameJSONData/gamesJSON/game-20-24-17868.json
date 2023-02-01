@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 20,
+    "AageGameTypeName": "King anvil only edge 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "j6-j9",
+        "h6-j6",
+        "f2-i2",
+        "f4-f2",
+        "d1-d3",
+        "g6-g3",
+        "j4-i4",
+        "e5-i5",
+        "i4-i3",
+        "f6-f4",
+        "k5-k4",
+        "f4-c4",
+        "a8-c8",
+        "c4-c1"
+    ],
+    "WhoWon": "White"
+}

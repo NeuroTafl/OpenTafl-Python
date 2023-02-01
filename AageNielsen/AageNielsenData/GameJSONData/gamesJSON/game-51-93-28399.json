@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "&THORN;orkell",
+    "BlackSidePlayerName": "Siegfried",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "d3-f3",
+        "c2-f2xf3",
+        "e4-e1",
+        "f2-c2",
+        "d5-g5",
+        "d6-g6xg5",
+        "d4-d5",
+        "g6-e6",
+        "e1-e2",
+        "b4-b5",
+        "d5-d3",
+        "f4-f3",
+        "c4-b4",
+        "g4-c4xb4",
+        "e2-f2",
+        "d7-d5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

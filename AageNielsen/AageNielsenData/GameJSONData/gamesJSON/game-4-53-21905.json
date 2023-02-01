@@ -1,0 +1,16 @@
+{
+    "WhiteSidePlayerName": "Floki",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a5-c5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

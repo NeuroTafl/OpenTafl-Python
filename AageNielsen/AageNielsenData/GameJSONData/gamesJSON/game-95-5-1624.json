@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 95,
+    "AageGameTypeName": "Brandubh throneless cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d6-e6",
+        "d4-e4",
+        "d2-f2",
+        "d3-g3",
+        "e6-e5",
+        "g3-a3",
+        "g4-g3",
+        "e4-e3",
+        "g3-f3xf4",
+        "d5-d2",
+        "d7-d3xd2"
+    ],
+    "WhoWon": "Black"
+}

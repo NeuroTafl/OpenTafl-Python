@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 98,
+    "AageGameTypeName": "Brandubh throneless line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-c3",
+        "d3-d1",
+        "e1-e2",
+        "d1-c1",
+        "c3-d3",
+        "c4-c2",
+        "d3-d2",
+        "d4-b4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

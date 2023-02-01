@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 39,
+    "AageGameTypeName": "Copenhagen Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g2-k2",
+        "g4-c4",
+        "b7-b3",
+        "e7-e11",
+        "a7-c7",
+        "d7-d11",
+        "c7-c11",
+        "h8-l8",
+        "m9-l9xl8",
+        "f7-b7",
+        "d13-d12",
+        "b7-b11xc11",
+        "a10-d10xd11",
+        "g7-c7",
+        "e13-c13",
+        "c7-c12",
+        "a9-a12",
+        "c12-b12",
+        "c13-b13",
+        "c4-c13xb13xb13",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

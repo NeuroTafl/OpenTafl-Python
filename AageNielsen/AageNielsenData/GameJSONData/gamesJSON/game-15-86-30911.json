@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "chuck ward",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "h6-h10",
+        "j6-j10",
+        "g6-j6",
+        "h3-h6",
+        "f6-g6",
+        "k4-g4",
+        "j6-i6xh6",
+        "k5-h5",
+        "g6-h6",
+        "k8-h8",
+        "h6-h7",
+        "h8-h9xh10",
+        "i6-i4",
+        "k7-i7",
+        "i4-h4xg4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

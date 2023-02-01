@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "d5-f5",
+        "a5-a4",
+        "d4-d7",
+        "c7-b7",
+        "d7-c7xb7",
+        "e7-e5xf5xe4",
+        "c7-a7"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "test3",
+    "AageGameTypeKey": 49,
+    "AageGameTypeName": "Historical Hnefatafl 15x15 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k1-k4",
+        "i10-i13",
+        "g14-g12",
+        "e8-e13",
+        "g15-g13",
+        "i9-i12",
+        "j15-j13xi13",
+        "f9-f12",
+        "h13-h12",
+        "g9-c9",
+        "b7-d7",
+        "i12-i13",
+        "h15-h13xi13",
+        "h5-c5",
+        "a6-c6",
+        "k8-k13",
+        "j13-j11",
+        "i6-k6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

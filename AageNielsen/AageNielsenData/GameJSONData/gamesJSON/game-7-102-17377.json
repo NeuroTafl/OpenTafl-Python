@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Matematician",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "e7-i7",
+        "d9-d7",
+        "g5-g8",
+        "f9-i9",
+        "g8-i8",
+        "i6-g6",
+        "f5-f4",
+        "a6-c6",
+        "e5-f5",
+        "d7-f7",
+        "e6-f6",
+        "e8-e6xf6",
+        "e3-e2",
+        "a4-c4xc5",
+        "f4-f2",
+        "h5-h3",
+        "d5-d2",
+        "h3-e3xe4xe2",
+        "f5-f6",
+        "i5-f5"
+    ],
+    "WhoWon": "Black"
+}

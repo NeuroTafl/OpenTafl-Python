@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Rossomaha",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j10",
+        "h6-j6",
+        "k4-j4",
+        "g6-i6",
+        "f2-j2",
+        "i6-i11",
+        "j10-j11xi11",
+        "f6-i6",
+        "h1-i1",
+        "i6-i11xj11",
+        "i1-i10",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

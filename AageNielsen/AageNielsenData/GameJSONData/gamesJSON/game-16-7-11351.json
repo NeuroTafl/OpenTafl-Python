@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Epoc",
+    "BlackSidePlayerName": "Bainn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g1-g3",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "b6-b9",
+        "g7-g10xf10",
+        "j6-j9",
+        "d6-b6",
+        "f2-c2",
+        "f6-c6",
+        "c2-c5",
+        "c6-c10xd10",
+        "b9-b10",
+        "c10-c11",
+        "b10-b11",
+        "c11-c9",
+        "a8-a9",
+        "c9-c11xb11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

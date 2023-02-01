@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Eyvindr",
+    "BlackSidePlayerName": "Kaykyber",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b5-b3",
+        "e6-f6",
+        "e8-c8",
+        "f5-f2",
+        "e2-c2",
+        "e4-h4",
+        "a4-g4xh4",
+        "e5-e4",
+        "a5-a4",
+        "e3-g3xg4",
+        "i4-g4",
+        "g5-g8",
+        "h5-g5",
+        "e7-e8",
+        "b3-f3xf2",
+        "e4-e3xf3",
+        "a4-a3",
+        "e3-e7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

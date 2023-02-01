@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Tamarisco",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-h8",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "f10-i10",
+        "d6-d3",
+        "d1-d2",
+        "f6-c6",
+        "d10-c10",
+        "c6-c1",
+        "b6-b1",
+        "c1-c2",
+        "b1-b2",
+        "e5-e2xd2",
+        "e1-c1",
+        "c2-c9",
+        "a8-a9",
+        "c9-k9",
+        "i10-k10",
+        "k9-b9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

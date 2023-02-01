@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Wesley Alves",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e6-e7",
+        "e4-g4",
+        "f3-g3",
+        "d5-d7",
+        "b5-a5",
+        "d3-d1",
+        "c2-c1",
+        "c4-b4",
+        "f5-g5xg4",
+        "d4-f4",
+        "g5-f5",
+        "f4-f1",
+        "e2-e1xd1"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "themightyglider",
+    "BlackSidePlayerName": "unhandyandy",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "d6-c6",
+        "e4-e6",
+        "f4-f5",
+        "d4-d3",
+        "b4-b3",
+        "d3-f3",
+        "b3-d3xd2",
+        "c4-f4",
+        "a4-e4xf4",
+        "e6-f6",
+        "e4-f4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

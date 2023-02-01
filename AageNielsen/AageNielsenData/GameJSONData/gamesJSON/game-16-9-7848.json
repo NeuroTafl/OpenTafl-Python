@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "J&uuml;rgen",
+    "BlackSidePlayerName": "Board",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j10",
+        "f4-j4",
+        "f2-j2",
+        "f5-f2",
+        "b6-b2",
+        "f6-f3",
+        "k4-k3",
+        "f3-a3",
+        "b2-a2",
+        "a3-b3",
+        "a2-b2",
+        "b3-b11",
+        "d11-c11",
+        "b11-a11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Zarquon",
+    "BlackSidePlayerName": "joe",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-i8",
+        "h6-h9",
+        "i8-g8",
+        "e7-e8",
+        "g8-h8",
+        "g7-h7xh8",
+        "a4-d4",
+        "e5-c5",
+        "k7-i7",
+        "h9-j9",
+        "g11-g7xh7",
+        "f8-g8xg7",
+        "d11-d9",
+        "j9-i9",
+        "h1-h4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

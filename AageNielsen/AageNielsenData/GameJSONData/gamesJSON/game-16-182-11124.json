@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-b2",
+        "f8-i8",
+        "f10-f8",
+        "g7-g9",
+        "e11-e9",
+        "g9-f9xf8",
+        "g11-g9xf9",
+        "f7-j7",
+        "k8-j8xj7",
+        "f6-f10",
+        "j8-j10",
+        "f10-a10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

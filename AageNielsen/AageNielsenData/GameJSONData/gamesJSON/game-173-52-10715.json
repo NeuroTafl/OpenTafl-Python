@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 173,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-b4",
+        "e2-e3",
+        "e7-e9",
+        "a7-a9",
+        "g7-g9xf9",
+        "f11-f9",
+        "f7-c7",
+        "j7-d7xc7",
+        "f6-f7",
+        "a9-d9xe9",
+        "e6-e9xf9",
+        "b5-d5xd6",
+        "f8-b8",
+        "j5-j8",
+        "f7-f11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "sandbo00",
+    "BlackSidePlayerName": "fiorell",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "h5-h8",
+        "d5-d6",
+        "i6-h6",
+        "e7-h7",
+        "e2-g2",
+        "g5-h5xh6",
+        "g2-g5xh5",
+        "h7-h5xg5",
+        "d1-d5xc5",
+        "e4-d4xd5",
+        "a4-c4",
+        "e3-c3",
+        "e1-e4xd4",
+        "e5-c5xc4",
+        "e4-c4",
+        "c5-c8",
+        "f9-f6",
+        "c8-a8"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-a3",
+        "c6-c5",
+        "d5-f5",
+        "d7-d5",
+        "a3-f3xf4",
+        "d1-d3"
+    ],
+    "WhoWon": "Black"
+}

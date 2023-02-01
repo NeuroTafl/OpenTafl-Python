@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Schachus",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "k5-i5",
+        "e7-e9",
+        "h11-h9",
+        "g7-g10",
+        "h9-g9xg10",
+        "h6-h9",
+        "j6-j9",
+        "f7-f9xg9",
+        "b6-b9",
+        "g6-g10",
+        "f10-c10",
+        "f6-j6",
+        "k4-j4",
+        "j6-j8",
+        "k8-k10",
+        "g10-j10xj9",
+        "k7-k9",
+        "j10-j11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

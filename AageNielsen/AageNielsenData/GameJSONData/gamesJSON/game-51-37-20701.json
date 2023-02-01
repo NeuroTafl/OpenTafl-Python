@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "branan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "b4-b2",
+        "c2-c5",
+        "d6-b6",
+        "d5-g5",
+        "f4-f3",
+        "e4-e7",
+        "b6-c6",
+        "d4-e4",
+        "a4-c4xc5",
+        "e4-e6",
+        "f3-f6",
+        "g5-g6xf6",
+        "c4-f4",
+        "e6-f6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

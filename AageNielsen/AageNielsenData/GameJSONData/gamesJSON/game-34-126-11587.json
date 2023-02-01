@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Bogd khan",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g3-k3",
+        "f6-c6",
+        "b8-c8",
+        "e5-c5",
+        "f2-c2",
+        "f7-f3",
+        "b6-b3",
+        "g7-e7",
+        "a9-d9",
+        "g10-b10",
+        "e13-e10",
+        "g4-k4",
+        "l6-l4",
+        "j7-j2",
+        "m5-k5xk4",
+        "j2-l2",
+        "k7-k10",
+        "e7-e4",
+        "a5-a4",
+        "e4-j4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

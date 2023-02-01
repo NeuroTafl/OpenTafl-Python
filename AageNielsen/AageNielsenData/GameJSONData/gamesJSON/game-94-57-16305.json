@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 94,
+    "AageGameTypeName": "Copenhagen Hnefatafl Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i6-i9",
+        "f4-j4",
+        "f3-j3xj4",
+        "e5-c5",
+        "b7-c7",
+        "d6-d2",
+        "f1-f3",
+        "e6-e3",
+        "e1-c1",
+        "g5-g3xf3",
+        "b5-b4",
+        "f5-f2xe2",
+        "g2-i2",
+        "h6-h1",
+        "i2-i1xh1",
+        "f6-f4",
+        "j5-j4",
+        "e3-b3",
+        "a5-b5",
+        "f4-c4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

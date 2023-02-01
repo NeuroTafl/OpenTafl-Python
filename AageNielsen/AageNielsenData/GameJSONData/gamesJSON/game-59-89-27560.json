@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Mike0127",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b5",
+        "c4-c6",
+        "d6-e6",
+        "d4-c4",
+        "d2-c2",
+        "c6-b6",
+        "d7-c7",
+        "c4-c5",
+        "a4-d4xe4",
+        "d3-b3",
+        "d4-c4",
+        "b3-c3xc4",
+        "f4-c4xc3",
+        "b6-c6",
+        "d1-d4",
+        "c6-a6",
+        "e6-c6"
+    ],
+    "WhoWon": "Black"
+}

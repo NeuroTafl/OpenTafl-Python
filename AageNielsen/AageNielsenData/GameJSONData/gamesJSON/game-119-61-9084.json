@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Bogd Khan",
+    "AageGameTypeKey": 119,
+    "AageGameTypeName": "Ard Ri-32 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-f3",
+        "d5-a5",
+        "b2-a2",
+        "d4-d5",
+        "f4-f5",
+        "d5-c5",
+        "d6-c6",
+        "a5-a4xb4",
+        "b6-b5",
+        "a4-a5xb5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

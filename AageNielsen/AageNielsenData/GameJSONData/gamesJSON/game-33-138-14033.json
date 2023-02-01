@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "L3monman",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h2-j2",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "i13-i11",
+        "d7-d11xe11",
+        "b6-d6",
+        "g7-e7",
+        "b8-c8",
+        "e9-e13",
+        "a9-a12",
+        "e7-e10",
+        "c8-c10",
+        "i9-c9",
+        "a8-c8xc9",
+        "h8-h11xg11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

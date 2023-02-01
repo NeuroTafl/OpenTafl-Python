@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "kj",
+    "BlackSidePlayerName": "sea slug",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6b3",
+        "e5c5",
+        "f10c10",
+        "g5i5",
+        "f2i2",
+        "f4d4",
+        "j6j9",
+        "e6e3",
+        "k7i7",
+        "g6g3",
+        "k6i6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

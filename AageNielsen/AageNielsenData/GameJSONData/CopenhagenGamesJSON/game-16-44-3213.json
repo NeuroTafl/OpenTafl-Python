@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "leiftyr",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-h8",
+        "g7-i7",
+        "g11-g9",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "g9-g3xg2",
+        "f6-g6",
+        "d11-d9",
+        "g6-g10",
+        "k7-k10",
+        "g10-j10",
+        "h11-j11",
+        "i7-i11xj11xj11",
+        "f10-i10",
+        "j10-j11",
+        "f11-h11",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

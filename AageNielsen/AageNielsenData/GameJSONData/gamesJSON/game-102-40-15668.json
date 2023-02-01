@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 102,
+    "AageGameTypeName": "Alea Berserk 19x19 (Bartley)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i15-i18",
+        "l11-l15",
+        "k15-k16",
+        "j11-n11",
+        "o11-p11",
+        "n14-n15xm15",
+        "i18-i16xj16",
+        "j13-m13",
+        "i16-j16",
+        "m10-o10",
+        "o9-p9xp10",
+        "i12-e12",
+        "e13-e14",
+        "g10-e10xe11",
+        "e9-d9",
+        "j10-j13",
+        "c14-c13",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "norsebrai",
+    "BlackSidePlayerName": "Noresecook",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b7-b8",
+        "f5-i5",
+        "g2-i2",
+        "f6-f5",
+        "b5-b3",
+        "f5-h5",
+        "g1-h1",
+        "f3-h3",
+        "j7-g7",
+        "f4-f3",
+        "a5-g5xg6",
+        "h5-h4",
+        "a6-a4",
+        "h4-k4"
+    ],
+    "WhoWon": "White"
+}

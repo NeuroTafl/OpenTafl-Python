@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 104,
+    "AageGameTypeName": "Ard Ri-1 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d6-e6",
+        "c4-c2",
+        "b4-b2xc2",
+        "d5-b5",
+        "e6-e4xf4",
+        "b5-a5",
+        "b2-b3",
+        "d4-c4",
+        "b3-b6",
+        "d3-a3xa4",
+        "d2-b2",
+        "c4-b4",
+        "b2-b3",
+        "b4-a4"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Ded Fomich",
+    "AageGameTypeKey": 112,
+    "AageGameTypeName": "Brandubh weak-throne circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-f3",
+        "e4-e2",
+        "f3-f2",
+        "d3-g3",
+        "f2-g2xg3",
+        "d4-f4",
+        "g2-f2",
+        "d5-d2",
+        "b2-b4xc4",
+        "f4-c4",
+        "b4-b3",
+        "c4-c2",
+        "b3-c3",
+        "c2-b2",
+        "b6-b3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

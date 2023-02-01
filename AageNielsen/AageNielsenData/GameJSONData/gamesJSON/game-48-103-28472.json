@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Mccluskeyp",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b7-b5",
+        "j9-j13",
+        "j15-j14",
+        "i10-i12",
+        "g14-g12",
+        "h10-m10",
+        "n9-n11",
+        "h9-l9",
+        "o9-m9",
+        "j7-l7xl8",
+        "n11-m11xm10",
+        "h8-h10",
+        "i15-l15",
+        "k8-k14",
+        "h15-k15",
+        "h10-k10",
+        "h4-k4",
+        "j8-j3",
+        "m8-j8xi8",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

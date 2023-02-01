@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 79,
+    "AageGameTypeName": "Alea Evangelii Berserk 19x19",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "l4-o4",
+        "h9-h5",
+        "g5-d5",
+        "j7-j5xi5",
+        "k5-k2",
+        "j4-j2",
+        "k2-n2",
+        "j2-f2",
+        "h4-f4",
+        "h5-e5",
+        "a3-e3",
+        "i8-e8",
+        "e7-b7",
+        "g10-e10xe9",
+        "d12-d15",
+        "i12-e12xe11",
+        "e13-e16",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

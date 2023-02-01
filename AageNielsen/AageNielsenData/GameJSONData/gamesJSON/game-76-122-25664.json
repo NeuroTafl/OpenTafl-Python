@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Ninasema",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j7-j10",
+        "e7-e9",
+        "f9-h9",
+        "e5-e3",
+        "e10-c10",
+        "g5-g3xf3",
+        "j5-j4",
+        "f4-f2",
+        "j4-g4xg3",
+        "h6-h2xg2",
+        "b5-b4",
+        "d6-d2xe2",
+        "c6-c2",
+        "e6-c6",
+        "b7-b8",
+        "e3-b3",
+        "c2-b2xb3",
+        "f6-d6",
+        "g10-d10",
+        "d6-d3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

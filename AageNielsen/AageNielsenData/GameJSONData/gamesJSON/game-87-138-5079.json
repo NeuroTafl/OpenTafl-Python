@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-f3",
+        "e4-e2",
+        "b2-c2",
+        "d3-b3",
+        "f6-e6",
+        "c4-b4",
+        "b6-b5",
+        "d4-c4",
+        "e6-d6xd5",
+        "e2-e6",
+        "f3-f6xe6",
+        "c4-f4",
+        "d6-e6",
+        "f4-f2",
+        "e6-e3",
+        "b4-f4",
+        "a4-e4xf4",
+        "b3-d3",
+        "c2-d2xd3",
+        "f2-g2",
+        "g4-g3"
+    ],
+    "WhoWon": "Black"
+}

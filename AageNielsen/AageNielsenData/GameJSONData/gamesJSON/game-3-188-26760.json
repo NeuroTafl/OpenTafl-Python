@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Skallatorc",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h9",
+        "d11-d9",
+        "g5-j5",
+        "j6-j4",
+        "g6-j6",
+        "f10-i10",
+        "f6-i6",
+        "h3-i3",
+        "h9-j9",
+        "f2-h2",
+        "i6-h6",
+        "h11-h9",
+        "h6-h3",
+        "f1-f3",
+        "h3-g3",
+        "f3-c3",
+        "d6-d2",
+        "c3-d3xd2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

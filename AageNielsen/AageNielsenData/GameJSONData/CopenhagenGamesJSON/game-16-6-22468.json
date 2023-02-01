@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Abbas agraphicus",
+    "BlackSidePlayerName": "p59xy",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k7-j7",
+        "e5-b5",
+        "a7-c7",
+        "b5-b2",
+        "d1-b1",
+        "d6-d2",
+        "b6-b3xb2",
+        "d2-b2",
+        "b3-b4",
+        "e6-e2",
+        "g1-g3",
+        "f6-c6",
+        "d11-d8",
+        "c6-c1xb1xb1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

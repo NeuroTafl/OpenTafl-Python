@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "AreVidar",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "e5-e3",
+        "d1-d3",
+        "f5-c5",
+        "a4-c4",
+        "g5-g2",
+        "f2-d2",
+        "f4-j4",
+        "h1-h2",
+        "f6-f3",
+        "k4-k3",
+        "f3-i3",
+        "h2-i2",
+        "h6-h1",
+        "i2-i1xh1",
+        "i3-i2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

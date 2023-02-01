@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Krakascho",
+    "BlackSidePlayerName": "Ragnarocon",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-k9",
+        "h6-h11",
+        "g1-i1",
+        "f4-j4",
+        "e1-c1",
+        "f9-g9",
+        "e11-c11",
+        "g6-g3",
+        "f1-h1",
+        "f6-h6",
+        "j7-j10",
+        "f8-k8",
+        "k6-k7xk8",
+        "h6-h8",
+        "j6-j8",
+        "h8-a8"
+    ],
+    "WhoWon": "White"
+}

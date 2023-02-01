@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Rook",
+    "AageGameTypeKey": 86,
+    "AageGameTypeName": "Sea battle line 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i7-h7",
+        "e7-e9",
+        "d9-d8",
+        "d5-d7",
+        "c9-d9xe9",
+        "c5-a5",
+        "d1-d5",
+        "e6-d6",
+        "d8-e8",
+        "e3-f3",
+        "a4-d4",
+        "f3-c3",
+        "d4-a4xa5",
+        "e4-d4xd5",
+        "e8-i8",
+        "e5-a5"
+    ],
+    "WhoWon": "White"
+}

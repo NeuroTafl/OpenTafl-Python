@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Floki",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-h2xg2",
+        "g6-g2",
+        "f2-c2",
+        "h6-h10",
+        "k8-i8",
+        "f6-i6",
+        "h2-i2",
+        "i6-i3",
+        "k4-k3",
+        "h10-h1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

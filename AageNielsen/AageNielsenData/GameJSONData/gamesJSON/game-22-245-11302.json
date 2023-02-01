@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Borjk",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "e4-d4",
+        "e8-c8",
+        "e6-c6",
+        "b5-b3",
+        "e7-a7",
+        "h5-h7",
+        "e5-e7",
+        "d9-d7",
+        "e7-g7",
+        "c8-g8",
+        "c6-b6",
+        "f9-f7",
+        "g7-g6",
+        "f7-f6",
+        "g5-g3",
+        "i5-g5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

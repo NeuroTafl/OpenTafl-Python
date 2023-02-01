@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "altti",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-d2",
+        "h8-h11",
+        "g11-d11",
+        "g10-g11",
+        "m9-j9",
+        "g8-k8",
+        "j9-k9xk8",
+        "g7-g10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

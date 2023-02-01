@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "b4-b3",
+        "e4-e1",
+        "b3-c3",
+        "d4-e4",
+        "d2-e2",
+        "e4-e3xe2",
+        "d6-e6",
+        "e3-e2",
+        "g4-g2",
+        "f3-g3xg2",
+        "f5-f2",
+        "g3-g2xf2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

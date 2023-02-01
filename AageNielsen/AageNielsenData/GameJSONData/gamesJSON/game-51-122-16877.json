@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c3",
+        "b4-b3",
+        "d5-b5",
+        "d6-c6",
+        "b5-b6",
+        "a4-a6xb6",
+        "d4-a4",
+        "b3-a3",
+        "a4-a5xa6",
+        "c6-a6",
+        "a5-b5",
+        "a6-b6",
+        "c3-c7",
+        "b6-b7xc7",
+        "b5-a5",
+        "d1-d2xd3",
+        "a5-a7"
+    ],
+    "WhoWon": "White"
+}

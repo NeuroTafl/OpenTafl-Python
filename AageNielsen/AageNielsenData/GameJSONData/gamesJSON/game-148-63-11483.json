@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 148,
+    "AageGameTypeName": "Hex 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "f6",
+        "e6",
+        "e5",
+        "h7",
+        "g5",
+        "b2",
+        "c4",
+        "i6",
+        "h4",
+        "a3",
+        "b5",
+        "j5",
+        "i3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

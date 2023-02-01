@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "noscoped",
+    "BlackSidePlayerName": "Unterwichtel",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h4",
+        "g5-g3",
+        "k8-h8",
+        "d6-d9",
+        "a4-d4",
+        "e7-c7",
+        "d11-d10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

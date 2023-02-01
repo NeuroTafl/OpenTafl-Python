@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Kaykyber",
+    "AageGameTypeKey": 67,
+    "AageGameTypeName": "Fidchell armed (Hnefatafl edge 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a1-b1",
+        "f4-f1",
+        "g7-f7",
+        "d6-g6",
+        "f7-g7xg6",
+        "e4-e6",
+        "g5-e5xe6",
+        "f1-f5xe5",
+        "g1-f1",
+        "d4-e4",
+        "f1-f2",
+        "e4-e6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

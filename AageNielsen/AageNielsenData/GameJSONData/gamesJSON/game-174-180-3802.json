@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 174,
+    "AageGameTypeName": "Fidchell weak-king (Simple Tafl 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "c1-b1",
+        "c4-c5",
+        "d1-c1",
+        "e4-e3",
+        "e7-e4xf4",
+        "d5-e5xe4",
+        "g4-e4",
+        "d4-d5",
+        "g5-f5",
+        "d2-f2",
+        "e4-c4xb4",
+        "d3-c3xc4",
+        "a4-c4",
+        "d5-d1"
+    ],
+    "WhoWon": "White"
+}

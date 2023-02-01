@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "Lalli The Hunter",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "f4-i4",
+        "k5-j5",
+        "f5-i5",
+        "f10-j10",
+        "f6-f3",
+        "b6-b3",
+        "f3-g3",
+        "j5-j2",
+        "i4-i3xh3",
+        "g1-i1",
+        "i3-k3",
+        "d11-b11",
+        "g3-i3",
+        "e11-c11",
+        "i3-i2",
+        "j6-j3",
+        "k3-k2xj2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

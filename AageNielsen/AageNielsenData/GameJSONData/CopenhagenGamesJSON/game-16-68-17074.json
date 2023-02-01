@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Chuck ward",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "d6-d3",
+        "f2-c2",
+        "e5-e2",
+        "h1-h2",
+        "f4-d4",
+        "a8-c8",
+        "e7-b7",
+        "c8-c7xb7",
+        "e6-e10",
+        "d11-d10xe10",
+        "f6-c6",
+        "e11-e9",
+        "f8-c8xc7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

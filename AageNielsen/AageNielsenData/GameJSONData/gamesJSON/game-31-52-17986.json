@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j8",
+        "c6-c1",
+        "j8-h8",
+        "d6-d2",
+        "b5-d5",
+        "e6-e8",
+        "b6-d6",
+        "f3-a3",
+        "d6-e6",
+        "g6-g4",
+        "g10-g6"
+    ],
+    "WhoWon": "Black"
+}

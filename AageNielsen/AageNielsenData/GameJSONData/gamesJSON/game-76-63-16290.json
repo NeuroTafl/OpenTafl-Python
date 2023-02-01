@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Erzyaks",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-i3",
+        "e7-e9",
+        "g10-g9",
+        "g7-i7",
+        "j5-i5",
+        "e5-e3",
+        "g11-h11",
+        "f5-c5",
+        "b7-c7",
+        "d6-d2",
+        "f1-f2",
+        "f4-a4",
+        "b5-b3",
+        "f6-f4",
+        "h11-h7xi7",
+        "f4-k4"
+    ],
+    "WhoWon": "White"
+}

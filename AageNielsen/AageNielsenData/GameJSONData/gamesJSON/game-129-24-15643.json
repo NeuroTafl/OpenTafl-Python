@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Dimetr",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "c2-b2",
+        "b4-b3",
+        "d4-c4",
+        "d1-c1",
+        "d5-b5",
+        "e2-d2xd3",
+        "b5-b4xb3",
+        "f4-f5",
+        "c4-c3",
+        "a4-a3",
+        "b2-a2",
+        "c6-c4",
+        "c3-e3",
+        "d7-d3",
+        "e3-e1",
+        "f5-f1",
+        "b4-a4xa3",
+        "c1-d1"
+    ],
+    "WhoWon": "Black"
+}

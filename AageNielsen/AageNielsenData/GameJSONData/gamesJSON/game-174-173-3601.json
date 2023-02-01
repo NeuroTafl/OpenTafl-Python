@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 174,
+    "AageGameTypeName": "Fidchell weak-king (Simple Tafl 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c1-b1",
+        "f4-f7",
+        "g7-g6",
+        "f7-g7",
+        "g4-f4",
+        "e4-e5",
+        "e1-e3",
+        "d4-e4",
+        "a3-c3xd3",
+        "d5-d3",
+        "a5-d5xd6",
+        "d3-d4",
+        "c3-d3xd4xd2",
+        "c4-c5xd5",
+        "d3-d4"
+    ],
+    "WhoWon": "Black"
+}

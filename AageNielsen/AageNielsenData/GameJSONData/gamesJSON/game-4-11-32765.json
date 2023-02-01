@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Empex",
+    "BlackSidePlayerName": "Jossl",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1e2",
+        "d6c6",
+        "k5j5",
+        "e6d6",
+        "a8c8",
+        "f4f3",
+        "k4f4",
+        "e5e3",
+        "f4e4",
+        "f6e6",
+        "a5c5",
+        "e6e5",
+        "a4d4",
+        "h6h3",
+        "c8c7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

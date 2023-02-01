@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "d6-d3",
+        "c6-c4",
+        "e6-c6",
+        "f9-d9",
+        "f6-d6",
+        "e2-d2",
+        "d6-d8",
+        "b7-d7"
+    ],
+    "WhoWon": "Black"
+}

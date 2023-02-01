@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "ratatoskr",
+    "BlackSidePlayerName": "kAAgEE",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "g5-g2",
+        "e1-e3",
+        "h6-h3",
+        "h1-h2xg2",
+        "g7-j7",
+        "j6-j2",
+        "g6-j6",
+        "f10-j10",
+        "f6-i6",
+        "g1-i1",
+        "i6-i11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

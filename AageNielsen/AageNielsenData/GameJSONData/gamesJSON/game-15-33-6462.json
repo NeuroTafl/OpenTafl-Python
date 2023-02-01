@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "cwistow",
+    "BlackSidePlayerName": "traviscee",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-c1",
+        "d6-d1",
+        "a8-a9",
+        "f4-b4",
+        "f2-b2",
+        "e5-b5",
+        "b6-b10",
+        "f5-f3",
+        "a4-a3",
+        "b4-a4",
+        "k4-k3",
+        "f6-f4",
+        "j6-j2",
+        "e6-e3",
+        "f10-j10",
+        "e3-b3",
+        "h11-i11",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

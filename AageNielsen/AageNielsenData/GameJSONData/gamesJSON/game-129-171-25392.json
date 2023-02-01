@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d6-e6",
+        "d5-c5",
+        "b4-b5",
+        "c5-c6",
+        "b5-b6",
+        "c4-c1",
+        "b6-b1xc1",
+        "c6-c1xb1",
+        "a4-b4",
+        "e4-e1xd1",
+        "d2-d1",
+        "d3-f3",
+        "e6-c6",
+        "e1-e2",
+        "b4-b1xc1",
+        "d4-a4",
+        "b1-b5",
+        "a4-a1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Riiem",
+    "BlackSidePlayerName": "Olafmcne",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b7-b8",
+        "i6-i11",
+        "j5-g5",
+        "h6-h5xg5",
+        "k5-i5",
+        "g6-g9",
+        "j7-j9",
+        "f4-j4",
+        "e2-a2",
+        "j4-j5xi5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Pi&eacute;96",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h4-k4",
+        "j7-j3",
+        "h12-e12",
+        "i6-m6",
+        "n7-n5",
+        "h7-m7",
+        "m8-m11",
+        "m7-m8xl8",
+        "o7-m7",
+        "i8-i4",
+        "i2-l2",
+        "k8-l8",
+        "i14-l14",
+        "m6-m1",
+        "n9-m9xm8",
+        "h8-h7",
+        "o6-l6",
+        "h5-l5",
+        "k4-l4xl5",
+        "h7-k7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

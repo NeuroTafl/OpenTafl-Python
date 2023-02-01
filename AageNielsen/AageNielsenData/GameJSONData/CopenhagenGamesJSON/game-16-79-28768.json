@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e3",
+        "f8-j8",
+        "a8-i8xj8",
+        "f7-f8",
+        "d11-d8",
+        "e7-b7",
+        "a5-b5",
+        "d6-d3",
+        "f2-f3",
+        "e6-e10",
+        "g11-g9",
+        "f6-c6",
+        "d8-b8xb7",
+        "c6-c2",
+        "b5-b2",
+        "c2-k2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

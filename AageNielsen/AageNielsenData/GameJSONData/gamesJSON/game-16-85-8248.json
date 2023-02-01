@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "jilles",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "f4-c4",
+        "e1-e3",
+        "d6-d9",
+        "a8-c8",
+        "e7-b7",
+        "a5-b5",
+        "b7-b10",
+        "h11-h9",
+        "f7-c7",
+        "c8-c11",
+        "f8-a8",
+        "f10-f8",
+        "e6-e8",
+        "g11-g8",
+        "f6-f7",
+        "d3-d8xe8",
+        "f7-d7xd8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

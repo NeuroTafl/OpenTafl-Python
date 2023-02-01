@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Conanlib",
+    "BlackSidePlayerName": "Stryker10g",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j9",
+        "c6-c2",
+        "b6-b2",
+        "d6-d2",
+        "f10-c10",
+        "e6-b6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

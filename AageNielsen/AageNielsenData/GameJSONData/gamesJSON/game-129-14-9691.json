@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d6-c6",
+        "d5-d6",
+        "f4-f5",
+        "e4-e5",
+        "d2-e2",
+        "d3-f3",
+        "b4-b3",
+        "d6-g6",
+        "f5-g5xg6",
+        "f3-d3",
+        "b3-c3",
+        "d4-d6",
+        "g5-f5",
+        "d6-d4",
+        "d7-d5xe5",
+        "d3-g3",
+        "c6-c5xc4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Kaykyber",
+    "AageGameTypeKey": 67,
+    "AageGameTypeName": "Fidchell armed (Hnefatafl edge 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a1-b1",
+        "d3-e3",
+        "b1-b2",
+        "d6-f6",
+        "g7-f7",
+        "d5-b5",
+        "g5-f5xf6",
+        "d4-d6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

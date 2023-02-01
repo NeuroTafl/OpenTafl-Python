@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Kllimm",
+    "BlackSidePlayerName": "Bunce",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b2",
+        "f8-i8",
+        "f10-j10",
+        "f7-f10",
+        "d11-d10",
+        "f6-f9",
+        "b2-b9",
+        "f9-k9",
+        "j10-k10",
+        "k9-c9",
+        "f2-c2",
+        "c9-k9xk10",
+        "c2-c1",
+        "k9-k11"
+    ],
+    "WhoWon": "White"
+}

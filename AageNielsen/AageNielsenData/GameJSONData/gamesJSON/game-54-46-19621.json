@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Chotts",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e5",
+        "d6-e6",
+        "c4-c6",
+        "g4-e4xe5",
+        "d3-f3",
+        "e4-f4",
+        "d5-a5",
+        "d2-f2xf3",
+        "d4-c4",
+        "f5-c5",
+        "c4-c3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

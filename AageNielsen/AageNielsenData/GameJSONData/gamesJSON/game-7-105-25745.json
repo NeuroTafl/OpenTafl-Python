@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "e3-h3",
+        "e8-g8",
+        "e7-h7",
+        "d9-d7",
+        "e4-b4",
+        "a6-c6",
+        "e5-e3",
+        "c2-c3",
+        "h3-h4",
+        "i4-i3",
+        "e6-h6xh5",
+        "i3-h3",
+        "h6-h5",
+        "d1-d3",
+        "f5-f3",
+        "e9-e4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

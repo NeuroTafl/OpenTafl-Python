@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Slowlybutalsoqui",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-c2",
+        "g7-j7",
+        "j6-j8",
+        "h6-h9",
+        "k6-j6xj7",
+        "f7-j7",
+        "j8-j10",
+        "g5-j5xj6",
+        "k8-k9",
+        "g6-i6",
+        "c2-j2",
+        "f4-f2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

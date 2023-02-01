@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "La-cucaracha",
+    "BlackSidePlayerName": "Mccluskeyp",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f8-e8",
+        "d11-d9",
+        "f7-f9",
+        "k8-f8xf9",
+        "g7-g8xf8",
+        "f10-f8",
+        "f6-f7",
+        "k7-i7",
+        "f7-h7",
+        "h11-h8xg8",
+        "h6-h4",
+        "k5-h5xh4",
+        "g6-g8xf8",
+        "g11-g9",
+        "e7-b7",
+        "a8-b8xb7",
+        "h7-c7",
+        "a5-c5",
+        "c7-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

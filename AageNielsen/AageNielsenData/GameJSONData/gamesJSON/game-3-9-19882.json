@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "SvenOddrson",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-h8",
+        "h6-h2",
+        "h8-h3xh2",
+        "g7-j7",
+        "h11-h7",
+        "g5-j5xj6",
+        "h7-i7xj7",
+        "g6-g10",
+        "g1-g6",
+        "j5-h5",
+        "k6-h6",
+        "f7-h7xh6",
+        "g6-g7xh7",
+        "f6-j6",
+        "k5-j5",
+        "j6-j11",
+        "j5-j10",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

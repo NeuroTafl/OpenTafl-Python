@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g1-g3",
+        "h6-h3",
+        "f2-f3",
+        "g5-j5",
+        "k7-i7",
+        "g7-g10",
+        "f10-c10",
+        "g6-i6",
+        "k4-i4",
+        "f8-i8xi7",
+        "j6-j10",
+        "f6-h6",
+        "h1-h2",
+        "h6-h9",
+        "k8-k9",
+        "h9-a9",
+        "c10-a10",
+        "a9-c9",
+        "f3-c3",
+        "c9-a9xa10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

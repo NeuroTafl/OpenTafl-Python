@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Polemistes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "d6-d3",
+        "a4-c4",
+        "e5-b5",
+        "c4-c5xb5",
+        "f4-c4",
+        "c5-c9",
+        "f5-b5",
+        "h1-h3",
+        "e7-b7xb6",
+        "c9-c7xb7",
+        "e6-e3",
+        "c7-c5xb5",
+        "f6-b6",
+        "a5-b5",
+        "b6-b11",
+        "b5-b10",
+        "b11-a11"
+    ],
+    "WhoWon": "White"
+}

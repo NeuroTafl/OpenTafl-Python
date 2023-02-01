@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "cacreal",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-g2",
+        "d5-d6",
+        "d1-d5xc5",
+        "e4-d4xd5",
+        "a4-c4",
+        "e3-c3",
+        "i4-e4xd4",
+        "e5-c5xc4",
+        "e8-c8",
+        "c3-e3xe4",
+        "g2-c2",
+        "c5-c4",
+        "b5-b4",
+        "c4-i4"
+    ],
+    "WhoWon": "White"
+}

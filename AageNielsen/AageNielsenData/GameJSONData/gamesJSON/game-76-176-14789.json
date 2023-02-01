@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "W&aelig;gn",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-i9",
+        "g5-g3",
+        "f3-d3",
+        "f5-i5",
+        "g1-i1",
+        "h6-h9",
+        "k5-k3",
+        "g6-j6",
+        "g10-g9xh9",
+        "f6-h6",
+        "e10-h10",
+        "h6-h1"
+    ],
+    "WhoWon": "White"
+}

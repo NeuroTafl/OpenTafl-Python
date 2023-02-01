@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "vonraider",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e10-c10",
+        "d6-c6",
+        "e2-d2",
+        "e6-d6",
+        "b5-b3",
+        "e5-c5",
+        "e1-c1",
+        "f5-d5",
+        "b6-b4",
+        "f4-h4",
+        "g10-i10",
+        "f6-f3",
+        "b4-f4"
+    ],
+    "WhoWon": "Black"
+}

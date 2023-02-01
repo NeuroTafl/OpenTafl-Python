@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "kAAgEE",
+    "BlackSidePlayerName": "MatPun",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "e7-d7",
+        "f10-d10",
+        "f8-c8",
+        "a8-b8",
+        "d7-d8",
+        "a7-d7",
+        "d8-e8",
+        "d10-d8xc8",
+        "e8-i8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

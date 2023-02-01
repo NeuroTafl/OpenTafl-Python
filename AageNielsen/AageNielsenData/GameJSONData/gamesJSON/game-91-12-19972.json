@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "f3-a3",
+        "a5-a4",
+        "f4-d4",
+        "c2-a2xa3",
+        "f5-i5",
+        "f2-f4",
+        "g6-g4",
+        "g10-i10",
+        "e6-e4xf4",
+        "e10-c10",
+        "f6-f3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

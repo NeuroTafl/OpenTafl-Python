@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b4-b5",
+        "c4-c3",
+        "a4-b4",
+        "d4-c4",
+        "b5-c5",
+        "c3-a3",
+        "d2-c2",
+        "a3-a4xb4",
+        "c2-c3",
+        "c4-b4",
+        "d1-b1",
+        "b4-b3xc3",
+        "c5-b5",
+        "b3-a3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

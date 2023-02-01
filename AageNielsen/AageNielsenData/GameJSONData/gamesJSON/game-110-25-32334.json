@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Epm180",
+    "AageGameTypeKey": 110,
+    "AageGameTypeName": "Brandubh weak-throne line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c1-c2",
+        "d3-d1",
+        "a3-b3",
+        "e4-g4",
+        "e7-f7",
+        "d1-c1",
+        "c2-b2",
+        "d5-f5",
+        "f7-f6",
+        "f5-f1",
+        "e1-e2",
+        "d4-d1",
+        "e2-e1xf1",
+        "c1-c2",
+        "b2-b1",
+        "c2-c1xb1",
+        "g3-e3",
+        "c1-c2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

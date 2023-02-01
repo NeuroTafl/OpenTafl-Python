@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "J&uuml;rgen",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "g7-j7",
+        "k8-j8xj7",
+        "h6-h2",
+        "k4-i4",
+        "g6-g10",
+        "h9-h10xg10",
+        "f6-h6",
+        "h10-h9",
+        "h6-h3",
+        "j6-j3",
+        "h3-a3",
+        "f2-a2",
+        "a3-c3",
+        "a2-b2",
+        "c3-c1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

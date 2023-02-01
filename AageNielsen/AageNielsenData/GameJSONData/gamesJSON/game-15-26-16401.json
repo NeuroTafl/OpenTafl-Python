@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "marvaden",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "g5-h5",
+        "g1-g4",
+        "g6-g5",
+        "e1-e4xf4",
+        "g5-g6",
+        "g4-g5",
+        "h5-h4",
+        "k5-h5",
+        "h4-g4xg5",
+        "k7-h7xh6",
+        "g4-g5",
+        "k4-g4",
+        "d6-c6",
+        "d11-d6xc6",
+        "f8-e8",
+        "g11-g8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

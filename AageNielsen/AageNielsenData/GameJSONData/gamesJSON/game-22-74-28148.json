@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Khan Asparukh",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "e3-e2",
+        "d1-d2",
+        "e4-b4",
+        "c2-c4xb4",
+        "e5-e3",
+        "h5-h3",
+        "e3-a3"
+    ],
+    "WhoWon": "White"
+}

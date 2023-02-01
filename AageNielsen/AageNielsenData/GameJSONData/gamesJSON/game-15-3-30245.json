@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Wesley Alves",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-c2",
+        "f4-i4",
+        "j6-j2",
+        "f5-f2",
+        "a4-f4",
+        "f6-f5",
+        "f4-f3xf2",
+        "f5-f4",
+        "d1-d4",
+        "i4-i1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

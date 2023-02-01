@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "HELFRICH",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-h2xg2",
+        "g6-g2",
+        "j6-j2",
+        "e5-e2xf2",
+        "b6-b2",
+        "f4-i4",
+        "k8-i8",
+        "f5-c5",
+        "a8-c8",
+        "f6-f3",
+        "a4-a3",
+        "f3-k3",
+        "j2-k2",
+        "k3-j3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

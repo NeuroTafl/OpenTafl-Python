@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Taschenguger",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-b2",
+        "f8-i8",
+        "f10-j10",
+        "f7-f10",
+        "a8-f8",
+        "f10-b10",
+        "d11-b11",
+        "b10-c10",
+        "b11-b10",
+        "d6-d10",
+        "e11-d11",
+        "e7-e9",
+        "d11-c11",
+        "f6-f7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

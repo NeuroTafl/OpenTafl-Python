@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "cedarhus",
+    "BlackSidePlayerName": "jmikkelson",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-i11",
+        "h6-h3",
+        "k4-k3",
+        "d6-d4",
+        "a4-a3",
+        "e7-d7",
+        "h1-i1",
+        "g7-i7",
+        "k8-k9",
+        "f8-f9",
+        "a8-a9",
+        "g6-g8",
+        "d11-c11",
+        "f6-h6",
+        "f10-i10",
+        "f9-j9",
+        "i10-i9xj9",
+        "h6-h10",
+        "i9-i10",
+        "h10-a10",
+        "i10-b10"
+    ],
+    "WhoWon": "Black"
+}

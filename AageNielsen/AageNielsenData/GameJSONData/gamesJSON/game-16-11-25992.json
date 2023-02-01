@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "RussJenkins",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k5-i5",
+        "f4-i4",
+        "h1-i1",
+        "h6-i6xi5",
+        "k8-i8",
+        "g5-g2",
+        "h11-h7",
+        "e5-e2xf2",
+        "d1-d3",
+        "f5-f3",
+        "a4-a3",
+        "f3-k3",
+        "i1-i2",
+        "f6-f5",
+        "b6-c6",
+        "f5-b5",
+        "c6-b6",
+        "b5-b1",
+        "d3-d1",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

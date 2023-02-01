@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Kihtan",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 109,
+    "AageGameTypeName": "Brandubh weak-throne 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-c6",
+        "d5-d6",
+        "b4-b5",
+        "d4-d5",
+        "f4-f5",
+        "e4-f4",
+        "a4-b4xc4",
+        "d6-f6xf5",
+        "d7-d6"
+    ],
+    "WhoWon": "Black"
+}

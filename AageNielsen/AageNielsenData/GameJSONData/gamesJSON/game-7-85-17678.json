@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Cyningstan",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "e3-e2",
+        "d1-d3",
+        "e2-b2",
+        "a4-a2",
+        "c5-c2",
+        "i4-g4",
+        "e7-g7",
+        "d9-d7",
+        "e4-d4",
+        "g2-d2",
+        "g7-g6",
+        "a6-c6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

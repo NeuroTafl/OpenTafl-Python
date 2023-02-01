@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "Ratatoskr",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a4-c4",
+        "e7-c7",
+        "d11-d10",
+        "e6-e10",
+        "a8-d8xd9",
+        "c7-c10xd10",
+        "d1-d6",
+        "g7-g10xf10",
+        "k8-i8",
+        "f7-j7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

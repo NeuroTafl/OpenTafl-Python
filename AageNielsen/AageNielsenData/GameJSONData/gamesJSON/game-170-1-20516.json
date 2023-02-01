@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 170,
+    "AageGameTypeName": "Historical Hnefatafl-w 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f6-f3",
+        "g3-j3",
+        "g6-c6",
+        "c7-c10",
+        "g4-a4",
+        "l6-l4",
+        "g7-g4",
+        "b6-b3",
+        "c6-c3",
+        "b3-b2",
+        "g4-b4",
+        "c10-c5",
+        "d7-d5",
+        "b8-b6",
+        "f7-b7",
+        "a8-b8xb7",
+        "h7-b7",
+        "c5-c7xb7",
+        "a4-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

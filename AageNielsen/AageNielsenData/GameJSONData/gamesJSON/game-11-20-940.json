@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Arne64",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 11,
+    "AageGameTypeName": "Sea battle T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "d6-d3",
+        "h11-h9",
+        "e5-e2",
+        "d1-d2xe2",
+        "f5-c5",
+        "a4-d4xd3",
+        "e6-e2",
+        "d11-d9",
+        "c5-c2xd2",
+        "d4-d2xe2",
+        "f6-c6",
+        "a8-c8",
+        "c6-c3",
+        "b6-b3",
+        "c3-k3"
+    ],
+    "WhoWon": "White"
+}

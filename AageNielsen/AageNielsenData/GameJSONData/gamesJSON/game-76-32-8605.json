@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Volkenpuk",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b7-b8",
+        "g5-h5",
+        "f3-h3",
+        "f5-g5",
+        "c6-c4",
+        "g7-g9",
+        "e10-e9",
+        "d6-d9",
+        "a6-c6",
+        "e5-c5",
+        "c6-c9xd9",
+        "e6-e3",
+        "c9-c6xc5",
+        "f6-d6",
+        "c4-e4xe3",
+        "d6-d11"
+    ],
+    "WhoWon": "White"
+}

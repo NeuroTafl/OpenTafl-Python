@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Headcutter",
+    "BlackSidePlayerName": "Gish",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2d2",
+        "e3d3",
+        "b5b6",
+        "e4b4",
+        "d1c1",
+        "e7b7",
+        "a5b5",
+        "c5c2",
+        "e1e4",
+        "f5f4",
+        "e4c4",
+        "e5e2",
+        "i4i2",
+        "f4i4",
+        "i2i3",
+        "e2i2",
+        "h5h2"
+    ],
+    "WhoWon": "Black"
+}

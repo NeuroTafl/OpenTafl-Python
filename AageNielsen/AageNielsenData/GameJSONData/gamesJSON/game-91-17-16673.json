@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-i2",
+        "f8-a8",
+        "j7-j8",
+        "d6-d10",
+        "j8-f8xf9",
+        "e6-e8",
+        "g10-g8",
+        "f6-d6",
+        "e2-d2",
+        "d6-d9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Tirjera",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-b6",
+        "f4-f1",
+        "g3-g1xf1",
+        "e4-i4",
+        "c3-i3xi4",
+        "e5-e3",
+        "b6-b3",
+        "d4-d1",
+        "i3-f3",
+        "e3-e4",
+        "b8-b4",
+        "e4-i4"
+    ],
+    "WhoWon": "White"
+}

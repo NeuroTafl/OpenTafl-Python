@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Luigi005",
+    "BlackSidePlayerName": "Wandrille",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "k8-i8",
+        "g7-j7",
+        "i8-j8xj7",
+        "f7-j7",
+        "k5-j5",
+        "f8-i8",
+        "h11-h8xi8",
+        "f6-f9",
+        "a8-a10",
+        "f9-a9xa10",
+        "f10-a10",
+        "a9-j9xj8",
+        "g11-j11",
+        "j9-a9xa10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

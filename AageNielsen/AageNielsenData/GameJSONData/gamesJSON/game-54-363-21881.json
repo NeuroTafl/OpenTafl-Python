@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-e2",
+        "d3-d2",
+        "e2-f2",
+        "d4-d3",
+        "f2-f3xf4",
+        "d2-b2",
+        "d6-e6",
+        "d5-c5",
+        "b4-b5",
+        "c4-c1",
+        "d7-d5xc5",
+        "d3-c3",
+        "a4-a3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

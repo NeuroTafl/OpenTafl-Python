@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "Tomdraug",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "e7-c7",
+        "a8-c8",
+        "d6-d9",
+        "b6-c6xc7",
+        "f7-c7",
+        "h11-h9",
+        "d9-c9xc8",
+        "d11-c11",
+        "e5-c5xc6",
+        "a7-a9",
+        "e6-e10",
+        "d1-d10xe10",
+        "f6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

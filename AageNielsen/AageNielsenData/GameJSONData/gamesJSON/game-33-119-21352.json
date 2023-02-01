@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "L3monman",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h2-j2",
+        "g4-j4",
+        "e1-e4",
+        "f6-d6",
+        "a5-d5",
+        "h6-k6",
+        "m5-k5xk6",
+        "e5-f5",
+        "a9-d9",
+        "f8-f10",
+        "i13-i10",
+        "g6-k6",
+        "e4-e7xd7",
+        "j4-j3",
+        "c7-d7xd6",
+        "g7-g4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

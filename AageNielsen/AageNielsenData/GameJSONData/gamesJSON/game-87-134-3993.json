@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "The fifth seal",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-e2",
+        "d3-f3",
+        "g4-g3",
+        "e4-e3",
+        "f6-f5",
+        "d4-f4",
+        "d7-d6xd5",
+        "f3-f1",
+        "g3-f3"
+    ],
+    "WhoWon": "Black"
+}

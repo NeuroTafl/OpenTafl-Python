@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "f7-h7",
+        "g10-i10",
+        "f8-a8",
+        "k7-k8",
+        "f6-f8",
+        "e10-c10",
+        "d6-d11",
+        "b5-d5",
+        "f8-b8",
+        "c10-b10",
+        "f9-b9",
+        "d5-d6xc6",
+        "d11-b11xb10",
+        "e11-c11",
+        "b9-b10",
+        "c2-c9",
+        "b8-b9",
+        "f10-f6xe6",
+        "b9-a9"
+    ],
+    "WhoWon": "White"
+}

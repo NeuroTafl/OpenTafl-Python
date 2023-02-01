@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Jack",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-c7",
+        "a4-c4",
+        "g7-g9",
+        "k8-i8",
+        "f7-h7",
+        "h11-h9",
+        "g9-g10",
+        "e11-e9",
+        "g10-j10",
+        "a8-c8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

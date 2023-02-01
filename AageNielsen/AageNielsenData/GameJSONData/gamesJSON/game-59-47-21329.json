@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Elios",
+    "BlackSidePlayerName": "Yarll",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b4-b2",
+        "c4-c2",
+        "a4-c4",
+        "d5-b5",
+        "b2-b4",
+        "d3-b3xb4",
+        "d6-d5",
+        "b3-d3",
+        "c4-b4",
+        "e4-e2xd2",
+        "b4-a4",
+        "d4-c4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

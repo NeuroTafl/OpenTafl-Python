@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d7-c7",
+        "d5-c5",
+        "g4-g5",
+        "e4-e3",
+        "d2-e2",
+        "d3-a3",
+        "b4-b5",
+        "c4-c2",
+        "d6-d5xc5",
+        "d4-d3",
+        "b5-b2",
+        "a3-a2xb2",
+        "a4-a3xa2",
+        "c2-c5",
+        "f4-e4xe3",
+        "d3-g3",
+        "e2-g2",
+        "g3-b3",
+        "c7-c6",
+        "b3-g3xg2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

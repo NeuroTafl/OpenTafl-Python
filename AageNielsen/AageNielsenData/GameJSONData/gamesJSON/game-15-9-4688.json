@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "melody-pond",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b9",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "f2-c2",
+        "e5-e2",
+        "a7-c7",
+        "f6-e6",
+        "d1-d4",
+        "e6-e9",
+        "j6-j10",
+        "e9-k9",
+        "j10-k10",
+        "k9-j9",
+        "h1-j1",
+        "j9-j11",
+        "h11-i11",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

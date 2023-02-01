@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 159,
+    "AageGameTypeName": "Tablut2 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-c2",
+        "g5-g4",
+        "i6-g6",
+        "f5-f6",
+        "f9-f7",
+        "e6-b6",
+        "d9-d7xe7",
+        "e4-b4xb5",
+        "h5-f5xf6",
+        "e3-e2",
+        "d1-d3",
+        "g4-g5xf5",
+        "c2-c4xb4",
+        "e5-e6",
+        "d3-e3xe2",
+        "e6-c6",
+        "d7-c7",
+        "b6-b8",
+        "g6-d6",
+        "b8-c8xc7",
+        "a6-b6"
+    ],
+    "WhoWon": "Black"
+}

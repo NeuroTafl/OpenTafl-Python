@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "W&aelig;gn",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f9-c9",
+        "f8-b8",
+        "c9-b9xb8",
+        "f7-f10",
+        "j7-j10",
+        "f6-f8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

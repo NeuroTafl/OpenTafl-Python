@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Arne64",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 8,
+    "AageGameTypeName": "Ashton tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g5-g2",
+        "f1-i1",
+        "f5-f8",
+        "e8-c8",
+        "e5-g5",
+        "f9-g9",
+        "g5-g7",
+        "h5-h7",
+        "g7-g3",
+        "i4-i3",
+        "g2-i2xi3",
+        "i5-i3xi2",
+        "g3-g1"
+    ],
+    "WhoWon": "White"
+}

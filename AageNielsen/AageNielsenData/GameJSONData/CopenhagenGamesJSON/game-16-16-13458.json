@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Ytreza",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b2",
+        "d6-b6",
+        "f10-b10",
+        "e6-c6",
+        "a8-c8",
+        "c6-c1",
+        "b2-b1xc1",
+        "f6-c6",
+        "f2-c2",
+        "b6-b9",
+        "c8-b8xb9",
+        "c6-c11",
+        "b10-b11",
+        "c11-c10",
+        "b11-b10",
+        "c10-k10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

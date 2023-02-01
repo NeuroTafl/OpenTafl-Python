@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Luigi005",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k7-i7",
+        "f8-i8",
+        "j6-i6",
+        "e7-b7",
+        "a8-b8xb7",
+        "f7-b7",
+        "a5-c5",
+        "f6-f9",
+        "k8-k9",
+        "f9-b9xb8",
+        "d11-b11",
+        "b9-j9",
+        "f10-j10",
+        "j9-j1",
+        "h1-i1",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Sun231",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-c2",
+        "e4-h4",
+        "f1-h1",
+        "e6-h6xh5",
+        "a6-e6xe7",
+        "f5-f6",
+        "d9-d6",
+        "g5-g7",
+        "a4-e4",
+        "g7-d7xd6",
+        "e8-d8",
+        "e5-g5",
+        "e1-g1",
+        "g5-g9"
+    ],
+    "WhoWon": "White"
+}

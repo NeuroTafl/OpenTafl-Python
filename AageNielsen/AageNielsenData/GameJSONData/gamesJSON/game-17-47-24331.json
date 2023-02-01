@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Jack",
+    "BlackSidePlayerName": "Luigi005",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h4",
+        "g5-g3",
+        "f2-h2",
+        "f5-i5",
+        "j6-j3",
+        "f6-f5",
+        "a4-d4",
+        "f5-h5",
+        "j3-i3",
+        "g3-h3xh4",
+        "k4-h4xh3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

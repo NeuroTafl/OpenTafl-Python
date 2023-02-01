@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 88,
+    "AageGameTypeName": "Sea battle circle 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d2",
+        "c5-c1",
+        "a4-a3",
+        "d5-b5",
+        "d9-c9",
+        "e5-c5",
+        "a6-c6",
+        "e3-d3",
+        "d2-d1",
+        "b5-b6",
+        "c6-c7",
+        "e4-a4",
+        "b2-b5",
+        "a4-b4xb5",
+        "a3-a4",
+        "c5-c2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

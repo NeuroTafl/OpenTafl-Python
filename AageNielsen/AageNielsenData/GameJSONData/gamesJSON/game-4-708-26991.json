@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f4-c4",
+        "a8-c8",
+        "e5-e2",
+        "g1-g3",
+        "e2-b2",
+        "h1-h4",
+        "c4-c1",
+        "d11-d9",
+        "d6-d3",
+        "a7-c7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

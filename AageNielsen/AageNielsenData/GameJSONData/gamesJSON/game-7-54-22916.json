@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Anto2016",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "e4-h4",
+        "i4-i2",
+        "e6-h6xh5",
+        "f9-f8",
+        "e5-e6",
+        "b5-b6",
+        "g5-h5",
+        "e8-c8",
+        "e6-g6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

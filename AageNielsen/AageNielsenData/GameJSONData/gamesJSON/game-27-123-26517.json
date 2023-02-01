@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Davberd",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-c7",
+        "a8-c8",
+        "e6-e9",
+        "d11-d9",
+        "d6-d3",
+        "b6-c6xc7",
+        "f7-b7",
+        "c6-c7xb7",
+        "f6-b6",
+        "c7-c6"
+    ],
+    "WhoWon": "Black"
+}

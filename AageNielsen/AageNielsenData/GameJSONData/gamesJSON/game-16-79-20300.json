@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Noobchen",
+    "BlackSidePlayerName": "nath",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "g11-g9",
+        "g5-g2",
+        "f2-c2",
+        "g6-i6",
+        "k4-i4",
+        "f5-j5",
+        "j6-j10",
+        "i6-i11",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

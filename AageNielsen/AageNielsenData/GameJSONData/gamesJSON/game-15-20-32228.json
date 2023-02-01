@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Torc",
+    "BlackSidePlayerName": "HELFRICH",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "f10-j10",
+        "d6-d9",
+        "d1-d8xd9",
+        "f6-c6",
+        "a7-c7",
+        "c6-c1",
+        "b6-b1",
+        "c1-c3",
+        "b1-b2",
+        "c3-a3",
+        "b2-a2",
+        "a3-k3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

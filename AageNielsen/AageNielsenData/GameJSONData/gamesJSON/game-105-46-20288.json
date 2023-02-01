@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 105,
+    "AageGameTypeName": "Ard Ri-1 friendly-throne 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-c6",
+        "d5-c5",
+        "f4-f5",
+        "e4-e6",
+        "g4-e4",
+        "e6-g6",
+        "b4-b5",
+        "g6-g5",
+        "d7-d5xc5",
+        "g5-g6",
+        "c6-d6",
+        "d3-f3",
+        "f5-f4",
+        "f3-f2",
+        "b5-c5",
+        "c4-c2",
+        "c5-c4",
+        "f2-e2xd2",
+        "d1-d3"
+    ],
+    "WhoWon": "Black"
+}

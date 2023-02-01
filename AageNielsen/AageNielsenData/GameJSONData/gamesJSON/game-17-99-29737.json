@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b6-c6",
+        "f4-c4",
+        "f2-b2",
+        "e5-b5",
+        "b2-b4",
+        "b5-b6xc6",
+        "a8-b8",
+        "f5-d5",
+        "k4-f4",
+        "e6-e3",
+        "g1-g3",
+        "f6-f5",
+        "e1-e2",
+        "e3-f3xf4",
+        "h1-h4",
+        "g5-j5",
+        "a4-a2",
+        "f5-i5",
+        "f10-i10",
+        "i5-i1"
+    ],
+    "WhoWon": "White"
+}

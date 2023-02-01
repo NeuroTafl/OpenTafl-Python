@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "l6-l4",
+        "h8-k8",
+        "m9-k9xk8",
+        "g8-k8",
+        "g11-j11",
+        "g10-k10xk9",
+        "g13-g10",
+        "h6-k6xk7",
+        "e1-e4",
+        "i9-l9",
+        "a9-d9",
+        "j7-l7xl8",
+        "f12-f9xe9",
+        "g7-g8",
+        "e13-e7xd7xf7",
+        "g8-j8",
+        "h12-l12",
+        "j8-j1"
+    ],
+    "WhoWon": "White"
+}

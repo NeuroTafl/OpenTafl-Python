@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "naseMASER",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h9",
+        "d6-d3",
+        "h1-h3",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "h9-c9",
+        "f6-c6",
+        "e1-c1",
+        "c6-c2xd2",
+        "b6-b2",
+        "d3-a3",
+        "b2-a2xa3",
+        "c2-b2",
+        "c1-b1",
+        "b2-b11",
+        "b1-b10",
+        "b11-a11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-e2",
+        "c4-c5",
+        "b4-b5",
+        "d5-g5",
+        "d6-g6xg5",
+        "c5-g5xg6",
+        "f4-f3",
+        "d4-d5",
+        "f3-f6",
+        "d3-g3xg4",
+        "d7-d6",
+        "d5-f5",
+        "b5-e5",
+        "f5-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

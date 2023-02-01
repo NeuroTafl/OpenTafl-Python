@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h2",
+        "d6-d3",
+        "b6-b3",
+        "h6-h9",
+        "k8-k9",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "f10-j10",
+        "f6-c6",
+        "a8-c8",
+        "c6-c1",
+        "b3-b1",
+        "c1-c2",
+        "b1-b2",
+        "d3-a3",
+        "d1-c1",
+        "a3-a2xb2",
+        "a7-b7",
+        "a2-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

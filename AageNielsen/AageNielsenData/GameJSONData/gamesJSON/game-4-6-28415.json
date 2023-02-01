@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-b10",
+        "f8-i8",
+        "j6-j10",
+        "f7-f10",
+        "h11-i11",
+        "f6-f9",
+        "k8-k9",
+        "f9-a9",
+        "b10-a10",
+        "a9-j9",
+        "f2-j2",
+        "j9-a9xa10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

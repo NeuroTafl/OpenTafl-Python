@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b4-b3",
+        "c4-b4",
+        "g4-g3",
+        "d5-g5",
+        "d6-d5",
+        "e4-e6",
+        "d5-b5xb4",
+        "d4-d5",
+        "d7-d6",
+        "d5-f5",
+        "g3-e3",
+        "f5-f7",
+        "b3-c3xd3",
+        "f7-a7"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "sneadious@",
+    "BlackSidePlayerName": "Dagmar",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j2",
+        "h6-j6",
+        "k7-j7",
+        "f8-j8xj7",
+        "a8-i8xj8",
+        "g6-i6",
+        "h11-h9",
+        "i6-i3",
+        "b6-b9",
+        "j6-j9",
+        "k6-h6",
+        "f4-h4",
+        "e1-e3",
+        "f6-g6",
+        "i8-i6",
+        "g5-h5",
+        "g1-g3",
+        "g7-h7xh6",
+        "f2-c2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

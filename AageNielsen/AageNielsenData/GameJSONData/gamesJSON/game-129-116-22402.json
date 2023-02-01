@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b3",
+        "d5-b5",
+        "f4-f6",
+        "c4-c7",
+        "d7-e7",
+        "e4-e6",
+        "d6-d5",
+        "e6-d6xd5",
+        "b3-c3",
+        "d4-c4",
+        "e7-e3xd3",
+        "c4-c6",
+        "c3-c5",
+        "c6-b6",
+        "a4-a5xb5",
+        "b6-b7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

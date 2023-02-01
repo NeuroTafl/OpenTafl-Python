@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Odinhimself",
+    "BlackSidePlayerName": "Mccluskeyp",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "k8-i8",
+        "e7-c7",
+        "a4-c4",
+        "f8-b8",
+        "d11-d10",
+        "e6-e10",
+        "i8-d8xd9",
+        "c7-c10xd10",
+        "d8-d10xe10",
+        "f6-c6",
+        "e11-e9",
+        "c6-c9",
+        "a8-a9",
+        "c9-b9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

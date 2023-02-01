@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "nath",
+    "BlackSidePlayerName": "Galbatorix",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 5,
+    "Moves": [
+        "j6-j3",
+        "g5-j5",
+        "k8-j8",
+        "f5-i5",
+        "h11-i11",
+        "g6-g3",
+        "f2-i2",
+        "g7-g10",
+        "b6-b3",
+        "e7-e10xf10",
+        "d1-b1",
+        "g10-j10",
+        "k7-k10",
+        "f6-g6",
+        "i11-j11",
+        "i5-i11xj11xj11",
+        "d11-d10",
+        "g6-g9",
+        "f11-f10xe10",
+        "g9-k9xk10xk10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

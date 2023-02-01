@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Plantagenet",
+    "BlackSidePlayerName": "Firefinch",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "b4-b3",
+        "e4-e1",
+        "d1-c1",
+        "d4-d3",
+        "a4-b4xc4",
+        "e1-d1xd2",
+        "d6-e6",
+        "d3-e3",
+        "g4-g2",
+        "e3-e1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

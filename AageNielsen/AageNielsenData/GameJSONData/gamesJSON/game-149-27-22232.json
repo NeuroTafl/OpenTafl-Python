@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 149,
+    "AageGameTypeName": "Saami Cuhkka 5x5",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "b3-c3",
+        "d3-b3xc3",
+        "a3-c3xb3",
+        "d2-d3",
+        "c3-b3",
+        "d1-d2",
+        "b3-a3",
+        "e1-d1",
+        "a3-b3",
+        "d1-e1",
+        "b4-a3",
+        "e1-d1",
+        "b5-b4",
+        "d1-e1",
+        "c4-c3",
+        "c2-c4xc3",
+        "c5-c3xc4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

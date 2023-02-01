@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 173,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g7-g9",
+        "g11-h11",
+        "e7-e9xf9",
+        "e11-d11",
+        "f8-f10",
+        "b7-d7",
+        "f7-i7",
+        "h11-h8",
+        "g5-i5xi6",
+        "k6-i6",
+        "i7-i10",
+        "h8-g8xg9",
+        "f6-f9",
+        "j7-j9",
+        "i10-h10xg10",
+        "g8-g10xf10",
+        "f9-f8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Conanlib",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g6-g2",
+        "h3-h2xg2",
+        "i6-i1",
+        "k8-i8",
+        "f6-g6",
+        "h11-h9",
+        "g6-g3",
+        "j6-j3",
+        "f4-i4",
+        "k4-k1",
+        "i4-k4",
+        "k1-k3xk4",
+        "f5-i5",
+        "d1-d3",
+        "i1-h1",
+        "h2-h4",
+        "i5-i4",
+        "a4-g4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

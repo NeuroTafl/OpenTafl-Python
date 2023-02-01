@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Sherekhan",
+    "BlackSidePlayerName": "Firefinch",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "d3-e3",
+        "b4-b3",
+        "c4-b4",
+        "d7-c7",
+        "e3-f3",
+        "g4-f4",
+        "f3-g3",
+        "f4-g4",
+        "d4-d3",
+        "c7-c4xb4",
+        "e4-e7",
+        "c4-d4xd5"
+    ],
+    "WhoWon": "Black"
+}

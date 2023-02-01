@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "e6-h6",
+        "a6-e6xe7",
+        "e4-h4xh5",
+        "e6-g6xh6",
+        "e5-e7",
+        "g6-e6"
+    ],
+    "WhoWon": "Black"
+}

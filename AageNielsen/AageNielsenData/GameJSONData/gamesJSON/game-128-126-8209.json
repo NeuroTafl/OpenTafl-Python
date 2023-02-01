@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-f2",
+        "d6-d9",
+        "h8-f8",
+        "d5-c5",
+        "b2-d2",
+        "e6-a6",
+        "b5-b4",
+        "e5-e6",
+        "c3-c4",
+        "e6-b6",
+        "c7-b7",
+        "a6-a7",
+        "a5-a6",
+        "c5-a5xa6",
+        "c4-c9xd9",
+        "b6-a6"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "skydude953",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c6-c9",
+        "e5-e3",
+        "f3-i3",
+        "f5-c5",
+        "b5-b4",
+        "f4-f2",
+        "g2-h2",
+        "d6-d2xe2",
+        "j5-j4",
+        "e6-b6",
+        "a5-b5xb6",
+        "f6-d6",
+        "e10-d10",
+        "d6-d3",
+        "b4-b3",
+        "d2-a2",
+        "e1-d1",
+        "c5-c3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Noobchen",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-g3",
+        "h6-h2",
+        "h11-h3xh2",
+        "g7-g10",
+        "h3-h10xg10",
+        "g6-g10",
+        "f10-c10",
+        "f6-i6",
+        "h10-i10",
+        "i6-i1",
+        "j6-j1",
+        "i1-i9",
+        "k4-i4",
+        "i9-k9",
+        "i10-k10",
+        "k9-a9",
+        "c10-a10",
+        "a9-k9xk10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

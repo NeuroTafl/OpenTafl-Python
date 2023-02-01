@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Norseberg",
+    "BlackSidePlayerName": "Thuledins",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-i2",
+        "e6-e7",
+        "e2-e3",
+        "f6-e6",
+        "g1-g3xf3",
+        "e6-e4",
+        "a5-a4",
+        "d6-e6",
+        "b5-e5"
+    ],
+    "WhoWon": "Black"
+}

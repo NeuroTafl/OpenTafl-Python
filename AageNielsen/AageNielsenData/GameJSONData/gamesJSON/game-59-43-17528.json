@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-e1",
+        "d3-b3",
+        "b4-b5",
+        "c4-c2",
+        "d2-d1",
+        "d4-d2",
+        "e1-e2",
+        "c2-c4",
+        "a4-a2",
+        "d2-c2",
+        "d1-c1",
+        "b3-b1",
+        "b5-b3",
+        "d5-d1xc1",
+        "a2-b2",
+        "c2-c1"
+    ],
+    "WhoWon": "White"
+}

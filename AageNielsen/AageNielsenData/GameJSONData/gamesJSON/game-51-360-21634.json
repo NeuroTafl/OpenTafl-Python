@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "c4-c5",
+        "b4-b3",
+        "d3-f3",
+        "d2-e2",
+        "d4-c4",
+        "g4-f4xe4",
+        "c5-b5",
+        "d6-c6",
+        "b5-b6",
+        "d7-d6xd5",
+        "c4-c2",
+        "e2-f2xf3",
+        "b6-b5",
+        "c6-c3",
+        "c2-b2",
+        "d1-b1"
+    ],
+    "WhoWon": "Black"
+}

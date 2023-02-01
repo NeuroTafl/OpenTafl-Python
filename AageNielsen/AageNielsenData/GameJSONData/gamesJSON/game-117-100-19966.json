@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Borjk",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 117,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h2-j2",
+        "i9-i11",
+        "h12-j12",
+        "h8-h11",
+        "g11-d11",
+        "i5-i6",
+        "l8-l10",
+        "h6-h4",
+        "l6-l4",
+        "e9-c9",
+        "b8-b10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

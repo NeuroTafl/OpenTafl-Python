@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Wesley Alves",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-b3",
+        "c6-c5",
+        "d4-c4",
+        "d7-d6xd5",
+        "c4-c3",
+        "f4-f2",
+        "c2-d2",
+        "d1-c1",
+        "e4-c4",
+        "c1-c2xd2",
+        "b3-b1",
+        "c2-c1xb1",
+        "c3-c2",
+        "b4-b3",
+        "c2-a2",
+        "a4-a3"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i6-h6",
+        "e4-b4",
+        "i4-e4xe3",
+        "e6-b6xb5",
+        "h6-e6xe7",
+        "d5-d6",
+        "f9-f6",
+        "c5-b5",
+        "e8-c8",
+        "e5-c5",
+        "e4-c4xb4",
+        "c5-c7",
+        "a6-a7",
+        "c7-g7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "skallatorc",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b5-b7",
+        "d5-d2",
+        "a4-b4",
+        "c5-b5",
+        "d1-c1",
+        "e5-c5",
+        "d9-c9",
+        "e3-b3xb4",
+        "c1-c2xd2",
+        "c5-d5",
+        "c2-c5xb5",
+        "d5-d1"
+    ],
+    "WhoWon": "White"
+}

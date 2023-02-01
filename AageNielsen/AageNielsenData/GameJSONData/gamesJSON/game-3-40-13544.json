@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Lininho234",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10-f9",
+        "d6-d3",
+        "f2-f3",
+        "e5-e3",
+        "f3-h3",
+        "e6-e4",
+        "b6-b2",
+        "f6-c6",
+        "a5-c5",
+        "c6-c10",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

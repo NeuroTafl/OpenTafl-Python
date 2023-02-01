@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b4-b5",
+        "c4-b4",
+        "d2-c2",
+        "d3-c3",
+        "d6-c6",
+        "d4-d2",
+        "f4-f3",
+        "e4-e3",
+        "c6-c4xb4xc3",
+        "d2-d3",
+        "d7-d6xd5",
+        "e3-e7",
+        "d6-d7",
+        "d3-d5",
+        "f3-f5",
+        "e7-e2",
+        "a4-a3",
+        "d5-d3",
+        "f5-f2",
+        "d3-d6",
+        "b5-d5"
+    ],
+    "WhoWon": "Black"
+}

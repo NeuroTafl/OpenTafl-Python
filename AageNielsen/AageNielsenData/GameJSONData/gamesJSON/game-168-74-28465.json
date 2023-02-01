@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Rollo",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 168,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e4-f4",
+        "d1-d2",
+        "f5-f8",
+        "d9-d8",
+        "e6-h6",
+        "a6-e6xe7",
+        "e5-f5",
+        "i6-i7",
+        "f5-f7",
+        "e8-e7",
+        "d5-d7xe7",
+        "e6-e4xe3",
+        "f7-h7",
+        "i4-g4xf4",
+        "h7-h8",
+        "i7-g7",
+        "f8-g8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

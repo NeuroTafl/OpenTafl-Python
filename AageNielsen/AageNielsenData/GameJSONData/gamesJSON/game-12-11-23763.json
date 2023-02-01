@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 12,
+    "AageGameTypeName": "Old Hnefatafl 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i4-h4",
+        "e6-b6",
+        "b5-b3",
+        "d5-d8",
+        "d9-c9",
+        "f5-f8xe8",
+        "f1-f5xg5",
+        "e5-e6",
+        "i6-g6",
+        "e6-c6",
+        "c9-c7",
+        "d8-c8xc7",
+        "e9-c9",
+        "c6-c7",
+        "a6-a7",
+        "c7-b7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

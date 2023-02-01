@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "2016champ",
+    "BlackSidePlayerName": "Herjan",
+    "AageGameTypeKey": 42,
+    "AageGameTypeName": "Sea battle tafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-e2",
+        "g6-c6",
+        "h3-c3",
+        "f7-c7",
+        "d8-d7xc7",
+        "f8-f3",
+        "h4-k4",
+        "h6-d6",
+        "d7-d11",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

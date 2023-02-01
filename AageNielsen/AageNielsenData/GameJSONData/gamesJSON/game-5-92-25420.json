@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "MaSieFi",
+    "BlackSidePlayerName": "SvenOddrson",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f9-g9",
+        "f5-f8",
+        "g9-g8xf8",
+        "e5-f5",
+        "g8-f8",
+        "g5-g4",
+        "i6-f6",
+        "g4-g6xf6",
+        "f8-f6",
+        "e6-b6",
+        "i4-g4",
+        "e4-e6xf6",
+        "e8-f8",
+        "e7-e8",
+        "d9-d8xe8",
+        "f5-f7",
+        "h5-h7",
+        "f7-a7"
+    ],
+    "WhoWon": "White"
+}

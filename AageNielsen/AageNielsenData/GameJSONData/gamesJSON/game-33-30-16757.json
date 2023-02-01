@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Mykle",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "l8-l10",
+        "f8-d8",
+        "b6-b4",
+        "f7-f10",
+        "h2-j2",
+        "g7-e7",
+        "g11-d11",
+        "e5-c5",
+        "g3-d3",
+        "e7-e4",
+        "f2-f4",
+        "e4-e6",
+        "h1-h4xg4",
+        "e9-c9",
+        "e1-e5",
+        "f10-b10",
+        "e13-e7xd7"
+    ],
+    "WhoWon": "Black"
+}

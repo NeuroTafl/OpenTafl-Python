@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Evans",
+    "BlackSidePlayerName": "chuck ward",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8i8",
+        "h6h3",
+        "d1d3",
+        "f4i4",
+        "k4j4",
+        "h3h4",
+        "d3i3",
+        "g5i5",
+        "a4d4",
+        "g6g3",
+        "h1h2",
+        "g3b3",
+        "a8c8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

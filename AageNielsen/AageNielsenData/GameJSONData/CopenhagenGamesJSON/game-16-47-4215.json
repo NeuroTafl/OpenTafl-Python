@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "edmond-dantes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b3",
+        "d6-d3",
+        "h1-h3",
+        "e6-b6",
+        "a8-c8",
+        "f6-c6",
+        "f2-c2",
+        "d3-d9",
+        "f10-b10",
+        "d9-a9",
+        "k4-i4",
+        "b6-b8",
+        "c8-c11",
+        "c6-c10",
+        "d11-d10",
+        "a9-a10xb10",
+        "c11-b11",
+        "a10-a9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

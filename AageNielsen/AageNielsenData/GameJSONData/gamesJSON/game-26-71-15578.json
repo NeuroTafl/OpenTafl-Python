@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "g6-g5",
+        "f10-i10",
+        "f6-g6",
+        "g11-g10",
+        "f9-f10",
+        "b6-b9",
+        "h6-h10xg10",
+        "f11-g11",
+        "c6-b6",
+        "g11-g10xh10",
+        "g6-g9",
+        "i10-i9",
+        "g9-c9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

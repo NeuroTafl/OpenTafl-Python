@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Fortell",
+    "BlackSidePlayerName": "RusMadrid",
+    "AageGameTypeKey": 130,
+    "AageGameTypeName": "Brandubh noreturn 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "d3-c3",
+        "d6-e6",
+        "d5-d6",
+        "f3-e3",
+        "d4-d5",
+        "b4-b5",
+        "d5-f5",
+        "d2-d5xd6",
+        "f5-f1",
+        "d1-e1"
+    ],
+    "WhoWon": "Black"
+}

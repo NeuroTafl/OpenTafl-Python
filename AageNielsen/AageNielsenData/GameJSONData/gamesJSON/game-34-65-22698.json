@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h2-j2",
+        "f8-f11",
+        "h12-h11",
+        "d7-d11",
+        "c7-c11",
+        "f11-e11",
+        "f12-d12",
+        "g10-b10",
+        "c11-b11",
+        "f7-f11",
+        "b7-d7",
+        "g8-d8",
+        "b6-d6",
+        "g7-g10",
+        "k7-k10",
+        "g10-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

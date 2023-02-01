@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Luigi005",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c5-c2",
+        "b5-b2",
+        "e3-a3",
+        "d1-d2xc2",
+        "e4-h4",
+        "i6-h6",
+        "e5-e3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

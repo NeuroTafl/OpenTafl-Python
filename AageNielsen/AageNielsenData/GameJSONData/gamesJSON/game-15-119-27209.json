@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Wesley alves",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a4-d4",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "f10-b10",
+        "h6-h2",
+        "j6-j2",
+        "f6-i6",
+        "h1-i1",
+        "i6-i11",
+        "j2-j11",
+        "i11-i10xh10",
+        "j11-j10",
+        "i10-i11",
+        "j10-j11",
+        "i11-i9",
+        "k8-k9",
+        "i9-i11xj11",
+        "k9-j9",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

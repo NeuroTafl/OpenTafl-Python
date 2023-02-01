@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 86,
+    "AageGameTypeName": "Sea battle line 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-c2",
+        "f5-f2",
+        "g9-g7",
+        "g5-g6",
+        "g1-g5xg6",
+        "e5-f5",
+        "f9-f7",
+        "f5-f3",
+        "i3-g3",
+        "e3-e1",
+        "i4-f4",
+        "f3-b3",
+        "d1-d4xe4",
+        "b3-b1"
+    ],
+    "WhoWon": "White"
+}

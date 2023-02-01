@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Harry64",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e13-e10",
+        "i9-i11",
+        "m9-g9xg10",
+        "h8-h10",
+        "b8-e8xe9",
+        "d7-d8xe8",
+        "g9-d9",
+        "g8-k8",
+        "c7-d7xd8",
+        "h6-k6xk7",
+        "i13-j13",
+        "j7-j12",
+        "d9-h9",
+        "f8-h8xh9",
+        "i1-j1",
+        "g7-g9",
+        "l8-l9",
+        "g9-c9",
+        "e10-c10",
+        "c9-c1"
+    ],
+    "WhoWon": "White"
+}

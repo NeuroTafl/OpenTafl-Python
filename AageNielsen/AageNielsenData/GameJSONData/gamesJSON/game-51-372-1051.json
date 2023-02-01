@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "d3-e3",
+        "b4-b3",
+        "c4-c2",
+        "d6-c6",
+        "d5-b5",
+        "f4-f5",
+        "c2-b2",
+        "b3-c3",
+        "d4-d3",
+        "f5-f4xe4",
+        "b5-b3xc3",
+        "f4-e4xe3",
+        "b3-b5",
+        "a4-a3",
+        "d3-c3",
+        "e4-a4",
+        "c3-c1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

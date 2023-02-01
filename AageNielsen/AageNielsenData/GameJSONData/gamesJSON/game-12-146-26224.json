@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Alex hnefatafl",
+    "AageGameTypeKey": 12,
+    "AageGameTypeName": "Old Hnefatafl 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "e4-b4",
+        "i4-c4xb4",
+        "e5-e4",
+        "h5-h4",
+        "e4-g4",
+        "c2-g2",
+        "e3-c3xc4",
+        "e8-h8",
+        "c3-i3",
+        "h4-i4",
+        "g4-h4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "SvenOddrson",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j7-j8",
+        "h6-i6",
+        "g10-h10",
+        "i6-i11",
+        "j6-i6",
+        "g7-i7",
+        "j8-i8xi7",
+        "f7-i7",
+        "h10-i10",
+        "g5-i5xi6",
+        "k6-i6xi7",
+        "e7-i7xi6",
+        "j5-j6",
+        "f6-f7",
+        "i8-h8",
+        "f7-c7",
+        "j6-i6",
+        "c7-c11"
+    ],
+    "WhoWon": "White"
+}

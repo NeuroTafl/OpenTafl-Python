@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Branan",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c2-c1",
+        "d3-d1",
+        "e2-e1xd1",
+        "d4-d2",
+        "b5-b4xc4",
+        "d2-a2",
+        "b3-a3"
+    ],
+    "WhoWon": "Black"
+}

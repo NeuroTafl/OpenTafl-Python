@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Mamajumbo",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i6-i7",
+        "g5-g3",
+        "j5-j3",
+        "e5-e3xf3",
+        "f1-f3",
+        "f5-c5",
+        "k5-d5xc5",
+        "f6-f5",
+        "d5-e5",
+        "f5-k5"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "i6-i11",
+        "g11-h11",
+        "h6-h1",
+        "j7-j11xi11",
+        "g6-g3",
+        "j5-h5",
+        "f4-h4",
+        "j6-h6",
+        "f6-g6",
+        "k6-i6"
+    ],
+    "WhoWon": "Ongoing"
+}

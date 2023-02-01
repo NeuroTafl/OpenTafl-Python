@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "teondrae",
+    "BlackSidePlayerName": "Schachus",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "d11-d9",
+        "f4-i4",
+        "g1-i1",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "j6-j9",
+        "g7-g10",
+        "e11-e9",
+        "h6-h9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

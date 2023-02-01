@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Birkanive",
+    "BlackSidePlayerName": "Geattrip",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "k5-k1",
+        "e7-c7",
+        "e10-e7",
+        "f8-e8xe7",
+        "e11-a11",
+        "g7-g9",
+        "g11-k11",
+        "e8-e9xf9",
+        "j7-j8",
+        "f7-g7",
+        "j8-g8xg9",
+        "e9-g9xg8",
+        "f3-d3",
+        "f6-f7",
+        "a7-a8",
+        "f7-d7",
+        "a8-c8xc7",
+        "d7-d11"
+    ],
+    "WhoWon": "White"
+}

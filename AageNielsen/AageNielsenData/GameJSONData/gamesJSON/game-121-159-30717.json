@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Abbas agraphicus",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-e1",
+        "d3-d1",
+        "b3-c3",
+        "c4-b4",
+        "c2-d2",
+        "b4-b3",
+        "c6-c4",
+        "d4-d3xc3xd2",
+        "c4-c2",
+        "d3-d4",
+        "b5-b4",
+        "d5-b5xb4",
+        "c2-c4",
+        "d4-d7"
+    ],
+    "WhoWon": "White"
+}

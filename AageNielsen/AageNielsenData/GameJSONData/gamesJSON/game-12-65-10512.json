@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 12,
+    "AageGameTypeName": "Old Hnefatafl 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h5-h7",
+        "f5-f8",
+        "i5-h5",
+        "d5-d8xe8",
+        "f1-f5xg5",
+        "e6-h6",
+        "h7-f7xf8",
+        "e4-h4xh5",
+        "a4-e4xe3",
+        "c5-c1",
+        "d9-c9",
+        "h6-g6",
+        "b5-b1xc1",
+        "e5-b5",
+        "d1-d7xe7",
+        "b5-b8",
+        "f5-f6",
+        "b8-a8",
+        "a6-a7",
+        "a8-a9"
+    ],
+    "WhoWon": "White"
+}

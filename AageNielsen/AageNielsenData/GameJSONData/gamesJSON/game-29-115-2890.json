@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Schachus",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-h2",
+        "d6-d10",
+        "b5-d5",
+        "f4-c4",
+        "a5-c5",
+        "e5-e3",
+        "d5-d3xe3",
+        "e6-e3",
+        "d3-c3xc4",
+        "f6-d6",
+        "c3-d3xe3",
+        "d6-d9",
+        "c6-c9",
+        "d9-d8",
+        "c9-c8",
+        "f8-e8",
+        "f9-d9",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

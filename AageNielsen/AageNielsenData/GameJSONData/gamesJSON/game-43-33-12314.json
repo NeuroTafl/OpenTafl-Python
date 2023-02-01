@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Pimms",
+    "AageGameTypeKey": 43,
+    "AageGameTypeName": "Tablut sparse 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "n8-n2",
+        "i9-i14",
+        "j15-j14xi14",
+        "i8-i14",
+        "k15-k13",
+        "g9-g14xh14",
+        "k13-i13xi14",
+        "h11-h13",
+        "i13-i11",
+        "j8-j12",
+        "j14-h14",
+        "k8-k14",
+        "f15-f14xg14",
+        "h8-l8",
+        "o11-l11",
+        "l8-l1"
+    ],
+    "WhoWon": "White"
+}

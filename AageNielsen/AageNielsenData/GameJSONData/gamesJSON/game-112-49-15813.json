@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Kihtan",
+    "AageGameTypeKey": 112,
+    "AageGameTypeName": "Brandubh weak-throne circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-f3",
+        "e4-e2",
+        "d1-e1",
+        "d3-e3",
+        "b2-c2",
+        "e2-f2",
+        "f6-f4",
+        "d5-d6",
+        "g4-g5",
+        "d4-d5",
+        "g5-e5",
+        "f2-f1",
+        "e1-d1",
+        "e3-e1",
+        "b6-c6",
+        "d5-b5",
+        "c6-b6",
+        "b5-b3",
+        "b6-b4xc4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

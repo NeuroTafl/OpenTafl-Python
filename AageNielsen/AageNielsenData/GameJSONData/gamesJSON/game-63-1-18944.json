@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g5-e5",
+        "e4-f4",
+        "c7-c5xd5",
+        "d4-d5",
+        "e5-e6",
+        "d5-d6",
+        "c5-c6",
+        "f4-f6xe6",
+        "a5-g5",
+        "d6-d7",
+        "g3-f3",
+        "d7-c7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

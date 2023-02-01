@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-a5",
+        "e4-e5",
+        "e2-e4xe5",
+        "d5-c5",
+        "f5-d5",
+        "c4-c3",
+        "e6-g6",
+        "d3-d1",
+        "c2-c1",
+        "c3-e3",
+        "c1-c4xc5",
+        "d4-d2",
+        "f3-f2",
+        "d1-c1",
+        "f2-e2xe3",
+        "d2-b2",
+        "a5-a2",
+        "b2-b1",
+        "d5-d1",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Khan Asparukh",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-a9",
+        "g5-g3",
+        "k4-k3",
+        "h6-h9",
+        "h11-i11",
+        "g6-g5",
+        "f10-j10",
+        "d6-d3",
+        "a4-a3",
+        "e7-c7",
+        "d1-c1",
+        "h9-b9",
+        "j10-b10",
+        "f6-i6",
+        "b6-d6xe6"
+    ],
+    "WhoWon": "Black"
+}

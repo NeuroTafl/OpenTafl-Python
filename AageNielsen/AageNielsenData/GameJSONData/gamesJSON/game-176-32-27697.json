@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 176,
+    "AageGameTypeName": "Simple Tafl-w 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e3-b3",
+        "h5-h3",
+        "f5-f8",
+        "f1-f7xf8",
+        "g5-g7xf7",
+        "e2-f2",
+        "e5-h5",
+        "e8-h8",
+        "h5-g5",
+        "h3-g3",
+        "g7-g9",
+        "i5-h5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

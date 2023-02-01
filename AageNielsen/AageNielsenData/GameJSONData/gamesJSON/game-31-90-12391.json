@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Norsedeli",
+    "BlackSidePlayerName": "Ragnarpayu",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j7-i7",
+        "f8-i8xi7",
+        "g10-g8",
+        "f7-g7",
+        "e10-e8",
+        "f9-g9xg8",
+        "f10-f8",
+        "f6-f7",
+        "b7-e7",
+        "g9-f9xf8",
+        "a7-d7",
+        "f9-f10",
+        "g11-g8",
+        "f7-f9",
+        "e11-e9",
+        "f9-k9"
+    ],
+    "WhoWon": "White"
+}

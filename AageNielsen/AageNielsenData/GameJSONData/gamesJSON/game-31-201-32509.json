@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "Ragnarros",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a7-a8",
+        "e6-e4",
+        "e2-e3",
+        "d6-d3xe3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

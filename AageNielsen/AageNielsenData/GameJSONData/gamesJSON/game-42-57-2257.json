@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Daffodil",
+    "BlackSidePlayerName": "Bean",
+    "AageGameTypeKey": 42,
+    "AageGameTypeName": "Sea battle tafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h12-a12",
+        "j7-j4",
+        "f15-a15",
+        "j4-i4",
+        "j1-j4xi4",
+        "h7-g7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

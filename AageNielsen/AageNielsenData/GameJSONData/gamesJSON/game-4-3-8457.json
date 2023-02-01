@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "sda",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8d8",
+        "f8f9",
+        "k8h8",
+        "f9d9",
+        "a7d7",
+        "f7f9",
+        "d1d4",
+        "f6f8",
+        "g11g9",
+        "e7e10",
+        "d11d10",
+        "f9d9",
+        "k4h4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

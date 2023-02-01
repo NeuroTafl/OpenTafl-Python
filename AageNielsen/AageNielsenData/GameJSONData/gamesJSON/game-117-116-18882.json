@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Borjk",
+    "AageGameTypeKey": 117,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a9-d9",
+        "f8-d8",
+        "f12-f9xe9",
+        "e7-e9xf9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

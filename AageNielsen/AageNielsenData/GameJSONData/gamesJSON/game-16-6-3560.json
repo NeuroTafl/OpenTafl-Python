@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Cromwell",
+    "BlackSidePlayerName": "Fenric7",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "d11-d9",
+        "h6-h9",
+        "a4-c4",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "f10-j10",
+        "h9-j9xj8",
+        "j6-j2",
+        "g6-g9",
+        "g1-i1",
+        "f6-i6",
+        "h11-i11",
+        "i6-i10",
+        "b6-b10",
+        "f8-k8",
+        "a8-a9",
+        "k8-k10xj10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

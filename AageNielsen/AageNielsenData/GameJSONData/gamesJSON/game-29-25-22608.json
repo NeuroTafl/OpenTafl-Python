@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f3-h3",
+        "f4-j4",
+        "h3-j3xj4",
+        "f5-f2",
+        "c6-c4",
+        "f6-f4",
+        "j5-j4",
+        "h6-h2xg2",
+        "j3-h3",
+        "f4-h4xh3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

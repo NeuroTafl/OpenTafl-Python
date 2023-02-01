@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "m9-j9",
+        "h8-j8",
+        "i13-i10",
+        "h7-h11",
+        "e13-e10",
+        "f8-f11xg11",
+        "e10-e11",
+        "d7-d11xe11",
+        "a5-d5",
+        "h11-i11xi10",
+        "j9-l9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

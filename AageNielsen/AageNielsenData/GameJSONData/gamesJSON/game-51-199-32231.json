@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "d3-d2",
+        "f4-f3",
+        "d2-f2",
+        "f3-f4",
+        "d4-d2",
+        "d1-e1",
+        "d2-e2",
+        "b4-b3",
+        "d5-d3",
+        "c2-d2xd3",
+        "e4-e3",
+        "a4-b4xc4",
+        "f2-f3",
+        "g4-g2",
+        "e3-d3",
+        "g2-f2xf3"
+    ],
+    "WhoWon": "Black"
+}

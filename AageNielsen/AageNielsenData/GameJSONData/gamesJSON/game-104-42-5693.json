@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "casshern",
+    "AageGameTypeKey": 104,
+    "AageGameTypeName": "Ard Ri-1 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d6-c6",
+        "d5-f5",
+        "c6-f6xf5",
+        "d4-d5",
+        "b4-b5",
+        "d5-e5",
+        "f4-f5",
+        "d3-d5",
+        "a4-b4xc4",
+        "e4-e2",
+        "f6-d6xd5",
+        "e5-d5",
+        "f5-f2xe2",
+        "d5-e5",
+        "f2-f5",
+        "e5-d5",
+        "d2-d3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

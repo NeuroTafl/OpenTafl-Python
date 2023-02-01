@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Sebastianmucke",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "d11-d9",
+        "f8-i8",
+        "k4-i4",
+        "f4-c4",
+        "d3-c3",
+        "e5-e2",
+        "a5-c5xc4",
+        "g5-g2xf2",
+        "b6-b2",
+        "g7-j7",
+        "k8-j8xj7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

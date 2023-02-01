@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 56,
+    "AageGameTypeName": "Sea Battle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-e6",
+        "e4-e3",
+        "d2-e2",
+        "d4-e4",
+        "e6-e5",
+        "d5-d6",
+        "a4-a5",
+        "d6-f6",
+        "d7-d4xc4",
+        "d3-c3",
+        "d1-d3",
+        "c3-c5",
+        "b4-c4",
+        "f6-b6",
+        "g4-g3",
+        "b6-b3",
+        "g3-f3xe3",
+        "b3-c3xc4",
+        "e2-e3"
+    ],
+    "WhoWon": "Black"
+}

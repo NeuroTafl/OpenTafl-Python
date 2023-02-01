@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Siegfried",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-g2",
+        "e4-b4",
+        "h5-h3",
+        "e6-b6xb5",
+        "i6-e6xe7",
+        "d5-d7",
+        "f9-f7",
+        "d7-e7xe6",
+        "d9-d7xe7",
+        "c5-c7",
+        "i4-c4xb4",
+        "e5-e4",
+        "i5-i4",
+        "e4-e6",
+        "h3-h6",
+        "e3-i3",
+        "e1-e3",
+        "g5-i5xi4",
+        "g2-g5xf5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

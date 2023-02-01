@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Waegn",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i3-g3",
+        "g5-j5",
+        "i6-i7",
+        "h6-j6",
+        "k8-k5",
+        "f5-i5",
+        "k1-j1",
+        "g6-i6",
+        "h1-i1",
+        "f6-h6",
+        "i1-i3",
+        "j6-j8",
+        "i7-i8",
+        "j8-j10",
+        "h11-h10",
+        "i6-i7",
+        "k11-k6",
+        "h6-j6",
+        "i8-j8",
+        "i7-j7",
+        "i9-i6"
+    ],
+    "WhoWon": "Black"
+}

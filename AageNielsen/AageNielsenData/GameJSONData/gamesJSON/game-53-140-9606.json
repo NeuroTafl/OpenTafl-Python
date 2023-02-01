@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Colophonius",
+    "BlackSidePlayerName": "KayKyber",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "c2-b2",
+        "a4-a3",
+        "d4-c4",
+        "e2-c2",
+        "d3-d2xc2",
+        "d1-c1",
+        "d5-a5",
+        "c6-c5",
+        "c4-c3",
+        "f4-f3",
+        "b2-b1",
+        "c1-e1",
+        "d2-d1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

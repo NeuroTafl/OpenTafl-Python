@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "AlpineEscape",
+    "BlackSidePlayerName": "TheMrIron2",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e8-g8",
+        "d5-d4",
+        "g8-g7",
+        "e5-d5",
+        "d9-d7",
+        "c5-c7xd7",
+        "e9-c9",
+        "d5-d7",
+        "a6-c6",
+        "e3-c3",
+        "c9-c8xc7",
+        "d7-d8",
+        "f9-d9",
+        "d8-i8"
+    ],
+    "WhoWon": "White"
+}

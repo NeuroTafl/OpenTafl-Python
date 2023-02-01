@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "p59xy",
+    "BlackSidePlayerName": "denkichBG",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j10",
+        "h6-j6",
+        "f2-j2",
+        "g6-i6",
+        "h1-i1",
+        "d6-d3",
+        "b6-b2",
+        "f6-h6",
+        "k4-k3",
+        "h6-h9",
+        "a8-a9",
+        "h9-k9",
+        "j10-k10",
+        "k9-b9",
+        "d11-b11",
+        "b9-k9xk10",
+        "f10-k10",
+        "k9-c9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

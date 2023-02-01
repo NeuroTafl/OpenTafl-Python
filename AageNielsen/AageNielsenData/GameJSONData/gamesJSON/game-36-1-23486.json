@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-l2",
+        "i7-i2",
+        "j1-k1",
+        "h6-l6",
+        "m5-l5xl6",
+        "g6-l6",
+        "k1-k6xl6",
+        "g4-l4",
+        "k6-k4xl4",
+        "g5-k5",
+        "a5-j5xk5",
+        "g7-g3",
+        "e1-e3",
+        "g3-m3",
+        "l2-m2",
+        "m3-l3",
+        "i1-l1",
+        "l3-m3xm2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Giulio89",
+    "BlackSidePlayerName": "Plantagen&ecirc;t",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d3",
+        "a8-c8",
+        "h6-h9",
+        "k5-i5",
+        "h9-k9",
+        "g11-g9",
+        "d3-b3",
+        "a5-c5",
+        "g6-i6",
+        "k7-i7xi6",
+        "e5-e3",
+        "a4-c4",
+        "f6-h6",
+        "h11-h8",
+        "g7-h7",
+        "j6-i6",
+        "e6-d6",
+        "g9-g6"
+    ],
+    "WhoWon": "Black"
+}

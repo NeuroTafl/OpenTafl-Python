@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Slowlybutalsoqui",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f6",
+        "d3-f3",
+        "d2-d3",
+        "c4-c2",
+        "d6-c6",
+        "c2-d2xd3",
+        "d1-c1",
+        "d2-b2",
+        "c1-d1",
+        "d4-c4",
+        "d1-c1",
+        "d5-d1",
+        "c1-c3",
+        "b2-c2xc3",
+        "f6-f4xe4",
+        "c2-b2",
+        "g4-g2",
+        "c4-c1",
+        "g2-f2xf3",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

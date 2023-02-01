@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "rosk",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a5-a4",
+        "g6-g7",
+        "g2-i2",
+        "f3-j3",
+        "k5-k3",
+        "i6-i3",
+        "f2-h2",
+        "d6-d2",
+        "a4-d4",
+        "f4-f2xe2",
+        "d4-d6xc6",
+        "f5-d5",
+        "k6-k4",
+        "f6-f3",
+        "b5-b3",
+        "f3-c3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

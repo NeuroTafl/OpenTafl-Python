@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Audunli",
+    "BlackSidePlayerName": "Ivarax",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-k8",
+        "f4-d4",
+        "g2-g4",
+        "f5-d5",
+        "j5-g5",
+        "f3-f5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

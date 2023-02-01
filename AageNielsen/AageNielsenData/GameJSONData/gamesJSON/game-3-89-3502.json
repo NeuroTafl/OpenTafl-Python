@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Kaagee",
+    "BlackSidePlayerName": "Casshern",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "e7-e9",
+        "f10-c10",
+        "f7-b7",
+        "a8-b8xb7",
+        "f8-f10",
+        "h11-h9",
+        "g7-b7",
+        "c4-c7xb7",
+        "e9-g9",
+        "h9-i9",
+        "f6-f8",
+        "k8-h8",
+        "f8-g8",
+        "k7-i7",
+        "f10-g10",
+        "a7-a9",
+        "f5-f9",
+        "k6-k10",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Harry64",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-c2",
+        "d3-b3",
+        "a4-a3",
+        "d5-b5xb4",
+        "c2-c3xb3",
+        "b5-b2",
+        "c3-d3",
+        "b2-d2xd3",
+        "a3-d3xd2",
+        "c4-c3",
+        "f4-f3",
+        "d4-a4",
+        "f3-f4xe4",
+        "a4-a7"
+    ],
+    "WhoWon": "White"
+}

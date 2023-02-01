@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d3",
+        "b6-b3",
+        "e6-b6",
+        "f10-b10",
+        "f6-c6",
+        "a8-c8",
+        "c6-c2",
+        "b3-b2",
+        "d3-a3",
+        "d1-c1",
+        "a3-a2xb2",
+        "a4-b4",
+        "c2-b2",
+        "c1-b1",
+        "a2-a3",
+        "f2-c2",
+        "b2-a2",
+        "c2-b2",
+        "a2-a1"
+    ],
+    "WhoWon": "White"
+}

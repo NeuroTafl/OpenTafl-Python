@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "fairland",
+    "BlackSidePlayerName": "chiarapigs",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-g2",
+        "d6-d2",
+        "g2-g3",
+        "e5-b5",
+        "a4-b4xb5",
+        "e6-e2",
+        "f1-f2",
+        "f6-c6",
+        "a7-c7",
+        "c6-c1",
+        "b4-b1",
+        "c1-c3",
+        "b6-b3",
+        "c3-c1xb1",
+        "b3-b1",
+        "d2-b2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

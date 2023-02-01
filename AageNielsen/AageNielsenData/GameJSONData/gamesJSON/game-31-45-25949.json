@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j9",
+        "f5-h5",
+        "g2-i2",
+        "e6-e4",
+        "b5-b3",
+        "d6-d2",
+        "e1-c1",
+        "d2-b2",
+        "f1-d1",
+        "c6-c10",
+        "c1-b1xb2",
+        "f6-c6",
+        "d1-d6"
+    ],
+    "WhoWon": "Black"
+}

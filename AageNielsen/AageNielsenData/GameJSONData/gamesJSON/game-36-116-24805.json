@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Pimms",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "l7-l2",
+        "h6-h2",
+        "i1-i2xh2",
+        "h7-h2",
+        "f1-f3",
+        "j7-j2xi2",
+        "f3-h3xh2",
+        "j2-h2",
+        "j13-j2",
+        "f6-f2xg2",
+        "j2-i2",
+        "h8-h4xh3",
+        "g1-g2xh2",
+        "h4-h2xg2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

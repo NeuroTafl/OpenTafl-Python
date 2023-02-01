@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 135,
+    "AageGameTypeName": "Old Tyr-1 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i1-i4",
+        "g10-g11",
+        "g13-g12",
+        "g8-g10",
+        "a9-d9",
+        "e8-e11xf11",
+        "i13-i10",
+        "d7-c7",
+        "a5-d5",
+        "j7-k7",
+        "m7-l7",
+        "h7-j7",
+        "m9-i9",
+        "h5-k5xk6",
+        "j10-j8",
+        "i6-j6",
+        "h3-h8xi8",
+        "g7-h7xh8"
+    ],
+    "WhoWon": "White"
+}

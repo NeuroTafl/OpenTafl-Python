@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a8-c8",
+        "e7-c7",
+        "e11-e10",
+        "d9-c9xc8",
+        "e10-c10",
+        "c9-a9",
+        "c10-a10",
+        "a9-b9",
+        "a10-a9",
+        "c7-c11",
+        "f10-b10",
+        "e6-e11xd11",
+        "d1-d11xe11",
+        "e5-e11xd11",
+        "b6-b8xb9",
+        "f6-d6",
+        "b8-d8",
+        "d6-d1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

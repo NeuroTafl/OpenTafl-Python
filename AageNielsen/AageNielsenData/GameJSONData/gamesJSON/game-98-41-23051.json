@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 98,
+    "AageGameTypeName": "Brandubh throneless line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g5-e5",
+        "e4-e2",
+        "e5-e4",
+        "d3-d1",
+        "c1-c2",
+        "d4-d3",
+        "g3-e3xe2",
+        "c4-c3",
+        "c2-d2",
+        "d1-c1",
+        "e4-d4"
+    ],
+    "WhoWon": "Black"
+}

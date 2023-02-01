@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Abbas agraphicus",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g2-h2",
+        "e7-e9",
+        "f9-h9",
+        "f7-c7",
+        "a7-a8",
+        "e5-c5xc6",
+        "e10-d10",
+        "e6-e3",
+        "g1-g3",
+        "f8-b8",
+        "i6-i8",
+        "d6-b6xb7",
+        "e2-d2",
+        "f4-b4xb5",
+        "d2-d3xe3",
+        "f6-c6",
+        "h2-c2",
+        "c7-a7",
+        "a8-a9",
+        "c6-c11"
+    ],
+    "WhoWon": "White"
+}

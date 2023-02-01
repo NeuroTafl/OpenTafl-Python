@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Giulio89",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-d2",
+        "f4-c4",
+        "j6-j9",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "k4-d4xc4",
+        "f6-f3",
+        "h1-h3",
+        "f3-a3",
+        "d2-a2",
+        "a3-c3",
+        "d1-d2",
+        "c3-a3xa2",
+        "d2-a2",
+        "a3-b3xb4",
+        "e1-c1",
+        "b3-b1",
+        "a2-b2"
+    ],
+    "WhoWon": "Black"
+}

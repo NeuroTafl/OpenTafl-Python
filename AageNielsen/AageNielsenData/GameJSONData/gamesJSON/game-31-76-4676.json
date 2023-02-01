@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "AdhMor",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e10-c10",
+        "f9-c9",
+        "e11-e9",
+        "d6-d9",
+        "b7-d7",
+        "c6-c4",
+        "b5-d5",
+        "f4-d4",
+        "b6-c6",
+        "f8-d8",
+        "g10-g8",
+        "e6-d6xd7xd5",
+        "e2-d2",
+        "d6-d5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

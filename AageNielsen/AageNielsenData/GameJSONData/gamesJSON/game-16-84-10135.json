@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f4-i4",
+        "g1-g3",
+        "f5-f3",
+        "e1-e3xf3",
+        "h6-h3",
+        "f2-f4",
+        "g5-j5",
+        "k4-j4xj5",
+        "e5-e4",
+        "a4-d4xe4",
+        "e6-e4",
+        "a5-e5xe4",
+        "e7-c7",
+        "d11-d9",
+        "d6-d5",
+        "b6-d6xd5",
+        "f8-c8",
+        "e11-e9",
+        "f6-f5",
+        "g3-g5"
+    ],
+    "WhoWon": "Black"
+}

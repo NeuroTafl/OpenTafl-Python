@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Griffin",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "d6-d9",
+        "d11-d10",
+        "e7-e10",
+        "a8-d8xd9",
+        "g7-g10xf10",
+        "h11-h9",
+        "e10-e9",
+        "h9-g9xg10",
+        "e6-e8",
+        "a7-c7",
+        "f6-c6",
+        "a4-c4",
+        "e5-b5",
+        "f2-c2",
+        "e9-c9",
+        "d8-c8",
+        "c9-b9",
+        "b6-b7",
+        "c6-d6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

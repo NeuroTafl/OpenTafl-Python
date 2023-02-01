@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Chuck ward",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f2",
+        "d5-c5",
+        "d2-c2",
+        "e4-e3",
+        "d6-e6",
+        "d4-d6",
+        "d1-d2xd3",
+        "c5-d5",
+        "a4-a6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

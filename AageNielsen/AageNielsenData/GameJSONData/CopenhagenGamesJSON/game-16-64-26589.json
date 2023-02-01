@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d11-d9",
+        "f4-c4",
+        "a8-c8",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "d2-d4",
+        "e7-e4xd4",
+        "a7-b7",
+        "g5-g2xf2",
+        "e1-c1",
+        "f5-f2",
+        "k4-i4",
+        "f6-f3",
+        "a4-a3",
+        "f3-k3",
+        "j6-j2",
+        "k3-k1"
+    ],
+    "WhoWon": "White"
+}

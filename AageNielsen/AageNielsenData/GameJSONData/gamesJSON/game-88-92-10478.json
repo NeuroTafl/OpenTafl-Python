@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 88,
+    "AageGameTypeName": "Sea battle circle 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b2-c2",
+        "e4-b4",
+        "c2-c4xb4",
+        "e3-c3xc4",
+        "a4-c4",
+        "g5-g1",
+        "i6-i7",
+        "e5-e2",
+        "d1-d2",
+        "e2-g2",
+        "i5-g5",
+        "g1-h1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

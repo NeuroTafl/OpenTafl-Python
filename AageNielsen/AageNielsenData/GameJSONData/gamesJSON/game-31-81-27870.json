@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Ragnarocon",
+    "BlackSidePlayerName": "olafmcpe",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-i2",
+        "e6-e7",
+        "b5-b3",
+        "c6-c8",
+        "e10-c10",
+        "d6-c6",
+        "e2-e5",
+        "f6-d6",
+        "a5-d5",
+        "d6-d11"
+    ],
+    "WhoWon": "White"
+}

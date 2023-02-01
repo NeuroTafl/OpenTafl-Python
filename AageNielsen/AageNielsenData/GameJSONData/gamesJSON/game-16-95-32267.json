@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Bigwurm91",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "e7-c7",
+        "f10-c10",
+        "h6-h9",
+        "k5-i5",
+        "f8-b8",
+        "d11-d9",
+        "f7-f10",
+        "c10-c8xb8",
+        "f10-d10",
+        "f11-f10",
+        "d6-d8xd9",
+        "b6-b10",
+        "h9-c9xc8",
+        "g11-g9",
+        "c9-c11",
+        "k8-f8",
+        "e6-e8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

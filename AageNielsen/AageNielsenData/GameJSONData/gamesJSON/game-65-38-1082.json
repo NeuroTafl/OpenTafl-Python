@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Drzhbe",
+    "BlackSidePlayerName": "The fifth seal",
+    "AageGameTypeKey": 65,
+    "AageGameTypeName": "Magpie circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-e2",
+        "d3-f3",
+        "b2-b3",
+        "c4-c2",
+        "b6-c6",
+        "d5-b5",
+        "d1-d2",
+        "c2-b2",
+        "a4-b4",
+        "b5-b6",
+        "d2-d1",
+        "b2-c2",
+        "g4-f4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

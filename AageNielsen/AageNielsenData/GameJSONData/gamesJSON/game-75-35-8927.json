@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 75,
+    "AageGameTypeName": "Tawlbwrdd T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h4",
+        "g6-g4",
+        "k4-i4",
+        "f7-e7",
+        "k8-h8",
+        "e7-e10",
+        "d11-d10xe10",
+        "c6-c2",
+        "a4-a2",
+        "e6-e10",
+        "e1-e9xe10",
+        "d6-d9xe9",
+        "a8-d8xd9",
+        "c2-e2",
+        "d1-d2xe2",
+        "f6-c6",
+        "d2-d6"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Arne64",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j1-j3",
+        "f8-b8",
+        "a6-c6",
+        "g9-c9",
+        "a10-c10",
+        "g8-c8",
+        "a9-b9xb8",
+        "h8-h12",
+        "f13-f11",
+        "d7-d11",
+        "m9-d9xc9",
+        "e7-e11",
+        "f11-h11xh12",
+        "g7-g9",
+        "j13-j9",
+        "f7-d7",
+        "a8-a11",
+        "g10-d10",
+        "b9-b12",
+        "d10-k10",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

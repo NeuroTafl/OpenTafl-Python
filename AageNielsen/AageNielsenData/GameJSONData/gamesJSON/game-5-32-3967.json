@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-h6",
+        "e7-i7",
+        "f9-f7",
+        "e6-g6",
+        "i5-i6",
+        "i7-i8",
+        "a6-f6xg6",
+        "e4-f4",
+        "d1-d2",
+        "c5-c1",
+        "a4-c4",
+        "d5-d6",
+        "d9-d7",
+        "e5-c5",
+        "d7-c7",
+        "e3-e6",
+        "c7-c6",
+        "c1-d1",
+        "d2-d5"
+    ],
+    "WhoWon": "Black"
+}

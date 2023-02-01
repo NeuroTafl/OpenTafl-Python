@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 103,
+    "AageGameTypeName": "Ard Ri friendly-throne unarmed circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f6-f5",
+        "d3-b3",
+        "d1-d3",
+        "c4-b4",
+        "d7-c7",
+        "d5-a5",
+        "f5-d5",
+        "e4-f4",
+        "b6-e6",
+        "d4-c4",
+        "d3-c3",
+        "b3-a3xa4",
+        "e6-e4xf4",
+        "b4-b3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

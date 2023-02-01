@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-g2",
+        "g5-g4",
+        "g2-g3",
+        "e7-d7",
+        "h5-g5xg4",
+        "e4-g4",
+        "a4-e4",
+        "d5-d4",
+        "f9-f7",
+        "f5-f4xe4",
+        "f1-f3",
+        "e6-g6xg5",
+        "e8-e7",
+        "e5-h5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

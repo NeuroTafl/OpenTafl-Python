@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Rollo",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-c1",
+        "f5-h5",
+        "g11-h11",
+        "g6-g8",
+        "a7-a8",
+        "f7-d7",
+        "f1-d1",
+        "e6-e4",
+        "k5-k3",
+        "f8-b8",
+        "h11-h9",
+        "f6-f8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

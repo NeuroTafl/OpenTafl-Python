@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Ozgen97",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "h11-h9",
+        "d6-d2",
+        "h3-d3xd2",
+        "f6-c6",
+        "a8-c8",
+        "c6-c1",
+        "b6-b1",
+        "c1-c3",
+        "b1-b2",
+        "c3-a3",
+        "b2-a2",
+        "a3-b3",
+        "a7-b7",
+        "b3-b1",
+        "d3-c3",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

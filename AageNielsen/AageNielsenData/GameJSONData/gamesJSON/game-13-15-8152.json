@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "MaC",
+    "BlackSidePlayerName": "Oddur",
+    "AageGameTypeKey": 13,
+    "AageGameTypeName": "Old Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8i8",
+        "h6h10",
+        "g11g9",
+        "h10j10",
+        "k7i7",
+        "g5j5",
+        "i7i5",
+        "f4i4",
+        "h11h6",
+        "e5e2",
+        "d1d2",
+        "e6e2",
+        "b6b3",
+        "d6b6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

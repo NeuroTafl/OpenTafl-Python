@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-h1",
+        "f3-k3",
+        "h1-h4",
+        "k3-k1",
+        "g2-g3",
+        "i6-i1",
+        "j5-i5",
+        "k1-j1",
+        "k5-j5",
+        "c6-c5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

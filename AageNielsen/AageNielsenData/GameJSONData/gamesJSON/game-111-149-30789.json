@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "Board",
+    "AageGameTypeKey": 111,
+    "AageGameTypeName": "Tablut 13x13 (modif. Parlett)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-k11",
+        "j7-j12",
+        "g3-k3",
+        "j12-k12",
+        "i13-k13xk12",
+        "h7-k7",
+        "c7-c3",
+        "g7-j7",
+        "l6-j6",
+        "j7-j13"
+    ],
+    "WhoWon": "White"
+}

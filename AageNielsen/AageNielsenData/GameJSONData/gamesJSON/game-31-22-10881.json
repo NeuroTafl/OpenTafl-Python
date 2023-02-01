@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Ivarcha",
+    "BlackSidePlayerName": "Ivargra",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-h7",
+        "h6-h5",
+        "j5-j3",
+        "e6-e4",
+        "b7-c7",
+        "f6-e6",
+        "b5-c5xc6",
+        "e6-e8",
+        "c7-c8",
+        "f8-k8",
+        "c8-d8",
+        "e8-j8",
+        "g10-j10",
+        "k8-k10",
+        "k7-k9",
+        "f9-d9",
+        "g11-k11xk10",
+        "j8-i8",
+        "e10-d10xd9",
+        "i8-k8"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "King Harald",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-c1",
+        "d6-d10",
+        "b7-d7",
+        "f9-c9",
+        "e11-c11",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

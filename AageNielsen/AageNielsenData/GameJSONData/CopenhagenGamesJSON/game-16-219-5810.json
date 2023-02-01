@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Mykle",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j3",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "j3-g3xg2",
+        "h6-h3",
+        "h11-h4xh3",
+        "f6-j6",
+        "f10-j10",
+        "j6-j1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

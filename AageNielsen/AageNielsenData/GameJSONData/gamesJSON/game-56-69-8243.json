@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Luciano",
+    "AageGameTypeKey": 56,
+    "AageGameTypeName": "Sea Battle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-e1",
+        "c4-c1",
+        "d7-c7",
+        "c1-d1xd2",
+        "c7-c1xd1",
+        "d3-f3",
+        "f4-f5",
+        "d4-c4",
+        "a4-a5",
+        "c4-c3",
+        "c1-c2",
+        "c3-b3",
+        "a5-a3",
+        "b3-b2",
+        "a3-a2",
+        "b2-b1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Sqaree",
+    "BlackSidePlayerName": "Asmo",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "g7-j7",
+        "k5-i5",
+        "f4-i4",
+        "i5-i7xj7",
+        "h6-h3",
+        "f2-i2",
+        "e5-c5",
+        "d1-c1",
+        "f5-f2",
+        "a4-d4",
+        "f6-f3",
+        "c1-c3",
+        "f3-d3",
+        "e1-e2",
+        "d3-d2xe2",
+        "a5-a3",
+        "d2-a2",
+        "b6-b2",
+        "a2-a1"
+    ],
+    "WhoWon": "White"
+}

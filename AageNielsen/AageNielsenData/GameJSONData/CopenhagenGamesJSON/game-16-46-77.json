@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Mykle",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-i8",
+        "d6-d3",
+        "f2-c2",
+        "e5-e2",
+        "b6-b3",
+        "d3-k3",
+        "h1-h3",
+        "g5-g3",
+        "j6-j3",
+        "f5-i5",
+        "a8-c8",
+        "i5-i3xh3xj3",
+        "g1-i1",
+        "f6-f5",
+        "i1-i2",
+        "f5-j5",
+        "i2-j2",
+        "j5-j11",
+        "i8-i11",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

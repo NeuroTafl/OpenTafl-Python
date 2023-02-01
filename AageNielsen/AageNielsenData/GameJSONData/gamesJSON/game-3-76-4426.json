@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Filosondre",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-b8",
+        "k8-c8xb8",
+        "e7-e9",
+        "d11-d9",
+        "h6-h10",
+        "j6-j10",
+        "g7-g10",
+        "e11-e10",
+        "f7-i7",
+        "k4-i4",
+        "f6-f9",
+        "h3-h9xh10",
+        "f9-g9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

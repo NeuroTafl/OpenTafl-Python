@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "yohann0995",
+    "BlackSidePlayerName": "Lulu",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a6-b6",
+        "e4-d4",
+        "i4-i3",
+        "e5-e4",
+        "i5-i4",
+        "g5-g2",
+        "d1-d2",
+        "e4-h4",
+        "f1-i1",
+        "h4-h1"
+    ],
+    "WhoWon": "White"
+}

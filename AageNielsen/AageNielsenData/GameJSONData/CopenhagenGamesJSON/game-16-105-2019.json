@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "the fifth seal",
+    "BlackSidePlayerName": "torchwoodthree",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-d2",
+        "f4-f2",
+        "h1-h2",
+        "g5-g2",
+        "f10-i10",
+        "e5-e2",
+        "d1-c1",
+        "f5-i5",
+        "a4-a3",
+        "i5-i2xh2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 98,
+    "AageGameTypeName": "Brandubh throneless line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-c3",
+        "d5-b5",
+        "c7-c6",
+        "b5-b7",
+        "a5-c5xc4",
+        "d4-b4",
+        "c3-b3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

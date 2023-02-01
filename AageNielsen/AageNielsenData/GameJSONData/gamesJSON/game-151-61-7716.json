@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "holidayinnes",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "c3-e3",
+        "g7-j7",
+        "k4-k6",
+        "e7-e10",
+        "h11-f11",
+        "f7-b7",
+        "a8-a6",
+        "b7-b6xc6",
+        "c9-c6xb6",
+        "j7-j6xi6",
+        "c6-c7",
+        "f6-f7",
+        "i9-i7",
+        "e10-f10xf9",
+        "i3-i6xj6",
+        "f7-g7",
+        "h8-g8",
+        "h6-h8xg8",
+        "f11-g11",
+        "g7-g9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

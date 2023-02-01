@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e3-g3",
+        "e2-g2",
+        "e4-b4",
+        "b5-b7",
+        "c5-c1",
+        "i4-c4xb4",
+        "g3-a3",
+        "d1-d3",
+        "e5-e3",
+        "f1-f3",
+        "c1-c3xd3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

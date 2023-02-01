@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Audungarr",
+    "BlackSidePlayerName": "Ivargal",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j11",
+        "g6-g3",
+        "j6-j9",
+        "f6-g6",
+        "k5-k4",
+        "g6-g4",
+        "b7-c7",
+        "g4-i4",
+        "g2-i2",
+        "f4-c4",
+        "e2-e4",
+        "i6-i9",
+        "k7-i7",
+        "f7-h7",
+        "i7-i5",
+        "i4-i3",
+        "i5-i4"
+    ],
+    "WhoWon": "Black"
+}

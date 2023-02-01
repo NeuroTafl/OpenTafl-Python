@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "RusMadrid",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h4-g4",
+        "f7-f4",
+        "g4-k4",
+        "e8-e3",
+        "n9-n11",
+        "g6-g4",
+        "d8-d3",
+        "f8-d8",
+        "f1-f3xe3",
+        "g8-g5",
+        "f15-d15",
+        "h8-e8",
+        "d3-e3",
+        "e8-e15"
+    ],
+    "WhoWon": "White"
+}

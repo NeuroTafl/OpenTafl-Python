@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a7-a9",
+        "d6-d2",
+        "e1-c1",
+        "c6-c2",
+        "a5-a3",
+        "f3-b3",
+        "b5-c5",
+        "f4-c4",
+        "b6-c6",
+        "f5-f3",
+        "g2-g4",
+        "e6-e4",
+        "j5-h5",
+        "i6-i4",
+        "j7-h7xh6",
+        "i4-h4",
+        "g4-f4xf3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

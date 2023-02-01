@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Rook",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 12,
+    "AageGameTypeName": "Old Hnefatafl 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-f2",
+        "g5-g1",
+        "e1-f1",
+        "e3-h3",
+        "i4-h4",
+        "h3-h2",
+        "i5-i3",
+        "f5-f8",
+        "f2-f7xf8",
+        "e5-g5",
+        "i6-g6",
+        "g5-g2",
+        "b5-b3",
+        "h2-h3",
+        "i3-i2",
+        "g2-h2",
+        "b3-e3xe4",
+        "h2-h1",
+        "e2-h2xh3",
+        "h1-i1"
+    ],
+    "WhoWon": "White"
+}

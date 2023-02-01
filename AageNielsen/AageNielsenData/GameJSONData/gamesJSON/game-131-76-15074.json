@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "L3monman",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j2-h2",
+        "d6-d10",
+        "b10-b8",
+        "e7-e10",
+        "g11-g10",
+        "e6-c6",
+        "b2-b4",
+        "f6-d6",
+        "f2-d2",
+        "d6-d9",
+        "e11-d11",
+        "e10-e11",
+        "j10-h10",
+        "d10-c10",
+        "i9-e9",
+        "d9-d10",
+        "b8-b10",
+        "c10-c11xd11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

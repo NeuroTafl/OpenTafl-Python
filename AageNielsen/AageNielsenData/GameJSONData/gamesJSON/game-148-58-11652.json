@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 148,
+    "AageGameTypeName": "Hex 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "f6",
+        "d5",
+        "e7",
+        "b7",
+        "c6",
+        "i7",
+        "i8",
+        "k9",
+        "h5",
+        "g6",
+        "f4",
+        "j6",
+        "i4",
+        "k5",
+        "j3",
+        "d3",
+        "f5",
+        "a5",
+        "b4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

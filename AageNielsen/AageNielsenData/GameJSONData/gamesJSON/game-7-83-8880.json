@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h5-h3",
+        "g5-h5",
+        "f9-f7",
+        "f5-f2",
+        "i6-g6",
+        "h5-h6",
+        "f1-g1",
+        "e6-f6xg6",
+        "i5-f5xf6",
+        "e5-e6",
+        "b5-b7",
+        "e6-g6",
+        "f7-g7",
+        "g6-g5xf5",
+        "i4-i5",
+        "f2-f7",
+        "h3-h5",
+        "h6-h7xg7",
+        "e8-g8",
+        "g5-g6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

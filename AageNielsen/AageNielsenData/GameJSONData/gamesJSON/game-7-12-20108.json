@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Caxxodithor",
+    "BlackSidePlayerName": "SebCruel",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i4-i2",
+        "f5-f4",
+        "f9-g9",
+        "e6-c6",
+        "a6-a7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

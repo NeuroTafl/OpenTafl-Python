@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 66,
+    "AageGameTypeName": "Fidchell (Sea Battle 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a7-b7",
+        "f4-f1",
+        "g1-g2",
+        "e4-e2",
+        "g4-f4",
+        "f1-g1",
+        "e7-e3xe2",
+        "d4-e4",
+        "g7-e7",
+        "d6-f6",
+        "a3-c3xd3",
+        "e4-e6",
+        "b7-b6",
+        "f6-f7",
+        "g5-g6",
+        "d5-e5",
+        "g3-g5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

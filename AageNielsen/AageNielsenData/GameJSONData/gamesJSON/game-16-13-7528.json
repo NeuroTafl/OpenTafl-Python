@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "kAAgEE",
+    "BlackSidePlayerName": "MissStephi",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-h4",
+        "g5-g3",
+        "k5-i5",
+        "g3-j3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

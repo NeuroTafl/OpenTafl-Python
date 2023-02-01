@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 147,
+    "AageGameTypeName": "Saami Daabloe 11x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "g9-h8",
+        "h4-g5",
+        "e9-d8",
+        "g3-h4",
+        "b8-c7",
+        "h2-g3",
+        "c7-b6",
+        "g3-f4",
+        "a9-b8",
+        "f2-g3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

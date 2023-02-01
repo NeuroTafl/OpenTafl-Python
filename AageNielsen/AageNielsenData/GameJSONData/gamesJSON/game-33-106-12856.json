@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Thebigfoot",
+    "BlackSidePlayerName": "L3monman",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h2-j2",
+        "f6-f3",
+        "e1-e3xf3",
+        "f7-f3",
+        "a5-d5",
+        "g6-c6",
+        "d5-c5xc6",
+        "h6-h3xg3",
+        "j2-j4",
+        "i5-k5",
+        "g1-g3xf3",
+        "f8-f3xg3",
+        "i1-i7xj7",
+        "d7-d3xe3",
+        "b6-d6",
+        "g4-i4",
+        "b8-d8",
+        "g7-g1"
+    ],
+    "WhoWon": "White"
+}

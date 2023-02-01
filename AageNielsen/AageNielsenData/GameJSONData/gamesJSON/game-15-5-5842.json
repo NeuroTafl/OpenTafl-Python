@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Zariface",
+    "BlackSidePlayerName": "Chorister",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a4-e4",
+        "e7-b7",
+        "e11-e7",
+        "f8-e8xe7",
+        "g1-g4xf4",
+        "e5-b5xb6",
+        "h1-h5",
+        "d6-b6",
+        "k7-h7xh6",
+        "e6-e5",
+        "a8-d8",
+        "f7-f8",
+        "d1-d7",
+        "f6-c6",
+        "f10-b10",
+        "c6-c1",
+        "d7-c7xb7",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

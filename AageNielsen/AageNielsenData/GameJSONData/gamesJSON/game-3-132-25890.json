@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Kratzer",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "e7-c7",
+        "a8-c8",
+        "e6-e10",
+        "f10-i10",
+        "e10-c10",
+        "b6-c6xc7",
+        "f7-c7",
+        "c6-c3",
+        "d6-d8",
+        "d9-c9",
+        "f6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

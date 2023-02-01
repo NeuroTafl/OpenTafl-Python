@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Floki",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-g3",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "g11-g9",
+        "e5-b5",
+        "a4-b4xb5",
+        "d6-d8",
+        "g9-e9xe10",
+        "f6-c6",
+        "g3-c3",
+        "c6-c11",
+        "b6-b11",
+        "c11-c10",
+        "b11-b10",
+        "c10-c11",
+        "b10-b11"
+    ],
+    "WhoWon": "Draw"
+}

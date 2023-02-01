@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "dansuno",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-g2",
+        "e4-f4",
+        "h5-h3",
+        "f5-f8",
+        "b5-b3",
+        "d5-d8xe8",
+        "a5-b5",
+        "e5-d5",
+        "a4-c4",
+        "e3-c3xc4",
+        "d1-d3xc3",
+        "c5-c3",
+        "e1-e3",
+        "f4-b4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

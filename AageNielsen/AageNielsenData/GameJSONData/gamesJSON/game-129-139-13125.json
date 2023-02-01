@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Archibald K.",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "c4-c5",
+        "f4-f5",
+        "c5-a5",
+        "b4-b3",
+        "d5-c5",
+        "d6-c6",
+        "d4-b4",
+        "c6-b6",
+        "b4-c4",
+        "e2-d2xd3",
+        "c5-c7",
+        "f5-f4xe4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

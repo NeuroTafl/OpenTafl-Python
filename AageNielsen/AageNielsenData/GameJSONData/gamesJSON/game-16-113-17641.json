@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "kAAgEE",
+    "BlackSidePlayerName": "Pi&eacute;96",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "h6-h9",
+        "d11-d9",
+        "g7-g9",
+        "k8-k9",
+        "f7-j7",
+        "f10-j10",
+        "g5-j5xj6",
+        "k4-j4",
+        "g6-g2",
+        "h3-h2xg2",
+        "f6-i6",
+        "h2-i2",
+        "i6-i11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Pi&eacute;96",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h4-k4",
+        "g10-g12",
+        "h12-k12",
+        "f9-f13",
+        "g14-e14",
+        "h9-d9",
+        "d8-d5",
+        "h10-c10",
+        "b9-b12",
+        "h11-a11",
+        "l8-l11",
+        "h8-h11",
+        "b8-b11",
+        "h11-c11xb11",
+        "f15-c15",
+        "a11-a12",
+        "a10-a11",
+        "c10-a10xa11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Torc",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "f8-b8",
+        "f10-f9",
+        "f7-f8",
+        "f9-b9",
+        "f8-j8",
+        "d11-c11",
+        "f6-f10",
+        "h11-h10",
+        "f10-a10",
+        "a7-b7xb8",
+        "a10-a11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 123,
+    "AageGameTypeName": "Sea battle-1571 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "i5-i3",
+        "e7-i7",
+        "h5-i5",
+        "i7-i6",
+        "h6-h7",
+        "g5-h5",
+        "h7-h6xh5",
+        "e6-g6xh6",
+        "e8-e6",
+        "f5-f6",
+        "e9-e7",
+        "e5-h5",
+        "e7-h7",
+        "d5-d6xe6",
+        "d2-d5xc5",
+        "e4-d4xd5",
+        "b5-g5",
+        "i6-i7",
+        "h7-h6"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 12,
+    "AageGameTypeName": "Old Hnefatafl 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "e4-h4",
+        "i6-h6",
+        "e3-e2",
+        "i4-i3",
+        "e5-e3",
+        "b5-b3",
+        "e3-h3",
+        "g2-h2",
+        "g5-g1",
+        "h2-h1xg1",
+        "h3-h2",
+        "b3-h3xh4",
+        "e2-e4",
+        "d1-d2",
+        "e4-i4",
+        "d2-g2",
+        "h2-i2xi3",
+        "h3-i3xi4",
+        "i2-i1"
+    ],
+    "WhoWon": "White"
+}

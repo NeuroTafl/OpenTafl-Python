@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 145,
+    "AageGameTypeName": "Tyr 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i4-k4",
+        "i6-k6",
+        "l4-l5",
+        "k8-l8",
+        "l9-l11",
+        "k6-l6xl7",
+        "o4-o7",
+        "i8-i4",
+        "j13-j11xk11",
+        "l8-l10",
+        "o12-o9",
+        "h8-n8",
+        "m10-m8"
+    ],
+    "WhoWon": "Black"
+}

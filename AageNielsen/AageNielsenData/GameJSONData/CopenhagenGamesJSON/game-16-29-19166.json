@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Madphill",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-i8",
+        "d6-d3",
+        "d1-d2",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "d11-d4xd3",
+        "e7-b7xb6",
+        "a6-b6xb5",
+        "b7-b10",
+        "f10-c10",
+        "e6-e9",
+        "f2-f3",
+        "f6-d6",
+        "f3-c3",
+        "d6-d10xc10",
+        "c3-c11",
+        "d10-k10",
+        "k7-k9",
+        "k10-k11"
+    ],
+    "WhoWon": "White"
+}

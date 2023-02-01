@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Brainluss",
+    "BlackSidePlayerName": "herjan",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "f4-c4",
+        "j6-j3",
+        "e7-b7",
+        "a8-b8xb7",
+        "f7-b7",
+        "b6-b3",
+        "f8-i8",
+        "d11-d9",
+        "e6-e10",
+        "d9-d10xe10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

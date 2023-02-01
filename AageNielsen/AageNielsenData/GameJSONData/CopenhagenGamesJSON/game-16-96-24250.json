@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Schachus",
+    "BlackSidePlayerName": "Pimms",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j2",
+        "h6-j6",
+        "f10-j10",
+        "f8-b8",
+        "a8-a9",
+        "f7-f10",
+        "a7-b7",
+        "f6-f9",
+        "a9-b9xb8",
+        "f9-k9",
+        "j10-k10",
+        "k9-c9",
+        "d11-c11",
+        "c9-k9xk10",
+        "b9-j9",
+        "k9-k11"
+    ],
+    "WhoWon": "White"
+}

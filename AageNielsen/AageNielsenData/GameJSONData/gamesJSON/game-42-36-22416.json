@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "Bean",
+    "AageGameTypeKey": 42,
+    "AageGameTypeName": "Sea battle tafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h4-g4",
+        "i10-i13",
+        "h12-i12xi13",
+        "i8-i11",
+        "i14-o14",
+        "h8-i8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

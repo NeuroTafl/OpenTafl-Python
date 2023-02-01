@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Thegameterrorist",
+    "BlackSidePlayerName": "Halldav3",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-i1",
+        "e7-c7",
+        "d11-c11",
+        "e6-e9",
+        "j6-j10",
+        "f6-e6",
+        "b6-b10",
+        "e5-b5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

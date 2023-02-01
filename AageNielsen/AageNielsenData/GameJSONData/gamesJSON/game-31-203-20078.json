@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Krakashel",
+    "BlackSidePlayerName": "Ragnarmiss",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "j7-g7",
+        "f8-g8xg7",
+        "e10-e8",
+        "e6-e7",
+        "e2-e4",
+        "f5-e5",
+        "b5-d5",
+        "f3-e3xe4",
+        "g2-g5",
+        "f4-g4xg5",
+        "k7-h7",
+        "f9-e9xe8",
+        "j5-h5xh6",
+        "g4-g5",
+        "f2-f5xe5xg5",
+        "d6-e6",
+        "h5-h6xi6",
+        "f7-g7",
+        "f10-f7xg7"
+    ],
+    "WhoWon": "Black"
+}

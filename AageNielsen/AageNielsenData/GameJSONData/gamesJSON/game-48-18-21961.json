@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Waegn",
+    "BlackSidePlayerName": "vonraider",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i2-k2",
+        "j7-j5",
+        "h4-j4",
+        "f7-f3",
+        "a6-e6",
+        "j8-j6",
+        "b7-e7",
+        "h5-d5",
+        "c8-c5",
+        "d5-d3",
+        "g2-e2",
+        "g6-g3",
+        "i1-i4",
+        "h7-f7",
+        "b8-b4",
+        "k8-k3",
+        "j4-k4xk3",
+        "h6-f6",
+        "c5-d5",
+        "h8-h4",
+        "b4-g4"
+    ],
+    "WhoWon": "Black"
+}

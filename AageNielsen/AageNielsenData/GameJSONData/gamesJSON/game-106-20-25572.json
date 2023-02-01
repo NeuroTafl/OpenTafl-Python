@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Edmond-dantes",
+    "BlackSidePlayerName": "Casshern",
+    "AageGameTypeKey": 106,
+    "AageGameTypeName": "Skalk Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a5-a3",
+        "f8-c8",
+        "e10-c10",
+        "d6-d1",
+        "b5-c5",
+        "e6-c6",
+        "c5-c1xd1",
+        "f6-d6",
+        "f10-d10",
+        "d6-d1",
+        "e2-d2",
+        "e5-e2",
+        "a3-e3xe2",
+        "f4-b4",
+        "e3-b3",
+        "e7-e2",
+        "e11-e3xe2",
+        "f5-d5",
+        "e1-e2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

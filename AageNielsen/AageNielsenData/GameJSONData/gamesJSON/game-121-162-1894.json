@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f5-g5",
+        "e4-g4",
+        "b5-b4",
+        "d5-a5",
+        "g5-d5",
+        "a5-a4xb4",
+        "b3-c3",
+        "a4-a3",
+        "c2-d2",
+        "a3-b3xc3",
+        "c6-a6",
+        "c4-c1",
+        "a6-a4",
+        "d4-c4",
+        "e6-c6",
+        "c1-d1xd2",
+        "e2-c2",
+        "c4-e4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

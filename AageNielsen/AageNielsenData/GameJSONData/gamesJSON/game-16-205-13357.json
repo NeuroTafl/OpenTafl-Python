@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fenric7",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "f4-c4",
+        "f2-c2",
+        "f5-f2",
+        "k4-f4",
+        "g5-g2",
+        "d1-d3",
+        "e5-e4",
+        "a5-e5",
+        "g6-g4xf4",
+        "d3-f3xf2",
+        "h6-h3",
+        "f3-f4",
+        "f6-i6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

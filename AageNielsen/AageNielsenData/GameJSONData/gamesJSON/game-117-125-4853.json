@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Thebigfoot",
+    "AageGameTypeKey": 117,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 6,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "a9-d9",
+        "g10-c10",
+        "f12-f9xe9",
+        "e7-e9xf9",
+        "f13-f9xe9",
+        "e5-e9xf9",
+        "e1-e7xd7",
+        "g9-f9",
+        "g11-g10",
+        "h8-h10",
+        "i13-i10xh10",
+        "h6-h10",
+        "l8-i8xi9",
+        "f9-f10xg10",
+        "g13-g10xh10",
+        "g7-g9",
+        "m9-i9",
+        "c10-c9xd9",
+        "b8-b9",
+        "e9-e10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

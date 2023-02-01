@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Conanlib",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j1-j3",
+        "f8-b8",
+        "a6-c6",
+        "g8-c8",
+        "a9-b9xb8",
+        "c8-b8",
+        "c6-c8xb8",
+        "d7-c7",
+        "b9-b11",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

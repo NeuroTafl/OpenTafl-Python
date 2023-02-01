@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Drzhbe",
+    "AageGameTypeKey": 90,
+    "AageGameTypeName": "Unst king hammer only cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "e6-e7",
+        "d1-d3",
+        "f9-j9",
+        "f10-j10",
+        "i6-i9",
+        "d11-d9",
+        "f8-j8",
+        "k8-k9",
+        "f7-j7",
+        "j6-j2",
+        "i9-i11",
+        "j10-j11xi11",
+        "f6-f10",
+        "e11-e10",
+        "f10-k10",
+        "j11-j10",
+        "k10-k11"
+    ],
+    "WhoWon": "White"
+}

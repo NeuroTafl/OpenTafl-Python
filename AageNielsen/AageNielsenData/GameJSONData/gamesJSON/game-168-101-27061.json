@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 168,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f5-f8",
+        "f1-f5xg5",
+        "e6-f6",
+        "i4-f4",
+        "e3-d3",
+        "a4-d4xe4",
+        "d5-d8xe8",
+        "d4-d5xc5",
+        "e7-c7",
+        "e2-e4",
+        "c7-c5xd5",
+        "e4-e3",
+        "e5-e7",
+        "h5-h7",
+        "e7-a7",
+        "h7-f7xf8xf6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

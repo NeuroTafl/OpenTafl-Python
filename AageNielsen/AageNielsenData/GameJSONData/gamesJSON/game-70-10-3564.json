@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 70,
+    "AageGameTypeName": "Sea battle square 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "f6-f8",
+        "d9-d7",
+        "e6-h6",
+        "i4-g4",
+        "e5-e7",
+        "i6-i7",
+        "e7-h7",
+        "f9-h9",
+        "f8-i8",
+        "i5-i6",
+        "d6-g6",
+        "e9-g9",
+        "f5-f7",
+        "a6-d6",
+        "h7-h8",
+        "e8-f8",
+        "i8-i9",
+        "i7-i8",
+        "f7-i7xi8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

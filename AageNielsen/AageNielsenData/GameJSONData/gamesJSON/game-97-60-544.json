@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 97,
+    "AageGameTypeName": "Brandubh Ohio weak 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d1-c1",
+        "e4-e1",
+        "d2-d1",
+        "d3-f3",
+        "g4-g2",
+        "d5-f5xf4",
+        "c1-c2",
+        "f5-g5",
+        "d6-g6",
+        "d4-f4",
+        "d7-f7",
+        "f3-b3",
+        "c2-f2",
+        "c4-c1xd1",
+        "b4-c4",
+        "e1-e2",
+        "g2-g4xg5",
+        "c1-f1",
+        "g4-g2",
+        "f4-f3xf2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

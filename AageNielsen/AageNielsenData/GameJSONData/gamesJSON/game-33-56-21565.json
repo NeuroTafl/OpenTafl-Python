@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h2-j2",
+        "f6-f3",
+        "e1-e3xf3",
+        "f7-f3",
+        "a5-d5",
+        "h6-h3xg3",
+        "g1-g3xf3",
+        "f8-f3xg3",
+        "b6-d6",
+        "g4-d4",
+        "e3-d3xd4",
+        "g6-k6",
+        "b8-b4",
+        "g7-g1"
+    ],
+    "WhoWon": "White"
+}

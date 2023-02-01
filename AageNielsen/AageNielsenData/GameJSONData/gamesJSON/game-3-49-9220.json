@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d11-d8",
+        "h6-h9",
+        "k8-i8",
+        "e7-e10",
+        "f10-d10",
+        "h9-c9",
+        "e11-c11",
+        "c9-c10xd10",
+        "b6-b10",
+        "e6-e9",
+        "a4-c4",
+        "e9-a9",
+        "d8-d10xc10",
+        "e10-e9",
+        "b10-a10xa9",
+        "e9-a9xa10",
+        "d10-a10xa9",
+        "d6-d9",
+        "a8-a9",
+        "f6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

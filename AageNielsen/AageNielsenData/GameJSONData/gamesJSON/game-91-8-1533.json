@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j5-j4",
+        "c6-c10",
+        "b6-c6",
+        "f9-b9",
+        "c6-c8",
+        "d6-d11",
+        "e2-c2",
+        "e6-e8",
+        "a6-c6",
+        "g6-g7",
+        "g2-h2",
+        "g7-g2",
+        "f2-d2",
+        "f5-d5",
+        "b5-c5",
+        "b9-b8",
+        "a7-a8xb8",
+        "i6-i2xh2",
+        "k5-i5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

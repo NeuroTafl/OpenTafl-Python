@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "Borson",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j2",
+        "h6-h9",
+        "b6-b10",
+        "g6-j6",
+        "f10-j10",
+        "f6-i6",
+        "f2-b2",
+        "i6-i11",
+        "j10-j11",
+        "i11-i1",
+        "j2-j1",
+        "i1-i11xj11",
+        "k8-k9",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

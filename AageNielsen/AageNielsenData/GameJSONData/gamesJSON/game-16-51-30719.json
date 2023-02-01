@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Bogd Khan",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "h3-h9xh10",
+        "g5-g2",
+        "h9-h2xg2",
+        "g6-g2",
+        "f2-c2",
+        "f6-i6",
+        "k4-i4",
+        "i6-i11",
+        "j6-j11",
+        "i11-i10",
+        "j11-j10",
+        "e7-e10",
+        "g11-g10",
+        "i10-i11",
+        "d11-d10xe10",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-e1",
+        "d5-e5",
+        "e1-e3",
+        "c4-c2",
+        "a4-a3",
+        "d4-c4",
+        "a3-c3xd3",
+        "c4-c7",
+        "b4-b7"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Cato",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-d2",
+        "e5-c5",
+        "b7-c7",
+        "g5-i5",
+        "j7-i7",
+        "d6-d3",
+        "e10-d10",
+        "f8-j8",
+        "k7-j7",
+        "e6-e2",
+        "f1-f2xe2",
+        "e7-e2",
+        "d10-d5xc5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

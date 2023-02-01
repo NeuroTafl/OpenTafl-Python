@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Abbas agraphicus",
+    "AageGameTypeKey": 161,
+    "AageGameTypeName": "Ard Ri-1 whitefriendlypass 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "b4-b3",
+        "c4-c3",
+        "f4-f3",
+        "d4-d3",
+        "b3-b2",
+        "c3-c2",
+        "d6-c6",
+        "d3-c3",
+        "c6-c5",
+        "c2-c1",
+        "a4-a3",
+        "c3-c2",
+        "f3-d3xd2",
+        "c2-d2xd3",
+        "b2-c2"
+    ],
+    "WhoWon": "Black"
+}

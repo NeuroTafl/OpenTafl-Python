@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "vonraider",
+    "BlackSidePlayerName": "pearlmuter",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j2",
+        "e5-e4",
+        "f2-b2",
+        "e4-b4",
+        "b6-b10",
+        "f5-b5",
+        "d1-c1",
+        "g5-g4",
+        "k5-c5xb5",
+        "f4-c4",
+        "k4-k3",
+        "d6-c6xc5",
+        "d11-c11",
+        "f6-f3",
+        "a4-a3",
+        "f3-j3",
+        "f10-j10",
+        "j3-j9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

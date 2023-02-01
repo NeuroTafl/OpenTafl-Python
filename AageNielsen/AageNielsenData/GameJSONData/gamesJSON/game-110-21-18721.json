@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Epm180",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 110,
+    "AageGameTypeName": "Brandubh weak-throne line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g3-f3",
+        "e4-e2",
+        "e7-e3xe2",
+        "d5-d7",
+        "e3-e6",
+        "d3-b3",
+        "c1-c3xb3",
+        "d4-d2",
+        "c3-c2",
+        "d2-d4",
+        "a5-b5",
+        "d7-d6",
+        "c7-d7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

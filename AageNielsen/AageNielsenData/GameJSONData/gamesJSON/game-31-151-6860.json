@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "WiglafCD",
+    "BlackSidePlayerName": "wiglafle",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j8",
+        "d6-d2",
+        "b5-b4",
+        "f3-e3",
+        "e1-c1",
+        "f5-g5",
+        "c1-c2xd2",
+        "f6-f5",
+        "c2-c3",
+        "f5-d5",
+        "b7-d7",
+        "d5-d1"
+    ],
+    "WhoWon": "White"
+}

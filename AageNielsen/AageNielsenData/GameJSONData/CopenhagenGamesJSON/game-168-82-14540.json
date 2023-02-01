@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 168,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e4-d4",
+        "i4-e4xe3",
+        "f5-f4xe4",
+        "f9-f5xg5",
+        "e6-f6xf5",
+        "a6-e6xe7",
+        "e5-g5",
+        "i6-g6xf6",
+        "d5-d7",
+        "e6-e7",
+        "f4-f7xe7",
+        "f1-f5"
+    ],
+    "WhoWon": "Black"
+}

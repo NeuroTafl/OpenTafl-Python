@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Epm180",
+    "AageGameTypeKey": 46,
+    "AageGameTypeName": "Historical Hnefatafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a9-d9",
+        "f8-f11",
+        "e13-e11xf11",
+        "f6-c6",
+        "a5-c5xc6",
+        "g6-c6",
+        "a6-a4",
+        "g4-c4xc5",
+        "m5-m4",
+        "g8-c8xc7",
+        "e1-e5",
+        "f7-f5",
+        "e5-c5",
+        "g10-d10",
+        "e11-d11xd10",
+        "d7-b7",
+        "g3-c3xc4",
+        "e7-e11",
+        "d9-c9",
+        "g7-e7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

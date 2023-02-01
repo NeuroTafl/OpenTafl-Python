@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Nikos",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "f8-c8",
+        "a4-c4",
+        "e7-e10",
+        "g11-g10",
+        "f4-i4",
+        "h1-h3",
+        "g5-g3",
+        "h3-i3",
+        "f7-b7",
+        "a8-b8xb7",
+        "f5-j5",
+        "k4-j4xj5",
+        "f6-f3",
+        "d1-d3",
+        "g3-g2",
+        "c4-h4xi4",
+        "e5-e2xf2",
+        "e1-c1",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

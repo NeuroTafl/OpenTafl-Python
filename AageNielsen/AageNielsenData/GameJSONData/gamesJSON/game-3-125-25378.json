@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "e5-e2",
+        "d3-e3xe2",
+        "d6-d3",
+        "f2-f3",
+        "g5-g2",
+        "f1-f2",
+        "g2-j2",
+        "h1-j1",
+        "f4-j4",
+        "a4-i4xj4",
+        "e6-e4",
+        "j6-j3xj2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

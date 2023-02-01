@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "e4-f4",
+        "e1-e2",
+        "f5-f8",
+        "d9-d8",
+        "e5-f5",
+        "a4-e4xe3",
+        "f4-h4",
+        "f1-f3",
+        "e6-h6xh5",
+        "e4-g4xh4",
+        "f5-f7",
+        "i6-i7",
+        "f7-h7",
+        "f9-h9",
+        "h6-i6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 42,
+    "AageGameTypeName": "Sea battle tafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h4-k4",
+        "f9-d9",
+        "b7-d7",
+        "g10-c10",
+        "b9-b11",
+        "g8-g12",
+        "i14-i12",
+        "f8-f13",
+        "g14-d14",
+        "e8-e14",
+        "a6-e6",
+        "h8-e8",
+        "d14-d10xd9",
+        "e8-e13",
+        "d10-d13",
+        "e14-d14",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

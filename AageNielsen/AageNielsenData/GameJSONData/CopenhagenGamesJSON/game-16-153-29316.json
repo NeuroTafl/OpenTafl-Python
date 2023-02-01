@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Arevidar",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-j2",
+        "f4-f2",
+        "d1-d2",
+        "f5-f3",
+        "b6-b3",
+        "f6-f4",
+        "h1-h4",
+        "f4-c4",
+        "a8-c8",
+        "c4-c1",
+        "b3-b1",
+        "c1-c2",
+        "b1-b2",
+        "f2-e2xd2",
+        "e1-c1",
+        "f3-a3",
+        "b2-a2xa3",
+        "c2-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

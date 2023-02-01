@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Rook",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "g5-j5",
+        "i4-j4xj5",
+        "f5-j5",
+        "j6-j9",
+        "f4-b4",
+        "f2-f4",
+        "f6-f5",
+        "h1-h5",
+        "e5-e3",
+        "k6-j6xj5",
+        "f5-b5",
+        "d1-d3",
+        "e7-b7xb6",
+        "d3-b3",
+        "b5-c5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

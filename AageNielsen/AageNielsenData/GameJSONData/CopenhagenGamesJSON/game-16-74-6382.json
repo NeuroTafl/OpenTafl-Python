@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "holidayinnes",
+    "BlackSidePlayerName": "Haio",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "h11-h10",
+        "g7-g10",
+        "k8-h8xh9",
+        "e7-e10xf10",
+        "b6-b10",
+        "f8-f10",
+        "j6-j10",
+        "g6-j6",
+        "f2-i2",
+        "f7-i7",
+        "h10-i10",
+        "f6-f9",
+        "k7-k9",
+        "f9-a9",
+        "b10-a10",
+        "a9-b9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

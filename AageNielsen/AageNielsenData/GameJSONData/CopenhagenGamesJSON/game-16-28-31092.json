@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Rossomaha",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-j2",
+        "e7-e10",
+        "f10-j10",
+        "f8-b8",
+        "k8-c8xb8",
+        "f7-b7",
+        "c8-b8xb7",
+        "f6-f9",
+        "d11-d9",
+        "f9-k9",
+        "j10-k10",
+        "k9-i9",
+        "d9-e9xe10",
+        "i9-k9xk10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

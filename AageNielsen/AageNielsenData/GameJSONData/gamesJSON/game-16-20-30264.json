@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "Khan Asparukh",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h8",
+        "k4-i4",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "e11-e9",
+        "d6-d9",
+        "e9-g9xg10",
+        "f8-c8",
+        "f10-c10",
+        "f7-f9",
+        "g9-i9",
+        "d9-a9",
+        "c10-a10xa9",
+        "f9-a9xa10",
+        "h10-a10xa9",
+        "f6-f10",
+        "j6-j10",
+        "f10-b10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

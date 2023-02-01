@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Noobus3000",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g11-i11",
+        "c6-c2",
+        "e1-c1",
+        "d6-d1",
+        "f1-e1xd1",
+        "e6-e9",
+        "b6-d6",
+        "f6-e6",
+        "b5-c5",
+        "f7-c7",
+        "j7-d7xc7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

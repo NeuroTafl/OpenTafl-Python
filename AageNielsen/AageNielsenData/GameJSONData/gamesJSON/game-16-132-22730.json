@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Epm180",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "j6-j9",
+        "g5-g2",
+        "d3-g3xg2",
+        "d6-d3",
+        "a8-c8",
+        "e5-e3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

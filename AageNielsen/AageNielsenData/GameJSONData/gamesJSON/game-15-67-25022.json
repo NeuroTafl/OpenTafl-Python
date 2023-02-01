@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-c10",
+        "h6-h9",
+        "j6-i6",
+        "f4-i4",
+        "d1-d3",
+        "g5-i5",
+        "k7-i7",
+        "g6-g3",
+        "k5-j5",
+        "f8-j8",
+        "h1-h5xi5",
+        "f6-h6",
+        "h5-i5",
+        "h6-h1",
+        "j5-j1",
+        "h1-i1xj1",
+        "f11-f8xf7",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

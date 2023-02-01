@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-e1",
+        "d5-d7",
+        "b3-c3",
+        "d3-d2",
+        "c3-d3",
+        "e4-e3",
+        "e6-e4",
+        "c4-c3xd3",
+        "c6-c4xc3",
+        "d4-d6",
+        "c4-c7",
+        "d6-f6",
+        "e4-e7xd7",
+        "f6-f7",
+        "f5-f6",
+        "f7-g7"
+    ],
+    "WhoWon": "White"
+}

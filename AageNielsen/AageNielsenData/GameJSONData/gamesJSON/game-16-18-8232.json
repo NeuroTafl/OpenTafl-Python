@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "the fifth seal",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "h6-h9",
+        "k7-k9",
+        "g7-i7",
+        "k4-i4",
+        "h9-i9xi8",
+        "h11-i11",
+        "i7-j7",
+        "f10-j10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

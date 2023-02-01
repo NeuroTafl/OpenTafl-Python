@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "seigfried",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f1-f2",
+        "e7-b7",
+        "a6-b6",
+        "c5-c8",
+        "f9-f7",
+        "g5-g8",
+        "i6-g6",
+        "d5-d8",
+        "d1-d7xd8",
+        "e5-c5",
+        "a4-c4",
+        "e6-d6",
+        "e2-d2",
+        "c8-d8xd7",
+        "d9-c9",
+        "g8-f8xe8",
+        "c9-c6",
+        "c5-d5",
+        "d2-d4",
+        "d6-f6xf7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

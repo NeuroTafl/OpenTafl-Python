@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "hachit",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g10-i10",
+        "g6-g4",
+        "g2-i2",
+        "h6-h1",
+        "f10-h10",
+        "f6-h6",
+        "k5-k3",
+        "h6-h4",
+        "k6-k4",
+        "i6-i3",
+        "k3-j3",
+        "h1-i1xi2",
+        "f2-h2",
+        "f3-h3",
+        "h2-h1",
+        "f4-f2",
+        "e2-d2",
+        "f9-f10",
+        "e10-d10",
+        "h4-h9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

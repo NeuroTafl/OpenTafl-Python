@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 146,
+    "AageGameTypeName": "Saami S&aacute;hkku 3x15 (K&aring;fjord)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "a2-d2-a3-c2-b3-a2",
+        "o2-n2-n2-l2-l2-h2-g2",
+        "d2-g2-h2-h2-l2-c2-e2xh2",
+        "o1-o2-l1-m1-o2-l2-k2",
+        "g2-k2-l2-l2-o2-o2-n1xl2xn1",
+        "m1-o2-o2-l2-l2-i2",
+        "e2-i2-n1-k1-k1-h1xi2xk1xh1",
+        "j1-k1-k1-n1-n1-m2",
+        "k2-m2-m2-o2-h1-e1xm2xe1",
+        "i1-j1-j1-n1-n1-o2xo2",
+        "e1-d1-d1-c1-c1-b1xd1xc1xb1",
+        "o2-l2-l2-i2-i2-e2xi2",
+        "a2-e2-b1-a1-e2-h2xe2xa1",
+        "g1-h1-h1-k1-k1-o1",
+        "d3-c3-c3-a3-a3-c2",
+        "f1-g1-g1-k1-k1-n1",
+        "c2-g2-h2-k2-a1-c2",
+        "o1-n2-n2-k2-k2-g2xk2xg2",
+        "c2-g2-e3-d3-d3-b3xg2",
+        "n1-o2-o2-l2-l2-i2",
+        "g2-i2xi2"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Therem",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j5-h5",
+        "f4-h4xh5",
+        "k5-h5",
+        "g7-i7",
+        "k7-k8",
+        "g5-g3",
+        "e2-e4",
+        "d6-d4",
+        "c6-d6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

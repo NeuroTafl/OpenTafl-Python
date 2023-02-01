@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Arne64",
+    "AageGameTypeKey": 8,
+    "AageGameTypeName": "Ashton tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e4-f4",
+        "a4-e4xe3",
+        "d5-d4xe4",
+        "d1-d3",
+        "d4-d8",
+        "e8-g8",
+        "e5-d5",
+        "b5-b7",
+        "c5-c2",
+        "a6-c6",
+        "d5-d4",
+        "a5-d5"
+    ],
+    "WhoWon": "Black"
+}

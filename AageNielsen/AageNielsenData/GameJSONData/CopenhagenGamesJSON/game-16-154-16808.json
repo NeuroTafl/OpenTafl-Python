@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Dovidomus",
+    "BlackSidePlayerName": "teondrae",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "f10-i10",
+        "e7-e9",
+        "d11-d9",
+        "f7-b7",
+        "a8-b8xb7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

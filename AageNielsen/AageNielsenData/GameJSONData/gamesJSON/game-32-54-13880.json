@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Davberd",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-k9",
+        "f4-a4",
+        "f2-f4",
+        "d6-d3",
+        "f1-f3",
+        "e6-c6",
+        "k9-d9",
+        "f6-d6",
+        "e2-d2",
+        "d6-d8",
+        "b7-d7"
+    ],
+    "WhoWon": "Black"
+}

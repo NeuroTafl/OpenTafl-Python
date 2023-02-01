@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Marc2543",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "f4-f3",
+        "a4-f4xf3",
+        "g5-g2",
+        "d3-g3xg2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

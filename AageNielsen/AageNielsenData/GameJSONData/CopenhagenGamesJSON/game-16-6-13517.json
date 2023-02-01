@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Ragnars son",
+    "BlackSidePlayerName": "ragnar",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "e5-c5",
+        "b6-b2",
+        "e6-e2",
+        "j6-j10",
+        "f6-e6",
+        "k4-k3",
+        "e6-e3",
+        "a4-a3",
+        "e3-c3",
+        "d1-c1",
+        "c3-i3",
+        "h1-i1",
+        "i3-i11",
+        "j10-j11",
+        "i11-i9",
+        "k8-k9",
+        "c5-c11",
+        "b2-b11xc11",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

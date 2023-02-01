@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "f8-i8",
+        "k8-j8",
+        "i8-i11",
+        "j8-j11",
+        "i11-i10",
+        "g11-i11",
+        "i10-i3",
+        "k4-j4",
+        "e7-e8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

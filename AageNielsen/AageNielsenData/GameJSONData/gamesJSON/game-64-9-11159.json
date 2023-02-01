@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 64,
+    "AageGameTypeName": "Magpie 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "e4-e2",
+        "d6-e6",
+        "d3-g3",
+        "f4-f5",
+        "d4-e4",
+        "b4-b3",
+        "e4-f4",
+        "d1-e1",
+        "f4-f3",
+        "b3-e3xe2",
+        "f3-f2",
+        "a4-b4xc4",
+        "f2-g2",
+        "d7-d6xd5",
+        "g2-g1"
+    ],
+    "WhoWon": "White"
+}

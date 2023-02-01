@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Roderich",
+    "BlackSidePlayerName": "Evans",
+    "AageGameTypeKey": 13,
+    "AageGameTypeName": "Old Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1d3",
+        "e5e2",
+        "f2i2",
+        "f5b5",
+        "a4b4",
+        "e7b7",
+        "a8b8",
+        "f7b7",
+        "b8c8",
+        "g5b5",
+        "f10b10",
+        "e2b2",
+        "e1e2",
+        "b2b3",
+        "e2b2",
+        "f4c4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

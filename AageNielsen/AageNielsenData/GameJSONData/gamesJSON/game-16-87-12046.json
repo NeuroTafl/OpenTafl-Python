@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "denkichBG",
+    "BlackSidePlayerName": "Mari",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j10",
+        "h6-h3",
+        "k4-i4",
+        "g6-j6",
+        "i4-i6xj6",
+        "f6-h6",
+        "k8-h8",
+        "f4-j4",
+        "k6-j6",
+        "h6-h4",
+        "d1-d4",
+        "j4-j2",
+        "j6-j4",
+        "h4-i4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

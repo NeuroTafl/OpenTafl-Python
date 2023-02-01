@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Scottdbarber",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "h3-h2xg2",
+        "g6-g2",
+        "f2-b2",
+        "f4-c4",
+        "f1-f2xg2",
+        "f5-i5",
+        "h2-j2",
+        "f6-f3",
+        "k4-k2",
+        "f3-k3xk2",
+        "j2-k2",
+        "k3-a3",
+        "b2-a2",
+        "a3-k3xk2",
+        "f2-k2",
+        "k3-a3xa2",
+        "k2-a2",
+        "a3-b3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

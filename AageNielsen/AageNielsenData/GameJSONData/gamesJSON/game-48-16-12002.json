@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f15-f11",
+        "i10-i12",
+        "g14-g11",
+        "j9-j13",
+        "o10-j10",
+        "h11-j11",
+        "i14-i13",
+        "h9-j9xj10",
+        "g11-i11xi12",
+        "h10-h11xi11",
+        "m8-m12",
+        "j11-m11",
+        "l8-l13",
+        "k8-k13",
+        "g15-g11",
+        "h8-h10",
+        "n9-n10",
+        "h10-m10",
+        "l13-l10"
+    ],
+    "WhoWon": "Black"
+}

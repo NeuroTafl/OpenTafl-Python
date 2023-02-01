@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Nikos",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f4-i4",
+        "h1-h3",
+        "g5-g2",
+        "h3-g3xg2",
+        "h6-h3",
+        "f2-f3",
+        "g7-j7",
+        "i8-i7xj7",
+        "g6-g10",
+        "g3-g9xg10",
+        "f6-i6",
+        "h11-h8",
+        "i4-i1",
+        "d1-d2",
+        "i6-i2",
+        "j6-j2",
+        "h3-k3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

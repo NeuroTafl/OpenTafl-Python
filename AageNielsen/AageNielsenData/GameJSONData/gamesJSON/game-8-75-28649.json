@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Epoc",
+    "BlackSidePlayerName": "Barba",
+    "AageGameTypeKey": 8,
+    "AageGameTypeName": "Ashton tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g5-g2",
+        "f1-i1",
+        "f5-f8",
+        "h5-g5",
+        "e5-f5xg5",
+        "i4-g4",
+        "f5-f3",
+        "i5-i3",
+        "g2-i2xi3",
+        "e2-h2",
+        "f3-i3"
+    ],
+    "WhoWon": "White"
+}

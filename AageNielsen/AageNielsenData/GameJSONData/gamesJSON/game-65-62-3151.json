@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 65,
+    "AageGameTypeName": "Magpie circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-f3",
+        "e4-e2",
+        "b2-c2",
+        "d4-e4",
+        "d1-d2xd3",
+        "e4-d4",
+        "f3-f2xe2",
+        "c4-c3",
+        "a4-c4xc3",
+        "d4-e4",
+        "d7-d6xd5",
+        "e4-e5",
+        "d6-e6",
+        "e5-f5",
+        "f2-f4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

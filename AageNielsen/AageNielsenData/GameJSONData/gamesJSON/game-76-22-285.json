@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "Marcin",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-i3",
+        "e7-c7",
+        "c6-c4",
+        "e6-e9",
+        "f9-h9",
+        "d6-b6",
+        "b7-b8",
+        "f6-d6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 43,
+    "AageGameTypeName": "Tablut sparse 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b7-b4",
+        "h11-o11",
+        "b9-b12",
+        "j8-j12",
+        "j15-j13",
+        "i9-i13",
+        "j13-k13",
+        "i8-i12",
+        "i2-l2",
+        "h8-j8",
+        "j1-j4",
+        "j8-j11",
+        "f15-f11",
+        "j11-n11",
+        "k13-n13",
+        "o11-o12",
+        "o10-o11",
+        "h10-o10xo11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

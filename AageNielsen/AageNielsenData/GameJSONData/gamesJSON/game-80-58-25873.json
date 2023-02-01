@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 80,
+    "AageGameTypeName": "Alea Evangelii strong 19x19",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "l4-o4",
+        "h11-h15",
+        "g15-d15",
+        "j13-j15xi15",
+        "k15-k18",
+        "i12-i18",
+        "f19-f18",
+        "g10-g16",
+        "e13-e16",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

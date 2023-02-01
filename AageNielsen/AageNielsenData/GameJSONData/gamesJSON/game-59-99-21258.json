@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "altti",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "d1-e1",
+        "c4-c1",
+        "b4-c4",
+        "c1-d1xd2",
+        "e1-e3",
+        "d3-b3",
+        "g4-g2",
+        "b3-b4xc4",
+        "g2-c2",
+        "b4-b2",
+        "c2-c3",
+        "d1-g1",
+        "e3-d3",
+        "b2-d2xd3",
+        "a4-c4",
+        "g1-g4xf4",
+        "d6-f6",
+        "d2-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Fellhuhn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a4-a3",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "k5-i5",
+        "f8-i8",
+        "h11-h8xi8",
+        "f6-f9",
+        "h8-h9",
+        "f9-a9",
+        "f10-a10",
+        "a9-c9",
+        "a8-c8",
+        "c9-a9xa10",
+        "i5-i7xj7",
+        "a9-a11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b9",
+        "d6-b6",
+        "d1-b1",
+        "e5-e2",
+        "d11-d2xe2",
+        "e6-e2",
+        "f2-i2",
+        "f6-c6",
+        "f10-c10",
+        "c6-c1xb1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

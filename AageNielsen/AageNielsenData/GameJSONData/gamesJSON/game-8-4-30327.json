@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 8,
+    "AageGameTypeName": "Ashton tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e6b6",
+        "a4b4",
+        "e5e6",
+        "i6h6",
+        "c5c9",
+        "b5c5",
+        "e6c6",
+        "d1d4",
+        "c6c8",
+        "a6a8",
+        "e7d7",
+        "a5a7",
+        "d7d5",
+        "h6c6",
+        "e3d3",
+        "e8d8",
+        "e4c4",
+        "a8b8"
+    ],
+    "WhoWon": "Black"
+}

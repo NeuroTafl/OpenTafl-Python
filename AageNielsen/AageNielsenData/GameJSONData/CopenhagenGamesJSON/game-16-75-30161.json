@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "monako",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j6-j3",
+        "e7-e10",
+        "a7-d7",
+        "f8-d8xd7",
+        "d11-d10xe10",
+        "e6-e10",
+        "k8-f8",
+        "g7-g10xf10",
+        "f8-f10xe10",
+        "f7-c7",
+        "j3-j8",
+        "f6-f9",
+        "k7-k9",
+        "f9-a9",
+        "d10-a10",
+        "a9-j9",
+        "h11-j11",
+        "j9-a9xa10",
+        "f10-a10",
+        "a9-i9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

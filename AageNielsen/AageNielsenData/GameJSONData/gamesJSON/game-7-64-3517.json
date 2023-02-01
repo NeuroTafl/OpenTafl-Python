@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Oddur",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "e3-e2",
+        "b5-b3",
+        "d5-d4",
+        "e8-c8",
+        "e7-e8",
+        "h5-h7",
+        "e6-b6",
+        "h7-e7xe8",
+        "e5-e6",
+        "c8-c6xb6",
+        "f5-f7",
+        "b3-e3xe4xe2",
+        "d4-d7xe7",
+        "a4-c4xc5",
+        "e6-g6",
+        "f9-g9",
+        "g6-g8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

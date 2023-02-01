@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "pants",
+    "BlackSidePlayerName": "Fort test",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1h3",
+        "e7c7",
+        "a8c8",
+        "f7d7",
+        "k8h8",
+        "e6e8",
+        "e1e4",
+        "d6d4",
+        "k7h7",
+        "c7c6",
+        "k5h5",
+        "d4d6",
+        "k4g4",
+        "f4d4",
+        "f1e1",
+        "d6e6",
+        "a7c7",
+        "d4d6",
+        "a5c5"
+    ],
+    "WhoWon": "Draw"
+}

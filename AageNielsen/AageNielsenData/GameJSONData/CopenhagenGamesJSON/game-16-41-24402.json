@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "taschenguger",
+    "BlackSidePlayerName": "Vercingetorix",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "f8-c8",
+        "f10-c10",
+        "f7-f10",
+        "b6-b9",
+        "f6-f9",
+        "j6-j9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

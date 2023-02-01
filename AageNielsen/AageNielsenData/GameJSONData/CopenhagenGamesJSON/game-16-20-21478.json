@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "BrotherIbram(KT)",
+    "BlackSidePlayerName": "edmond-dantes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-g3",
+        "g5-g4",
+        "h1-h4",
+        "h6-h8",
+        "k5-i5",
+        "g6-h6",
+        "h11-h9",
+        "h6-h5",
+        "j6-h6xh5",
+        "f8-d8",
+        "k7-h7xh8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

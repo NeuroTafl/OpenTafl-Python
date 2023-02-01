@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Pam-TheTaflElite",
+    "BlackSidePlayerName": "Dove",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-k9",
+        "d6-d9",
+        "b6-b10",
+        "e6-b6",
+        "f2-b2",
+        "f6-c6",
+        "d1-c1",
+        "c6-c11",
+        "b10-b11",
+        "c11-c2",
+        "j6-j2",
+        "c2-c11xb11",
+        "c1-c6xb6",
+        "c11-a11"
+    ],
+    "WhoWon": "White"
+}

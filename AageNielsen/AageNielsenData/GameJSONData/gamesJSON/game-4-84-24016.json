@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "duhawk93",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "g5-j5",
+        "i4-i5xj5",
+        "f4-i4",
+        "i5-i9",
+        "f5-j5",
+        "d1-d3",
+        "f6-f3",
+        "k5-k3",
+        "f3-j3",
+        "f2-j2",
+        "i4-i1",
+        "a4-j4xj5",
+        "i1-j1xj2",
+        "i9-i3",
+        "j3-j2",
+        "k3-k2",
+        "j2-a2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

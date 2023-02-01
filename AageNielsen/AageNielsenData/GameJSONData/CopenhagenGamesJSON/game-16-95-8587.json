@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Harry64",
+    "BlackSidePlayerName": "EilidhAnIorua",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j9",
+        "e5-e3",
+        "b6-b3",
+        "d6-d2",
+        "b3-d3xd2",
+        "e6-b6",
+        "a4-c4",
+        "b6-b2",
+        "a8-b8",
+        "f6-b6",
+        "b8-b7",
+        "f8-b8xb7",
+        "a5-b5",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Unterwichtel",
+    "BlackSidePlayerName": "Calidesert",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-k3",
+        "e5-e3",
+        "f2-b2",
+        "d6-d9",
+        "b6-b10",
+        "e6-b6",
+        "j6-j10",
+        "f6-c6",
+        "d11-c11",
+        "c6-c1",
+        "b2-b1",
+        "c1-c2",
+        "a4-a2",
+        "c2-k2",
+        "j10-j1",
+        "k2-k1"
+    ],
+    "WhoWon": "White"
+}

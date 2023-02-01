@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "norseburg",
+    "BlackSidePlayerName": "Birkanive",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j9",
+        "i6-i7",
+        "j6-i6",
+        "f9-e9",
+        "e10-d10",
+        "i7-i8",
+        "d10-d9",
+        "e9-e10",
+        "d9-d10xe10",
+        "f8-f9",
+        "e11-e9",
+        "f7-f8",
+        "k7-f7",
+        "f5-g5",
+        "b5-f5"
+    ],
+    "WhoWon": "Black"
+}

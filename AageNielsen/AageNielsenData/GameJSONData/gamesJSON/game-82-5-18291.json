@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 82,
+    "AageGameTypeName": "Alea Evangelii dux4 19x19",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e9-b9",
+        "j13-j15",
+        "k15-k16",
+        "h11-h15xi15",
+        "h16-i16xj16",
+        "f14-f15xg15",
+        "o11-r11",
+        "j11-f11",
+        "e11-d11",
+        "j4-j5",
+        "i5-i6",
+        "l9-l5xk5",
+        "i6-l6xl5",
+        "j15-l15",
+        "k16-k15xl15",
+        "j10-j18",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

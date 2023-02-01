@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Kllimm",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g2-i2",
+        "g6-g7",
+        "j7-j9",
+        "h6-h2",
+        "g10-h10",
+        "f6-h6",
+        "j5-j3",
+        "i6-i11",
+        "b7-b8",
+        "h6-h9",
+        "g11-g9",
+        "h9-h4",
+        "j6-j4",
+        "h4-h9xg9",
+        "f11-h11",
+        "g7-g11xh11",
+        "h10-h11",
+        "i11-j11",
+        "e11-f11xg11",
+        "h9-i9",
+        "h11-h9"
+    ],
+    "WhoWon": "Black"
+}

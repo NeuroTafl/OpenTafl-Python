@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Olafrobi",
+    "BlackSidePlayerName": "cacreal",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-i2",
+        "h6-h3",
+        "j5-j3",
+        "f5-h5",
+        "b5-f5",
+        "g6-g2",
+        "i2-h2xg2",
+        "f6-h6",
+        "g10-h10",
+        "h6-h8",
+        "j7-j8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

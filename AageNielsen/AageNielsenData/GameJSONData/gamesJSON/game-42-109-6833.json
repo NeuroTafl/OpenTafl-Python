@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 42,
+    "AageGameTypeName": "Sea battle tafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "n9-l9",
+        "f7-f3",
+        "h4-e4",
+        "h5-c5",
+        "h12-d12",
+        "g6-d6",
+        "i2-i4",
+        "h7-d7",
+        "c8-c6",
+        "h6-h4",
+        "b7-b4",
+        "f9-d9xd8",
+        "e4-e6xd6",
+        "d7-c7xc6",
+        "a6-c6",
+        "j7-e7",
+        "b4-c4xc5",
+        "h8-h5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

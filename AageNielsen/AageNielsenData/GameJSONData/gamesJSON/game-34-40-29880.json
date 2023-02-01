@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "the fifth seal",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h2-j2",
+        "h6-h3",
+        "g3-d3",
+        "h8-k8",
+        "k7-k3",
+        "j7-l7",
+        "l6-l4",
+        "i9-l9xl8",
+        "h12-j12",
+        "i5-i11",
+        "h13-h11",
+        "i11-m11",
+        "h11-k11",
+        "f8-f11",
+        "e13-e11xf11",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g3-i3",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "i13-i10",
+        "d7-d11xe11",
+        "h12-h10",
+        "g7-d7",
+        "a5-d5",
+        "d7-d10",
+        "c7-c10",
+        "e9-e13",
+        "a9-f9",
+        "d11-d13",
+        "f9-f10xf11xg10",
+        "d10-d12",
+        "c10-c12",
+        "e5-e12",
+        "b8-b13",
+        "d13-c13",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

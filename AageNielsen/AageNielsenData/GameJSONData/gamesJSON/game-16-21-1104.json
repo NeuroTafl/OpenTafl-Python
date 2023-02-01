@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "bigwurm91",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "f8-c8",
+        "h11-h9",
+        "g7-g10",
+        "f10-b10",
+        "f7-j7",
+        "k8-j8xj7",
+        "f6-f8",
+        "k4-i4",
+        "f8-i8",
+        "g11-i11",
+        "i8-i9",
+        "k7-k9",
+        "g10-j10",
+        "f11-h11",
+        "i9-j9",
+        "j6-j7",
+        "j10-i10",
+        "i11-j11",
+        "i10-i11xj11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

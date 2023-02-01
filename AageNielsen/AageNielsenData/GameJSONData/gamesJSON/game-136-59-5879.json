@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Thebigfoot",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j3-j4",
+        "e5-e2",
+        "f3-f2",
+        "e2-e5",
+        "a8-d8",
+        "k11-k14",
+        "i12-k12",
+        "i10-i14",
+        "j13-j14",
+        "i8-i12",
+        "l15-l14xk14",
+        "h11-h13",
+        "h15-h14xi14",
+        "h9-h12",
+        "f13-f12",
+        "e11-e15",
+        "o15-f15xe15",
+        "h8-h11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

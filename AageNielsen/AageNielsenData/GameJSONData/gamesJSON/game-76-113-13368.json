@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Arevidar",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-d2",
+        "e7-e9",
+        "f9-i9",
+        "f8-a8",
+        "e11-a11",
+        "f7-c7",
+        "a11-a9xa8",
+        "f6-f8",
+        "j7-j8",
+        "f8-a8"
+    ],
+    "WhoWon": "White"
+}

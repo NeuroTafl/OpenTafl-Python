@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 155,
+    "AageGameTypeName": "Old Tyr 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i4-k4",
+        "k5-i5",
+        "g12-e12",
+        "g10-e10",
+        "d7-d5",
+        "h5-f5",
+        "l9-l11",
+        "h11-j11",
+        "l12-k12",
+        "k11-k10",
+        "d15-g15",
+        "j9-o9",
+        "o12-o10xo9",
+        "g8-g13",
+        "h15-h13xg13",
+        "g6-g13",
+        "c13-e13",
+        "h7-h4",
+        "g4-g2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

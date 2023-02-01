@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 64,
+    "AageGameTypeName": "Magpie 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "b4-b3",
+        "d3-e3",
+        "d2-f2",
+        "e3-f3",
+        "g4-g3",
+        "d4-d3",
+        "a4-b4xc4",
+        "d5-c5",
+        "d6-b6",
+        "d3-d2",
+        "b3-e3xf3",
+        "d2-c2",
+        "e3-a3",
+        "c2-b2",
+        "d1-c1",
+        "f4-c4",
+        "b4-b5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

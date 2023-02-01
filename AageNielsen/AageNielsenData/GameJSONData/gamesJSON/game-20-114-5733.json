@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 20,
+    "AageGameTypeName": "King anvil only edge 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b2",
+        "f8-c8",
+        "f10-c10",
+        "f7-f10",
+        "h11-h10",
+        "f6-f9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

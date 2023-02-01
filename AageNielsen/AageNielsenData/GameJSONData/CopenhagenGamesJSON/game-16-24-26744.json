@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Peer0302",
+    "BlackSidePlayerName": "Ytreza",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d2",
+        "e5-d5",
+        "e1-e3",
+        "f4-f3",
+        "g1-g3xf3",
+        "h6-h3",
+        "k4-i4",
+        "h3-i3",
+        "f2-i2xi3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Gary",
+    "BlackSidePlayerName": "sea slug",
+    "AageGameTypeKey": 10,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2c2",
+        "e3d3",
+        "h5h3",
+        "g5g2",
+        "e8g8",
+        "f5h5",
+        "g8g5",
+        "e5f5",
+        "f9f7",
+        "f5f6",
+        "f1f5"
+    ],
+    "WhoWon": "Black"
+}

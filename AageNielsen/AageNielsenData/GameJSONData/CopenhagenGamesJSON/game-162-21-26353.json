@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 162,
+    "AageGameTypeName": "Dald&oslash;s 3x12",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-b2",
+        "nox",
+        "b2-b10",
+        "nox",
+        "c2-b3",
+        "nox",
+        "b3-b7",
+        "nox",
+        "c3-b2",
+        "nox",
+        "b12-a12xa12",
+        "a1-b5",
+        "c4-c1",
+        "b5-b10",
+        "c5-c4",
+        "a2-a1",
+        "a12-a11xa11",
+        "b4-b5"
+    ],
+    "WhoWon": "White"
+}

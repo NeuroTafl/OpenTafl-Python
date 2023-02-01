@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Conanlib",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k7-j7",
+        "d6-d10",
+        "d1-d9xd10",
+        "e6-e9",
+        "d9-d6xc6",
+        "f4-d4",
+        "k4-f4xf3",
+        "f6-e6",
+        "e1-e4",
+        "e6-e8",
+        "a4-c4xd4",
+        "e8-c8",
+        "f10-c10",
+        "f5-d5",
+        "a7-c7",
+        "e9-c9",
+        "d11-d8",
+        "f8-e8xd8",
+        "d6-d8",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

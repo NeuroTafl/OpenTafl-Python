@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-i1",
+        "f7-d7",
+        "e1-d1",
+        "d7-d11",
+        "e10-c10",
+        "d11-c11",
+        "c10-c9",
+        "f8-c8",
+        "c9-d9",
+        "f6-f8",
+        "j7-j8",
+        "e6-e9",
+        "g10-g8",
+        "h6-h8xg8",
+        "g11-g8",
+        "f8-f7"
+    ],
+    "WhoWon": "Ongoing"
+}

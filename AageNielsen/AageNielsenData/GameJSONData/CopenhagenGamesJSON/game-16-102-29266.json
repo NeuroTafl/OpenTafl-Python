@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "f8-i8",
+        "d11-d9",
+        "g5-g2",
+        "e1-e3",
+        "g6-g3",
+        "h1-h2xg2",
+        "h6-h9",
+        "k4-i4",
+        "f5-j5",
+        "j6-j9",
+        "f6-j6",
+        "h2-j2",
+        "i8-i11",
+        "f10-j10",
+        "g3-k3",
+        "g1-i1",
+        "j5-j4",
+        "i4-i2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

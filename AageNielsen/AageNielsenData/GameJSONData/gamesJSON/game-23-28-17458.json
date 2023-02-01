@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 23,
+    "AageGameTypeName": "David Brown Hnefatafl 11x11 (unarmed king)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "d6-d9",
+        "b6-c6",
+        "f4-b4",
+        "d1-d3",
+        "e5-e2",
+        "g1-g3",
+        "f5-f3",
+        "d3-e3xf3xe2",
+        "f6-f3",
+        "i4-f4"
+    ],
+    "WhoWon": "Black"
+}

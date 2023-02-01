@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Biscuitman",
+    "BlackSidePlayerName": "Halldav3",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-i1",
+        "f8-j8",
+        "i1-i8xj8",
+        "h6-h2",
+        "g1-i1",
+        "f4-j4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

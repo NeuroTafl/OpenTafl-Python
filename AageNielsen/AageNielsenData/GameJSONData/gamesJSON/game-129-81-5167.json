@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-e2",
+        "d3-d2",
+        "e2-e4xf4",
+        "d4-d3",
+        "f5-f2",
+        "d5-f5",
+        "b4-b3",
+        "c4-c2",
+        "e4-f4",
+        "c2-c3",
+        "d6-f6xf5",
+        "d3-d5",
+        "f4-f3",
+        "d5-b5",
+        "f3-d3xc3xd2",
+        "b5-b7",
+        "d7-c7"
+    ],
+    "WhoWon": "Black"
+}

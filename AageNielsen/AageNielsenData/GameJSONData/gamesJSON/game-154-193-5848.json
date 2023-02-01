@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 154,
+    "AageGameTypeName": "Tyr 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d2",
+        "f4-g4",
+        "i1-i2",
+        "g5-g6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

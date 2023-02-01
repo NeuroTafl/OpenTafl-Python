@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Thebigfoot",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-d2",
+        "h8-h11",
+        "i13-i11xh11",
+        "h7-h11",
+        "h12-j12",
+        "j7-j11xi11",
+        "l6-j6",
+        "g8-j8",
+        "f12-i12",
+        "f8-f11xg11",
+        "g13-g11",
+        "g10-m10",
+        "e13-e11xf11",
+        "g7-g10",
+        "c7-c10",
+        "g10-l10",
+        "j12-l12",
+        "m10-m11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

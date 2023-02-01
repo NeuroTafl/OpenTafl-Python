@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Olafhane",
+    "BlackSidePlayerName": "Ragnarrobe",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b7-c7",
+        "f8-c8xc7",
+        "b5-b4",
+        "e6-e7",
+        "j7-j8",
+        "f7-g7",
+        "b4-c4",
+        "f6-f8",
+        "g10-h10",
+        "c8-c7",
+        "j5-j4",
+        "c7-c10",
+        "e2-d2",
+        "f8-a8"
+    ],
+    "WhoWon": "White"
+}

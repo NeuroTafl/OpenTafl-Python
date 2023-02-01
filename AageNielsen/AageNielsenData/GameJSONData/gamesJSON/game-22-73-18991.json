@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 5,
+    "Moves": [
+        "h5-h7",
+        "f5-f2",
+        "f1-g1",
+        "d5-d2xe2",
+        "d9-d5xc5",
+        "e6-d6",
+        "i6-e6xe7",
+        "e4-d4xd5",
+        "b5-d5",
+        "f2-f6xe6",
+        "e8-e6",
+        "d6-c6",
+        "i4-e4",
+        "c6-d6xe6xd5",
+        "a5-d5",
+        "e5-e8",
+        "f9-f8",
+        "e8-a8"
+    ],
+    "WhoWon": "White"
+}

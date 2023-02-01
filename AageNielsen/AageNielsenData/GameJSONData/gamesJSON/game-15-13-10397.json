@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "rift",
+    "BlackSidePlayerName": "vonraider",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j10",
+        "h6-h2",
+        "k4-h4",
+        "g6-j6",
+        "h11-i11",
+        "f6-i6",
+        "k5-i5",
+        "g5-g2",
+        "k8-k9",
+        "e5-e2xf2",
+        "h4-h3xh2",
+        "f4-i4xi5",
+        "h1-i1",
+        "g2-j2",
+        "k6-k2",
+        "i4-i2",
+        "h3-i3xi2",
+        "i6-i4",
+        "i1-i2xj2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

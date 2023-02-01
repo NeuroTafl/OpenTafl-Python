@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Efra",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-h2",
+        "f4-i4",
+        "k8-i8",
+        "f5-f2",
+        "a4-f4",
+        "e5-b5",
+        "e1-e5",
+        "e7-b7xb6",
+        "e5-c5xb5",
+        "e6-e3",
+        "e11-e6",
+        "d6-d3",
+        "d11-d6",
+        "f6-f5",
+        "f4-f3xf2",
+        "g5-g3xf3",
+        "c5-c7xb7",
+        "f5-b5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-i8",
+        "e5-c5",
+        "c6-c8",
+        "e6-e3",
+        "g2-g3",
+        "d6-b6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

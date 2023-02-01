@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Unhandyandy",
+    "BlackSidePlayerName": "Efra",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-e1",
+        "c4-c2",
+        "b4-c4",
+        "d3-c3",
+        "e1-e3",
+        "c3-b3",
+        "g4-g5",
+        "b3-b4xc4",
+        "d7-c7",
+        "b4-b7",
+        "g5-e5xe4",
+        "d5-a5",
+        "a4-b4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

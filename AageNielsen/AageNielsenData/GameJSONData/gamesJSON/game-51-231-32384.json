@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "e4-e2",
+        "f3-f2xe2",
+        "d4-f4",
+        "d6-e6",
+        "f4-f7",
+        "d7-e7"
+    ],
+    "WhoWon": "Black"
+}

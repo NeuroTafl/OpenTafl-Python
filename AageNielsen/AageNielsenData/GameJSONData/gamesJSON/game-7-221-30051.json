@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Efra",
+    "BlackSidePlayerName": "Riiem",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e8-c8",
+        "e7-b7",
+        "f9-f7",
+        "e6-h6",
+        "i4-h4",
+        "g5-g7",
+        "e9-e7",
+        "d5-d8",
+        "d1-d7xd8",
+        "e3-b3",
+        "d7-d5xc5",
+        "e5-e6",
+        "h4-g4",
+        "e6-c6",
+        "a4-c4",
+        "h6-h8",
+        "i6-e6",
+        "b7-b9",
+        "a6-b6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

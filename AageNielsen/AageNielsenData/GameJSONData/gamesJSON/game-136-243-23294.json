@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "L3monman",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h4",
+        "k11-k14",
+        "o8-l8",
+        "h11-h13",
+        "h15-h14",
+        "e11-e13",
+        "d12-d13xe13",
+        "h9-h12",
+        "j13-j11",
+        "f9-f12xg12",
+        "d13-e13",
+        "f7-f5",
+        "j11-f11xf12",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

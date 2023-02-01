@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "floki",
+    "BlackSidePlayerName": "themightyglider",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-i1",
+        "g5-g2",
+        "f2-b2",
+        "g6-g3",
+        "k4-k3",
+        "h6-h10",
+        "k8-k10",
+        "f6-i6",
+        "h11-i11",
+        "i6-i9",
+        "k7-k9",
+        "i9-a9",
+        "f10-a10",
+        "a9-j9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

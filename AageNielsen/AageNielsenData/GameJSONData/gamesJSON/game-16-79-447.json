@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "ratatoskr",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-b7",
+        "a8-b8xb7",
+        "f7-b7",
+        "a5-b5",
+        "f8-j8",
+        "h11-h9",
+        "f6-f8",
+        "a4-c4",
+        "f8-i8",
+        "h9-i9",
+        "g7-g10",
+        "i9-i10",
+        "i8-i9",
+        "g11-h11",
+        "i9-k9",
+        "i10-k10",
+        "k9-a9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

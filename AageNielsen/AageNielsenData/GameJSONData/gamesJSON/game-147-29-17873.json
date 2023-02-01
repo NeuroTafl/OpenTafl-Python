@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Volkenpuk",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 147,
+    "AageGameTypeName": "Saami Daabloe 11x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "b8-c7",
+        "h4-g5",
+        "c7-d6",
+        "c3-d4",
+        "a7-b6",
+        "i5-h6",
+        "b6-c5",
+        "b2-c3",
+        "d6-e5",
+        "g5-g7",
+        "g9-h8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

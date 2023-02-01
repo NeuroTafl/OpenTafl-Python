@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Branan",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c2-d2",
+        "c4-c1",
+        "d2-d1",
+        "d4-a4",
+        "b5-a5",
+        "a4-a1"
+    ],
+    "WhoWon": "White"
+}

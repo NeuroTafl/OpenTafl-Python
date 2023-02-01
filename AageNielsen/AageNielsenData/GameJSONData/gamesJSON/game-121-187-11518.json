@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Alex hnefatafl",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f3-g3",
+        "d3-d1",
+        "c2-c1",
+        "c4-c3",
+        "b5-b4",
+        "d5-c5",
+        "c6-d6",
+        "d4-d3",
+        "f5-f1",
+        "c5-a5",
+        "e2-d2",
+        "d3-e3",
+        "f1-e1xd1",
+        "a5-a3xb3",
+        "d6-d3",
+        "e3-f3",
+        "d3-e3"
+    ],
+    "WhoWon": "Black"
+}

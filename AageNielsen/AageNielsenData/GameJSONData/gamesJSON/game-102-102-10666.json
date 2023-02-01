@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 102,
+    "AageGameTypeName": "Alea Berserk 19x19 (Bartley)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i15-i18",
+        "k8-o8",
+        "o7-o6",
+        "p10-o10xo9",
+        "o11-r11",
+        "n6-k6",
+        "k5-k2",
+        "j7-n7",
+        "n17-n15",
+        "n14-n8",
+        "f17-j17",
+        "h9-h5",
+        "i5-i4",
+        "f6-f5xg5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "d3-c3",
+        "d6-c6",
+        "e4-e5",
+        "c6-c5",
+        "c3-c1",
+        "g4-e4",
+        "e5-e6",
+        "d7-d6",
+        "e6-e7",
+        "f5-e5xd5",
+        "d4-d5",
+        "d6-d7",
+        "d5-d3",
+        "e4-e3",
+        "c1-c3",
+        "d2-g2",
+        "c3-c2",
+        "g2-g4",
+        "d3-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

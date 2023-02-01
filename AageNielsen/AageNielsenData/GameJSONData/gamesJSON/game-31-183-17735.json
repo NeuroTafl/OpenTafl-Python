@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Ded Fomich",
+    "BlackSidePlayerName": "MochaBoi",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b7-b8",
+        "e6-e4",
+        "b5-b4",
+        "f4-k4",
+        "g2-g4",
+        "h6-h1",
+        "j5-h5",
+        "i6-i2",
+        "e10-e6",
+        "h1-h4",
+        "j7-h7",
+        "g6-h6xh5",
+        "g4-g6"
+    ],
+    "WhoWon": "Black"
+}

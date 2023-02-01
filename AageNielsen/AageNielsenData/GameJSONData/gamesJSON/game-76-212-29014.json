@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Thebloodyjarl",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "e5-c5",
+        "b7-c7",
+        "f5-d5",
+        "b5-b4",
+        "f4-c4",
+        "a5-b5",
+        "d5-d3",
+        "j5-j4",
+        "d3-d4",
+        "e2-d2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

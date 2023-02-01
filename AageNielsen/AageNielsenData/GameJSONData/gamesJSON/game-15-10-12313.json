@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Domi",
+    "BlackSidePlayerName": "Philip",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8i8",
+        "f4h4",
+        "i8h8",
+        "e5e3",
+        "k7h7",
+        "g5h5",
+        "d1d3",
+        "f5f3",
+        "h1h3",
+        "f6f4",
+        "g1g5",
+        "f4c4",
+        "e1b1",
+        "c4c11",
+        "b6b11",
+        "c11c1",
+        "b11b1",
+        "d6b6",
+        "f2c2",
+        "b6b2",
+        "d3d1"
+    ],
+    "WhoWon": "Black"
+}

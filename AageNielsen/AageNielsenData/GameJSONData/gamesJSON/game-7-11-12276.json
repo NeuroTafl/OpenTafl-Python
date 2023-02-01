@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Melusine",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-g1",
+        "c5-c8",
+        "a6-a9",
+        "e7-b7",
+        "d1-c1",
+        "e6-c6",
+        "d9-c9",
+        "e5-e7",
+        "i6-e6"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Trygve",
+    "BlackSidePlayerName": "Ember",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h4",
+        "d6-d9",
+        "a8-c8",
+        "f8-i8",
+        "f10-f9",
+        "h6-h9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

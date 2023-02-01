@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "bigwurm91",
+    "BlackSidePlayerName": "death",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "g7-g9",
+        "j6-j9",
+        "f4-i4",
+        "f2-i2",
+        "g5-h5",
+        "k8-i8",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "b6-b9",
+        "e6-e2",
+        "a6-b6xb5",
+        "e2-b2",
+        "a5-c5",
+        "f6-f2",
+        "a7-a2",
+        "f2-c2",
+        "e1-c1",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

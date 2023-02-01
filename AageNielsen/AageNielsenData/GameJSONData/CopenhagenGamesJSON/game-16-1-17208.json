@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "k4-i4",
+        "d6-d9",
+        "j6-j9",
+        "e7-b7",
+        "a8-b8xb7",
+        "f7-b7",
+        "a5-c5",
+        "d9-b9xb8",
+        "a4-d4",
+        "i8-c8",
+        "d11-d9",
+        "e6-e10",
+        "k8-e8",
+        "f6-c6",
+        "e8-e9xe10",
+        "c8-c11",
+        "f10-b10",
+        "c6-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

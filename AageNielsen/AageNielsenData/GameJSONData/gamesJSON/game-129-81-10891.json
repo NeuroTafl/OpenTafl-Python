@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Luizz",
+    "BlackSidePlayerName": "sqAree",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "e4-e2",
+        "d6-e6",
+        "d3-g3",
+        "f4-f5",
+        "d4-d3",
+        "f5-f2",
+        "g3-g2xf2",
+        "g4-g3xg2",
+        "e2-g2",
+        "e6-e4",
+        "d5-e5",
+        "g3-f3",
+        "g2-g3",
+        "e4-e3",
+        "e5-e7",
+        "c2-c3"
+    ],
+    "WhoWon": "Black"
+}

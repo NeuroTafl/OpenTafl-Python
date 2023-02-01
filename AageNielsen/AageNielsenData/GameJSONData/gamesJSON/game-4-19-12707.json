@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "J&uuml;rgen",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "g7-i7",
+        "h11-i11",
+        "f7-h7",
+        "f10-j10",
+        "f8-c8",
+        "b6-b10",
+        "f6-f9",
+        "k8-k9",
+        "f9-c9",
+        "d1-b1",
+        "c8-c1xb1",
+        "d11-c11",
+        "c9-a9",
+        "b10-a10",
+        "a9-b9",
+        "c11-b11",
+        "b9-b1",
+        "f2-a2",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

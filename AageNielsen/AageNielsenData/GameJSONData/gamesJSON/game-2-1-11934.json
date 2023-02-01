@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Fritz",
+    "BlackSidePlayerName": "Hjalte",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11d8",
+        "f8i8",
+        "h11h9",
+        "h6h3",
+        "d1d3",
+        "g5g3",
+        "a4e4",
+        "d6d4",
+        "a5d5",
+        "g7i7",
+        "g11g8",
+        "g6g4",
+        "e1e4",
+        "f6i6",
+        "f10f8",
+        "i6i1",
+        "j6j1"
+    ],
+    "WhoWon": "Black"
+}

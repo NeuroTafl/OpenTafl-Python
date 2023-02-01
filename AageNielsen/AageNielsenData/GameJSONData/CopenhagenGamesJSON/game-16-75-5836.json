@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "xerxes",
+    "BlackSidePlayerName": "&THORN;orkell",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "j6-j9",
+        "e7-e10",
+        "g11-g9",
+        "g6-j6",
+        "h1-h8",
+        "f6-i6",
+        "g1-i1",
+        "i6-i11",
+        "j9-j11",
+        "i11-i2",
+        "k4-k2",
+        "i2-i11xj11",
+        "h11-h10xh9",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

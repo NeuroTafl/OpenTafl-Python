@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Malte",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b7-b8",
+        "g5-g3",
+        "g1-h1",
+        "h6-h3",
+        "j5-h5",
+        "e5-e3xf3",
+        "a5-a3",
+        "d6-d1",
+        "c6-c1xd1",
+        "e6-b6",
+        "a7-b7xb6",
+        "f6-d6",
+        "e10-d10",
+        "d6-d1"
+    ],
+    "WhoWon": "White"
+}

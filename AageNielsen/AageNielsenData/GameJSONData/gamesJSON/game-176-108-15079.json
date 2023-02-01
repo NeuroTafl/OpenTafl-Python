@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 176,
+    "AageGameTypeName": "Simple Tafl-w 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f5-f6",
+        "e2-g2",
+        "f6-h6",
+        "f1-f5xg5",
+        "e4-h4xh5",
+        "g2-g4xh4",
+        "e3-e2",
+        "d1-d3",
+        "d5-d8",
+        "d3-d5xc5"
+    ],
+    "WhoWon": "Black"
+}

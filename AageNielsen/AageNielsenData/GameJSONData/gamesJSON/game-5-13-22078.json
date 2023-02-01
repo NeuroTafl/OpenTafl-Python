@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1f2",
+        "e7b7",
+        "f9f7",
+        "e6g6",
+        "e9g9",
+        "e5e6",
+        "e1g1",
+        "e6c6",
+        "e8c8",
+        "c6b6",
+        "h5h8",
+        "c5c7",
+        "d9b9",
+        "b7b8",
+        "h8d8",
+        "b6b7",
+        "a6a7",
+        "g6a6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

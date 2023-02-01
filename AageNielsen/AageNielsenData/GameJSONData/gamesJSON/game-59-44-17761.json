@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "mccluskeyp",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d2-e2",
+        "c4-c5",
+        "d1-c1",
+        "d3-a3",
+        "e2-d2",
+        "c5-a5xa4",
+        "b4-c4",
+        "a3-b3",
+        "g4-g3",
+        "b3-b4xc4",
+        "c1-c2",
+        "b4-b3",
+        "c2-c4",
+        "b3-b4xc4",
+        "d2-d3",
+        "b4-b3",
+        "d6-c6",
+        "d4-a4"
+    ],
+    "WhoWon": "White"
+}

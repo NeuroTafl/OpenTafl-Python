@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Edmond-dantes",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "c5-c4",
+        "i4-h4",
+        "d5-d8",
+        "f9-f8",
+        "e5-d5",
+        "d1-d2",
+        "e7-a7",
+        "b5-b8",
+        "d5-d7",
+        "h5-h7",
+        "d7-b7",
+        "a6-b6",
+        "a7-a6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

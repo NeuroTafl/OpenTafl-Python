@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Ivarlen",
+    "BlackSidePlayerName": "Ivarmcn",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-g7",
+        "e6-e8",
+        "e2-e6",
+        "i6-i10",
+        "e10-e9",
+        "g6-g3",
+        "e6-e7xe8xf7",
+        "h6-g6",
+        "e7-e6",
+        "g3-k3",
+        "b7-d7",
+        "i10-i11",
+        "g2-g5xg6",
+        "c6-c7",
+        "g5-g6"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a7-a8",
+        "d6-d10",
+        "e11-d11",
+        "f9-a9",
+        "b5-d5",
+        "f8-d8",
+        "g10-g9",
+        "f7-f9",
+        "e10-e9xf9",
+        "f6-f9",
+        "d5-d6xc6xe6",
+        "d8-d9xe9",
+        "e2-e9"
+    ],
+    "WhoWon": "Black"
+}

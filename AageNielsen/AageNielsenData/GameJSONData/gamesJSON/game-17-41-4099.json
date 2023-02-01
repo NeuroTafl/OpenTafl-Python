@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Conanlib",
+    "BlackSidePlayerName": "Chuck ward",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "g11-g9",
+        "e10-a10",
+        "a8-a9",
+        "f8-a8xa9",
+        "g9-a9xa8",
+        "a10-a11",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f3",
+        "d5-f5",
+        "b4-b5",
+        "e4-e6",
+        "b5-c5",
+        "d4-d5",
+        "g4-d4xd3"
+    ],
+    "WhoWon": "Black"
+}

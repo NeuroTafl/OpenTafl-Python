@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "d3-d2",
+        "f4-f2",
+        "e4-e7",
+        "f2-f7xe7",
+        "d4-e4",
+        "f7-f2",
+        "c4-c7",
+        "d6-e6",
+        "e4-f4",
+        "b4-e4"
+    ],
+    "WhoWon": "Black"
+}

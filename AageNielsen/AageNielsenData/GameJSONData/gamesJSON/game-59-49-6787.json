@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hachit",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "d5-e5",
+        "f4-f5",
+        "e5-e6",
+        "d6-c6",
+        "d3-g3",
+        "d1-d3",
+        "d4-d5",
+        "b4-b5",
+        "e4-e5",
+        "g4-d4",
+        "e5-e4xd4",
+        "f5-e5",
+        "c4-c5",
+        "a4-c4xc5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

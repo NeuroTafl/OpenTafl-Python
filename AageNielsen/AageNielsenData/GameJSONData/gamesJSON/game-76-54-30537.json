@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-h2",
+        "e7-c7",
+        "b5-c5",
+        "e6-e9",
+        "g10-g9",
+        "d6-d11",
+        "f3-d3",
+        "f6-d6",
+        "e10-c10",
+        "d6-d9",
+        "b7-b9",
+        "d11-c11",
+        "c10-d10",
+        "c11-d11xd10",
+        "f11-f10",
+        "d9-d10",
+        "a7-a10",
+        "d10-c10",
+        "d3-d10",
+        "c10-c11"
+    ],
+    "WhoWon": "White"
+}

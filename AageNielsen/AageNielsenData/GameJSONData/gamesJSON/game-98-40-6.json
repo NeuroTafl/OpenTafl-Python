@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 98,
+    "AageGameTypeName": "Brandubh throneless line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e2",
+        "c4-a4",
+        "c1-c3",
+        "d4-b4",
+        "e2-e1",
+        "b4-b7",
+        "g3-e3xd3",
+        "b7-a7"
+    ],
+    "WhoWon": "White"
+}

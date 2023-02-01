@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "HELFRICH",
+    "BlackSidePlayerName": "Calidesert",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j9",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "b6-b2",
+        "f6-e6",
+        "f10-b10",
+        "e6-e3",
+        "f2-j2",
+        "e3-a3",
+        "b2-a2",
+        "a3-k3",
+        "j2-k2",
+        "k3-a3xa2",
+        "d2-a2",
+        "a3-k3xk2",
+        "j9-j2",
+        "k3-k1"
+    ],
+    "WhoWon": "White"
+}

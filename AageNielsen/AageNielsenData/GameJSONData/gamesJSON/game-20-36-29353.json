@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "jack",
+    "AageGameTypeKey": 20,
+    "AageGameTypeName": "King anvil only edge 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b10",
+        "e7-b7",
+        "a8-b8",
+        "d6-b6",
+        "f2-b2",
+        "e6-e10",
+        "d11-d10xe10",
+        "f6-c6",
+        "d1-c1",
+        "c6-c11"
+    ],
+    "WhoWon": "White"
+}

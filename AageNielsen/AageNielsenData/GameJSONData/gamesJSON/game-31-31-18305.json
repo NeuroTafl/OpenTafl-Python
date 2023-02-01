@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Olafharri",
+    "BlackSidePlayerName": "Ragnarpayu",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j7-i7",
+        "g6-g7",
+        "g2-g5",
+        "f4-g4",
+        "b5-e5xf5",
+        "g7-g6xg5",
+        "j5-f5",
+        "g4-f4xf5",
+        "g1-g4",
+        "g6-g5",
+        "e5-e4xf4",
+        "f3-g3xg4",
+        "k5-i5xi6",
+        "f6-f5",
+        "b6-b4",
+        "e6-e5",
+        "f2-f3",
+        "g5-g4",
+        "e10-e6xe5",
+        "f5-h5",
+        "a5-g5"
+    ],
+    "WhoWon": "Black"
+}

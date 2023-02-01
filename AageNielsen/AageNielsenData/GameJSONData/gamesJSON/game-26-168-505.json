@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-c2",
+        "g6-g5",
+        "h11-h9",
+        "i6-i9",
+        "j6-j9xi9",
+        "h6-j6",
+        "h1-h3",
+        "f6-i6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

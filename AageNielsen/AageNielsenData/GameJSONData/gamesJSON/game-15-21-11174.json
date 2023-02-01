@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "J&uuml;rgen",
+    "BlackSidePlayerName": "Villads",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-c2",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "f10-d10",
+        "h6-h9",
+        "f11-f10xg10",
+        "f6-i6",
+        "g11-i11",
+        "i6-i3",
+        "k4-k3",
+        "i3-a3",
+        "c2-a2",
+        "a3-b3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

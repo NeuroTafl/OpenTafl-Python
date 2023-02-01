@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "commentjouer",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-c6",
+        "d5-d6",
+        "f4-f5",
+        "d6-f6",
+        "b4-b3",
+        "e4-f4xf5",
+        "a4-a5",
+        "d4-e4",
+        "a5-e5",
+        "e4-e1",
+        "g4-g2",
+        "e1-g1"
+    ],
+    "WhoWon": "White"
+}

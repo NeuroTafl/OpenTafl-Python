@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f2",
+        "d3-g3",
+        "f2-g2xg3",
+        "d4-d3",
+        "d6-f6",
+        "d3-f3",
+        "d7-d6xd5",
+        "e4-e2",
+        "g2-f2xe2",
+        "f3-e3",
+        "d6-d7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

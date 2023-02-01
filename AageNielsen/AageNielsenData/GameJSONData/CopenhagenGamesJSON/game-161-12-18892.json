@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "jilles",
+    "AageGameTypeKey": 161,
+    "AageGameTypeName": "Ard Ri-1 whitefriendlypass 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-c3",
+        "b4-b3",
+        "d4-d3",
+        "f4-f3",
+        "c3-c2",
+        "d6-c6",
+        "c2-b2",
+        "d1-b1xb2",
+        "d3-d2",
+        "b1-d1",
+        "d2-c2",
+        "d1-c1",
+        "c2-b2",
+        "c1-b1"
+    ],
+    "WhoWon": "Black"
+}

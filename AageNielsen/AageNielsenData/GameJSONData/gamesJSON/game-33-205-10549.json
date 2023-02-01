@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Jilles",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c7-c12",
+        "h8-h11",
+        "i13-i11xh11",
+        "h7-h11",
+        "k7-k10",
+        "j7-j11xi11",
+        "k10-h10xh11",
+        "g7-k7",
+        "l6-k6",
+        "k7-k13"
+    ],
+    "WhoWon": "White"
+}

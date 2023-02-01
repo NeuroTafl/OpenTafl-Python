@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Conanlib",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "c6-c10",
+        "b6-b10",
+        "d6-d10",
+        "a8-d8",
+        "f9-d9",
+        "a7-d7",
+        "e6-b6",
+        "d1-d6",
+        "f6-e6",
+        "d6-c6xb6",
+        "f3-c3",
+        "i2-c2",
+        "f4-d4",
+        "a4-c4xc3",
+        "e6-e3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

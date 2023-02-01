@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Bainn",
+    "BlackSidePlayerName": "duhawk93",
+    "AageGameTypeKey": 23,
+    "AageGameTypeName": "David Brown Hnefatafl 11x11 (unarmed king)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "e5-e3",
+        "d1-d3",
+        "f5-c5",
+        "a4-c4",
+        "f6-f5",
+        "k5-i5",
+        "f5-d5",
+        "d11-d9",
+        "d5-d4",
+        "e1-e2",
+        "f4-g4",
+        "b6-c6xc5",
+        "g4-g3",
+        "h1-h3",
+        "f7-f3",
+        "a5-d5",
+        "f8-e8",
+        "i4-e4xe3"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "wilfridsigurdson",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "m9-j9",
+        "h8-k8",
+        "j9-k9xk8",
+        "g8-k8",
+        "k9-k10",
+        "h6-k6xk7",
+        "m7-k7",
+        "f6-f3",
+        "e1-e3xf3",
+        "f7-f3",
+        "h2-h3",
+        "d7-d3xe3",
+        "f2-e2",
+        "g7-d7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

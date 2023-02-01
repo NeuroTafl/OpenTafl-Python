@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d2",
+        "d11-d3xd2",
+        "e7-c7",
+        "a4-c4",
+        "e6-e10",
+        "d3-d10xe10",
+        "f6-d6",
+        "a8-d8",
+        "e5-e3",
+        "d1-d3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "kAAgEE",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 141,
+    "AageGameTypeName": "Old TYR! 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h1-h4",
+        "k8-l8",
+        "d4-e4",
+        "g6-e6",
+        "l12-l11",
+        "k11-k10",
+        "l11-k11",
+        "k10-l10xl9",
+        "k11-k10xl10",
+        "i6-l6xl7",
+        "k10-k6xl6",
+        "k5-h5xh6",
+        "m6-h6xh5",
+        "i8-i5",
+        "h6-i6xi5",
+        "h8-k8",
+        "m10-k10",
+        "k8-k1"
+    ],
+    "WhoWon": "White"
+}

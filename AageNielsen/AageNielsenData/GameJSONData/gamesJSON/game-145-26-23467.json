@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "Paul7",
+    "AageGameTypeKey": 145,
+    "AageGameTypeName": "Tyr 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h4",
+        "k8-l8",
+        "m6-k6",
+        "j7-k7xk6",
+        "j3-j7xk7",
+        "i6-l6xl7",
+        "l4-l5",
+        "i8-j8",
+        "j7-l7xl8xl6",
+        "j8-l8",
+        "m10-k10",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

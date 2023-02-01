@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hjuke",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 10,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1f2",
+        "e4f4",
+        "a4b4",
+        "d5d6",
+        "d1d5",
+        "f4d4",
+        "i4e4",
+        "f5f4",
+        "a6c6",
+        "e6h6",
+        "h5h3",
+        "e5f5",
+        "f9f8",
+        "g5g9",
+        "e9f9",
+        "f5g5",
+        "f2g2",
+        "g5g8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

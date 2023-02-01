@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Geattrog",
+    "BlackSidePlayerName": "norseburg",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-g3",
+        "f5-i5",
+        "e2-e3xf3",
+        "f6-f5",
+        "e3-e4",
+        "f5-d5",
+        "e4-d4",
+        "f4-f3",
+        "f2-e2",
+        "f3-d3xd4",
+        "e1-d1",
+        "d5-d4",
+        "d1-c1",
+        "d4-a4"
+    ],
+    "WhoWon": "White"
+}

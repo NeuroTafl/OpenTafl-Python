@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 110,
+    "AageGameTypeName": "Brandubh weak-throne line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "d3-d1",
+        "g3-g2",
+        "d4-d2",
+        "c1-c2",
+        "d2-e2xe3",
+        "g2-f2",
+        "e2-e1",
+        "f2-f1",
+        "d1-d3",
+        "c2-c1",
+        "e1-e2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

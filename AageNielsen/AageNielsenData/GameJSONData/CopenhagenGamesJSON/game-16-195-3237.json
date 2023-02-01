@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Duruk",
+    "BlackSidePlayerName": "Calidesert",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-b10",
+        "h6-h3",
+        "j6-j3",
+        "g6-j6",
+        "k8-j8",
+        "f6-i6",
+        "h1-i1",
+        "i6-i11",
+        "j8-j11",
+        "i11-i2",
+        "j3-j2",
+        "i2-i11xj11",
+        "b10-j10",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

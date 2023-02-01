@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k1-k2",
+        "g7-g10",
+        "f9-f11",
+        "g10-g11",
+        "d11-e11",
+        "f7-j7",
+        "i6-k6",
+        "e5-b5",
+        "c6-a6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

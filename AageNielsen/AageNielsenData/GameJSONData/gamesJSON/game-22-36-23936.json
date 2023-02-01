@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Pimms",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h5-h2",
+        "f5-f8",
+        "f1-f5",
+        "e6-f6",
+        "f5-f4",
+        "g5-g4xf4",
+        "a6-e6xe7",
+        "d5-d6xe6",
+        "d1-d5xc5",
+        "e5-e7",
+        "d9-d7xd6",
+        "e7-i7"
+    ],
+    "WhoWon": "White"
+}

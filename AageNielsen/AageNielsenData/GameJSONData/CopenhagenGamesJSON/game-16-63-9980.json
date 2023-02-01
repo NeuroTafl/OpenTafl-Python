@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Chillin",
+    "BlackSidePlayerName": "epm180",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e3",
+        "f8-i8",
+        "b6-b9",
+        "h6-h3",
+        "k4-i4",
+        "g5-j5",
+        "i4-i5xj5",
+        "g6-g4",
+        "j6-j3",
+        "g4-k4",
+        "k8-j8",
+        "f6-i6",
+        "i5-i2",
+        "e7-e9",
+        "k7-k9",
+        "i6-i3",
+        "j3-k3xk4",
+        "i3-j3",
+        "i2-j2",
+        "i8-i1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

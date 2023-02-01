@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "e6-e7",
+        "j6-j3",
+        "f6-e6",
+        "e1-e2",
+        "f9-a9",
+        "d11-d9",
+        "c6-c10",
+        "e11-a11",
+        "e6-e3",
+        "d1-d3",
+        "e7-b7",
+        "a8-b8xb7",
+        "e3-e11"
+    ],
+    "WhoWon": "White"
+}

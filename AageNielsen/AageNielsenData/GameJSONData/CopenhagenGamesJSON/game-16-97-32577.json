@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "floki",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-c7",
+        "d11-d9",
+        "f8-c8",
+        "e11-c11",
+        "e6-e10",
+        "g11-g10",
+        "e10-b10",
+        "d9-d10",
+        "d6-d9",
+        "b6-d6",
+        "f6-e6",
+        "a6-c6",
+        "e6-e11",
+        "d10-d11",
+        "e11-e10",
+        "a8-b8",
+        "b10-b9",
+        "a7-a10",
+        "e10-b10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

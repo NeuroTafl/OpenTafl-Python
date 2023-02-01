@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Chuck ward",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "f10-i10",
+        "d6-d2",
+        "a4-c4",
+        "f6-d6",
+        "a8-d8",
+        "d6-d3",
+        "b6-b3",
+        "d3-k3",
+        "f2-k2",
+        "k3-c3",
+        "k5-k3",
+        "e5-c5xc4",
+        "d1-c1",
+        "f4-a4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

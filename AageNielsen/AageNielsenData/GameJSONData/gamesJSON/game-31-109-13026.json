@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Ragnarryde",
+    "BlackSidePlayerName": "Olafhora",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 5,
+    "Moves": [
+        "j7-g7",
+        "h6-h7xg7",
+        "g10-g7",
+        "f8-g8xg7",
+        "e10-e8",
+        "g8-f8",
+        "g11-g7",
+        "f8-g8xg7",
+        "b7-e7",
+        "d6-d7xe7",
+        "b5-e5",
+        "f4-e4xe5",
+        "b6-b9",
+        "f5-g5",
+        "e2-c2",
+        "e4-e5",
+        "f2-d2",
+        "f6-f4",
+        "e1-e4",
+        "f4-k4"
+    ],
+    "WhoWon": "White"
+}

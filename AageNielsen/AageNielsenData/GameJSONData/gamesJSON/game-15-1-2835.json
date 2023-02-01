@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "epoc",
+    "BlackSidePlayerName": "Beadle",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1d3",
+        "f8c8",
+        "f10c10",
+        "f7f10",
+        "h11h10",
+        "f6f9",
+        "a8a9",
+        "f9i9",
+        "k5i5",
+        "i9i11",
+        "j6j11",
+        "i11i10",
+        "a9f9",
+        "i10k10",
+        "k8k9",
+        "k10k11"
+    ],
+    "WhoWon": "White"
+}

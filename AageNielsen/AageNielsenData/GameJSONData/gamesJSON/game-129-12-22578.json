@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "bender",
+    "BlackSidePlayerName": "unhandyandy",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "d6-c6",
+        "d4-d3",
+        "b4-b3",
+        "c4-c3",
+        "d7-d6xd5",
+        "d3-d5",
+        "f4-f5",
+        "d5-b5",
+        "d6-d3xc3xd2",
+        "b5-b7",
+        "c6-c7"
+    ],
+    "WhoWon": "Black"
+}

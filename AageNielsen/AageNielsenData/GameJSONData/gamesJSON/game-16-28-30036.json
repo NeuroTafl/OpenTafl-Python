@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Firefinch",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "g5-g3",
+        "h1-h3",
+        "h6-h8",
+        "k8-i8",
+        "g7-j7",
+        "i8-i7xj7",
+        "g6-g10",
+        "e11-e9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "RussJenkins",
+    "BlackSidePlayerName": "W&aelig;gn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "h6-h9",
+        "h11-h10",
+        "g6-i6",
+        "h1-h6xi6",
+        "f6-g6",
+        "k8-h8xh9",
+        "g5-i5",
+        "h6-h2",
+        "i5-i11",
+        "b6-b3",
+        "g6-g3",
+        "j6-j3",
+        "g3-c3",
+        "h2-c2",
+        "c3-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

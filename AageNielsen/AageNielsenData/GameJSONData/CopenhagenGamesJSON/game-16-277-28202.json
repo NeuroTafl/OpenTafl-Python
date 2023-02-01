@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Mmagari",
+    "BlackSidePlayerName": "Asmo",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f3-c3",
+        "h3-g3xg2",
+        "c8-c5xc4",
+        "a5-a3",
+        "h6-h3",
+        "j6-j3",
+        "f4-f3xg3",
+        "g1-g3",
+        "g7-j7",
+        "j3-i3xh3",
+        "g6-h6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

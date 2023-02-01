@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Kwoodward",
+    "BlackSidePlayerName": "Archibald k.",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-g2",
+        "f8-i8",
+        "f10-i10",
+        "f7-f10",
+        "d11-d10",
+        "e7-e10",
+        "a8-c8",
+        "f6-f9",
+        "k8-k9",
+        "f9-c9",
+        "c8-c7",
+        "c9-c10xd10",
+        "b6-b10",
+        "c10-c11",
+        "b10-b11",
+        "c11-c9",
+        "b11-b10",
+        "c9-a9",
+        "b10-a10",
+        "a9-b9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

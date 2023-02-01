@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Mmagari",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "f8-a8",
+        "f9-d9",
+        "g7-i7",
+        "j5-i5",
+        "f7-f9",
+        "j7-j8",
+        "e5-c5",
+        "c6-c8",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

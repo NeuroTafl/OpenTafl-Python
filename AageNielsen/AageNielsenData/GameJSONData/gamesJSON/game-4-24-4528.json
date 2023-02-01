@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "chuck ward",
+    "BlackSidePlayerName": "crusty",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6j3",
+        "h6h2",
+        "k4i4",
+        "g5j5",
+        "h11h3",
+        "g6j6",
+        "i4i5",
+        "f6i6",
+        "f10j10",
+        "i6i11",
+        "i5i10",
+        "i11k11"
+    ],
+    "WhoWon": ""
+}

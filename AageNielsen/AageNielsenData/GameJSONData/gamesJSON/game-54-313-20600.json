@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "b4-b3",
+        "c4-c3",
+        "d6-c6",
+        "d5-b5",
+        "d2-c2",
+        "d4-d5",
+        "d1-d2xd3",
+        "d5-d6",
+        "d2-d3xc3",
+        "b5-b6xc6",
+        "c2-c6",
+        "d6-e6",
+        "f4-f6",
+        "e6-d6xc6",
+        "b3-b5",
+        "e4-b4xb5",
+        "d3-d5",
+        "d6-c6",
+        "d7-c7",
+        "b6-a6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

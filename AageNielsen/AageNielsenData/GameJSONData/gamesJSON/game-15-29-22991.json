@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Dagmar",
+    "BlackSidePlayerName": "Gamba",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j7",
+        "h6-h10",
+        "k8-k9",
+        "d6-d2",
+        "j7-j8",
+        "e6-c6",
+        "k9-h9xh10",
+        "f6-d6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

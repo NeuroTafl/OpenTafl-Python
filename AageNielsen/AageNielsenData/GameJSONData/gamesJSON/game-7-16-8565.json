@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Asther-Kane",
+    "BlackSidePlayerName": "silversplitter",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "e4-h4",
+        "h5-h7",
+        "d5-d4",
+        "e8-c8",
+        "e3-i3",
+        "b5-b3",
+        "h4-h2",
+        "f1-i1",
+        "g5-g1",
+        "i1-i2xi3",
+        "e5-e3",
+        "i4-i3",
+        "e3-g3",
+        "i6-g6",
+        "g3-g2",
+        "i2-i1",
+        "g2-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

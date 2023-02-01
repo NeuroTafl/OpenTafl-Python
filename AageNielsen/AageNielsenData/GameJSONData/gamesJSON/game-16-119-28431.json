@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Bigwurm91",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "f4-i4",
+        "h1-h3",
+        "g5-g2",
+        "e1-e3",
+        "g6-g3",
+        "h3-h2xg2",
+        "h6-h3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

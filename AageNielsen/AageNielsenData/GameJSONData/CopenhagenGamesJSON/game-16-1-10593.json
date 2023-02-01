@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Thord",
+    "BlackSidePlayerName": "nath",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g4",
+        "k4-i4",
+        "f5-h5",
+        "h11-h9",
+        "g7-h7",
+        "g11-g9",
+        "e7-c7",
+        "a4-c4",
+        "e6-e8",
+        "a8-c8",
+        "c7-d7",
+        "e11-e9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

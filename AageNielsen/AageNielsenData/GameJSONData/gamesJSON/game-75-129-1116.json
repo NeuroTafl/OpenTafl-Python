@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "ozzie",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 75,
+    "AageGameTypeName": "Tawlbwrdd T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "i6-i11",
+        "k4-i4",
+        "h6-h10",
+        "h1-h3",
+        "f9-k9",
+        "h3-h9xh10",
+        "f8-i8",
+        "f10-k10xk9",
+        "i8-i10",
+        "d11-d9",
+        "f7-f9",
+        "f11-f10",
+        "f6-f8",
+        "g11-g8",
+        "i10-j10",
+        "e11-e8"
+    ],
+    "WhoWon": "Black"
+}

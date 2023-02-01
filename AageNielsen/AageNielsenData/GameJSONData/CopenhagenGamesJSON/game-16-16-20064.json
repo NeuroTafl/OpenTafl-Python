@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Ytreza",
+    "BlackSidePlayerName": "JONTIB",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j6-i6",
+        "e7-c7",
+        "a8-c8",
+        "d6-d2",
+        "b6-c6xc7",
+        "e5-e2",
+        "a4-d4",
+        "g5-g2xf2",
+        "e11-e7",
+        "f8-e8xe7",
+        "a7-d7",
+        "f7-f9",
+        "g11-g9",
+        "h6-h9xg9",
+        "a5-d5",
+        "g6-h6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

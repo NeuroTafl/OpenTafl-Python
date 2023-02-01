@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Sun231",
+    "AageGameTypeKey": 23,
+    "AageGameTypeName": "David Brown Hnefatafl 11x11 (unarmed king)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "h6-h3",
+        "h1-h2",
+        "g7-g10",
+        "k4-h4xh3",
+        "g6-g9",
+        "h11-h10xg10",
+        "f6-i6",
+        "k7-i7",
+        "i6-i1"
+    ],
+    "WhoWon": "White"
+}

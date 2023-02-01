@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "f4-j4",
+        "h3-g3xg2",
+        "h6-h3",
+        "g1-i1",
+        "f5-f3xg3",
+        "i1-i4xj4",
+        "g6-g1",
+        "j6-j2",
+        "f3-a3",
+        "a4-c4",
+        "f6-j6",
+        "k8-j8",
+        "j6-j3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

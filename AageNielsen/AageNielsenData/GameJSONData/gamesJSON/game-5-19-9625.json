@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "arne64",
+    "BlackSidePlayerName": "Luigi005",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e8-c8",
+        "e6-h6",
+        "h5-h2",
+        "d5-d6",
+        "c8-c7",
+        "e5-e6",
+        "i6-i7",
+        "e6-g6",
+        "i7-g7",
+        "h6-h7",
+        "i5-i6",
+        "f5-f7xg7",
+        "f9-g9",
+        "g6-g8",
+        "d1-d5xc5",
+        "g8-i8"
+    ],
+    "WhoWon": "White"
+}

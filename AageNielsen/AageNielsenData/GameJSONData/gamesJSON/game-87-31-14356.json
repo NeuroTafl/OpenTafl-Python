@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d1-c1",
+        "d3-g3",
+        "g4-g5",
+        "d4-d1",
+        "f2-f1",
+        "e4-e1xf1",
+        "f6-f1",
+        "d1-d2",
+        "f1-f2",
+        "g3-f3",
+        "g5-g2",
+        "e1-f1xf2",
+        "b2-c2",
+        "f3-g3xg2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

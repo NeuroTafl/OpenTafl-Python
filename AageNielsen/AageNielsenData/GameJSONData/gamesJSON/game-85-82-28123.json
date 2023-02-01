@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "c4-c2",
+        "a5-b5",
+        "c2-e2xe3",
+        "g3-e3",
+        "d3-c3",
+        "c1-d1",
+        "e4-e5",
+        "e3-f3",
+        "c3-c1",
+        "b5-b1xc1",
+        "d4-a4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

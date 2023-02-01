@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Abbas agraphicus",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e10-d10",
+        "g5-g3",
+        "k5-k4",
+        "e5-e3xf3",
+        "k4-g4xg3",
+        "h6-h4xg4",
+        "k6-k3",
+        "f4-f2",
+        "a5-a4",
+        "d6-d2xe2",
+        "k3-h3",
+        "h4-k4",
+        "g10-g8",
+        "f5-i5",
+        "b5-h5xi5",
+        "f6-f4",
+        "c6-c2",
+        "k4-k2",
+        "e1-e2xd2xf2",
+        "f4-k4"
+    ],
+    "WhoWon": "White"
+}

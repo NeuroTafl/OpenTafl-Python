@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Cacreal",
+    "BlackSidePlayerName": "Alex hnefatafl",
+    "AageGameTypeKey": 162,
+    "AageGameTypeName": "Dald&oslash;s 3x12",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-b1",
+        "a1-b4",
+        "c1-b4xb4",
+        "nox",
+        "b11-b13",
+        "a2-b2",
+        "b4-b12",
+        "a3-a2",
+        "c4-c3",
+        "b6-b13",
+        "b12-b13xb13",
+        "a2-b2",
+        "a12-a11xa11",
+        "a3-b2xb2",
+        "a5-b2xb2",
+        "a6-a5",
+        "c3-b2xb2"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d6-c6",
+        "e4-e3",
+        "b4-b3",
+        "c4-c2",
+        "b3-b2xc2",
+        "d3-a3",
+        "c6-c5",
+        "d4-c4",
+        "d7-d6xd5",
+        "c4-c2",
+        "c5-c3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

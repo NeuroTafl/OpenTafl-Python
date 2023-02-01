@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "k4-i4",
+        "g7-j7",
+        "k8-j8xj7",
+        "h6-h9",
+        "d11-d9",
+        "f7-f8",
+        "k7-k9",
+        "e7-c7",
+        "a5-c5",
+        "g6-g10",
+        "h11-h10xg10",
+        "d6-d8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

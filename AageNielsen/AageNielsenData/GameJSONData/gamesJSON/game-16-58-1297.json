@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Leoak477",
+    "BlackSidePlayerName": "Nikos1820",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-i6",
+        "f4-f3",
+        "k4-f4xf3",
+        "h6-h4",
+        "i6-h6",
+        "d6-d4",
+        "b6-d6",
+        "e5-e4",
+        "d1-d3",
+        "f5-d5",
+        "a7-d7",
+        "g5-g4xf4",
+        "k5-e5",
+        "f6-f5xe5",
+        "k6-k3",
+        "f5-j5",
+        "h6-j6",
+        "j5-j1",
+        "f2-f5",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

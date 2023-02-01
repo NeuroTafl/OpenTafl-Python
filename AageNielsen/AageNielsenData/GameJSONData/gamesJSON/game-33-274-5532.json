@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "c.s.a.",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h2-h3",
+        "h6-h4",
+        "i1-i3",
+        "g6-g5",
+        "h1-j1",
+        "g7-g6",
+        "k7-k4",
+        "i5-j5",
+        "j1-j4",
+        "g6-k6",
+        "m9-k9",
+        "f6-f4",
+        "b6-j6xj5"
+    ],
+    "WhoWon": "Black"
+}

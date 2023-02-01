@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Rollo",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 168,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f5-f4",
+        "e8-g8",
+        "e4-b4",
+        "e2-b2",
+        "e6-b6xb5",
+        "d9-d8",
+        "c5-c8",
+        "i6-c6xb6",
+        "e7-e8xd8",
+        "f9-f5xg5",
+        "e5-e7",
+        "c6-c7",
+        "e7-i7",
+        "g8-i8",
+        "i7-d7",
+        "f5-f7",
+        "d7-d9",
+        "a6-b6",
+        "d9-a9"
+    ],
+    "WhoWon": "White"
+}

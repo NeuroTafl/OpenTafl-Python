@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hrafnblod",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 94,
+    "AageGameTypeName": "Copenhagen Hnefatafl Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "e7-c7",
+        "b5-c5",
+        "e6-e9",
+        "g10-g9",
+        "f8-b8",
+        "i6-i8",
+        "f7-f8",
+        "a7-a9",
+        "e5-e3",
+        "a9-d9xe9",
+        "f4-a4",
+        "e10-e4xe3",
+        "h6-h10",
+        "g11-g10",
+        "f6-e6",
+        "e11-e10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

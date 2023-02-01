@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Draco",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "a8-e8",
+        "d6-d8xe8",
+        "e11-e8",
+        "g7-g9",
+        "d11-d9",
+        "g9-e9xe8",
+        "f10-f9xe9",
+        "d8-c8",
+        "b6-b8",
+        "c8-c11",
+        "b8-e8",
+        "e6-b6",
+        "d1-d6",
+        "e7-c7",
+        "d6-c6xb6",
+        "e5-c5xc6",
+        "k8-g8xf8",
+        "f6-b6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

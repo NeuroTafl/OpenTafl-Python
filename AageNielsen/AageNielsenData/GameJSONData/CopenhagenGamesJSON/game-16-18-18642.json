@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Meersburg",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "a4-c4",
+        "g5-g2",
+        "h3-h2xg2",
+        "g6-g2",
+        "h2-j2",
+        "e5-e2xf2",
+        "d1-d2",
+        "h6-h1",
+        "k8-i8",
+        "f6-h6",
+        "h11-h9",
+        "h6-h3",
+        "k4-k3",
+        "h3-j3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

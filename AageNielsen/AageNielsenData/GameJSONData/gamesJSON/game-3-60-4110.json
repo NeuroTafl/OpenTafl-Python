@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Edmond-dantes",
+    "BlackSidePlayerName": "Kaagee",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "e7-c7",
+        "d11-d9",
+        "c7-c10",
+        "a8-c8",
+        "d6-d3",
+        "a4-a3",
+        "f7-e7",
+        "a3-c3",
+        "e5-e3",
+        "b6-b10",
+        "c10-c11",
+        "b10-b11",
+        "e6-b6",
+        "d9-d11xc11",
+        "b6-b3xc3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

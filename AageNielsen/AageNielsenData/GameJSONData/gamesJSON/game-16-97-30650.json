@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "bender",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "e7-c7",
+        "a8-c8",
+        "d6-d9",
+        "b6-c6xc7",
+        "f7-c7",
+        "c8-c9",
+        "e5-c5xc6",
+        "e11-e9xd9",
+        "e6-e2",
+        "d1-d2xe2",
+        "f6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

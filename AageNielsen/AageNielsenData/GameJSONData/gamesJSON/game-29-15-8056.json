@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Gamerrob",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g2-h2",
+        "e7-e9",
+        "a7-a9",
+        "g7-g9xf9",
+        "b5-b4",
+        "f8-f10",
+        "j7-j8",
+        "g6-g8",
+        "h2-h4",
+        "d6-d10xe10",
+        "g10-h10",
+        "f7-c7",
+        "a5-c5",
+        "f6-f8",
+        "a6-a8",
+        "f8-d8",
+        "a8-c8xc7",
+        "d8-d1"
+    ],
+    "WhoWon": "White"
+}

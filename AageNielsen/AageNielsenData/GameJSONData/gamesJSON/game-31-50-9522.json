@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Casshern",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-i1",
+        "f5-d5",
+        "e11-c11",
+        "d5-d1",
+        "b5-b4",
+        "f4-c4",
+        "g2-g4",
+        "e6-e4",
+        "j5-g5",
+        "i6-i4",
+        "g10-g7xg6",
+        "f6-f4",
+        "a5-a3",
+        "h6-h4xg4",
+        "j7-h7",
+        "f4-f5",
+        "e10-e5"
+    ],
+    "WhoWon": "Black"
+}

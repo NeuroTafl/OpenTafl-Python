@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Sun231",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i6-h6",
+        "e4-b4",
+        "i4-e4xe3",
+        "d5-d3",
+        "e4-c4xb4",
+        "d3-c3xc4",
+        "a4-c4",
+        "e5-d5",
+        "d1-d2",
+        "d5-d8",
+        "d2-d7"
+    ],
+    "WhoWon": "Black"
+}

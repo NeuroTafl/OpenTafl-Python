@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 94,
+    "AageGameTypeName": "Copenhagen Hnefatafl Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f3-i3",
+        "e7-e9",
+        "g10-g9",
+        "h6-h10",
+        "f11-f10",
+        "g7-i7",
+        "j5-h5",
+        "i7-i11",
+        "k7-k10",
+        "f8-k8",
+        "j7-j11",
+        "k8-k9xk10",
+        "g11-h11xi11",
+        "f7-i7",
+        "h11-i11",
+        "f6-f8",
+        "a7-a9",
+        "f8-j8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

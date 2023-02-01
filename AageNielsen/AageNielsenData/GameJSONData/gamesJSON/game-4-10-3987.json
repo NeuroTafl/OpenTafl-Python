@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Thou",
+    "BlackSidePlayerName": "Floki",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "h11-h9",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "b6-b9",
+        "g5-j5xj6",
+        "k6-j6xj7",
+        "e7-j7xj6",
+        "k4-j4",
+        "h6-h3",
+        "j4-j3",
+        "g6-g10",
+        "h9-h10xg10",
+        "f6-i6",
+        "f2-i2",
+        "e6-e9",
+        "g11-g9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

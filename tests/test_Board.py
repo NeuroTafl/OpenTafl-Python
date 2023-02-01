@@ -1,6 +1,6 @@
 # import pytest
 
-from copy import copy, deepcopy
+from copy import copy
 
 from NeuroTaflAgent.Coordinate import Coordinate
 from NeuroTaflAgent.Board import Board

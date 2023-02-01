@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Diderius II",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-c2",
+        "e7-d7",
+        "a8-c8",
+        "g7-g9",
+        "h11-h9",
+        "e6-e9",
+        "f10-f9xg9",
+        "g6-g9xf9",
+        "d11-d9",
+        "f8-f10",
+        "k7-h7",
+        "h6-h3",
+        "h1-h2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

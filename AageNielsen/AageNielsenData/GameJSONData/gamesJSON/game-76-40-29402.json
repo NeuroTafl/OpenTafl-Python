@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Riiem",
+    "BlackSidePlayerName": "187Gallo",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j8",
+        "f4-a4",
+        "f3-a3xa4",
+        "f5-f2",
+        "a3-f3xf2",
+        "f6-f4",
+        "e2-e4",
+        "f4-k4"
+    ],
+    "WhoWon": "White"
+}

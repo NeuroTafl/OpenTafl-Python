@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "epoc",
+    "BlackSidePlayerName": "Roderich",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1h3",
+        "f8c8",
+        "b6b8",
+        "d6d3",
+        "f2d2",
+        "f4c4",
+        "d11d8",
+        "e6b6",
+        "h3c3",
+        "f6c6",
+        "f10c10",
+        "c6c8",
+        "d4d8",
+        "e7e8",
+        "d2d8"
+    ],
+    "WhoWon": "Black"
+}

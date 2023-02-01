@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Steve",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b3",
+        "c4-c5",
+        "d6-c6",
+        "d5-d6",
+        "a4-c4xc5",
+        "d4-d5",
+        "f4-f6",
+        "d5-e5",
+        "f6-e6xd6",
+        "e5-f5",
+        "e6-f6",
+        "e4-e7",
+        "g4-g5",
+        "e7-f7xf6",
+        "d7-e7xf7",
+        "f5-f6",
+        "g5-g6",
+        "f6-f7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

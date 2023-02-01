@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Fellhuhn",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "b5-c5",
+        "g5-i5",
+        "j7-i7",
+        "e5-e3",
+        "g2-g3",
+        "f4-b4",
+        "g3-g4",
+        "b4-b6xc6",
+        "c5-c6xb6",
+        "f5-c5",
+        "g4-c4xc5",
+        "g6-g3xf3",
+        "a5-h5xi5",
+        "d6-d2",
+        "f1-f3",
+        "g3-h3",
+        "g1-g6xh6",
+        "h3-g3xf3",
+        "c4-e4xe3",
+        "f6-f1"
+    ],
+    "WhoWon": "White"
+}

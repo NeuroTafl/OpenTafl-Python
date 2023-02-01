@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Yozara",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "d3-e3",
+        "f5-f3",
+        "e4-e7",
+        "d6-f6",
+        "c4-c7xd7",
+        "d2-d3xe3",
+        "e7-e2",
+        "g4-e4",
+        "d5-f5",
+        "b4-c4",
+        "d4-d7",
+        "e4-e7",
+        "c7-c6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,18 @@
+{
+    "WhiteSidePlayerName": "Testing",
+    "BlackSidePlayerName": "jullan",
+    "AageGameTypeKey": 147,
+    "AageGameTypeName": "Saami Daabloe 11x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "g9-g7",
+        "i5-h6",
+        "e9-f8",
+        "h6-i7",
+        "f8-e7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

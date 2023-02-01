@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Chuck ward",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "g11-g9",
+        "h6-h9",
+        "a8-g8",
+        "f7-f9xg9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Tonythebook",
+    "AageGameTypeKey": 90,
+    "AageGameTypeName": "Unst king hammer only cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-g2",
+        "f7-b7",
+        "a8-b8xb7",
+        "f9-a9",
+        "f10-a10",
+        "f8-f9",
+        "d11-d9",
+        "f9-j9",
+        "f11-f7",
+        "f5-e5",
+        "a7-a8xa9",
+        "e6-e7",
+        "k7-g7",
+        "d6-d8",
+        "d1-d6xc6",
+        "d8-g8xg7",
+        "d9-d7xe7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

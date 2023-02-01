@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Waegn",
+    "BlackSidePlayerName": "Brench",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "e5-e4",
+        "b6-b9",
+        "f5-c5",
+        "a4-c4",
+        "g5-g3",
+        "f2-i2",
+        "g3-c3xc4",
+        "b9-b2",
+        "f4-i4",
+        "j6-j3",
+        "f6-f3",
+        "a5-a3",
+        "c3-c1",
+        "f10-b10",
+        "f3-b3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

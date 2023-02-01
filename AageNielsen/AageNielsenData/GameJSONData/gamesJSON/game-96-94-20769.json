@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 96,
+    "AageGameTypeName": "Brandubh throneless circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-e2",
+        "d3-c3",
+        "b6-c6",
+        "d5-e5",
+        "b2-b3",
+        "d4-d3",
+        "f6-f5",
+        "e5-d5",
+        "f5-e5",
+        "e4-f4",
+        "e5-e4xf4",
+        "d3-f3",
+        "e4-e5",
+        "f3-f5xe5",
+        "d1-d3xc3",
+        "c4-e4",
+        "c6-f6",
+        "f5-e5",
+        "b3-b5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

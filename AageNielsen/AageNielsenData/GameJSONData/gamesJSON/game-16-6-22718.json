@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Schachus",
+    "BlackSidePlayerName": "Duruk",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f4-c4",
+        "b6-b3",
+        "f5-f2",
+        "d1-d2",
+        "c4-c2",
+        "b3-b2xc2",
+        "f6-f3",
+        "j6-j3",
+        "f3-a3",
+        "b2-a2",
+        "a3-b3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Huscarl",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-d7",
+        "f10-b10",
+        "e6-e8",
+        "k4-i4",
+        "d6-d3",
+        "b6-b2",
+        "e8-e9",
+        "j6-j10",
+        "f6-d6",
+        "d1-c1",
+        "d6-c6",
+        "d11-c11",
+        "d7-d11",
+        "a8-a9",
+        "e9-i9",
+        "h11-i11",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

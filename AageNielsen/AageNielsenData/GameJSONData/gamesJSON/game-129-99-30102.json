@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f3",
+        "d5-c5",
+        "d6-d5",
+        "e4-e5xd5",
+        "d7-d5",
+        "d4-f4",
+        "d5-d7",
+        "e5-e7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

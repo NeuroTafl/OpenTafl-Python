@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "d2-f2",
+        "e4-f4",
+        "b4-b2",
+        "c4-c3",
+        "d6-e6",
+        "d4-b4",
+        "e6-d6xd5",
+        "f4-c4",
+        "g4-f4xf3",
+        "c4-c6",
+        "f4-c4"
+    ],
+    "WhoWon": "Black"
+}

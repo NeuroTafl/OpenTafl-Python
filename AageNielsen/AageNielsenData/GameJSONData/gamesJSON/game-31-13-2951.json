@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Rollo",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-h1",
+        "e6-e8",
+        "a7-a8",
+        "d6-d10",
+        "e11-d11",
+        "e8-b8",
+        "b5-d5",
+        "c6-c9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Colophonius",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d7-c7",
+        "e4-e7",
+        "d6-d7",
+        "d5-f5",
+        "d7-d6",
+        "d3-f3xf4",
+        "g4-f4",
+        "d4-d5",
+        "d2-f2xf3",
+        "e7-d7xd6",
+        "f2-e2",
+        "d5-d6",
+        "e2-e7xd7",
+        "d6-g6",
+        "e7-e6",
+        "g6-g7"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e2",
+        "d2-c2",
+        "e2-e1",
+        "d6-e6",
+        "d3-b3",
+        "d1-d3",
+        "e1-d1",
+        "c2-d2",
+        "d4-e4",
+        "d3-e3",
+        "e4-d4",
+        "e3-d3",
+        "d4-e4",
+        "d3-e3",
+        "d5-e5",
+        "d7-d4xc4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

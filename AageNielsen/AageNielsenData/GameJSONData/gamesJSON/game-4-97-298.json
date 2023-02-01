@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "h6-h10",
+        "h1-h3",
+        "g6-i6",
+        "h3-h6xi6",
+        "e5-e2",
+        "a8-c8",
+        "g5-g2xf2",
+        "f1-f2",
+        "f4-j4",
+        "a4-i4xj4",
+        "f5-b5",
+        "k5-f5",
+        "g7-g9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

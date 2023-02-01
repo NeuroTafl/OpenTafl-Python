@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Epoc",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-b2",
+        "d3-b3",
+        "b4-b5",
+        "c4-c1",
+        "a4-b4xb3",
+        "e4-e1xd1",
+        "b2-d2",
+        "d4-d3",
+        "d2-d1",
+        "d3-d2",
+        "b4-a4",
+        "d2-f2",
+        "g4-g2",
+        "f2-f1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

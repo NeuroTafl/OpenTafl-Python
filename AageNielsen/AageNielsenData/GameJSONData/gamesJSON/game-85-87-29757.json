@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-c2",
+        "d3-d1",
+        "e1-e3",
+        "d1-e1",
+        "e3-d3",
+        "e4-e2",
+        "d3-f3",
+        "d4-d1",
+        "c2-c1",
+        "e2-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

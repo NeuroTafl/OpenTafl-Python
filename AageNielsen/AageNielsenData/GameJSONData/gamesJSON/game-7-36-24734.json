@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "holidayinnes",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f1-f2",
+        "d5-d6",
+        "e2-c2",
+        "e6-h6",
+        "i4-h4",
+        "d6-d8",
+        "f9-f8",
+        "e5-e6",
+        "d1-d5xc5",
+        "e6-c6",
+        "d9-c9",
+        "c6-c5xd5",
+        "f2-d2",
+        "h6-b6",
+        "d2-d5"
+    ],
+    "WhoWon": "Black"
+}

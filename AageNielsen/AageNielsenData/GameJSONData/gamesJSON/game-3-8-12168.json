@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Trondur",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-f3",
+        "f8-i8",
+        "k8-j8",
+        "h6-h8",
+        "h11-h9",
+        "g7-h7",
+        "k7-j7",
+        "e5-c5",
+        "d1-d4",
+        "e6-e4",
+        "a4-c4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

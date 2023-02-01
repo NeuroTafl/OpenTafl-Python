@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Floki",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h5-h7",
+        "f5-f2",
+        "f9-f3xf2",
+        "g5-g3xf3",
+        "e2-g2",
+        "e5-g5",
+        "h7-g7",
+        "e6-g6",
+        "i4-h4",
+        "g5-f5",
+        "e8-f8",
+        "f5-h5",
+        "i6-h6"
+    ],
+    "WhoWon": "Black"
+}

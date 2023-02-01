@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Mmagari",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-e2",
+        "d3-c3",
+        "b6-c6",
+        "e4-e5",
+        "f6-f5",
+        "d4-d3",
+        "b2-b3",
+        "d3-d2",
+        "b3-b2",
+        "d2-d3",
+        "d7-d6xd5",
+        "c3-a3",
+        "d6-d5xe5",
+        "d3-e3",
+        "g4-e4"
+    ],
+    "WhoWon": "Black"
+}

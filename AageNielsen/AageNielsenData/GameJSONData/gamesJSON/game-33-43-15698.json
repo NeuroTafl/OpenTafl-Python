@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "a5-d5",
+        "h6-k6",
+        "f2-f5xe5",
+        "g4-f4xf5",
+        "e1-e7xd7",
+        "h8-k8xk7",
+        "e7-e4",
+        "j7-l7",
+        "g3-g4xf4",
+        "h7-h4",
+        "g11-j11",
+        "i5-l5xl6",
+        "j11-j8xk8",
+        "g7-j7",
+        "d5-j5",
+        "i9-j9xj8",
+        "h12-k12",
+        "j7-i7",
+        "i1-i4xh4",
+        "i7-i11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

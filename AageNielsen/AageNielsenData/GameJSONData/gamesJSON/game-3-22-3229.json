@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "bender",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f4-c4",
+        "e11-e10",
+        "g5-g4",
+        "h1-h3",
+        "f5-i5",
+        "g1-g2",
+        "c4-c2",
+        "a8-c8",
+        "f6-f3",
+        "d1-d3",
+        "f3-e3",
+        "d3-b3",
+        "e3-e2",
+        "e1-c1",
+        "d6-d9",
+        "k4-i4",
+        "c2-a2",
+        "b6-d6xe6"
+    ],
+    "WhoWon": "Black"
+}

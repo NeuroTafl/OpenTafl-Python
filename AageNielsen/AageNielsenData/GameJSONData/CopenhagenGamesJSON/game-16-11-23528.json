@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Gungnir",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "d6-d3",
+        "a8-c8",
+        "f4-c4",
+        "f2-c2",
+        "f8-i8",
+        "c2-c3",
+        "h6-h9",
+        "e1-e3xd3",
+        "e7-b7",
+        "c8-c5xc4",
+        "f7-c7",
+        "f10-c10",
+        "f6-f10",
+        "h11-h10",
+        "f10-g10",
+        "h10-i10",
+        "g10-d10",
+        "c10-b10",
+        "d10-d2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

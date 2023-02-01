@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Beyn",
+    "AageGameTypeKey": 169,
+    "AageGameTypeName": "Sea battle-204577-w 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g7-i7",
+        "f10-h10",
+        "h6-h2",
+        "k5-i5",
+        "f4-i4",
+        "j6-i6",
+        "h2-i2xi3",
+        "f2-h2xi2",
+        "i4-i2",
+        "g1-g2",
+        "f5-f3",
+        "j10-j4",
+        "f6-f4",
+        "c9-c4",
+        "f3-k3",
+        "h2-h4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

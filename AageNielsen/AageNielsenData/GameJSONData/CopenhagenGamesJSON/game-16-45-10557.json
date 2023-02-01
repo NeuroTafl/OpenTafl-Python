@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "thebigfoot",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e2",
+        "d6-d3",
+        "b6-b3",
+        "e6-b6",
+        "a8-b8",
+        "f6-c6",
+        "e2-c2",
+        "c6-c11",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

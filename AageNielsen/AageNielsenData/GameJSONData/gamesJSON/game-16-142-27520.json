@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "griffin",
+    "BlackSidePlayerName": "kAAgEE",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a4-c4",
+        "e7-c7",
+        "f10-b10",
+        "e6-e10",
+        "d11-c11",
+        "f6-d6",
+        "a8-a9",
+        "d6-d3",
+        "b6-b3",
+        "e10-j10",
+        "f2-c2",
+        "d3-d8",
+        "j6-j9",
+        "f8-j8xj9",
+        "k8-k9",
+        "d8-i8",
+        "h11-i11",
+        "i8-i1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Chaucius",
+    "BlackSidePlayerName": "Coemgein",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-k10",
+        "e5-e3",
+        "a4-c4",
+        "f5-d5",
+        "k4-h4",
+        "e3-e2",
+        "d1-d2xe2",
+        "f4-d4",
+        "e1-e4xd4",
+        "f6-f3",
+        "d2-d3",
+        "f3-j3",
+        "f2-j2",
+        "g7-j7",
+        "d3-i3",
+        "j3-j5xj6",
+        "i3-i7xj7",
+        "j5-j11",
+        "h11-i11",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

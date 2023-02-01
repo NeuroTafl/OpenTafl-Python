@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Cyningstan",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "d6-d3",
+        "c6-c3",
+        "e6-c6",
+        "f9-d9",
+        "f6-d6",
+        "e10-c10",
+        "f4-b4",
+        "c3-b3xb4",
+        "d6-d4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

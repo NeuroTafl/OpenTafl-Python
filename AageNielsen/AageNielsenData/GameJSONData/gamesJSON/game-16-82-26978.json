@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Юся (≧▽≦)",
+    "BlackSidePlayerName": "Artimoring",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-j11",
+        "e7-e8",
+        "e11-e9",
+        "e5-e4",
+        "a7-e7xe8",
+        "f8-e8xe7",
+        "g11-g8",
+        "f7-f8",
+        "b6-b7",
+        "f5-c5",
+        "b7-d7",
+        "e6-e7",
+        "d1-d5xd6",
+        "f6-b6",
+        "d11-c11",
+        "b6-b1",
+        "e1-c1",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

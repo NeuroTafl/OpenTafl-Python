@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Semargl",
+    "AageGameTypeKey": 130,
+    "AageGameTypeName": "Brandubh noreturn 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-b3",
+        "c6-c5",
+        "d4-c4",
+        "f4-f3",
+        "c4-c3",
+        "a4-a3",
+        "c2-d2",
+        "d1-c1",
+        "d5-d3",
+        "c1-c2xd2",
+        "e4-c4",
+        "e2-d2xd3",
+        "b3-b1",
+        "d7-d3",
+        "b1-c1xc2",
+        "a3-b3"
+    ],
+    "WhoWon": "Black"
+}

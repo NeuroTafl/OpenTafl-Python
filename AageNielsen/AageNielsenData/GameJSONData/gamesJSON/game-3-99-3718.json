@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "h11-i11",
+        "h6-h11",
+        "d11-d9",
+        "g7-g9",
+        "k4-i4",
+        "f7-j7",
+        "k5-j5",
+        "j7-j11xi11",
+        "j6-j9",
+        "f6-f8",
+        "a8-c8",
+        "f8-h8",
+        "f10-i10",
+        "h8-h10",
+        "i10-j10",
+        "h10-a10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

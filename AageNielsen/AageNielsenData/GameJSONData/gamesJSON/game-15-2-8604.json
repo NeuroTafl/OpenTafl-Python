@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "sea slug",
+    "BlackSidePlayerName": "aron",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1h4",
+        "h6h9",
+        "k8k9",
+        "g7g9",
+        "j6j10",
+        "e7c7",
+        "d11c11",
+        "g9a9",
+        "f10a10",
+        "h9a9",
+        "j10b10",
+        "f8k8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

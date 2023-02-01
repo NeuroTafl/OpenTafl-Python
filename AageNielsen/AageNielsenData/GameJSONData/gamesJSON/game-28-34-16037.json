@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Stryker10g",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-k9",
+        "f9-b9",
+        "b6-b2",
+        "c6-c11",
+        "f10-b10",
+        "c11-b11xb10",
+        "d11-c11",
+        "d6-d11xc11",
+        "k9-k10",
+        "e6-e10",
+        "a6-d6",
+        "f6-e6",
+        "d1-d3",
+        "e6-e9",
+        "g11-g9",
+        "e9-c9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

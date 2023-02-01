@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 56,
+    "AageGameTypeName": "Sea Battle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b5",
+        "d3-e3",
+        "f4-f3",
+        "d4-d3",
+        "b5-b4",
+        "d5-d4",
+        "a4-a3",
+        "d3-c3",
+        "d2-c2",
+        "e3-e2",
+        "g4-f4",
+        "e2-g2",
+        "a3-b3",
+        "g2-g4xf4",
+        "f3-d3",
+        "e4-e2",
+        "d1-d2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

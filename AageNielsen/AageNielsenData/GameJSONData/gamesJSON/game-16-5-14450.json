@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Seeb",
+    "BlackSidePlayerName": "Frenir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d8",
+        "e7-c7",
+        "a8-c8",
+        "c7-b7",
+        "c8-b8xb7",
+        "e5-c5",
+        "a4-c4",
+        "c5-c10",
+        "e11-c11",
+        "f7-e7",
+        "b8-b10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "sqAree",
+    "BlackSidePlayerName": "Luizz",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "g6-g3",
+        "b6-b3",
+        "h6-h9",
+        "j6-j2",
+        "f6-i6",
+        "g1-i1",
+        "i6-i11",
+        "j2-j11",
+        "i11-i10",
+        "j11-j10",
+        "h9-k9",
+        "k4-j4",
+        "k9-k10xj10",
+        "j4-j10",
+        "k10-k9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

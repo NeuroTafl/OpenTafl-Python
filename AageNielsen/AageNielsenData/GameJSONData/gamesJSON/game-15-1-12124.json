@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Roderich",
+    "BlackSidePlayerName": "Hugues",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1d4",
+        "h6h9",
+        "f10j10",
+        "f8f10",
+        "b6b10",
+        "e5e2",
+        "d4d2",
+        "e6e2",
+        "f2i2",
+        "d6b6",
+        "a4c4",
+        "b6b2",
+        "f1f2",
+        "f6b6",
+        "a5a2",
+        "e7e3",
+        "d2c2",
+        "b6b1",
+        "i2i4",
+        "b1a1"
+    ],
+    "WhoWon": "White"
+}

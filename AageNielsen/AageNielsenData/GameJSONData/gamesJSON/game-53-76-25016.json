@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "d6-c6",
+        "d4-d3",
+        "b4-b2",
+        "d5-a5",
+        "c6-a6xa5",
+        "d3-d5",
+        "a6-b6",
+        "d5-d6",
+        "b2-c2xd2",
+        "c4-c5",
+        "d1-d5"
+    ],
+    "WhoWon": "Black"
+}

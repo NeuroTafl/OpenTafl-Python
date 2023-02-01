@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "SvenOddrson",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "m9-j9",
+        "f6-f3",
+        "e1-e3xf3",
+        "f7-f3",
+        "h2-h3",
+        "d7-d3xe3",
+        "f1-e1",
+        "g4-a4",
+        "e1-e3xf3",
+        "g7-d7",
+        "a9-d9",
+        "d7-d4",
+        "f2-f4",
+        "d4-b4",
+        "g1-b1",
+        "b4-b3",
+        "c7-c3xd3",
+        "b3-a3"
+    ],
+    "WhoWon": "White"
+}

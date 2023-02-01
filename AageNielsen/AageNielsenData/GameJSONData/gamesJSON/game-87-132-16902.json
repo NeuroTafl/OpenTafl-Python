@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Mmagari",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-e2",
+        "d3-f3",
+        "e2-f2",
+        "e4-e1",
+        "f2-f1xe1",
+        "d4-d2",
+        "f1-f2",
+        "d2-d3",
+        "f6-f4xf3",
+        "d5-f5",
+        "b6-f6xf5",
+        "c4-c5",
+        "f4-b4",
+        "d3-d6",
+        "d1-d5"
+    ],
+    "WhoWon": "Black"
+}

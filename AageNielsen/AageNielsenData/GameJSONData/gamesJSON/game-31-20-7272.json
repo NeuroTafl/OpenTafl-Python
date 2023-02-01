@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Rkilgore20",
+    "BlackSidePlayerName": "Birkakirb",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j7-j8",
+        "i6-i4",
+        "g2-i2",
+        "h6-h8",
+        "g10-i10",
+        "g6-i6",
+        "j5-h5",
+        "f6-h6",
+        "k7-h7"
+    ],
+    "WhoWon": "Black"
+}

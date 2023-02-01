@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "JustinGoodenow",
+    "BlackSidePlayerName": "Thuleghis",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-i1",
+        "g6-g7",
+        "h11-i11",
+        "f6-g6",
+        "k8-j8",
+        "f3-g3",
+        "i1-i2",
+        "g6-g4",
+        "k4-j4",
+        "f4-b4",
+        "j4-i4",
+        "g4-c4",
+        "d1-b1",
+        "c6-c11",
+        "d11-d9",
+        "c4-c10",
+        "a8-a11",
+        "c10-a10"
+    ],
+    "WhoWon": "White"
+}

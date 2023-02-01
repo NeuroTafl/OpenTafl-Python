@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Epoc",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f1-f2",
+        "f5-f4",
+        "f9-f7",
+        "g5-g7xf7",
+        "i6-g6",
+        "f4-f8",
+        "e9-g9",
+        "f8-g8",
+        "f2-f7",
+        "e5-f5",
+        "i4-f4",
+        "e3-g3",
+        "d1-d4xe4",
+        "g3-d3xd4",
+        "e2-e5",
+        "d5-d8",
+        "h5-g5",
+        "e6-f6",
+        "a6-e6xe7xf6",
+        "g8-f8xe8",
+        "f7-f6"
+    ],
+    "WhoWon": "Black"
+}

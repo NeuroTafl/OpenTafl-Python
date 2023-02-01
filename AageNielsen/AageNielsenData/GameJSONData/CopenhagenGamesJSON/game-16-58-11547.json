@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Eric Werline",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a4-c4",
+        "h6-h3",
+        "k7-i7",
+        "g7-g9",
+        "h11-h9",
+        "f8-c8",
+        "a8-b8",
+        "g9-a9",
+        "k8-d8xc8",
+        "g6-g10",
+        "e11-e9",
+        "g10-i10",
+        "h1-h2",
+        "f6-i6",
+        "k4-i4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

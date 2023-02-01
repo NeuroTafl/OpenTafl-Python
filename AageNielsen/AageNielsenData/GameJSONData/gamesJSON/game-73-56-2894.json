@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "wilfridsigurdson",
+    "AageGameTypeKey": 73,
+    "AageGameTypeName": "Plantagenet Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j10",
+        "f8-i8",
+        "f2-i2",
+        "g7-g9",
+        "f10-g10",
+        "f7-j7",
+        "f11-f8",
+        "f6-f7",
+        "f8-g8xg9",
+        "f7-f9",
+        "d11-d9",
+        "f9-k9",
+        "j10-k10",
+        "i8-i11",
+        "g10-j10",
+        "k9-j9",
+        "j10-j11xi11",
+        "j9-k9xk10",
+        "i2-i7xj7",
+        "k9-k11"
+    ],
+    "WhoWon": "White"
+}

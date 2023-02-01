@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Dimetr",
+    "BlackSidePlayerName": "Paul7",
+    "AageGameTypeKey": 176,
+    "AageGameTypeName": "Simple Tafl-w 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g5-g2",
+        "h5-h3",
+        "e7-i7",
+        "b5-b7",
+        "f5-f2",
+        "d1-d2",
+        "d5-d7",
+        "e8-i8xi7",
+        "c5-c1",
+        "a5-c5",
+        "e4-c4",
+        "a6-d6",
+        "e5-g5",
+        "i8-g8",
+        "g5-g4",
+        "f9-f6xe6"
+    ],
+    "WhoWon": "Ongoing"
+}

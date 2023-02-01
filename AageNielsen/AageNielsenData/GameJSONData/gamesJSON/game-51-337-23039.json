@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Matematician",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-e2",
+        "f4-f2",
+        "d1-d2",
+        "c4-c1",
+        "g4-g2xf2",
+        "c1-d1xd2",
+        "g2-g4",
+        "d1-e1",
+        "e2-c2",
+        "d3-f3",
+        "d6-e6",
+        "d4-d1",
+        "c2-c1",
+        "e1-e2",
+        "d7-d6xd5",
+        "d1-g1"
+    ],
+    "WhoWon": "White"
+}

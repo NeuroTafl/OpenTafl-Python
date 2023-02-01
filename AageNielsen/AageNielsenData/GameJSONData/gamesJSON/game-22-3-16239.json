@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "commentjouer",
+    "BlackSidePlayerName": "unhandyandy",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "e6-b6",
+        "i6-e6xe7",
+        "f5-f6",
+        "e6-c6xb6",
+        "e5-e7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e1",
+        "f5-f1xe1",
+        "d4-e4",
+        "g4-f4",
+        "e4-e5",
+        "f4-f5",
+        "c4-g4",
+        "d6-e6",
+        "e5-e3",
+        "e6-d6xd5",
+        "e3-g3",
+        "d2-g2",
+        "g4-e4",
+        "f5-g5",
+        "g3-e3",
+        "g2-f2",
+        "e4-g4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

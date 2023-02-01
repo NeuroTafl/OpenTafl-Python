@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Lalli The Hunter",
+    "BlackSidePlayerName": "silversplitter",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f4-b4",
+        "k4-c4xb4",
+        "f5-f2",
+        "d1-d2",
+        "f6-f3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

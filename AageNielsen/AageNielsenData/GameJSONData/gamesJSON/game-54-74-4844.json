@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "prakkari",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 5,
+    "Moves": [
+        "d7-b7",
+        "c4-c7xb7",
+        "b4-b7",
+        "c7-d7xd6",
+        "f4-f7",
+        "e4-e7xf7",
+        "a4-c4",
+        "d7-c7xb7",
+        "g4-e4",
+        "d5-e5",
+        "c4-c6",
+        "e5-c5xc6",
+        "d2-c2",
+        "d4-d5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

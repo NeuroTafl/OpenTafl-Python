@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Kaagee",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h4",
+        "h11-h12",
+        "j13-j12",
+        "f9-f12xg12",
+        "o8-l8",
+        "g10-g14",
+        "h15-g15",
+        "g14-f14xf13",
+        "d12-e12",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

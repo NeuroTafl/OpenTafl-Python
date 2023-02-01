@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "teddymika",
+    "BlackSidePlayerName": "flow579774",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j10",
+        "f4-j4",
+        "h1-i1",
+        "j4-i4",
+        "f2-j2",
+        "e7-e9",
+        "f10-b10",
+        "i4-c4",
+        "d11-c11",
+        "e6-e8",
+        "b6-b2",
+        "d6-d10",
+        "h11-i11",
+        "e8-c8",
+        "a8-a9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

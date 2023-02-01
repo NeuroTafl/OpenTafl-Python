@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "Waegn",
+    "BlackSidePlayerName": "Firefinch",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h4-h5",
+        "f4-h4xh5",
+        "k4-i4",
+        "g5-i5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

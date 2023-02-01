@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "MochaBoi",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j7-j9",
+        "f8-i8",
+        "k7-i7",
+        "f9-i9",
+        "j5-i5xi6",
+        "h6-i6xi7",
+        "i5-i4",
+        "f7-k7",
+        "e10-e8",
+        "k7-k9xj9",
+        "j6-j7",
+        "i9-i10",
+        "g2-h2",
+        "k9-k7",
+        "g10-g9",
+        "i8-i7xj7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

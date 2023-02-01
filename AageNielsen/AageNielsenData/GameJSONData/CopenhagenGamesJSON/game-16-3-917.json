@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "death",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-c2",
+        "f8-c8",
+        "f10-c10",
+        "h6-h9",
+        "h1-h4",
+        "g5-g2",
+        "k7-h7",
+        "g6-g3",
+        "d11-d9",
+        "f6-i6",
+        "c10-i10",
+        "i6-i2",
+        "j6-j2",
+        "g3-k3",
+        "k5-j5",
+        "k3-k2xj2",
+        "g1-i1",
+        "i2-j2",
+        "i1-j1",
+        "k2-k3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

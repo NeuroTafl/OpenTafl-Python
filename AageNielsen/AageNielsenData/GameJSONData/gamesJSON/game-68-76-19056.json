@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Crust",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 68,
+    "AageGameTypeName": "Tawlbwrdd Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k7-k9",
+        "d6-d11",
+        "a5-a3",
+        "e6-c6",
+        "e1-c1",
+        "f6-d6",
+        "f1-d1",
+        "d6-d9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

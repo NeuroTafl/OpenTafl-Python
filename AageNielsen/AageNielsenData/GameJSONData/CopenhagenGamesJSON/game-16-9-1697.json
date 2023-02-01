@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "yozara",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j9",
+        "h6-h3",
+        "h1-h2",
+        "f8-i8",
+        "k4-h4xh3",
+        "d6-d9",
+        "a8-a9",
+        "e7-b7",
+        "f10-b10",
+        "e5-b5xb6",
+        "a4-b4",
+        "e6-e3",
+        "d1-d3",
+        "f6-c6",
+        "f2-f3xe3",
+        "c6-c11",
+        "b10-b11",
+        "c11-c10",
+        "b11-b10",
+        "c10-k10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-f2",
+        "d3-b3",
+        "f2-b2xb3",
+        "d4-d2",
+        "f4-f2",
+        "e4-e1",
+        "f2-f1xe1",
+        "d2-e2",
+        "f1-f2",
+        "e2-e3",
+        "d6-e6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

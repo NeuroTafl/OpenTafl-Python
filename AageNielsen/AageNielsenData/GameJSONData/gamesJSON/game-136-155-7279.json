@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "L3monman",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i4-k4",
+        "i6-i4",
+        "m6-k6xk5",
+        "i8-i6",
+        "o8-l8",
+        "g10-e10",
+        "d12-d11",
+        "h11-f11",
+        "a12-e12",
+        "h9-g9",
+        "l12-l11",
+        "h8-h14",
+        "f13-h13"
+    ],
+    "WhoWon": "Black"
+}

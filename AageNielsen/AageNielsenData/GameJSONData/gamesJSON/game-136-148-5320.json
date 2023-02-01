@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "L3monman",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g4-e4",
+        "g6-g2",
+        "c6-e6xe5",
+        "e11-e14",
+        "h15-h14",
+        "e8-e11",
+        "d15-e15",
+        "h5-c5",
+        "f13-e13xe14",
+        "h7-h3",
+        "d1-g1",
+        "k5-k2",
+        "e4-f4",
+        "c5-c9",
+        "a8-c8xc9",
+        "h8-h5",
+        "f3-g3xg2",
+        "h5-o5"
+    ],
+    "WhoWon": "White"
+}

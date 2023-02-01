@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Slowlybutalsoqui",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j10",
+        "e7-c7",
+        "f10-b10",
+        "g5-i5",
+        "b6-b7",
+        "c7-c3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

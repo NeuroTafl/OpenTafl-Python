@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 40,
+    "AageGameTypeName": "Tablut 19x19",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e7-g7",
+        "k15-k19",
+        "f14-h14",
+        "k12-k18",
+        "f17-f12",
+        "i15-i19",
+        "g15-i15",
+        "k10-k17",
+        "n17-l17",
+        "j10-k10",
+        "j16-j17xk17",
+        "k10-k17",
+        "a17-i17",
+        "k18-l18",
+        "j17-j18",
+        "k17-k18",
+        "i17-k17",
+        "k19-l19",
+        "n6-g6",
+        "k18-k19"
+    ],
+    "WhoWon": "White"
+}

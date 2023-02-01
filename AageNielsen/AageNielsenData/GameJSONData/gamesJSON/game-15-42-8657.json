@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Evan",
+    "BlackSidePlayerName": "Cornelia",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-j1",
+        "e7-c7",
+        "k4-k2",
+        "f7-d7",
+        "k8-g8",
+        "h6-h8xg8",
+        "a7-b7",
+        "f8-b8",
+        "j6-h6",
+        "f6-f9",
+        "h11-j11",
+        "c7-c11",
+        "a8-a9",
+        "f9-b9",
+        "f10-b10",
+        "c11-b11xb10",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

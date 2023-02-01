@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Rossomaha",
+    "AageGameTypeKey": 117,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "a9-d9",
+        "j7-j3",
+        "f12-f9xe9",
+        "e7-e9xf9",
+        "f13-f9xe9",
+        "e5-e9xf9",
+        "e1-e7xd7",
+        "f8-e8",
+        "b6-e6",
+        "g10-c10",
+        "c7-c9",
+        "e8-c8xc9",
+        "g11-f11",
+        "c10-c9xd9",
+        "f11-f9",
+        "g7-g8",
+        "g13-g10",
+        "g8-d8",
+        "g10-d10",
+        "d8-d1"
+    ],
+    "WhoWon": "White"
+}

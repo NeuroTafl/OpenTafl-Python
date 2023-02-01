@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Mamajumbo",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j7-j10",
+        "e5-c5",
+        "b7-c7",
+        "e6-e3",
+        "g2-g3",
+        "f4-j4",
+        "e1-c1",
+        "g7-j7",
+        "i6-i7xj7",
+        "h6-j6xj5",
+        "a5-a3",
+        "g6-g9",
+        "e10-e9",
+        "f6-h6",
+        "j10-h10",
+        "h6-h1"
+    ],
+    "WhoWon": "White"
+}

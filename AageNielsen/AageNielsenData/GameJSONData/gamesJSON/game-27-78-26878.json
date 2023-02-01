@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Helfrich",
+    "BlackSidePlayerName": "Giulio89",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f4-f2",
+        "b6-b2",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "j6-j7",
+        "f6-f3",
+        "k6-j6xj5",
+        "f3-k3"
+    ],
+    "WhoWon": "White"
+}

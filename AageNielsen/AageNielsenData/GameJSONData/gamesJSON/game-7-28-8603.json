@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Luizz",
+    "BlackSidePlayerName": "ChaolAibhne",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-g2",
+        "d5-d6",
+        "h5-h7",
+        "e4-b4",
+        "i4-c4xb4",
+        "e5-e4",
+        "h7-h4",
+        "e3-c3xc4",
+        "b5-b3",
+        "e4-c4",
+        "h4-d4",
+        "e6-e4xd4",
+        "d1-d4",
+        "c4-b4",
+        "d4-c4"
+    ],
+    "WhoWon": "Black"
+}

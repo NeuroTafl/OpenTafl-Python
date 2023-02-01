@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Kaykyber",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-e1",
+        "c4-c1",
+        "b4-b1",
+        "c1-d1xd2",
+        "b1-c1xd1",
+        "d3-a3",
+        "a4-c4",
+        "d4-d2",
+        "c1-c2",
+        "d2-f2",
+        "c2-e2",
+        "f2-f1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

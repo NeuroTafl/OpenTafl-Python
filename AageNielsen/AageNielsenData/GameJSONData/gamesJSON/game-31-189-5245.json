@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Birkasee",
+    "BlackSidePlayerName": "geatsmaz",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-h2",
+        "f7-g7",
+        "j7-j9",
+        "f8-k8",
+        "g10-k10",
+        "k8-k9",
+        "b7-f7",
+        "e6-e7xf7",
+        "b6-b9",
+        "f6-f8",
+        "e10-a10",
+        "f8-a8"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i1-i4",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "m9-j9",
+        "d7-d11xe11",
+        "c7-d7",
+        "h8-h11xg11",
+        "g13-g11",
+        "g10-j10",
+        "l8-j8",
+        "g8-d8",
+        "b6-d6",
+        "g7-g10",
+        "b8-b10",
+        "g10-c10",
+        "a9-d9xd8",
+        "c10-c13"
+    ],
+    "WhoWon": "White"
+}

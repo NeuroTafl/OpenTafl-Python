@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Rook",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f3-g3",
+        "c4-a4",
+        "b5-a5",
+        "d5-b5",
+        "c6-d6",
+        "a4-a3",
+        "c2-c4",
+        "b5-b4xc4",
+        "f5-c5",
+        "b4-b5",
+        "a5-a4",
+        "b5-a5xa4",
+        "b3-b4",
+        "a5-b5",
+        "c5-c4",
+        "a3-b3xb4",
+        "c4-b4",
+        "b5-d5",
+        "e2-b2xb3",
+        "d4-c4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "f4-c4",
+        "e1-e2",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "a8-c8",
+        "f6-e6",
+        "g11-g9",
+        "d6-d9",
+        "g9-e9xe10",
+        "f8-f9xe9",
+        "k8-f8xf9xf7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

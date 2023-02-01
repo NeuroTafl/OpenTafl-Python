@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "commentjouer",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "m9-j9",
+        "h8-h9",
+        "l8-j8",
+        "g10-k10",
+        "k7-k9",
+        "j7-k7",
+        "g11-k11xk10",
+        "i9-i8",
+        "m8-k8",
+        "g8-g11",
+        "a9-d9",
+        "g7-g10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Tamarisco",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b4-b3",
+        "c4-b4",
+        "d6-b6",
+        "d5-g5",
+        "f4-f6",
+        "d3-g3xg4",
+        "d2-f2",
+        "e4-e2",
+        "f2-f4",
+        "d4-e4",
+        "f4-g4",
+        "g3-f3",
+        "d1-e1",
+        "f3-g3xg4",
+        "b3-e3xe2",
+        "g3-f3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

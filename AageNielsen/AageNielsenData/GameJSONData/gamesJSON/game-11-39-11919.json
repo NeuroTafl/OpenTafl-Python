@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Arne64",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 11,
+    "AageGameTypeName": "Sea battle T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-i4",
+        "e7-b7",
+        "a8-b8xb7",
+        "f7-b7",
+        "a5-c5",
+        "d6-d9",
+        "h11-h9",
+        "d9-b9xb8",
+        "d1-d4",
+        "e6-e10",
+        "g11-g9",
+        "f6-c6",
+        "g9-c9",
+        "c6-c8",
+        "a7-a8",
+        "b7-a7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 62,
+    "AageGameTypeName": "Ard Ri-1 throneless 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "d3-e3",
+        "f4-f3",
+        "d4-d3",
+        "d1-d2",
+        "e3-e1",
+        "d2-d1",
+        "e4-e3",
+        "g4-d4xc4xd5",
+        "d3-d2",
+        "d4-d3xe3"
+    ],
+    "WhoWon": "Black"
+}

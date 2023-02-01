@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "e1-e3",
+        "g6-g3",
+        "j6-j2",
+        "h6-h9",
+        "e3-f3xg3",
+        "f6-i6",
+        "h11-i11",
+        "i6-i10",
+        "j2-j10",
+        "h9-k9",
+        "j10-k10xk9",
+        "i10-j10",
+        "k8-j8",
+        "j10-j11",
+        "j8-j10",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

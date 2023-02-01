@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "Tonythebook",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-i1",
+        "f4-c4",
+        "b5-b4",
+        "i6-i2",
+        "g2-g4",
+        "d6-d3",
+        "g4-f4xf3",
+        "d3-f3xf4",
+        "e2-d2",
+        "g6-g2",
+        "e1-e2",
+        "h6-i6",
+        "j5-h5",
+        "f6-h6",
+        "j7-h7"
+    ],
+    "WhoWon": "Black"
+}

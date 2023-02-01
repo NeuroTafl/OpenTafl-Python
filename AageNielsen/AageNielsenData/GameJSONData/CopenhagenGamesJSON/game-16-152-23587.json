@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Luizz",
+    "BlackSidePlayerName": "Gungnir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h1-h3",
+        "f8-c8",
+        "k7-i7",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "d10-b10",
+        "g7-g10xf10",
+        "h11-h10",
+        "f7-b7",
+        "i7-i9",
+        "e5-b5xb6",
+        "a4-b4",
+        "d6-d3",
+        "a6-b6xb5",
+        "f5-b5xb6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

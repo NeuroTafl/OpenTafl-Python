@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "arne64",
+    "AageGameTypeKey": 20,
+    "AageGameTypeName": "King anvil only edge 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "f10-i10",
+        "f7-b7",
+        "a8-b8xb7",
+        "g7-b7",
+        "k7-f7",
+        "e6-e7",
+        "d11-d7xe7",
+        "f8-d8xd7",
+        "a5-c5",
+        "d8-f8xf7",
+        "c5-c7xb7",
+        "f6-f7",
+        "j6-j7",
+        "f7-i7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "holidayinnes",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-e1",
+        "e4-f4",
+        "c2-d2",
+        "d5-d7",
+        "e6-e7",
+        "c4-c1",
+        "b3-b4",
+        "c1-d1xd2",
+        "b4-c4",
+        "d4-e4",
+        "e1-e3",
+        "d1-e1",
+        "f5-e5"
+    ],
+    "WhoWon": "Black"
+}

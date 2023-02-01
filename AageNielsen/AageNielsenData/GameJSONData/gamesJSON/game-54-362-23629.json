@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f3",
+        "e4-f4",
+        "d7-f7",
+        "c4-c7",
+        "f7-f5xf4",
+        "c7-d7xd6",
+        "f5-e5",
+        "d5-b5",
+        "a4-a5",
+        "d4-d5",
+        "f3-f6",
+        "d3-b3xb4",
+        "d2-b2",
+        "d5-c5",
+        "g4-b4xb3",
+        "c5-c6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

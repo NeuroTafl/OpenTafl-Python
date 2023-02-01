@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "AreVidar",
+    "BlackSidePlayerName": "fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "e5-e3",
+        "b6-b3",
+        "f5-b5",
+        "a7-b7",
+        "d6-c6",
+        "a8-c8",
+        "c6-c1",
+        "f2-c2",
+        "e3-c3xc2",
+        "b3-b1xc1",
+        "c3-c1xb1",
+        "d1-d4",
+        "f4-i4",
+        "c8-c5xb5",
+        "f6-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

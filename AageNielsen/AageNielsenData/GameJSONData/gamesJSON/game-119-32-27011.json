@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 119,
+    "AageGameTypeName": "Ard Ri-32 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d6-d7",
+        "d5-g5",
+        "f4-f3",
+        "e4-e7",
+        "f6-f4",
+        "c4-c7xd7",
+        "b6-d6",
+        "d4-d5",
+        "b4-b5",
+        "e7-d7xd6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

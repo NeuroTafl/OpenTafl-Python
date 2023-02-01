@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "e4-e2",
+        "f4-f5",
+        "e2-f2",
+        "d6-e6",
+        "d4-e4",
+        "d1-e1",
+        "e4-e3",
+        "g4-g3",
+        "f2-f1",
+        "c2-d2xd3",
+        "c4-c1",
+        "d2-e2",
+        "d5-d1xe1",
+        "e2-e1xf1",
+        "e3-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

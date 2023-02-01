@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Agmundr",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-b4",
+        "d5-c5",
+        "b8-b6",
+        "d6-c6",
+        "e8-d8",
+        "d4-d6",
+        "b2-d2",
+        "f6-f8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

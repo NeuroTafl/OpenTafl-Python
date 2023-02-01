@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "holidayinnes",
+    "BlackSidePlayerName": "paul7",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "d6-c6",
+        "d5-d6",
+        "f4-f5",
+        "e4-f4",
+        "f5-d5xd6",
+        "f4-f2xe2",
+        "g4-g3",
+        "d4-e4",
+        "d1-e1",
+        "e4-e7",
+        "c6-f6",
+        "e7-g7"
+    ],
+    "WhoWon": "White"
+}

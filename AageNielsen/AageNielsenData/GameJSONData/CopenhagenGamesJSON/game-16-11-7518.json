@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "Kihtan",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "h6-h3",
+        "k5-i5",
+        "g5-g3",
+        "j6-j3",
+        "f5-h5",
+        "k8-i8",
+        "g6-g4",
+        "j3-i3",
+        "f6-j6",
+        "i5-j5",
+        "j6-j11",
+        "i8-i11",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

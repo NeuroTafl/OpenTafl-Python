@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 133,
+    "AageGameTypeName": "Alea Berserk 17x17 (Martens)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j5-j3",
+        "i12-i13",
+        "h13-h16",
+        "k10-k13xj13",
+        "o13-l13",
+        "l12-l10",
+        "m15-m12",
+        "n9-n10xm10",
+        "m8-m10",
+        "n10-o10",
+        "m12-k12xk13",
+        "j9-j10",
+        "o5-o8",
+        "l9-q9",
+        "q7-q8",
+        "i9-p9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

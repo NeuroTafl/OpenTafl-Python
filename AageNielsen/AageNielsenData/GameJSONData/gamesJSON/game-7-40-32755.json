@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Сергей",
+    "BlackSidePlayerName": "ChaolAibhne",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "d5-d6",
+        "h5-h7",
+        "e5-d5",
+        "b5-b3",
+        "f5-f8",
+        "d9-d8",
+        "e4-f4",
+        "f9-g9",
+        "d6-b6",
+        "e9-c9",
+        "f8-f7",
+        "d1-d2",
+        "f4-d4",
+        "a4-b4",
+        "d5-d7",
+        "a6-a7",
+        "c5-c8",
+        "b3-c3",
+        "e6-c6",
+        "i6-d6"
+    ],
+    "WhoWon": "Black"
+}

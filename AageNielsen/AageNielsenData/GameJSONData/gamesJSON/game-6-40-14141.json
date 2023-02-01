@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f5-f8",
+        "d9-d8",
+        "g5-g4",
+        "i6-g6",
+        "e5-f5",
+        "g6-g8xf8",
+        "e3-i3",
+        "e2-i2xi3",
+        "f5-f3",
+        "i4-i3",
+        "f3-a3"
+    ],
+    "WhoWon": "White"
+}

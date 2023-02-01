@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Gungnir",
+    "BlackSidePlayerName": "SebastinKane",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j7",
+        "h6-j6",
+        "k5-j5xj6",
+        "d6-d2",
+        "b6-b1",
+        "e5-e2",
+        "d11-d3xd2",
+        "g5-g2xf2",
+        "a4-a2",
+        "f4-f2",
+        "d3-e3xe2",
+        "f8-j8",
+        "k6-j6",
+        "e6-b6",
+        "e3-f3xf2",
+        "f6-c6",
+        "e11-b11",
+        "c6-c1xb1",
+        "a2-c2",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

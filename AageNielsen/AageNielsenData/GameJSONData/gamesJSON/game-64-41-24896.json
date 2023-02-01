@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 64,
+    "AageGameTypeName": "Magpie 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-e5",
+        "d6-c6",
+        "d3-f3",
+        "d2-f2",
+        "f3-c3",
+        "b4-b2",
+        "e5-e6",
+        "f5-f6",
+        "d4-e4",
+        "d7-d6xe6xd5",
+        "e4-e5",
+        "a4-b4xc4",
+        "e5-f5",
+        "d6-d3",
+        "c3-a3",
+        "b4-a4",
+        "f5-g5",
+        "b2-a2xa3",
+        "g5-g6",
+        "g4-g5"
+    ],
+    "WhoWon": "Black"
+}

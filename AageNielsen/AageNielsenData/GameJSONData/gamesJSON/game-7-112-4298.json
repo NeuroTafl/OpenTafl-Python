@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Saxon",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d2",
+        "c5-c7",
+        "a4-c4",
+        "e7-d7",
+        "f9-f7",
+        "g5-g8",
+        "i4-g4",
+        "e6-g6",
+        "f1-f3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

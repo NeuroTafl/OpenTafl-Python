@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d1-c1",
+        "e4-e1",
+        "d2-f2",
+        "d3-f3",
+        "f2-f1",
+        "d5-f5xf4",
+        "d7-e7",
+        "e1-e6",
+        "d6-b6",
+        "e6-e1xf1",
+        "b4-b2",
+        "d4-d1",
+        "b2-f2",
+        "e1-e2",
+        "f2-f1",
+        "d1-e1xf1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

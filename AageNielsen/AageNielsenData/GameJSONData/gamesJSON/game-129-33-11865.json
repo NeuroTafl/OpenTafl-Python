@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "rosk",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-c6",
+        "c4-c3",
+        "b4-b2",
+        "d3-g3",
+        "d2-g2xg3",
+        "c3-g3xg2",
+        "b2-g2xg3",
+        "d5-d6",
+        "f4-f5",
+        "e4-e3",
+        "g2-e2",
+        "e3-b3",
+        "f5-d5xd6",
+        "b3-e3",
+        "g4-e4xe3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

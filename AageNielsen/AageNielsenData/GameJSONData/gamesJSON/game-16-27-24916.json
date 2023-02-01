@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-i1",
+        "h6-h1",
+        "h11-h9",
+        "g6-h6",
+        "k8-i8",
+        "g5-g2",
+        "k4-i4",
+        "g2-j2",
+        "e1-e3",
+        "d6-d3",
+        "g1-g3",
+        "f4-f3xe3",
+        "f1-g1xh1",
+        "h6-h3xg3",
+        "k5-j5",
+        "f6-g6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

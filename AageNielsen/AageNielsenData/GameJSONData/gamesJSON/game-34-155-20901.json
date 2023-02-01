@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Khan asparukh",
+    "BlackSidePlayerName": "Unhandyandy",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g3-j3",
+        "f8-f11",
+        "e13-e11xf11",
+        "f7-f11",
+        "e11-c11",
+        "h8-h11xg11",
+        "g12-g11",
+        "g10-b10",
+        "c11-e11xf11",
+        "f6-f11xg11",
+        "e11-d11",
+        "g8-c8",
+        "l8-g8",
+        "g6-c6xc7",
+        "h12-g12",
+        "g7-f7",
+        "k7-k10",
+        "g4-g7",
+        "g2-g6xg7",
+        "f7-f4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

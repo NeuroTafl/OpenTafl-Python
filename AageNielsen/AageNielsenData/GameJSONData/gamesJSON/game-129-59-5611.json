@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Luizz",
+    "BlackSidePlayerName": "Thou",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b4-b3",
+        "d5-b5",
+        "f4-f5",
+        "c4-c7",
+        "a4-a5",
+        "e4-e7xd7",
+        "d2-f2",
+        "c7-c6",
+        "f5-c5xb5",
+        "e7-e6xd6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

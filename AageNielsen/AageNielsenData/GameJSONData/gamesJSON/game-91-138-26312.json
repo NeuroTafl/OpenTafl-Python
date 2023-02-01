@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Dimetr",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a7-a9",
+        "f3-k3",
+        "g1-i1",
+        "f5-c5",
+        "a5-a4",
+        "f4-k4",
+        "f2-f3",
+        "g6-g3",
+        "g10-g4xg3",
+        "k3-g3",
+        "e2-e5",
+        "f6-f5",
+        "g4-h4",
+        "d6-d5xe5",
+        "h4-h3xg3",
+        "d5-d1"
+    ],
+    "WhoWon": "Ongoing"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-j8",
+        "a8-i8xj8",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "i8-i9",
+        "f6-f9",
+        "f10-b10",
+        "f9-a9",
+        "b10-a10",
+        "a9-c9",
+        "d11-c11",
+        "c9-a9xa10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

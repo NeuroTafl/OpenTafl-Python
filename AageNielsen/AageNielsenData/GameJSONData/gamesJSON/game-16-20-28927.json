@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Bob",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-j2",
+        "f4-f2",
+        "j2-j3",
+        "h6-h3",
+        "a4-a3",
+        "e5-b5",
+        "k4-b4xb5",
+        "f5-b5",
+        "e1-e5",
+        "f6-f3",
+        "a3-d3",
+        "f2-c2",
+        "d3-c3",
+        "f3-f2",
+        "j3-j2",
+        "f7-f4",
+        "b4-b2",
+        "f4-c4xc3",
+        "d1-d2xc2",
+        "f2-e2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

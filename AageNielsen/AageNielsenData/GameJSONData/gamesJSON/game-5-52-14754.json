@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "sneadious@",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-c1",
+        "d5-d8",
+        "e8-g8",
+        "e5-d5",
+        "e1-d1",
+        "e7-a7",
+        "b5-b8",
+        "d5-d7",
+        "h5-h7",
+        "d7-b7",
+        "d9-c9",
+        "b7-b1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "nath",
+    "BlackSidePlayerName": "casshern",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "k5-i5",
+        "e5-e2xf2",
+        "a5-c5",
+        "e6-e3",
+        "b6-b3",
+        "f4-c4",
+        "b3-c3xc4",
+        "f8-c8",
+        "a4-b4",
+        "e2-b2",
+        "a8-b8",
+        "g6-g4",
+        "j6-j2",
+        "h6-h10",
+        "i5-i9",
+        "f5-i5",
+        "g1-i1",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

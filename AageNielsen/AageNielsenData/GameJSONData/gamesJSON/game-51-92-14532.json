@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f6",
+        "d3-f3",
+        "d2-f2",
+        "e4-e1",
+        "g4-f4xf3",
+        "c4-c1xd1",
+        "b4-b3",
+        "d4-d1",
+        "b3-b2",
+        "c1-c2",
+        "b2-b1",
+        "d1-c1xb1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Parzival",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a8-c8",
+        "f8-i8",
+        "k4-i4",
+        "e5-e2",
+        "d1-d2xe2",
+        "g7-g10",
+        "h11-h10xg10",
+        "f4-c4",
+        "e1-c1",
+        "g6-g10",
+        "k8-k9",
+        "i8-i10xh10",
+        "k9-g9xg10",
+        "h6-h9",
+        "j6-h6",
+        "f7-f9xg9",
+        "k7-g7",
+        "f6-f8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

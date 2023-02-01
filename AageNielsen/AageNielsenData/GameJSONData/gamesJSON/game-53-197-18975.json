@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "b4-b3",
+        "d4-d3",
+        "d2-e2",
+        "c4-c2",
+        "d1-d2",
+        "c2-c1",
+        "e2-e3",
+        "d3-d4",
+        "g4-g3xf3",
+        "c1-b1",
+        "f5-e5xe4",
+        "d4-b4",
+        "e3-c3",
+        "b4-b6",
+        "c3-c5xd5",
+        "b1-b2",
+        "c5-b5",
+        "b6-c6",
+        "b5-b6"
+    ],
+    "WhoWon": "Black"
+}

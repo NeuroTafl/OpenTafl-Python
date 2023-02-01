@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Evan",
+    "BlackSidePlayerName": "Annabeth",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1h4",
+        "g7g8",
+        "j6j2",
+        "g8h8",
+        "f10j10",
+        "e7e10",
+        "b6b10",
+        "f7c7",
+        "a8c8",
+        "c7d7",
+        "g1j1",
+        "d7d9",
+        "d11c11",
+        "d9a9",
+        "c8c9"
+    ],
+    "WhoWon": "White"
+}

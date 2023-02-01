@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "auren",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 109,
+    "AageGameTypeName": "Brandubh weak-throne 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d6-c6",
+        "d5-d6",
+        "f4-f5",
+        "d6-f6",
+        "f5-f4",
+        "d4-d6",
+        "b4-b5",
+        "e4-e7",
+        "b5-d5"
+    ],
+    "WhoWon": "Black"
+}

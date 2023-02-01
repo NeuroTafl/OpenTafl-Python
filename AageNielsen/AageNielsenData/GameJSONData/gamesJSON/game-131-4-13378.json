@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Mari",
+    "BlackSidePlayerName": "Firefinch",
+    "AageGameTypeKey": 131,
+    "AageGameTypeName": "Sea battle-204577 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j4",
+        "h6-h2",
+        "i3-i2",
+        "g5-g2",
+        "f2-d2",
+        "h2-h10",
+        "g11-h11",
+        "f8-d8",
+        "f10-d10",
+        "g6-i6",
+        "c3-g3xg2",
+        "g7-h7",
+        "i9-i10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

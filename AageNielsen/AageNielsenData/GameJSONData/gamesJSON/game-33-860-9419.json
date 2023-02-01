@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "i1-i4",
+        "h6-h3",
+        "i4-h4xh3",
+        "i5-i4xh4",
+        "h2-h5",
+        "g6-g5",
+        "m5-j5",
+        "i4-i5xh5",
+        "h1-h5xi5",
+        "i9-i5xh5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

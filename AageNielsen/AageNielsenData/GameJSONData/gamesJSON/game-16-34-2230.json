@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Frenir",
+    "BlackSidePlayerName": "Johanssc",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-c8",
+        "a4-c4",
+        "h6-h9",
+        "d11-d9",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

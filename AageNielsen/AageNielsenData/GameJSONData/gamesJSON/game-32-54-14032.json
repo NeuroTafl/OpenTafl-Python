@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-g3",
+        "f8-k8",
+        "j7-j8",
+        "g7-j7",
+        "k5-k4",
+        "f7-f9",
+        "g11-h11",
+        "f6-f8",
+        "e10-e8",
+        "f8-i8xj8",
+        "j5-i5",
+        "i8-i11"
+    ],
+    "WhoWon": "White"
+}

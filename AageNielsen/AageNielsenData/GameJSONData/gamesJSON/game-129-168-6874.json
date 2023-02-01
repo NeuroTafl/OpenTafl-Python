@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Luizz",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-a3",
+        "c6-c5",
+        "d4-d3",
+        "d7-d6xd5",
+        "d3-b3",
+        "d1-b1",
+        "b3-d3",
+        "b1-d1",
+        "d3-d5",
+        "f4-f5",
+        "e4-e7",
+        "f5-e5"
+    ],
+    "WhoWon": "Black"
+}

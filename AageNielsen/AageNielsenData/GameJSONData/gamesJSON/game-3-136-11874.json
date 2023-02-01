@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "thebigfoot",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h3",
+        "k4-i4",
+        "d6-d9",
+        "a8-c8",
+        "e5-e2",
+        "d3-e3xe2",
+        "f5-c5",
+        "a4-c4",
+        "e6-c6",
+        "a5-b5",
+        "e7-c7",
+        "c8-c9",
+        "f8-b8",
+        "e11-e9xd9",
+        "f6-d6",
+        "f2-d2",
+        "d6-d9",
+        "f10-d10",
+        "b8-b9xc9",
+        "d2-d8"
+    ],
+    "WhoWon": "Black"
+}

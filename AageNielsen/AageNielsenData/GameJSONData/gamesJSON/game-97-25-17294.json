@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 97,
+    "AageGameTypeName": "Brandubh Ohio weak 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d6-e6",
+        "c4-c3",
+        "d2-c2",
+        "d5-c5",
+        "b4-b5",
+        "c5-c6",
+        "a4-c4xc3",
+        "d3-b3",
+        "c4-b4",
+        "d4-d3",
+        "c2-c3",
+        "d3-g3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

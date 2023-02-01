@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-b3",
+        "h6-h11",
+        "j7-j9",
+        "g6-g3",
+        "j5-h5",
+        "f7-h7",
+        "g2-i2",
+        "f6-h6",
+        "h5-h4",
+        "h7-j7",
+        "k5-h5",
+        "g3-j3",
+        "b7-h7"
+    ],
+    "WhoWon": "Black"
+}

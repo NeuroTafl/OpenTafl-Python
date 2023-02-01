@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "RedJack",
+    "BlackSidePlayerName": "odonata",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j2",
+        "f8-c8",
+        "b6-b10",
+        "g7-g10",
+        "h11-h10xg10",
+        "f7-i7",
+        "h10-j10",
+        "f6-f9",
+        "a8-a9",
+        "f9-i9",
+        "g11-i11",
+        "c8-c2",
+        "k8-k9",
+        "i7-i1",
+        "f10-c10",
+        "i9-i3",
+        "k4-k3",
+        "i3-a3",
+        "b10-b2",
+        "a3-a1"
+    ],
+    "WhoWon": "White"
+}

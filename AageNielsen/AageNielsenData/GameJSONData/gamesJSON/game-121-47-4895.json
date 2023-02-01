@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f3-f4",
+        "d3-g3",
+        "b3-d3",
+        "g3-g4xf4",
+        "b5-b4",
+        "e4-e5",
+        "c6-c5",
+        "e5-e3",
+        "e6-e4xe3",
+        "g4-f4xe4",
+        "e2-e4",
+        "f4-f2",
+        "f5-f3",
+        "f2-d2xd3",
+        "c2-c3xc4",
+        "d5-f5",
+        "b4-c4"
+    ],
+    "WhoWon": "Black"
+}

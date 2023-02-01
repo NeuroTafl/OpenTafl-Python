@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-b2",
+        "d6-d3",
+        "b6-c6",
+        "e5-c5",
+        "a4-c4xc5",
+        "f5-c5",
+        "d11-d7",
+        "d3-c3xc4",
+        "d1-c1",
+        "f4-a4",
+        "k4-c4xc5",
+        "f6-f2",
+        "h1-h2",
+        "f2-c2",
+        "d7-d2",
+        "a4-a2xb2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

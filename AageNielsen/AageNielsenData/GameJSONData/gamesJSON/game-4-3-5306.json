@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Malvoisine",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1h3",
+        "e7e10",
+        "h11h9",
+        "g7g10",
+        "b6b10",
+        "f7b7",
+        "k7c7",
+        "f6f7",
+        "k4i4",
+        "f7j7",
+        "k8j8",
+        "g5j5",
+        "f2j2",
+        "j7k7",
+        "h9k9",
+        "g10k10"
+    ],
+    "WhoWon": "Draw"
+}

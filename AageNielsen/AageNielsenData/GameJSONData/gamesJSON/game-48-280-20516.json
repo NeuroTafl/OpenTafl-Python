@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "test3",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j1-j5",
+        "i6-l6",
+        "i1-l1",
+        "i8-i5",
+        "j5-m5",
+        "j7-l7",
+        "l8-l11",
+        "j8-j4",
+        "o6-o3",
+        "k8-l8",
+        "n7-n4",
+        "h8-k8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

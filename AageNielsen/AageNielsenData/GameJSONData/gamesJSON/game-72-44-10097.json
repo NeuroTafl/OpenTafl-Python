@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Gungnir",
+    "BlackSidePlayerName": "Efra",
+    "AageGameTypeKey": 72,
+    "AageGameTypeName": "Sea battle T circle 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "e8-b8",
+        "d1-c1",
+        "g4-j4",
+        "i2-i4xj4",
+        "f4-f2",
+        "c1-c8xb8",
+        "f6-f3",
+        "e1-e3",
+        "f3-k3"
+    ],
+    "WhoWon": "White"
+}

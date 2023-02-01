@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Mihkkal",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "c5-c4",
+        "b5-b3",
+        "e7-d7",
+        "e8-c8",
+        "e3-d3",
+        "h5-h7",
+        "d5-b5",
+        "d9-d8",
+        "e5-c5",
+        "a4-b4",
+        "d3-c3",
+        "a6-b6xb5",
+        "g5-g8",
+        "d1-d5",
+        "c5-b5",
+        "c8-c5"
+    ],
+    "WhoWon": "Black"
+}

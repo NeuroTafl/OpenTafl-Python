@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Helge",
+    "AageGameTypeKey": 10,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f9f8",
+        "g5g8",
+        "h5h8",
+        "e6g6",
+        "h8g8",
+        "e7h7",
+        "d9d7",
+        "e5e7",
+        "f8f7"
+    ],
+    "WhoWon": "Black"
+}

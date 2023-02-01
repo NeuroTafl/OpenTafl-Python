@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Olejd",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j3",
+        "h6-j6",
+        "k8-j8",
+        "g7-g9",
+        "k7-h7",
+        "g5-g2",
+        "h1-h2xg2",
+        "g6-g2",
+        "j3-g3xg2",
+        "f6-i6",
+        "g3-i3",
+        "i6-i11",
+        "j8-j11",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

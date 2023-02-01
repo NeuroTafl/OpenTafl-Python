@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "sneadious@",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "h6-h3",
+        "h11-h9",
+        "f4-i4",
+        "j6-j2",
+        "g6-j6",
+        "f10-i10",
+        "f5-f3",
+        "d1-d3",
+        "h3-k3",
+        "h1-i1",
+        "f8-f9",
+        "d11-d9",
+        "j6-j9",
+        "k8-k9",
+        "i4-i8",
+        "h9-i9xj9",
+        "i8-i2",
+        "i9-i3xi2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

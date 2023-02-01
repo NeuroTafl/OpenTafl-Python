@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Khan Asparukh",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "e7-c7",
+        "e11-c11",
+        "e6-e10",
+        "g11-g10",
+        "e10-b10",
+        "f11-d11",
+        "f6-e6",
+        "f10-c10",
+        "b10-b9",
+        "c10-c9",
+        "e5-b5",
+        "b6-b4",
+        "e6-e2",
+        "b4-b3",
+        "g5-g2xf2",
+        "d1-c1",
+        "e2-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

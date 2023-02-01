@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Mooserider",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k4-k3",
+        "g7-g9",
+        "h11-i11",
+        "e7-e10",
+        "d11-c11",
+        "g9-g10xf10",
+        "f2-b2",
+        "f8-b8",
+        "k8-c8xb8",
+        "f7-j7",
+        "j6-j2",
+        "f6-f9",
+        "k7-k9",
+        "f9-a9",
+        "f11-f10",
+        "a9-a11"
+    ],
+    "WhoWon": "White"
+}

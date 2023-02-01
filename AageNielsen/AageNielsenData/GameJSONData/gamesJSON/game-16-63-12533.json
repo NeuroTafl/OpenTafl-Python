@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Brench",
+    "BlackSidePlayerName": "Thorson",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "g7-j7",
+        "i8-i7xj7",
+        "f8-i8",
+        "a8-c8",
+        "h6-i6xi7",
+        "h11-h9",
+        "e7-e9",
+        "d11-d9",
+        "g6-g10",
+        "f10-f9xe9",
+        "f6-h6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Gary",
+    "BlackSidePlayerName": "Bawsack",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10f9",
+        "f4i4",
+        "j6i6",
+        "g7i7",
+        "a7d7",
+        "g6g9",
+        "a5d5",
+        "i4i5",
+        "k8g8",
+        "f6g6",
+        "a8e8",
+        "g6g7",
+        "h11h9",
+        "g5g2",
+        "h9h7",
+        "g7g3",
+        "k7j7",
+        "g3k3",
+        "h1h2",
+        "k3k1"
+    ],
+    "WhoWon": "White"
+}

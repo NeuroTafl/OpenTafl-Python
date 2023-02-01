@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 47,
+    "AageGameTypeName": "Tablut sparse 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "i13-i10",
+        "e7-e3",
+        "a5-d5",
+        "f7-d7",
+        "e13-e9",
+        "g7-e7",
+        "f1-f4",
+        "g5-f5",
+        "g2-g5xg6",
+        "h6-h5xg5",
+        "i1-i5",
+        "e3-f3xf4",
+        "e1-e5",
+        "g8-g2",
+        "f13-f9",
+        "e7-g7",
+        "e5-e4",
+        "g7-g4",
+        "i5-i4",
+        "f3-i3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Irish raven",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b3",
+        "d5-b5",
+        "d6-c6",
+        "b5-b6",
+        "f4-f5",
+        "e4-e6",
+        "a4-a6xb6",
+        "c4-c1",
+        "g4-e4",
+        "d4-a4",
+        "b3-a3",
+        "a4-a5xa6",
+        "c6-a6",
+        "a5-b5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

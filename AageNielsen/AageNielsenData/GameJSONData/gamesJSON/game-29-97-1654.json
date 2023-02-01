@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Schachus",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g2-h2",
+        "e7-c7",
+        "c6-c4",
+        "e6-e9",
+        "f9-h9",
+        "f8-b8",
+        "j7-j8",
+        "d6-b6xb7",
+        "e11-d11",
+        "f6-d6",
+        "f3-d3",
+        "d6-c6",
+        "j8-e8xe9",
+        "c7-c10",
+        "e8-c8",
+        "f7-c7",
+        "a7-b7xb6",
+        "c10-c9xc8",
+        "d11-d6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

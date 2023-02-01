@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Colophonius",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 86,
+    "AageGameTypeName": "Sea battle line 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i3-h3",
+        "e6-d6",
+        "g9-g8",
+        "e7-h7",
+        "a7-e7",
+        "f5-f8",
+        "g8-g7xh7",
+        "e4-f4",
+        "g7-f7xf8",
+        "e5-e4",
+        "a4-b4",
+        "e3-f3",
+        "a3-e3",
+        "d5-d3xe3",
+        "d1-e1",
+        "e4-e2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

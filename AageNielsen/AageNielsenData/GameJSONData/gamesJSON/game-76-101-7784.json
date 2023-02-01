@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "Holidayinnes",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "g11-h11",
+        "e5-e3",
+        "g2-g3",
+        "f5-c5",
+        "b7-c7",
+        "d6-d2",
+        "e11-d11",
+        "e6-d6",
+        "a5-a4",
+        "g5-i5",
+        "a4-e4xe3",
+        "d6-d4xe4",
+        "d11-d5xc5",
+        "f6-d6xd5",
+        "e2-e6"
+    ],
+    "WhoWon": "Black"
+}

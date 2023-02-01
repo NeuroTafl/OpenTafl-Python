@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hjalte",
+    "BlackSidePlayerName": "Tuxed",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2h2",
+        "e7e10",
+        "d11d10",
+        "f4f2",
+        "e1e2",
+        "g5g2",
+        "a7e7",
+        "d6d7",
+        "k5g5",
+        "h6h5",
+        "a4e4",
+        "e5c5",
+        "e4c4",
+        "c5c7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

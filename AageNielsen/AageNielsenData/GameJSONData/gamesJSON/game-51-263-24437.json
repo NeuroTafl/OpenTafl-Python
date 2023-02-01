@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Epoc",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f2",
+        "d5-f5",
+        "d6-f6",
+        "e4-e7",
+        "f6-f7xe7",
+        "d4-d6",
+        "f7-f6",
+        "d6-b6",
+        "b4-b5",
+        "c4-c7",
+        "a4-a6",
+        "b6-b7",
+        "g4-f4xf5",
+        "b7-a7"
+    ],
+    "WhoWon": "White"
+}

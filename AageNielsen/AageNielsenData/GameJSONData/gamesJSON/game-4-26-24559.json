@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "kommando joe",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-c8",
+        "h6-i6",
+        "h11-h6xi6",
+        "f4-j4",
+        "a4-i4xj4",
+        "d6-d2",
+        "d11-d3xd2",
+        "e6-d6",
+        "h6-h9",
+        "e7-e8",
+        "h1-h3",
+        "g5-h5",
+        "k8-i8",
+        "g6-i6",
+        "i4-c4",
+        "e8-e10",
+        "h9-e9xe10",
+        "g7-g9",
+        "k7-k9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

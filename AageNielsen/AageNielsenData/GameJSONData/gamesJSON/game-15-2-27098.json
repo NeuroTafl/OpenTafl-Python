@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hu",
+    "BlackSidePlayerName": "JAVIER",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8b8",
+        "g5g2",
+        "h1h2",
+        "g6g2",
+        "h2h1",
+        "h6h2",
+        "f2a2",
+        "f6i6",
+        "k5h5",
+        "i6i11",
+        "j6j11",
+        "i11i3",
+        "j11j3",
+        "i3a3",
+        "d1b1",
+        "a3a1"
+    ],
+    "WhoWon": "White"
+}

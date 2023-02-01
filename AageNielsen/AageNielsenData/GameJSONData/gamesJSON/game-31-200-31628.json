@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Olafwils",
+    "BlackSidePlayerName": "Krakathei",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g10-h10",
+        "f7-h7",
+        "b7-b8",
+        "i6-i8",
+        "j7-j8",
+        "f8-h8",
+        "k7-k8",
+        "f9-j9",
+        "h10-i10",
+        "h7-j7xj8",
+        "j6-i6",
+        "j7-i7",
+        "i6-i5",
+        "e6-e8",
+        "i5-h5",
+        "f6-f9",
+        "f10-g10",
+        "f9-a9"
+    ],
+    "WhoWon": "White"
+}

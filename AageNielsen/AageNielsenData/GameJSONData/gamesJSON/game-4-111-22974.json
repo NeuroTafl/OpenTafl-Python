@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Bainn",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "j6-j9",
+        "h6-h3",
+        "k6-h6",
+        "f6-g6",
+        "k7-h7",
+        "f8-i8",
+        "j9-g9xg10",
+        "i8-i6xh6",
+        "g9-g7",
+        "i6-i8",
+        "k5-i5",
+        "g6-j6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

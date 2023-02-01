@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 111,
+    "AageGameTypeName": "Tablut 13x13 (modif. Parlett)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g3-j3",
+        "f8-f11",
+        "g11-j11",
+        "g8-c8",
+        "c7-c4",
+        "g10-a10",
+        "m9-j9",
+        "g7-g10",
+        "j11-j10",
+        "g10-b10",
+        "f12-b12",
+        "a10-a11",
+        "a9-a10",
+        "e9-a9xa10",
+        "h12-h9xi9",
+        "b10-a10"
+    ],
+    "WhoWon": "White"
+}

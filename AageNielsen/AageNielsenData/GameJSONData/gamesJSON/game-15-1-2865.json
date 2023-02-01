@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "norbi",
+    "BlackSidePlayerName": "peter",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8h8",
+        "g7i7",
+        "d11d7",
+        "i7i8",
+        "a5d5",
+        "f8g8",
+        "h11h8",
+        "f7f8",
+        "e1e4",
+        "g5g4",
+        "h1h5",
+        "g4h4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

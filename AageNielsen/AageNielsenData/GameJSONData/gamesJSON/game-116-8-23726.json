@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "siegfried",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 116,
+    "AageGameTypeName": "Historical Hnefatafl 13x13 (modif. Parlett 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g11-d11",
+        "g10-b10",
+        "f12-b12",
+        "e9-c9",
+        "i13-i10",
+        "h8-h10",
+        "g13-g10xh10",
+        "h6-h10",
+        "l8-i8xi9",
+        "f8-f10xg10",
+        "l6-i6xi7",
+        "g9-i9",
+        "i8-i7xj7",
+        "g7-g13"
+    ],
+    "WhoWon": "White"
+}

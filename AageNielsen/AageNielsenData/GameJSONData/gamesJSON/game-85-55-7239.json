@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 85,
+    "AageGameTypeName": "Brandubh line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c1-c2",
+        "d3-d1",
+        "g3-f3",
+        "d1-c1",
+        "a3-c3",
+        "c4-a4",
+        "a5-b5",
+        "a4-a3",
+        "b5-b4",
+        "d5-b5",
+        "c7-c6",
+        "a3-b3xb4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

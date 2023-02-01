@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Khan Asparukh",
+    "BlackSidePlayerName": "Pi&eacute;96",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "d6-d2",
+        "a4-c4",
+        "e5-b5",
+        "c4-c5xb5",
+        "e6-e3",
+        "c5-c2",
+        "f6-c6",
+        "a8-c8",
+        "f5-b5",
+        "a7-c7",
+        "b5-b2xc2",
+        "d1-c1",
+        "c6-c2",
+        "e1-d1",
+        "e3-e1",
+        "d11-d3xd2",
+        "b2-b3",
+        "a5-a2",
+        "b3-a3xa2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

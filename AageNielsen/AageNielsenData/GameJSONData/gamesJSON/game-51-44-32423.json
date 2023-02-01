@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d6-c6",
+        "d3-e3",
+        "d2-e2",
+        "d4-d2",
+        "b4-b2",
+        "d2-c2",
+        "e2-d2"
+    ],
+    "WhoWon": "Black"
+}

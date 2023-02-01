@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Vik King",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j1-j3",
+        "g4-b4",
+        "m4-c4xb4",
+        "j7-j5",
+        "m5-k5",
+        "g10-l10",
+        "a10-k10xl10",
+        "j5-j9",
+        "j13-j11",
+        "h8-h11",
+        "d13-d11",
+        "h6-h2",
+        "i1-i2xh2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

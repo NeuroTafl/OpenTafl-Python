@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Bainn",
+    "BlackSidePlayerName": "Sun231",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a6-c6",
+        "e7-c7xc6",
+        "b5-b6",
+        "f5-f7",
+        "f1-f5xg5",
+        "d5-d8",
+        "d1-d5",
+        "e6-d6",
+        "a4-d4",
+        "e5-e7",
+        "b6-b5xc5",
+        "c7-b7",
+        "b5-c5",
+        "e7-c7",
+        "d9-c9",
+        "d6-a6",
+        "c9-c8xd8",
+        "b7-b8",
+        "c5-b5",
+        "c7-a7"
+    ],
+    "WhoWon": "White"
+}

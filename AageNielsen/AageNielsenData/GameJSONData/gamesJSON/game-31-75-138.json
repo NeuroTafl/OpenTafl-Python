@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "mccluskeyp",
+    "BlackSidePlayerName": "casshern",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "f8-k8",
+        "e10-e8",
+        "f9-h9",
+        "b7-d7",
+        "f7-h7",
+        "g11-i11",
+        "i6-i10",
+        "j7-j9",
+        "h9-d9",
+        "e8-d8",
+        "f6-f8",
+        "j9-i9xi10",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

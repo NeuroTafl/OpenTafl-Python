@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "unhandyandy",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-b3",
+        "c6-c5",
+        "d4-d3",
+        "f4-f3",
+        "d3-c3",
+        "g4-f4xe4",
+        "c2-a2",
+        "e2-c2",
+        "c3-d3",
+        "a4-a3xa2",
+        "b3-b2",
+        "f4-g4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

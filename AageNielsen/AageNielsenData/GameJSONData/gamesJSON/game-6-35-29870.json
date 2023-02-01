@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "vonraider",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e3-g3",
+        "e2-g2",
+        "e4-b4",
+        "b5-b7",
+        "g5-g4",
+        "a4-a3",
+        "e5-e3",
+        "a3-b3",
+        "c5-c1",
+        "a5-a2",
+        "e3-c3",
+        "d1-d3",
+        "c3-c9"
+    ],
+    "WhoWon": "White"
+}

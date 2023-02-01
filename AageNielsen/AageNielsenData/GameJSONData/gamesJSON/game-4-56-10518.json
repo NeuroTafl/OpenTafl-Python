@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "xerxes",
+    "BlackSidePlayerName": "tonythebook",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "f10-i10",
+        "e6-e9",
+        "d11-c11",
+        "e9-a9",
+        "b6-b10",
+        "d6-d9",
+        "d1-c1",
+        "f6-c6",
+        "a4-c4",
+        "c6-c10",
+        "a8-b8",
+        "a9-a10xb10",
+        "a7-a8",
+        "c10-b10",
+        "c11-b11",
+        "a10-a9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

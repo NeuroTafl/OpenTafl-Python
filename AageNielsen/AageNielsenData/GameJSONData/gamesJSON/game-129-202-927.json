@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "bluepot9",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-e2",
+        "d3-e3",
+        "d6-e6",
+        "d4-d2",
+        "e6-e4xf4xe3",
+        "d2-a2",
+        "a4-a3"
+    ],
+    "WhoWon": "Black"
+}

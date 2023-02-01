@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Odinhimself",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "f10-i10",
+        "f7-f10",
+        "d11-d9",
+        "f6-f9",
+        "j6-j9",
+        "f10-b10",
+        "f11-f10",
+        "e7-e10",
+        "g11-g10",
+        "i8-c8",
+        "d9-e9xe10",
+        "d6-d9xe9",
+        "e11-e10",
+        "d9-d8",
+        "a8-a9",
+        "f9-b9",
+        "a7-a8",
+        "b10-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

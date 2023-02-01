@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "k8-k9",
+        "g7-j7",
+        "f10-j10",
+        "g5-j5xj6",
+        "k4-j4",
+        "g6-g3",
+        "k6-j6xj5",
+        "f6-i6",
+        "h11-i11",
+        "i6-i2",
+        "j4-j2",
+        "g3-k3",
+        "h1-i1",
+        "k3-k2xj2",
+        "j6-j2",
+        "i2-i10",
+        "d11-d10",
+        "i10-i2xj2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

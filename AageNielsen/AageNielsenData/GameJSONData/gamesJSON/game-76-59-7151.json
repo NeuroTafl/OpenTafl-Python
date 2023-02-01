@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-c2",
+        "e5-e3",
+        "c6-c4",
+        "g5-g3xf3",
+        "f1-f3",
+        "e3-c3",
+        "e1-e3",
+        "h6-h4",
+        "i6-h6",
+        "f5-c5xc4",
+        "j5-f5xf4",
+        "d6-b6",
+        "b7-c7",
+        "e6-e4",
+        "f5-h5",
+        "f6-d6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "e4-e2",
+        "d6-e6",
+        "e2-f2",
+        "d1-d2",
+        "d4-e4",
+        "d2-e2",
+        "d3-d2xe2",
+        "c2-c1",
+        "e4-e1",
+        "c1-d1",
+        "e1-g1"
+    ],
+    "WhoWon": "White"
+}

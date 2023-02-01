@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-d1",
+        "g5-g3",
+        "e2-e3",
+        "f5-i5",
+        "j7-i7",
+        "e5-c5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

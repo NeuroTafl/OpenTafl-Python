@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Ouch my throat",
+    "BlackSidePlayerName": "7h3D12rd",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k5-k3",
+        "h6-h5",
+        "k7-k9",
+        "f9-c9",
+        "a7-a9",
+        "e6-e3",
+        "a5-a3",
+        "g6-g8",
+        "g11-i11",
+        "h5-h1",
+        "e10-e6",
+        "f5-e5",
+        "g2-g6"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "thulehowa",
+    "BlackSidePlayerName": "geattobi",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-d1",
+        "f8-j8",
+        "k7-k9",
+        "f9-j9",
+        "a7-a8",
+        "c6-c7",
+        "e11-c11",
+        "d6-c6",
+        "a5-a3",
+        "f7-f9",
+        "g11-i11",
+        "f6-f8",
+        "g10-g8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

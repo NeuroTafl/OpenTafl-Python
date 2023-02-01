@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "e4-e2",
+        "g4-e4",
+        "d3-e3",
+        "f5-e5",
+        "e3-c3",
+        "b4-b2",
+        "c3-c2xd2",
+        "d1-d2xc2",
+        "c4-b4",
+        "d6-c6",
+        "d4-c4",
+        "b2-c2",
+        "b4-b3",
+        "c6-c5xd5",
+        "b3-c3",
+        "a4-b4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

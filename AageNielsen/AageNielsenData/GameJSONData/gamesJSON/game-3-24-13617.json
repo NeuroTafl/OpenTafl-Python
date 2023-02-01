@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Kaagee",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h9",
+        "k8-i8",
+        "g7-g9",
+        "k4-i4",
+        "f7-j7",
+        "i8-j8xj7",
+        "e7-e9",
+        "a8-c8",
+        "f6-f7",
+        "b6-b7",
+        "f7-c7",
+        "c8-c9",
+        "c7-c8",
+        "b7-b8",
+        "e5-b5",
+        "f2-b2",
+        "c8-c1",
+        "b2-b1",
+        "c1-c2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

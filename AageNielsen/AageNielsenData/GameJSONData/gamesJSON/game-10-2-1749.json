@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hjuke",
+    "BlackSidePlayerName": "sea slug",
+    "AageGameTypeKey": 10,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1f2",
+        "d5d4",
+        "e1g1",
+        "e6f6",
+        "g1g3",
+        "f6f8",
+        "d9d5",
+        "e5e6",
+        "d1d3",
+        "e6c6",
+        "d5c5",
+        "e4c4",
+        "f2f3",
+        "c6c8",
+        "i6e6",
+        "c8a8",
+        "a6a7"
+    ],
+    "WhoWon": "Black"
+}

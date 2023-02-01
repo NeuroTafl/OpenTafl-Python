@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "e3-h3",
+        "f1-h1",
+        "e4-e2",
+        "i4-i3",
+        "e5-e3",
+        "b5-b3",
+        "e3-f3",
+        "h1-f1",
+        "g5-g1",
+        "b3-e3xe2",
+        "f3-f2",
+        "i3-i2",
+        "f2-h2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

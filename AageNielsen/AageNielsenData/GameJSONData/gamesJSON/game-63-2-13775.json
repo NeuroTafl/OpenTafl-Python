@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e3",
+        "c4-c5",
+        "g5-e5xe4",
+        "d4-e4",
+        "c1-c3xd3",
+        "e4-f4",
+        "e5-f5",
+        "f4-f3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

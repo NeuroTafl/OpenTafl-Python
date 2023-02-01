@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "rosk",
+    "BlackSidePlayerName": "Borjk",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e6-e5",
+        "d5-c5",
+        "e5-d5xc5",
+        "e4-e5",
+        "f3-f4",
+        "c4-c5xd5",
+        "c2-c4xc5",
+        "d4-d7"
+    ],
+    "WhoWon": "White"
+}

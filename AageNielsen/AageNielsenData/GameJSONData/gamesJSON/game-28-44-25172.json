@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Wronski",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j6-j10",
+        "i6-i2",
+        "h1-h4",
+        "f5-h5",
+        "a5-f5",
+        "f3-h3xh4",
+        "f2-f3xf4",
+        "g6-g3",
+        "g11-g6",
+        "h6-i6",
+        "h11-h6",
+        "f7-h7xh6",
+        "a7-f7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "StudyTafl",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "h1-h3",
+        "f8-c8",
+        "d11-c11",
+        "g7-g9",
+        "k8-k9",
+        "f7-j7",
+        "f10-j10",
+        "g5-j5xj6",
+        "k6-j6",
+        "f6-f10",
+        "b6-b10",
+        "g9-a9",
+        "a8-b8",
+        "f10-c10",
+        "k9-c9",
+        "a9-a10xb10",
+        "b8-b10",
+        "c10-i10",
+        "g1-i1",
+        "i10-c10xb10xc9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

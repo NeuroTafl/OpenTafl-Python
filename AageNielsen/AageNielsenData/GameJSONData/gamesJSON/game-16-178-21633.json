@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Archibald k.",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "g11-g10",
+        "g5-g2",
+        "e1-e2",
+        "g6-g3",
+        "h3-h2xg2",
+        "i8-i1",
+        "h2-j2",
+        "h6-h10",
+        "j6-h6",
+        "f5-i5",
+        "k7-i7",
+        "f6-g6",
+        "k6-i6",
+        "g6-g4",
+        "k5-j5",
+        "g4-j4",
+        "k4-k3",
+        "j4-j3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

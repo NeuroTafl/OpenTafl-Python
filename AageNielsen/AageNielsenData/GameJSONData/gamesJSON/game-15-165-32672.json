@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Griffin",
+    "BlackSidePlayerName": "Wesley alves",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "d6-d9",
+        "d11-d10",
+        "d9-c9",
+        "d10-c10",
+        "f8-c8",
+        "a8-b8",
+        "e7-b7",
+        "k8-d8xc8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

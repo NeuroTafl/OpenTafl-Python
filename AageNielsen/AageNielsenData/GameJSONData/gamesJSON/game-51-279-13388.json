@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Docbullen",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-e1",
+        "d3-e3",
+        "b4-b3",
+        "d5-b5",
+        "f4-f5",
+        "b5-d5",
+        "d7-c7",
+        "c4-c1",
+        "f5-f3",
+        "d5-f5",
+        "d2-d3xe3",
+        "c1-c2",
+        "e1-d1",
+        "d4-c4",
+        "c7-c5",
+        "c2-c3",
+        "f3-e3",
+        "f5-f2",
+        "g4-f4xe4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

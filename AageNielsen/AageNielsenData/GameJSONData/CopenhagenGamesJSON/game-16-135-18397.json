@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "beeeep",
+    "BlackSidePlayerName": "Davis",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k4-i4",
+        "d6-d9",
+        "a8-c8",
+        "e7-b7",
+        "c8-b8xb7",
+        "f8-i8",
+        "d1-d3",
+        "e6-e10",
+        "d11-d10xe10",
+        "f6-c6",
+        "a4-c4",
+        "c6-c11",
+        "b8-b11",
+        "c11-c10",
+        "b11-b10",
+        "e5-e10xd10",
+        "e1-e9xe10",
+        "d9-a9",
+        "e11-c11",
+        "a9-a10xb10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

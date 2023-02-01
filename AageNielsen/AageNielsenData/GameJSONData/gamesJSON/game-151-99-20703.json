@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Bogd Khan",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "c3-c5",
+        "g7-j7",
+        "k4-k6",
+        "e5-e2",
+        "h1-f1",
+        "e2-f2xf3",
+        "i3-f3xf2",
+        "g5-g2",
+        "f3-j3",
+        "g2-b2",
+        "a1-b1",
+        "b2-b6xc6",
+        "c5-b5",
+        "g6-g1",
+        "j3-g3",
+        "e6-e1xf1",
+        "g3-g6xh6",
+        "f6-e6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

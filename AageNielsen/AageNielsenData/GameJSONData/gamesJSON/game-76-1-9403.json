@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c6-c8",
+        "d6-d3",
+        "a5-a3",
+        "e6-b6",
+        "b5-d5",
+        "f6-c6",
+        "d5-c5",
+        "f4-c4xc5",
+        "e2-c2",
+        "c6-c5",
+        "a3-a5",
+        "d3-d1",
+        "f9-d9",
+        "c4-c3",
+        "f3-f4xf5",
+        "c5-c4",
+        "a5-a4",
+        "e5-a5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

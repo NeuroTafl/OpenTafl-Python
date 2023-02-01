@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "Alex Hnefatafl",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "d11-d9",
+        "e7-c7",
+        "a8-c8",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "h11-h8xi8",
+        "f6-f9",
+        "g11-g9",
+        "e6-e10",
+        "b6-c6xc7",
+        "g5-j5xj6",
+        "a7-i7xj7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

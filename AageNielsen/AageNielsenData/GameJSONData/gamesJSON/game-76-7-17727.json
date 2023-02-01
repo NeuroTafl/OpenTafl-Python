@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Wacket the Ewok",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-j2",
+        "g7-g9",
+        "i6-i8",
+        "e7-e9xf9",
+        "b7-b10",
+        "h6-h10",
+        "i8-i10xh10",
+        "g6-j6",
+        "i10-i6xj6",
+        "f6-h6",
+        "g11-i11",
+        "h6-h1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "Noobchen",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-i2",
+        "f8-i8",
+        "h11-i11",
+        "g7-g10",
+        "j6-j10",
+        "e7-e10xf10",
+        "b6-b10",
+        "f7-c7",
+        "d11-c11",
+        "f6-f9",
+        "a8-a9",
+        "f9-k9",
+        "j10-k10",
+        "k9-j9",
+        "k7-j7",
+        "j9-j11",
+        "j7-j10",
+        "j11-k11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 105,
+    "AageGameTypeName": "Ard Ri-1 friendly-throne 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "b4-b3",
+        "d4-d3",
+        "d1-c1",
+        "d3-e3",
+        "f4-f3",
+        "c4-c3",
+        "c1-c2xd2",
+        "d5-d1",
+        "d6-d3xc3"
+    ],
+    "WhoWon": "Black"
+}

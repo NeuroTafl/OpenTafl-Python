@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Mykle",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f4-f2",
+        "d5-e5",
+        "b4-b5",
+        "e4-e1",
+        "f2-f1xe1",
+        "e5-e1xf1",
+        "d2-f2",
+        "c4-c1xd1",
+        "g4-e4",
+        "d3-g3",
+        "a4-c4",
+        "d4-d1",
+        "b5-b2",
+        "c1-c2",
+        "b2-b1",
+        "d1-c1xb1",
+        "c4-c3",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

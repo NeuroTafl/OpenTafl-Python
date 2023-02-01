@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 134,
+    "AageGameTypeName": "Old Tyr-1 17x17",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c13-c9",
+        "f9-e9",
+        "e8-e6",
+        "f6-f10",
+        "e10-d10",
+        "l9-m9",
+        "m8-m6",
+        "l6-l2",
+        "m6-m8xm9",
+        "g8-d8",
+        "o5-o9",
+        "j9-m9",
+        "m8-n8",
+        "j11-m11xm10",
+        "n11-n10xn9",
+        "l2-m2",
+        "q5-m5",
+        "l12-j12",
+        "j13-j14",
+        "i9-l9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

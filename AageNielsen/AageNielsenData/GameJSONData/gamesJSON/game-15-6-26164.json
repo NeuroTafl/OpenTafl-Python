@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Pelle",
+    "BlackSidePlayerName": "Oliver",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 6,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-j8",
+        "g7-j7",
+        "k5-j5",
+        "h6-h10",
+        "h1-h9xh10",
+        "g5-g2",
+        "h9-h2xg2",
+        "d6-c6",
+        "d1-d6xc6",
+        "f7-i7",
+        "h11-h8",
+        "e7-c7",
+        "d11-d10",
+        "f8-f9",
+        "a8-f8xf9",
+        "f6-f7",
+        "e11-e7",
+        "c7-c6xd6",
+        "d10-d6xc6xe6",
+        "g6-g10",
+        "g1-g7"
+    ],
+    "WhoWon": "Black"
+}

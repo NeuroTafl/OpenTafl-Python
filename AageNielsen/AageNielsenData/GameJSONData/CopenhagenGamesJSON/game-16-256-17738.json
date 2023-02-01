@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "griffin",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a8-c8",
+        "h6-h3",
+        "k4-i4",
+        "g5-j5",
+        "h11-h5",
+        "g7-j7xj6",
+        "i4-i7xj7",
+        "g6-g10",
+        "k8-h8",
+        "e7-e10xf10",
+        "i7-i5xj5",
+        "f6-j6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

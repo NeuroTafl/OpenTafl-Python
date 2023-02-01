@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-e3",
+        "d6-d3",
+        "f2-f3",
+        "e5-b5",
+        "a7-c7",
+        "e6-e4",
+        "c7-c5xb5",
+        "f6-c6",
+        "c5-c3xd3",
+        "c6-c11",
+        "b6-b11",
+        "c11-c9",
+        "b11-b9",
+        "c9-k9",
+        "f10-k10",
+        "k9-i9",
+        "k10-i10",
+        "i9-i2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f6-f5",
+        "c4-c3",
+        "b2-b3",
+        "d4-c4",
+        "f2-d2xd3",
+        "e4-e2",
+        "f5-f2xe2",
+        "c4-e4",
+        "b6-d6xd5",
+        "c3-e3",
+        "a4-c4",
+        "e4-e5",
+        "d2-d5",
+        "e3-g3",
+        "f2-f5"
+    ],
+    "WhoWon": "Black"
+}

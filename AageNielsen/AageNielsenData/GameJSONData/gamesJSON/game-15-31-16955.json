@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "athomas",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f4-i4",
+        "f2-j2",
+        "f5-f2",
+        "d1-d3",
+        "f2-d2",
+        "e1-d1xd2",
+        "f6-f2",
+        "d1-d2",
+        "f2-f4",
+        "a4-c4",
+        "f4-f2",
+        "f1-c1",
+        "i4-i1",
+        "k5-j5",
+        "f2-f3",
+        "j5-j3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

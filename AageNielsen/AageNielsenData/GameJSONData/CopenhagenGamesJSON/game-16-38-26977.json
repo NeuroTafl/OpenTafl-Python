@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "nasemaser",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "g7-g10",
+        "f10-c10",
+        "f7-j7",
+        "k8-j8xj7",
+        "f8-b8",
+        "j8-c8xb8",
+        "h6-h2",
+        "c8-i8",
+        "g6-i6",
+        "k4-i4",
+        "h2-j2",
+        "h1-h3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

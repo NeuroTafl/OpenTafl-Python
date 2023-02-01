@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Stryker10g",
+    "BlackSidePlayerName": "Adam",
+    "AageGameTypeKey": 28,
+    "AageGameTypeName": "Tawlbwrdd throneless T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "g6-g3",
+        "k4-i4",
+        "h6-h5",
+        "h11-h9",
+        "f6-g6",
+        "g1-g2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

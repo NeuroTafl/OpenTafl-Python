@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "Mungo",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "j6-j10",
+        "g6-i6",
+        "f2-i2",
+        "i6-i11",
+        "j10-j11xi11",
+        "f6-j6",
+        "d3-j3",
+        "j6-j10",
+        "k8-k10",
+        "h9-k9xk10xk10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

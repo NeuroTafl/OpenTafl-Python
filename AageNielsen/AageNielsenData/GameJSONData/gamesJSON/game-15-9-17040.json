@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "HOK",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-k9",
+        "h6-h9",
+        "a8-a9",
+        "g5-g2",
+        "f2-b2",
+        "g6-g3",
+        "h1-i1",
+        "f6-i6",
+        "h11-i11",
+        "i6-i2",
+        "j6-j2",
+        "i2-i10",
+        "k7-j7",
+        "i10-k10",
+        "j7-j10"
+    ],
+    "WhoWon": "Black"
+}

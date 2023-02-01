@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "gunnarnjalsson",
+    "BlackSidePlayerName": "thorshammer",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j2",
+        "f8-b8",
+        "d11-d8",
+        "e7-b7",
+        "d8-c8xb8",
+        "b7-e7",
+        "c8-c10",
+        "f7-f8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

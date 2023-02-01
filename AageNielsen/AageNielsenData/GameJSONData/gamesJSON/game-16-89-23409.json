@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Teondrae",
+    "BlackSidePlayerName": "sqAree",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a8-c8",
+        "e7-b7",
+        "a7-a9",
+        "e5-b5xb6",
+        "a4-b4",
+        "e6-e10",
+        "d11-d10xe10",
+        "f6-c6",
+        "d10-b10",
+        "c6-c1",
+        "b4-b1",
+        "f4-a4",
+        "f2-c2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

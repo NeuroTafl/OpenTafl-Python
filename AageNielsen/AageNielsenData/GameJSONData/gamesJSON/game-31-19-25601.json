@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Harry64",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-i2",
+        "f9-j9",
+        "b7-b9",
+        "i6-i10",
+        "k7-k9",
+        "f8-j8",
+        "b9-i9xj9",
+        "j8-i8xi9",
+        "e10-c10",
+        "f7-f9",
+        "b6-b9",
+        "f6-f8",
+        "a7-a8",
+        "d6-d11",
+        "e1-d1",
+        "d11-a11",
+        "e2-c2",
+        "i8-k8",
+        "j7-j10",
+        "f8-f7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "BanRidire",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-j2",
+        "d6-d3",
+        "j6-j10",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "a7-b7",
+        "d3-b3xb4",
+        "d1-c1",
+        "f4-a4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

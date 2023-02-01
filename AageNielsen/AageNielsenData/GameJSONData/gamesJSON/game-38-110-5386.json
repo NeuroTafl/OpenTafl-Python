@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Jurgenson",
+    "AageGameTypeKey": 38,
+    "AageGameTypeName": "Fetlar sparse cross 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-l2",
+        "g8-b8",
+        "m8-c8xb8",
+        "g7-g8",
+        "i13-k13",
+        "g8-k8",
+        "i1-k1",
+        "k8-k2",
+        "b7-b2",
+        "k2-k12",
+        "l7-l12",
+        "g10-m10",
+        "h13-h11",
+        "m10-m12xl12",
+        "m9-m11xm12",
+        "k12-m12",
+        "g12-l12",
+        "m12-m13"
+    ],
+    "WhoWon": "White"
+}

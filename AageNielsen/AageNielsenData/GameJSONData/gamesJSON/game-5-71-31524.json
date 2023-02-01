@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f1-f2",
+        "d5-d6",
+        "e1-g1",
+        "e6-h6",
+        "i4-h4",
+        "e5-d5",
+        "a4-b4",
+        "d6-d8",
+        "f9-f8",
+        "e7-a7",
+        "e8-e7",
+        "d5-d7",
+        "e7-h7xh6",
+        "d7-b7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

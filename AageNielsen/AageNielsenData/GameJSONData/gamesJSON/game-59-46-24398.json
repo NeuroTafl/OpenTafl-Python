@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "dayvigco",
+    "BlackSidePlayerName": "Slowlybutalsoqui",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d7-c7",
+        "d5-f5",
+        "b4-b5",
+        "d3-f3xf4",
+        "b5-d5",
+        "f3-d3",
+        "a4-b4",
+        "e4-f4",
+        "d6-e6",
+        "f5-e5",
+        "d1-e1",
+        "c4-c5xd5",
+        "e1-e4xe5xf4",
+        "d4-d7"
+    ],
+    "WhoWon": "White"
+}

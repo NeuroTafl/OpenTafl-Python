@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f5",
+        "c4-c3",
+        "b4-b3",
+        "d5-c5",
+        "d6-c6",
+        "e4-e6",
+        "d2-e2",
+        "e6-f6",
+        "a4-c4xc5",
+        "d3-f3",
+        "d1-d3xc3",
+        "f3-f4xf5",
+        "b3-b5",
+        "d4-e4",
+        "c6-e6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

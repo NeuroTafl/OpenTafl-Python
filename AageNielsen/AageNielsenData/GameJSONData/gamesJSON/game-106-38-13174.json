@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 106,
+    "AageGameTypeName": "Skalk Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-i1",
+        "f4-j4",
+        "g2-j2",
+        "f5-f3",
+        "a5-a4",
+        "f3-k3",
+        "k5-k4",
+        "f6-f3",
+        "a4-f4"
+    ],
+    "WhoWon": "Black"
+}

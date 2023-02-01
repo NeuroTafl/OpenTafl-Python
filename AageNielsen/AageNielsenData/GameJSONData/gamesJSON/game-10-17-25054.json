@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "arne64",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 10,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d9-d8",
+        "f5-f2",
+        "d1-d2",
+        "e5-f5",
+        "i4-h4",
+        "e3-i3",
+        "h4-h2",
+        "f5-f3",
+        "b5-b3",
+        "e4-h4",
+        "h2-h3xh4",
+        "f3-g3xh3",
+        "h5-h2",
+        "g3-g2",
+        "h2-i2",
+        "g2-g1",
+        "i2-g2xf2",
+        "g1-i1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 102,
+    "AageGameTypeName": "Alea Berserk 19x19 (Bartley)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "q14-o14",
+        "j13-j15",
+        "m15-m14xn14",
+        "j15-l15xk15",
+        "e13-e14",
+        "j11-i11",
+        "g15-g14xf14",
+        "j10-j15",
+        "s16-r16",
+        "j15-s15",
+        "n17-s17",
+        "s15-s16xs17"
+    ],
+    "WhoWon": "White"
+}

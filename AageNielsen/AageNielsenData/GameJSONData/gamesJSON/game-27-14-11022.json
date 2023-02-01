@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f8-i8",
+        "j6-j9",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "a7-b7",
+        "f6-f5",
+        "d1-d4",
+        "f5-c5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

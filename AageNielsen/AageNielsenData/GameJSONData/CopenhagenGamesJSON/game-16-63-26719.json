@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Haio",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d4",
+        "e7-c7",
+        "a5-c5",
+        "f8-i8",
+        "f10-i10",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "f11-f8",
+        "h6-h9",
+        "h1-h8xi8",
+        "c7-h7xh8",
+        "i10-i7xj7",
+        "g6-g8",
+        "j8-h8xg8",
+        "g5-g8",
+        "a7-e7",
+        "f6-f7",
+        "g1-g7xh7"
+    ],
+    "WhoWon": "Black"
+}

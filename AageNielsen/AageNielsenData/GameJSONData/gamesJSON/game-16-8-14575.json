@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "theexplorer135",
+    "BlackSidePlayerName": "imaxuncut",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "g7-g9",
+        "f10-i10",
+        "h6-h3",
+        "j6-j3",
+        "f4-c4",
+        "b6-b3",
+        "d6-d10",
+        "k8-j8",
+        "f8-b8",
+        "a7-c7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

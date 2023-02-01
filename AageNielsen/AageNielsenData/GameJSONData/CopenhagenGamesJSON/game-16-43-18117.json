@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "p59xy",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k7-j7",
+        "d6-d3",
+        "a4-a3",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "d11-d4xd3",
+        "f6-c6",
+        "a8-c8",
+        "c6-c1",
+        "b6-b1",
+        "c1-c2xd2",
+        "b1-b2",
+        "c2-c1",
+        "b2-b1",
+        "c1-c3",
+        "e1-c1",
+        "c3-k3",
+        "f2-k2",
+        "k3-b3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

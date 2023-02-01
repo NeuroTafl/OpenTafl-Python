@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Mykle",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "j6-j10",
+        "f4-c4",
+        "a8-c8",
+        "g7-g10",
+        "f10-b10",
+        "g6-g9",
+        "k6-h6",
+        "f5-f3",
+        "a4-a3",
+        "f6-g6",
+        "k4-i4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

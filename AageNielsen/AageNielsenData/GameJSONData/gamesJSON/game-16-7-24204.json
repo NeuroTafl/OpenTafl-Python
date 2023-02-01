@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "siegfried",
+    "BlackSidePlayerName": "Chillin",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "f2-c2",
+        "g6-g3",
+        "j6-j2",
+        "h6-h9",
+        "k8-i8",
+        "f6-i6",
+        "f1-f3xg3",
+        "i6-i1",
+        "j2-j1",
+        "i1-i3",
+        "f3-g3xg2",
+        "i3-i1xj1",
+        "i8-i9",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

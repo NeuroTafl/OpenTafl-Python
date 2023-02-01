@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Helfrich",
+    "AageGameTypeKey": 29,
+    "AageGameTypeName": "Tawlbwrdd throneless Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-h2",
+        "f4-j4",
+        "k5-k4",
+        "g5-i5",
+        "h2-h5xi5",
+        "j4-h4xh5",
+        "f3-i3",
+        "d6-d2",
+        "c6-c2xd2",
+        "e6-b6",
+        "c2-c6xb6",
+        "f6-d6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

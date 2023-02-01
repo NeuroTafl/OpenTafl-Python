@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 98,
+    "AageGameTypeName": "Brandubh throneless line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e7-e6",
+        "e4-g4",
+        "g3-f3",
+        "g4-g3",
+        "f3-f2",
+        "c4-a4",
+        "a3-b3",
+        "d4-g4",
+        "c1-c4",
+        "g3-f3",
+        "f2-g2",
+        "g4-g3xg2",
+        "e1-e2",
+        "g3-g1"
+    ],
+    "WhoWon": "White"
+}

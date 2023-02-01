@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "commentjouer",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g11-d11",
+        "i5-i3",
+        "k7-k4",
+        "g8-g9",
+        "g3-d3",
+        "g9-f9",
+        "l8-l11",
+        "g10-g11",
+        "e13-e11",
+        "g7-g10",
+        "h12-h10",
+        "g10-a10"
+    ],
+    "WhoWon": "White"
+}

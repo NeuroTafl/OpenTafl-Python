@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "MikeTest1",
+    "BlackSidePlayerName": "MikeTest2",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j10",
+        "h6-j6",
+        "f2-j2",
+        "f4-f3",
+        "b6-b2",
+        "f3-j3",
+        "f10-b10",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

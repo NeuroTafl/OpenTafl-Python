@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Jilles",
+    "AageGameTypeKey": 143,
+    "AageGameTypeName": "Old TYR! 17x17",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-j2",
+        "i9-k9",
+        "m10-p10",
+        "k10-n10",
+        "n11-n12",
+        "l6-m6",
+        "m1-l1",
+        "k9-k12",
+        "o13-k13",
+        "j11-n11",
+        "q11-o11",
+        "l12-m12",
+        "m17-l17",
+        "m12-m13",
+        "m8-m11xn11"
+    ],
+    "WhoWon": "Black"
+}

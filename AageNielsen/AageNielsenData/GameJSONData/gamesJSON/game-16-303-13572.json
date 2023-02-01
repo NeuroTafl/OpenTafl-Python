@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Calidesert",
+    "BlackSidePlayerName": "teondrae",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a8-c8",
+        "f8-i8",
+        "f10-i10",
+        "e7-e9",
+        "d11-d9",
+        "f7-b7",
+        "c8-b8xb7",
+        "f6-f10",
+        "e11-e10",
+        "g7-c7",
+        "b8-c8",
+        "e9-k9",
+        "i10-k10xk9",
+        "f10-j10",
+        "h11-j11",
+        "i8-i11xj11xj11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "L716",
+    "BlackSidePlayerName": "Mihkkal",
+    "AageGameTypeKey": 147,
+    "AageGameTypeName": "Saami Daabloe 11x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "a7-b6",
+        "c3-b4",
+        "b6-c5",
+        "e3-d4",
+        "g9-h8",
+        "b4-a5",
+        "e9-f8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

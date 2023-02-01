@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f3",
+        "d5-f5",
+        "d6-f6",
+        "e4-e7",
+        "f6-f7xe7",
+        "f5-a5",
+        "f7-f6",
+        "d3-a3xa4",
+        "b4-a4",
+        "c4-c6",
+        "d2-b2",
+        "d4-d5",
+        "f6-d6",
+        "d5-b5",
+        "d7-b7",
+        "c6-c7xb7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

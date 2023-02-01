@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "f3-j3",
+        "g2-i2",
+        "f4-b4",
+        "a5-a3",
+        "g6-g3",
+        "g10-h10",
+        "i6-i9",
+        "f2-h2",
+        "f5-h5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

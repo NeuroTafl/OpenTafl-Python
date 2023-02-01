@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 162,
+    "AageGameTypeName": "Dald&oslash;s 3x12",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-b5",
+        "nox",
+        "c2-c1",
+        "a1-b1",
+        "c1-b1xb1",
+        "a2-a1",
+        "c3-c2",
+        "a1-b6",
+        "b2-b3",
+        "nox",
+        "a8-a6xa6",
+        "nox",
+        "a6-a5xa5",
+        "nox",
+        "b11-a12xa12",
+        "a4-a3xa3",
+        "a12-a8",
+        "a3-b6",
+        "b1-b8",
+        "a7-a6",
+        "a8-a6xa6"
+    ],
+    "WhoWon": "Black"
+}

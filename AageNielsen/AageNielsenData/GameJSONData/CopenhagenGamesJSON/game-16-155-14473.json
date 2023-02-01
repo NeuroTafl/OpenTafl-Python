@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "teondrae",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "k4-j4",
+        "g5-g3",
+        "h3-h4xi4",
+        "f5-j5",
+        "h4-h3",
+        "g7-j7xj6",
+        "k6-j6xj5",
+        "e5-j5xj6",
+        "a5-i5xj5",
+        "f6-f4",
+        "i5-i3",
+        "f4-b4",
+        "f2-b2",
+        "b4-c4",
+        "a8-c8",
+        "c4-c1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

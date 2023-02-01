@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Ragnarmraz",
+    "BlackSidePlayerName": "cacreal",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-i2",
+        "f5-h5",
+        "g10-i10",
+        "f4-a4",
+        "g1-g4",
+        "e6-e9",
+        "g4-f4xf3",
+        "f6-e6",
+        "e1-c1",
+        "d6-d11",
+        "b7-d7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

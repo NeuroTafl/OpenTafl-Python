@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hentzau",
+    "BlackSidePlayerName": "Dutch",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j2",
+        "g5-i5",
+        "k6-i6",
+        "g7-i7xi6",
+        "k7-j7",
+        "g6-g9",
+        "h11-h7xi7",
+        "f6-g6",
+        "h1-h5xh6",
+        "g6-g3",
+        "e1-e3",
+        "g3-k3",
+        "j2-k2",
+        "k3-j3",
+        "j7-j5xi5",
+        "j3-j1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

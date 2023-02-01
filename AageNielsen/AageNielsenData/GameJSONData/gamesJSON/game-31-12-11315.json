@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Birkanive",
+    "BlackSidePlayerName": "Norsebulli",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j7-h7",
+        "e6-e9",
+        "b7-e7",
+        "d6-d7xe7",
+        "g10-g8",
+        "f6-e6",
+        "b5-e5",
+        "e6-e8",
+        "a7-a8",
+        "d7-a7",
+        "b6-b7",
+        "c6-c7xb7",
+        "a8-d8",
+        "c7-c8xd8",
+        "e5-e7",
+        "c8-c10",
+        "h7-g7xf7",
+        "e8-a8"
+    ],
+    "WhoWon": "White"
+}

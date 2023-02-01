@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "f9-b9",
+        "d11-d9",
+        "f7-d7",
+        "k8-i8",
+        "c6-c9",
+        "e11-e9",
+        "c9-c10",
+        "h11-h9",
+        "f8-d8",
+        "d1-d3",
+        "c10-d10xd9",
+        "k7-i7",
+        "e6-e8",
+        "i7-e7xe8",
+        "f6-f9",
+        "i8-f8",
+        "g6-g9",
+        "g1-g8",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

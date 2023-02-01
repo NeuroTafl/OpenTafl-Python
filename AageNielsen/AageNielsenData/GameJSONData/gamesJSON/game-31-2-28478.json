@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Audunha",
+    "BlackSidePlayerName": "audunem",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j7-g7",
+        "h6-h7xg7",
+        "g10-j10",
+        "g6-h6",
+        "k7-i7",
+        "f6-g6",
+        "g11-g7xh7",
+        "h6-h7xg7",
+        "f10-g10",
+        "f9-f10",
+        "g10-g7xh7",
+        "g6-g3",
+        "g7-g4"
+    ],
+    "WhoWon": "Black"
+}

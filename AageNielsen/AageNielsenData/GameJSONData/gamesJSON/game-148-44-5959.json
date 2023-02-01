@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Mihkkal",
+    "AageGameTypeKey": 148,
+    "AageGameTypeName": "Hex 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "f6",
+        "d6",
+        "c4",
+        "d5",
+        "d4",
+        "e5",
+        "e4",
+        "f5",
+        "f3",
+        "g4",
+        "g3",
+        "i3",
+        "i4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

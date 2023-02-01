@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Steiger",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "d6-c6",
+        "d4-d3",
+        "b4-b3",
+        "d2-b2",
+        "a4-b4xc4",
+        "d5-a5",
+        "f4-f3",
+        "e4-c4",
+        "b3-c3",
+        "b2-c2xc3",
+        "b4-b3",
+        "c4-b4",
+        "b3-a3",
+        "a5-a4",
+        "g4-e4",
+        "c2-a2xa3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

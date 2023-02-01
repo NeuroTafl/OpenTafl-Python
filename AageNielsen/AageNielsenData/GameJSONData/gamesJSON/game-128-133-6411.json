@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-f2",
+        "d6-d9",
+        "e8-f8",
+        "e6-a6",
+        "c7-c9xd9",
+        "d4-a4xa5",
+        "c9-c7",
+        "d5-c5",
+        "b2-d2",
+        "e5-d5",
+        "f8-d8",
+        "a6-a5xb5",
+        "e9-e6",
+        "e4-c4",
+        "d8-d6",
+        "c5-c6",
+        "b8-b6xc6",
+        "d5-b5",
+        "c3-b3",
+        "a5-a6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

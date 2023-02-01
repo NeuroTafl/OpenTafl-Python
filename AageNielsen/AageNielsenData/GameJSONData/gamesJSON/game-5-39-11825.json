@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "duhawk93",
+    "BlackSidePlayerName": "altti",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h5-h7",
+        "d5-d4",
+        "e8-g8",
+        "e5-d5",
+        "d9-d8",
+        "d4-d2",
+        "a4-a3",
+        "f5-f2xe2",
+        "e9-c9",
+        "e7-f7",
+        "c9-c7",
+        "d5-d3",
+        "d8-d5xc5",
+        "e3-i3",
+        "h7-h2",
+        "d3-h3",
+        "i5-h5",
+        "i3-i2",
+        "h5-h4",
+        "h3-i3"
+    ],
+    "WhoWon": "White"
+}

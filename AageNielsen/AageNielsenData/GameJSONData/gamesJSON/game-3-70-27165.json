@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "nath",
+    "BlackSidePlayerName": "RedJack",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f4-i4",
+        "f2-i2",
+        "g5-j5",
+        "j6-j4",
+        "f5-i5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

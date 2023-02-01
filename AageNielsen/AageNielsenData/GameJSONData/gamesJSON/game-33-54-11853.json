@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "siegfried",
+    "BlackSidePlayerName": "the fifth seal",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i1-k1",
+        "f8-f11",
+        "h12-h11",
+        "f7-f10",
+        "i13-i10",
+        "h8-j8",
+        "m9-j9",
+        "h6-h3",
+        "f2-f3",
+        "g7-e7",
+        "e1-e4",
+        "d7-d3",
+        "b8-e8",
+        "e7-f7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

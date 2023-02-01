@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Conanlib",
+    "BlackSidePlayerName": "Davberd",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d4",
+        "f8-f12",
+        "l7-l11",
+        "h8-h12xg12",
+        "g13-g12",
+        "g8-b8",
+        "m8-c8xb8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

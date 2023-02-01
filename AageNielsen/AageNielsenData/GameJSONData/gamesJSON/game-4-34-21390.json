@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "smileymaria",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k4-h4",
+        "g5-j5",
+        "h4-j4xj5",
+        "f5-j5",
+        "k7-j7",
+        "f4-c4",
+        "h1-i1",
+        "f6-f3",
+        "k5-k3",
+        "f3-j3xj4",
+        "f2-j2",
+        "j3-b3",
+        "j2-b2",
+        "c4-c1",
+        "a4-a3",
+        "c1-b1xb2",
+        "k3-k2",
+        "b3-b2",
+        "a3-a2",
+        "b1-c1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

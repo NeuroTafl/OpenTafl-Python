@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Slowlybutalsoqui",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-c1",
+        "d6-d1",
+        "e1-e2",
+        "f4-b4",
+        "f1-e1xd1",
+        "b4-j4",
+        "f2-j2",
+        "g5-j5",
+        "j6-j10",
+        "e5-c5",
+        "a8-c8",
+        "c5-d5",
+        "h1-i1",
+        "f5-f1",
+        "a4-a3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

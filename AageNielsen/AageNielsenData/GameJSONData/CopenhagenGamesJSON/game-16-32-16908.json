@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "M&auml;ttuuu",
+    "BlackSidePlayerName": "unbekannt",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-f3",
+        "d6-d3",
+        "b6-d6",
+        "e5-e3",
+        "g1-g3",
+        "f8-d8",
+        "k5-h5",
+        "f4-h4xh5",
+        "k4-i4",
+        "g5-g4",
+        "d1-d2",
+        "e7-d7",
+        "d6-d4xd3",
+        "e6-b6",
+        "d2-d3xe3",
+        "f6-c6",
+        "f10-c10",
+        "c6-c1",
+        "f3-f4xf5",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

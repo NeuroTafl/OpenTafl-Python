@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "AreVidar",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f4-f3",
+        "e4-e5",
+        "d6-f6",
+        "d5-a5",
+        "f6-a6xa5",
+        "e5-a5xa6",
+        "b4-b6",
+        "d3-a3xa4",
+        "d2-b2",
+        "c4-c5",
+        "b2-b4",
+        "a5-a4",
+        "b4-b3",
+        "c5-c3xb3",
+        "d1-d3",
+        "d4-b4",
+        "d3-d1",
+        "b4-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

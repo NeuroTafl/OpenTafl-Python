@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 133,
+    "AageGameTypeName": "Alea Berserk 17x17 (Martens)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "o17-o16",
+        "i6-i5",
+        "j5-j4",
+        "i4-i2",
+        "j4-j5xi5",
+        "i8-j8",
+        "h5-i5",
+        "i9-i6",
+        "m3-i3",
+        "f6-f4",
+        "g4-g6",
+        "f4-i4xi5xi3",
+        "e3-i3",
+        "i6-h6",
+        "c5-i5xi4"
+    ],
+    "WhoWon": "Black"
+}

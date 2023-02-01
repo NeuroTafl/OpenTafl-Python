@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Cyningstan",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e1-d1",
+        "d6-d10",
+        "d1-d6xc6",
+        "f5-d5",
+        "b5-c5",
+        "d10-d7xd6",
+        "g2-i2",
+        "f4-b4",
+        "e2-b2",
+        "b4-b5xc5",
+        "a5-a3",
+        "f6-f4",
+        "j5-j4",
+        "f4-a4"
+    ],
+    "WhoWon": "White"
+}

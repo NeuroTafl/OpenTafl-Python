@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Uggi",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "e5-e2",
+        "d3-e3xe2",
+        "d6-d3",
+        "f2-f3",
+        "e6-e4",
+        "f10-b10",
+        "f6-c6",
+        "a4-c4",
+        "c6-c11",
+        "b10-b11",
+        "c11-c10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

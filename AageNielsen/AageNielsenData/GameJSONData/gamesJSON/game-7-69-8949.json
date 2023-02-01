@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Ded fomich",
+    "BlackSidePlayerName": "Unhandyandy",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "e4-d4",
+        "h5-h3",
+        "d5-d8",
+        "f9-f8",
+        "e5-d5",
+        "a6-b6",
+        "e7-a7",
+        "e8-e7xe6",
+        "d5-d7",
+        "d9-a9",
+        "d8-e8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

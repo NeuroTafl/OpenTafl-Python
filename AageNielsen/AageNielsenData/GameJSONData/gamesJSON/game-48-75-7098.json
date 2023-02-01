@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Seeontic",
+    "BlackSidePlayerName": "Drzhbe",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "n9-n11",
+        "j7-m7",
+        "o6-m6xm7",
+        "h7-m7",
+        "l8-l7xm7",
+        "h8-h7",
+        "m6-k6",
+        "f7-c7",
+        "a6-c6xc7",
+        "h7-c7",
+        "d8-d7"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g5-e5",
+        "d5-d6",
+        "g3-e3xe4",
+        "d3-d2",
+        "e7-e6",
+        "d6-b6",
+        "c7-c6",
+        "b6-b1",
+        "c6-c5",
+        "d4-d3",
+        "e1-d1",
+        "c4-f4",
+        "e3-g3",
+        "d3-e3",
+        "a3-d3xd2",
+        "e3-f3",
+        "e5-e4",
+        "f3-f2",
+        "d1-f1",
+        "f2-g2",
+        "f1-f2"
+    ],
+    "WhoWon": "Black"
+}

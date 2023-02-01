@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 99,
+    "AageGameTypeName": "Ard Ri unarmed cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "f4-f3",
+        "c4-c6",
+        "f3-d3xd2",
+        "e4-e6xd6",
+        "e2-e5",
+        "d4-c4",
+        "d1-c1",
+        "c6-c7",
+        "d7-d6xd5",
+        "c7-c6xd6",
+        "c1-c3",
+        "c4-c5",
+        "b4-b5",
+        "c5-d5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

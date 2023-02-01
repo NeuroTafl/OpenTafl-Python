@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "nath",
+    "BlackSidePlayerName": "athomas",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h4",
+        "g5-g2",
+        "h4-h2xg2",
+        "g6-g2",
+        "k4-j4",
+        "h6-h10",
+        "h11-i11",
+        "f6-i6",
+        "j4-i4",
+        "i6-i9",
+        "k8-k9",
+        "i9-j9",
+        "i11-j11",
+        "j9-j10",
+        "k9-k10",
+        "f8-k8",
+        "k10-k9xk8",
+        "j10-k10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

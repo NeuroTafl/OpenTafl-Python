@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Olafkeiser",
+    "BlackSidePlayerName": "Olafmanc",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-k1",
+        "f8-d8",
+        "a7-a9",
+        "f7-f8",
+        "g10-g9",
+        "g6-g8",
+        "j7-g7xg8",
+        "h6-g6",
+        "j5-g5xg6",
+        "f6-h6",
+        "g5-h5",
+        "h6-h11"
+    ],
+    "WhoWon": "White"
+}

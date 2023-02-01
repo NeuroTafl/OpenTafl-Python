@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Plantagenet",
+    "BlackSidePlayerName": "OdinHimself",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "e5-e2",
+        "f2-i2",
+        "f4-c4",
+        "b6-b2",
+        "h6-h9",
+        "j6-j9",
+        "e6-e3"
+    ],
+    "WhoWon": "Ongoing"
+}

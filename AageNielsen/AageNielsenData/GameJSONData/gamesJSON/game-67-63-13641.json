@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Colophonius",
+    "BlackSidePlayerName": "Rosk",
+    "AageGameTypeKey": 67,
+    "AageGameTypeName": "Fidchell armed (Hnefatafl edge 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a7-a6",
+        "c4-c2",
+        "c7-c4xb4",
+        "d3-c3",
+        "a5-c5",
+        "d6-b6",
+        "c5-c6xb6",
+        "d5-c5xc4",
+        "a4-c4xc5",
+        "c3-b3",
+        "g3-c3xb3xc2",
+        "d4-d3",
+        "g4-g3",
+        "d3-f3",
+        "g1-f1",
+        "f4-g4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "arne64",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e3-b3",
+        "f1-f3",
+        "c5-c1",
+        "a4-a1",
+        "b3-b1",
+        "d9-c9",
+        "d5-d3",
+        "a5-a2",
+        "e4-b4",
+        "b5-c5",
+        "e5-e4",
+        "i4-g4",
+        "e6-c6",
+        "c9-c7xc6",
+        "g5-g8",
+        "i6-e6xe7",
+        "f5-f6",
+        "e6-d6",
+        "g8-g7",
+        "f9-f7",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

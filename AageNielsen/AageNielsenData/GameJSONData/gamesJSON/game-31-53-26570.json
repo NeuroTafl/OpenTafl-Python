@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Юся (≧▽≦)",
+    "BlackSidePlayerName": "Artimoring",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b7-d7",
+        "f8-d8xd7",
+        "b5-c5",
+        "f4-c4xc5",
+        "e2-e4",
+        "f7-e7",
+        "e4-f4xf3",
+        "f6-f8",
+        "g11-k11",
+        "f8-j8",
+        "e11-a11",
+        "j8-j11"
+    ],
+    "WhoWon": "White"
+}

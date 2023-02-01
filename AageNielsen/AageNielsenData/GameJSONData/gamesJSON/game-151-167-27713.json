@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Bender",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c3-e3",
+        "g7-g9",
+        "i9-h9xg9",
+        "e7-b7",
+        "c6-c5",
+        "b7-b8",
+        "c9-c8xb8",
+        "f7-c7",
+        "k8-k7",
+        "f6-f7",
+        "a4-a7",
+        "f7-j7",
+        "i6-i7"
+    ],
+    "WhoWon": "Black"
+}

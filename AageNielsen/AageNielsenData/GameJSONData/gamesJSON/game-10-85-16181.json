@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 10,
+    "AageGameTypeName": "Skalk Hnefatafl 9x9 (ExpoMedia)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-b3",
+        "g5-g8",
+        "f9-g9",
+        "e7-h7",
+        "i6-g6",
+        "d5-d8",
+        "d1-d7xd8",
+        "e5-d5",
+        "e2-d2",
+        "c5-c7",
+        "b3-b7xc7",
+        "d5-c5",
+        "d2-c2",
+        "c5-c7",
+        "d7-e7xe6",
+        "c7-c8",
+        "c2-c7",
+        "c8-a8",
+        "a6-a7"
+    ],
+    "WhoWon": "Black"
+}

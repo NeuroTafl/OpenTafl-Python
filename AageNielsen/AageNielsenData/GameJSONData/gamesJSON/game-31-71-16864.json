@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Geattrip",
+    "BlackSidePlayerName": "Birkamart",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-j3",
+        "h6-h8",
+        "k7-k9",
+        "g6-g8",
+        "g2-h2",
+        "i6-i8",
+        "g11-i11",
+        "f6-i6",
+        "h2-h6"
+    ],
+    "WhoWon": "Black"
+}

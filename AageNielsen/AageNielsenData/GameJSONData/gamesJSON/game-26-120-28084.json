@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Patterson",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b9",
+        "e6-e3",
+        "h11-h9",
+        "c6-c11",
+        "b9-b11xc11",
+        "f9-b9",
+        "k8-i8",
+        "f5-e5",
+        "f2-j2",
+        "f6-e6",
+        "b11-b10",
+        "e6-e9",
+        "g11-g10",
+        "e9-c9",
+        "b10-c10",
+        "c9-c1"
+    ],
+    "WhoWon": "White"
+}

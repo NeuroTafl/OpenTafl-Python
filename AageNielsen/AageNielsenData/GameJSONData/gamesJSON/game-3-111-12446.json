@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Filosondre",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a8-a9",
+        "f8-j8",
+        "f10-f9",
+        "e7-e10",
+        "a7-d7",
+        "e6-e9",
+        "b6-d6",
+        "g7-g9xf9",
+        "a6-b6",
+        "f7-f10",
+        "d11-d10",
+        "f6-f8",
+        "d7-d8xd9",
+        "f8-i8",
+        "h11-i11",
+        "i8-i10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

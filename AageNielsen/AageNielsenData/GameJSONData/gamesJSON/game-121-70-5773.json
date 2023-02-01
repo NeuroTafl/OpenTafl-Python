@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Rook",
+    "BlackSidePlayerName": "Alex hnefatafl",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-e1",
+        "d3-d2",
+        "f3-d3",
+        "e4-e3",
+        "e6-e4",
+        "d2-e2",
+        "f5-f3xe3",
+        "e2-d2xd3",
+        "b3-d3",
+        "d2-g2",
+        "e1-e2",
+        "g2-g6",
+        "f3-f6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

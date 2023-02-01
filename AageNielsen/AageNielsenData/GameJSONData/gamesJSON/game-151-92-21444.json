@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 151,
+    "AageGameTypeName": "Tyr 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i3-i5",
+        "g5-g2",
+        "d1-f1",
+        "e5-b5",
+        "a8-a6",
+        "e6-e1",
+        "a1-d1xe1",
+        "e7-e1",
+        "h1-g1",
+        "g2-f2xf3",
+        "c3-f3xf2",
+        "f6-e6",
+        "c9-e9",
+        "e6-e2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

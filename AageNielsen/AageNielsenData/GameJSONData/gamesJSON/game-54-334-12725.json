@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Steve",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d6-e6",
+        "c4-c3",
+        "b4-b3",
+        "d3-g3",
+        "g4-g5",
+        "g3-g4xf4",
+        "d2-d3xc3",
+        "e4-e3",
+        "d1-c1",
+        "d4-e4",
+        "d7-d6xd5",
+        "e4-f4",
+        "b3-b2",
+        "f4-f3",
+        "b2-f2",
+        "e3-e1",
+        "e6-e2",
+        "e1-f1xf2",
+        "e2-e1xf1",
+        "f3-g3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

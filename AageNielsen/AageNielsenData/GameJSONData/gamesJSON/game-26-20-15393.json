@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Ynof",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-h8",
+        "g6-g8",
+        "j6-j8",
+        "i6-i8xh8",
+        "h11-h8xi8",
+        "f7-h7",
+        "g11-g9",
+        "h7-b7",
+        "e11-e9xf9",
+        "f5-b5xb6",
+        "k7-g7xg8",
+        "f6-f5",
+        "a4-c4",
+        "f5-i5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

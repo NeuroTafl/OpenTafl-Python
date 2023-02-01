@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Agmundr",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c6-c8",
+        "h6-h9",
+        "j7-h7",
+        "e5-e3",
+        "g2-g3",
+        "f5-c5",
+        "e1-d1",
+        "d6-d2",
+        "d1-c1",
+        "f6-f5",
+        "f9-d9",
+        "f5-d5",
+        "a5-a3",
+        "f4-a4",
+        "b5-b3",
+        "d2-c2",
+        "f1-d1",
+        "c5-c3",
+        "b3-b2",
+        "d5-a5"
+    ],
+    "WhoWon": "White"
+}

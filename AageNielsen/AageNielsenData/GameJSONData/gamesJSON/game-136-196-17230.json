@@ -1,0 +1,17 @@
+{
+    "WhiteSidePlayerName": "L3monman",
+    "BlackSidePlayerName": "Kaagee",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "l12-k12",
+        "k11-n11",
+        "o12-o11",
+        "n11-j11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

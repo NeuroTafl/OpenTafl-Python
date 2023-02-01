@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Epoc",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "f10-j10",
+        "d6-d3",
+        "f2-b2",
+        "f6-c6",
+        "a7-c7",
+        "c6-c1",
+        "b2-b1",
+        "c1-c2",
+        "b1-b2",
+        "c2-k2",
+        "k4-k3",
+        "k2-k1"
+    ],
+    "WhoWon": "White"
+}

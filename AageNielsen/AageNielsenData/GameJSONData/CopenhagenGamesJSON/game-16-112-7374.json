@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "sqAree",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "e1-e2",
+        "g6-g3",
+        "k8-i8",
+        "h6-h10",
+        "k7-i7",
+        "f5-i5",
+        "k4-i4",
+        "f6-h6",
+        "k6-k9",
+        "h6-h9",
+        "d11-d9",
+        "e7-e10",
+        "b6-b10",
+        "g7-g10xf10",
+        "i8-i10",
+        "h9-j9",
+        "i10-j10",
+        "j9-j7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

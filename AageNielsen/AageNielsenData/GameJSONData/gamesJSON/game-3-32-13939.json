@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "Ember",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j10",
+        "h6-h10",
+        "k8-h8",
+        "g6-j6",
+        "h8-h9xh10",
+        "f6-i6",
+        "k4-i4",
+        "i6-i11",
+        "j10-j11",
+        "i11-i9",
+        "k7-k9",
+        "i9-i11xj11",
+        "i4-i10",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Frenir",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "a4-c4",
+        "g7-j7",
+        "k5-i5",
+        "g6-g10",
+        "e11-e9",
+        "f6-i6",
+        "k8-j8xj7",
+        "i6-i11",
+        "j8-j11",
+        "i11-i10",
+        "j11-j10",
+        "h9-k9",
+        "j10-k10",
+        "i10-j10",
+        "h11-j11",
+        "k9-i9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

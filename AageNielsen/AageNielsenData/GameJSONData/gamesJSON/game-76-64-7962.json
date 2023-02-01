@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Ded Fomich",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "e2-d2",
+        "g7-g9",
+        "e10-e9",
+        "f7-i7",
+        "g10-h10",
+        "g5-i5xi6",
+        "k6-i6",
+        "i7-i10",
+        "h10-h9xg9",
+        "e7-i7xi6",
+        "h9-h7xi7",
+        "f8-h8xh7",
+        "g11-g10",
+        "g6-g3",
+        "f3-c3",
+        "h6-h2",
+        "f1-f2",
+        "f6-k6"
+    ],
+    "WhoWon": "White"
+}

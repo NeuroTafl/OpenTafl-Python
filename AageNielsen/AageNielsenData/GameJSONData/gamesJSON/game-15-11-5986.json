@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "plums12",
+    "BlackSidePlayerName": "Jurgenson",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "f4-b4",
+        "k4-c4xb4",
+        "f5-f3",
+        "c4-f4xf3",
+        "g5-g4",
+        "h1-h4xg4",
+        "f6-f5",
+        "k5-i5",
+        "f5-g5",
+        "g1-g3",
+        "e5-e3",
+        "a5-c5",
+        "g5-d5",
+        "d11-d9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

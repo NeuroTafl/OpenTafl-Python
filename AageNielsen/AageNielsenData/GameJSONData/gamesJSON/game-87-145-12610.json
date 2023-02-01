@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Siegfried",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d7-d6",
+        "c4-c3",
+        "b2-c2",
+        "e4-e7",
+        "d6-d7",
+        "c3-c7xd7",
+        "a4-c4",
+        "d3-c3",
+        "c4-b4",
+        "d5-b5",
+        "b4-c4xc3",
+        "b5-b4xc4",
+        "d1-d3",
+        "d4-d7",
+        "g4-e4",
+        "c7-c6",
+        "b6-b7",
+        "d7-c7xb7",
+        "d3-d7",
+        "c7-a7"
+    ],
+    "WhoWon": "White"
+}

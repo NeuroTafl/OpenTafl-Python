@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "plantagen&ecirc;t",
+    "BlackSidePlayerName": "Sapps",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e10-c10",
+        "f5-i5",
+        "b5-b3",
+        "f4-k4",
+        "a5-a4",
+        "h6-h1",
+        "g2-i2",
+        "e6-e4",
+        "j5-j3",
+        "h1-i1",
+        "j3-k3xk4",
+        "f6-f5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "herjan",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "i6-i8",
+        "g5-i5",
+        "j7-i7",
+        "g6-g3",
+        "g1-i1",
+        "h6-j6",
+        "k7-j7xj6",
+        "f6-h6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

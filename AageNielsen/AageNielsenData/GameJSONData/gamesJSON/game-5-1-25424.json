@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Vadim",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i6-g6",
+        "e7-g7xg6",
+        "h5-h7",
+        "f5-f7",
+        "i5-h5",
+        "e5-f5",
+        "h5-h6",
+        "g5-i5",
+        "h6-i6xi5",
+        "f5-i5"
+    ],
+    "WhoWon": "White"
+}

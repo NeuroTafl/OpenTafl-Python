@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Hjuke",
+    "BlackSidePlayerName": "MaC",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1h3",
+        "g7j7",
+        "k5i5",
+        "f7i7",
+        "d11d9",
+        "f8c8",
+        "a4c4",
+        "f6f9",
+        "k8k9",
+        "f9j9",
+        "f10j10",
+        "i7i11",
+        "j10j11",
+        "j9j10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

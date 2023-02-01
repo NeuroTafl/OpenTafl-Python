@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Arne64",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g5-g2",
+        "f1-g1",
+        "f5-f8",
+        "d9-c9",
+        "e7-i7",
+        "f9-g9",
+        "d5-d8xe8",
+        "d1-d5xc5",
+        "e6-d6",
+        "a4-d4",
+        "e5-e7",
+        "c9-c7",
+        "e7-h7",
+        "g9-h9",
+        "h7-h8",
+        "h5-h7",
+        "h8-i8"
+    ],
+    "WhoWon": "White"
+}

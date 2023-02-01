@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "cassio",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "f4-c4",
+        "b5-c5",
+        "f5-i5",
+        "g2-g4",
+        "e6-e4",
+        "b7-c7xc6",
+        "d6-c6xc5",
+        "c7-d7",
+        "f6-f4",
+        "g4-h4",
+        "e4-e2",
+        "c2-d2xe2",
+        "h6-h5",
+        "g1-g4",
+        "f4-d4",
+        "d2-d3",
+        "c4-c3",
+        "d7-d5"
+    ],
+    "WhoWon": "Black"
+}

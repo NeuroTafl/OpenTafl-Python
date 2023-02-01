@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "Gulcasa",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "a8-c8",
+        "e7-b7",
+        "c8-b8xb7",
+        "f7-b7",
+        "a5-c5",
+        "g7-c7",
+        "k7-f7",
+        "f8-g8",
+        "f10-f8",
+        "e6-e8xf8",
+        "f11-f8",
+        "h6-h8",
+        "d11-d8xe8",
+        "e5-e8xf8",
+        "f7-f8xe8",
+        "f6-e6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

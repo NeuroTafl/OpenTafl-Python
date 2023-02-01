@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "sun231",
+    "BlackSidePlayerName": "AreVidar",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "e5-b5",
+        "a4-b4xb5",
+        "d6-d10",
+        "a8-c8",
+        "e6-e2",
+        "d3-d2xe2",
+        "f6-d6",
+        "e11-e9",
+        "d6-d3",
+        "a5-a3",
+        "d3-i3",
+        "f2-i2",
+        "i3-k3",
+        "i2-k2",
+        "k3-i3",
+        "k2-k3",
+        "i3-i1",
+        "j6-j1",
+        "h6-j6",
+        "d2-i2"
+    ],
+    "WhoWon": "Black"
+}

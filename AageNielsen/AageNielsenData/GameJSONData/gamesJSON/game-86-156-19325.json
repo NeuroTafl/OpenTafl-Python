@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 86,
+    "AageGameTypeName": "Sea battle line 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i3-h3",
+        "d5-d8",
+        "a6-a5",
+        "e5-d5",
+        "d1-d2",
+        "d5-d6",
+        "c9-c6",
+        "e7-c7xc6",
+        "a5-a6",
+        "d6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

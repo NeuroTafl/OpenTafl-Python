@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Bender",
+    "BlackSidePlayerName": "Ded fomich",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d6-e6",
+        "d5-e5",
+        "f4-f5",
+        "d4-d6",
+        "g4-f4xe4",
+        "d6-a6",
+        "a4-a5"
+    ],
+    "WhoWon": "Black"
+}

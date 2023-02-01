@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "casshern",
+    "BlackSidePlayerName": "Libuda",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "h6-h9",
+        "j6-j10",
+        "g6-j6",
+        "f2-j2",
+        "f6-i6",
+        "h11-i11",
+        "i6-i1",
+        "j2-j1",
+        "i1-i2",
+        "j1-i1",
+        "i2-k2",
+        "i1-j1",
+        "k2-k1"
+    ],
+    "WhoWon": "White"
+}

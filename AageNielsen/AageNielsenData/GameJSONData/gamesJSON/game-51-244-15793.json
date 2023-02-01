@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f5",
+        "d3-f3",
+        "d2-f2",
+        "d4-d3",
+        "f5-f4xe4xf3",
+        "c4-c2",
+        "b4-b2",
+        "d5-b5",
+        "f2-d2xc2",
+        "d3-d5",
+        "d6-b6",
+        "b5-c5",
+        "b6-c6",
+        "d5-e5",
+        "f4-c4xc5",
+        "e5-e7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

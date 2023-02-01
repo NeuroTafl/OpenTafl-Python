@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "m5-j5",
+        "h6-k6",
+        "h2-h5xi5",
+        "h8-k8xk7",
+        "h5-g5xg4",
+        "k6-k4",
+        "g3-g4",
+        "f6-f5",
+        "h1-h5",
+        "h7-h6",
+        "i13-i10",
+        "k4-j4",
+        "i1-i8xi9",
+        "g7-i7",
+        "l6-i6"
+    ],
+    "WhoWon": "Black"
+}

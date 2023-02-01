@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "brunester",
+    "BlackSidePlayerName": "stryker10g",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b6-b2",
+        "h6-h10",
+        "h1-h9xh10",
+        "g7-g10",
+        "h11-h10xg10",
+        "g6-g10",
+        "h9-g9xg10",
+        "f6-i6",
+        "k7-i7",
+        "i6-i2",
+        "j6-j2",
+        "i2-i1",
+        "j2-j1",
+        "g5-j5",
+        "i7-i2",
+        "i1-h1",
+        "h10-h2",
+        "j5-h5",
+        "j1-i1"
+    ],
+    "WhoWon": "Black"
+}

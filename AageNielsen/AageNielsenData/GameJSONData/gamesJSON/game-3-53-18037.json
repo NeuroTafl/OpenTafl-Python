@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "d11-d9",
+        "e7-e10",
+        "f10-i10",
+        "e10-b10",
+        "e11-b11",
+        "f7-c7",
+        "f11-c11",
+        "f6-f10",
+        "b6-b9xb10",
+        "f10-b10",
+        "a8-b8",
+        "c7-c9",
+        "i10-c10",
+        "e6-e9xd9",
+        "a7-a10"
+    ],
+    "WhoWon": "Black"
+}

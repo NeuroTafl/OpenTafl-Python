@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "rosk",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g4-g3",
+        "d5-g5",
+        "f4-f5",
+        "e4-e5xf5",
+        "g3-g4",
+        "d4-f4",
+        "d6-g6xg5",
+        "f4-f1"
+    ],
+    "WhoWon": "White"
+}

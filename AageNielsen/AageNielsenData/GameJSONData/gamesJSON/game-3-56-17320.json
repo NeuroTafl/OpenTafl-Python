@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Luigi005",
+    "BlackSidePlayerName": "Jack",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b10",
+        "d6-d2",
+        "d11-d3xd2",
+        "f8-b8",
+        "f10-j10",
+        "f7-f9",
+        "k8-k9",
+        "f6-f8",
+        "h1-i1",
+        "f8-c8",
+        "d1-c1",
+        "c8-c11",
+        "b10-b11",
+        "c11-c3",
+        "e11-c11",
+        "e5-e3xd3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

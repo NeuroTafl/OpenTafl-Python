@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Norsecadw",
+    "BlackSidePlayerName": "Birkamart",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k5-k3",
+        "g6-g4",
+        "g11-i11",
+        "f3-j3",
+        "g2-j2",
+        "h6-h3",
+        "j5-j4xj3",
+        "h3-g3",
+        "j7-j8",
+        "f6-h6",
+        "f11-h11",
+        "h6-h1"
+    ],
+    "WhoWon": "White"
+}

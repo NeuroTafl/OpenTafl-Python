@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Docbullen",
+    "BlackSidePlayerName": "Animals",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d2-e2",
+        "c4-c3",
+        "d6-c6",
+        "e4-e6",
+        "f4-f6",
+        "d5-d6",
+        "e2-e3",
+        "c3-c2",
+        "c6-c3xd3",
+        "d4-c4xc3",
+        "e3-d3",
+        "c2-d2xd3",
+        "b4-b5",
+        "d2-a2",
+        "b5-b3",
+        "c4-c2",
+        "b3-b2",
+        "c2-g2",
+        "g4-g3"
+    ],
+    "WhoWon": "Black"
+}

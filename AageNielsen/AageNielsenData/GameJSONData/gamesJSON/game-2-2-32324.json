@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Helge",
+    "BlackSidePlayerName": "Jonas",
+    "AageGameTypeKey": 2,
+    "AageGameTypeName": "Skalk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8h8",
+        "f4c4",
+        "h1h4",
+        "g5g2",
+        "h4h2",
+        "g6g2",
+        "h2h4",
+        "e5e2",
+        "k7i7",
+        "f5j5",
+        "k4j4",
+        "f6f3",
+        "k5k3",
+        "f3a3",
+        "k3e3",
+        "a3a1"
+    ],
+    "WhoWon": "White"
+}

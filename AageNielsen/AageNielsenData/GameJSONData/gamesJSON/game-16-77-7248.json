@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Edmond-dantes",
+    "BlackSidePlayerName": "Evando1189",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b3",
+        "d6-d9",
+        "f10-d10",
+        "f8-d8",
+        "j6-j9",
+        "e6-b6",
+        "d11-c11",
+        "f6-c6",
+        "d10-b10",
+        "c6-c1",
+        "b3-b1",
+        "c1-c10",
+        "e11-e10",
+        "c10-c1xb1",
+        "f2-b2",
+        "c1-a1"
+    ],
+    "WhoWon": "White"
+}

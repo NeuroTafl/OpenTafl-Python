@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Arne64",
+    "BlackSidePlayerName": "Duhawk93",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j13-j11",
+        "f6-f2",
+        "e1-e2xf2",
+        "f7-f2",
+        "e2-c2",
+        "h6-h2xg2",
+        "i1-i3",
+        "h2-k2",
+        "l7-l2",
+        "j7-j3",
+        "j1-k1",
+        "h7-h3xi3",
+        "m4-m3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Audunax",
+    "BlackSidePlayerName": "Ivarmca",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b7-b9",
+        "g6-g9",
+        "j7-g7",
+        "h6-h7xg7",
+        "g2-g6",
+        "h7-h6xg6",
+        "f2-i2",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

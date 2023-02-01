@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f3",
+        "e4-e3",
+        "d6-f6",
+        "d4-e4",
+        "b4-b6",
+        "c4-c3",
+        "b6-d6xd5",
+        "e4-e5",
+        "d2-c2",
+        "e5-b5",
+        "c2-d2xd3",
+        "b5-b2",
+        "d1-b1",
+        "c3-c1xb1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

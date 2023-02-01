@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Casshern",
+    "BlackSidePlayerName": "Unhandyandy",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f3-h3",
+        "e5-c5",
+        "b7-c7",
+        "e7-e9",
+        "g10-g9",
+        "e6-e3",
+        "a5-a4",
+        "c5-c4",
+        "e1-c1",
+        "f8-b8",
+        "e11-d11",
+        "b8-b6xc6",
+        "a7-b7xb6",
+        "d6-d2",
+        "c1-c2xd2",
+        "f6-d6",
+        "e2-d2",
+        "d6-d8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

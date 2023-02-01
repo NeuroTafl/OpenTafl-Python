@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "jrton80",
+    "BlackSidePlayerName": "kAAgEE",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d4",
+        "e5-c5",
+        "a4-c4",
+        "e6-e3",
+        "b6-c6xc5",
+        "f5-c5",
+        "d4-d3",
+        "e7-c7xc6",
+        "f2-f3xe3",
+        "f6-e6",
+        "d11-d9",
+        "e6-e2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

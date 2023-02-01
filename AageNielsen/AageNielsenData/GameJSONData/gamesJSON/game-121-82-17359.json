@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "Paul7",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-e1",
+        "e4-g4",
+        "f5-g5",
+        "d3-d1",
+        "e6-e5",
+        "g4-g1",
+        "e1-e4",
+        "d5-d7",
+        "c6-d6",
+        "d7-f7",
+        "b3-d3",
+        "d1-d2xd3",
+        "f3-d3",
+        "f7-f4xe4",
+        "e5-d5"
+    ],
+    "WhoWon": "Black"
+}

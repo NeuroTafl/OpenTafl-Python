@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Volkenpuk",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-c3",
+        "d6-c6",
+        "e4-e6",
+        "f4-f6",
+        "d5-b5",
+        "c6-b6xb5",
+        "d4-d5",
+        "b4-b3",
+        "d5-d2",
+        "d7-d3xc3"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "teondrae",
+    "BlackSidePlayerName": "olli",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h11-h9",
+        "f8-i8",
+        "k8-j8",
+        "g7-g10",
+        "h9-h10xg10",
+        "g6-g10",
+        "a8-h8xi8",
+        "f7-i7",
+        "d11-d9",
+        "i7-i10xh10",
+        "h8-h10xg10",
+        "g5-g10xh10",
+        "g11-i11",
+        "e7-e10xf10",
+        "j8-j10",
+        "h6-h9",
+        "k4-i4",
+        "f6-f8",
+        "d9-d8",
+        "f8-k8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

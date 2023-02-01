@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Brench",
+    "BlackSidePlayerName": "KayKyber",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "e5-e2",
+        "a8-c8",
+        "f4-c4",
+        "b6-b3",
+        "e2-b2",
+        "a4-b4",
+        "f5-f2",
+        "k4-d4xc4",
+        "f6-f3",
+        "k5-k3",
+        "f3-i3",
+        "h1-i1",
+        "i3-i11",
+        "j6-j11",
+        "i11-i9",
+        "h11-i11",
+        "i9-j9",
+        "d11-d9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

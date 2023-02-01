@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Seigfried",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "c1-c2",
+        "d5-d6",
+        "g3-e3",
+        "e4-f4",
+        "c2-c3xd3",
+        "d4-d3",
+        "a5-c5xc4",
+        "f4-f3xe3",
+        "g5-g3",
+        "d3-e3",
+        "e1-e2",
+        "d6-d1",
+        "e2-e1",
+        "f3-f1xe1",
+        "g3-f3",
+        "f1-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

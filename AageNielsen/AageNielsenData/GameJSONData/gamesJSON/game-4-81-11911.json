@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Ghostwafles111",
+    "BlackSidePlayerName": "bradentu2",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h11-h9",
+        "h6-h2",
+        "f2-g2",
+        "f4-f2xg2",
+        "k4-f4",
+        "f2-f3xf4",
+        "f1-f2",
+        "f3-e3",
+        "j6-j2",
+        "f8-h8",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

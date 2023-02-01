@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Paul7",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 26,
+    "AageGameTypeName": "Sea battle tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j3",
+        "f5-i5",
+        "f2-i2",
+        "e6-e3",
+        "a4-c4",
+        "f6-e6",
+        "a8-c8",
+        "f9-c9",
+        "f10-c10xc9",
+        "e6-e9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

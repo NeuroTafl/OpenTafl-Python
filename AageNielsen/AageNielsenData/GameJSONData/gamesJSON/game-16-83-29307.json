@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Chuck ward",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k7-i7",
+        "e5-b5",
+        "a7-c7",
+        "f5-c5",
+        "a4-b4xb5",
+        "f6-f5",
+        "e1-e3",
+        "f5-d5",
+        "d1-d3",
+        "d6-c6",
+        "d11-d6xc6xe6",
+        "e7-d7xd6",
+        "a8-d8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

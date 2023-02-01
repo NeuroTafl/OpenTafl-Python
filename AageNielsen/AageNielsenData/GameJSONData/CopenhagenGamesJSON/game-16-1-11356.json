@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Chillin",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "e5-b5",
+        "a8-c8",
+        "e7-b7xb6",
+        "a6-b6",
+        "d6-d9",
+        "f10-b10",
+        "e6-e2",
+        "d1-d2xe2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

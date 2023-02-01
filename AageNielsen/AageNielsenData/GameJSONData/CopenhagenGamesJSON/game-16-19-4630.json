@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Chillin",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "f10-i10",
+        "f7-f10",
+        "d11-d9",
+        "f10-b10",
+        "e11-e10",
+        "e7-b7",
+        "a8-c8",
+        "e5-b5xb6",
+        "f2-b2",
+        "f6-f8",
+        "a7-a10",
+        "b7-a7",
+        "e10-c10xb10",
+        "a7-a9xa10",
+        "c10-a10",
+        "a9-b9",
+        "a6-a9",
+        "f8-f10",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

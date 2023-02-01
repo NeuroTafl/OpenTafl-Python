@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Tonythebook",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "d5-c5",
+        "b4-b5",
+        "c4-c1",
+        "b5-b1xc1",
+        "c5-c1xb1",
+        "d2-e2",
+        "d4-c4",
+        "g4-f4xe4",
+        "c4-c3",
+        "a4-b4",
+        "c3-b3",
+        "e2-b2",
+        "c1-b1xb2",
+        "d1-c1xb1",
+        "b3-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

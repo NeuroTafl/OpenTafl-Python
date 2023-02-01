@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Gungnir",
+    "BlackSidePlayerName": "SebastinKane",
+    "AageGameTypeKey": 23,
+    "AageGameTypeName": "David Brown Hnefatafl 11x11 (unarmed king)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d11-d7",
+        "f8-d8xd7",
+        "d1-d5",
+        "f4-d4xd5",
+        "k4-f4",
+        "g5-g3",
+        "a7-c7",
+        "g3-f3xf4",
+        "k8-f8",
+        "f5-g5",
+        "a5-c5",
+        "f6-f5",
+        "j6-j4",
+        "g5-j5",
+        "k6-j6xj5",
+        "f5-i5",
+        "j6-i6",
+        "i5-i1"
+    ],
+    "WhoWon": "White"
+}

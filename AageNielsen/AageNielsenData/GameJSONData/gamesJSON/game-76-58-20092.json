@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "OdinHimself",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e11-d11",
+        "g5-i5",
+        "j7-i7",
+        "g6-g3",
+        "e2-e3",
+        "e5-c5",
+        "b7-c7",
+        "h6-h1",
+        "g10-h10",
+        "f6-h6",
+        "k5-k3",
+        "f8-j8",
+        "k7-j7",
+        "h6-h9",
+        "k6-k9",
+        "j8-j11",
+        "i7-h7",
+        "h9-i9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

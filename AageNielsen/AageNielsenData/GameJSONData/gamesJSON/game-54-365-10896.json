@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 54,
+    "AageGameTypeName": "Old Magpie cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a4-a3",
+        "c4-c5",
+        "f4-f5",
+        "d4-c4",
+        "d2-c2",
+        "c5-a5",
+        "d6-a6",
+        "a5-a4xb4",
+        "a6-a5xa4",
+        "c4-b4",
+        "d7-d6xd5",
+        "e4-e7",
+        "c2-c7",
+        "d3-c3",
+        "d1-c1",
+        "b4-b3",
+        "d6-d2",
+        "b3-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

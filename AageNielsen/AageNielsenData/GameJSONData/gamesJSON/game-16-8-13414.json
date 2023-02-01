@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "griffin",
+    "BlackSidePlayerName": "shaphopafo",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a8-d8",
+        "e7-c7",
+        "e11-e8",
+        "g7-g8",
+        "h11-h8",
+        "f7-i7",
+        "k8-i8",
+        "f6-f7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

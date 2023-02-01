@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Bogd Khan",
+    "BlackSidePlayerName": "jrton80",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e1-e3",
+        "d6-d3",
+        "f2-f3",
+        "e5-b5",
+        "f1-f2",
+        "e7-b7xb6",
+        "a6-b6",
+        "e6-e10",
+        "d11-d10xe10",
+        "f6-c6",
+        "a8-b8xb7",
+        "c6-c1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

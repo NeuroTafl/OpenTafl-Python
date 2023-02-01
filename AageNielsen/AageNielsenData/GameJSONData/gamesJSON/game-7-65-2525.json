@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "cyningstan",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i6-h6",
+        "e3-f3",
+        "d1-d3",
+        "c5-c2",
+        "e1-c1",
+        "c2-a2",
+        "a4-c4",
+        "e4-d4",
+        "c1-c2",
+        "a2-a1",
+        "c2-c3",
+        "f5-f4",
+        "i5-i7",
+        "e5-e3",
+        "b5-c5xd5",
+        "a1-e1xe2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

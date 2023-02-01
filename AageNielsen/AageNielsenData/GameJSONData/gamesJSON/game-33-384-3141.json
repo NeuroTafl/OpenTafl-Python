@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "matematician",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h2-j2",
+        "f6-f3",
+        "e1-e3xf3",
+        "f7-f3",
+        "f1-e1",
+        "h6-h3xg3",
+        "g1-g3xf3",
+        "f8-f3xg3",
+        "f12-f4xf3",
+        "e5-e4xf4",
+        "a5-e5xe4",
+        "g4-e4",
+        "e5-e7xd7",
+        "g6-e6",
+        "b8-e8",
+        "g7-g5",
+        "c7-c5",
+        "g5-g1"
+    ],
+    "WhoWon": "White"
+}

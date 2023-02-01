@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Ytreza",
+    "BlackSidePlayerName": "Gungnir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "j6-j10",
+        "g6-j6",
+        "f2-j2",
+        "f6-i6",
+        "h11-i11",
+        "i6-i1",
+        "j2-j1",
+        "i1-i2",
+        "j1-j2",
+        "i2-a2",
+        "j2-b2",
+        "a2-a1"
+    ],
+    "WhoWon": "White"
+}

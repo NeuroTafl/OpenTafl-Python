@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Pedro",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1d3",
+        "d6d9",
+        "a4c4",
+        "e5b5",
+        "c4c5",
+        "e7e10",
+        "b6b10",
+        "g7g10",
+        "h11h10",
+        "f8f10",
+        "j6j9",
+        "e6e2",
+        "a6d6",
+        "g6g9",
+        "d1d2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

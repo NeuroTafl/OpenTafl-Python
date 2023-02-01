@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "brobespierre",
+    "BlackSidePlayerName": "valdubuis",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a6-a7",
+        "e6-h6",
+        "h5-h1",
+        "g5-g1",
+        "e2-g2",
+        "e3-g3xg2",
+        "e8-c8",
+        "e4-e2",
+        "b5-b2",
+        "g3-i3",
+        "h1-h2",
+        "e5-e3",
+        "a4-a3",
+        "g1-h1",
+        "h2-i2xi3",
+        "e3-i3"
+    ],
+    "WhoWon": "White"
+}

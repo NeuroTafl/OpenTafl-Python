@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i13-i10",
+        "h8-k8",
+        "m9-k9xk8",
+        "g8-k8",
+        "i1-i4",
+        "h6-k6xk7",
+        "m5-k5",
+        "j7-l7",
+        "m8-m10",
+        "h7-h3",
+        "h12-h4xh3",
+        "g7-j7",
+        "m10-j10",
+        "j7-j1"
+    ],
+    "WhoWon": "White"
+}

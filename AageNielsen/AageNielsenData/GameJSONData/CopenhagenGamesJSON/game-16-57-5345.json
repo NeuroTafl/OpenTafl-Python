@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Luizz",
+    "BlackSidePlayerName": "Brench",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d9",
+        "f4-i4",
+        "k4-j4",
+        "g5-j5",
+        "j6-j9",
+        "h6-h3",
+        "k6-j6xj5",
+        "f5-j5",
+        "h11-h4xi4",
+        "e5-h5xh4",
+        "f2-f5",
+        "g6-g2",
+        "k7-i7",
+        "f6-i6",
+        "h1-i1",
+        "i6-i2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

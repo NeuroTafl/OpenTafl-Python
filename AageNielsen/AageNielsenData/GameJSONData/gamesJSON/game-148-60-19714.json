@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Mihkkal",
+    "AageGameTypeKey": 148,
+    "AageGameTypeName": "Hex 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "f6",
+        "d5",
+        "f7",
+        "e7",
+        "a1",
+        "c3",
+        "b1",
+        "d2",
+        "f9",
+        "d8",
+        "e10",
+        "c9",
+        "d11",
+        "b10",
+        "b11",
+        "c11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

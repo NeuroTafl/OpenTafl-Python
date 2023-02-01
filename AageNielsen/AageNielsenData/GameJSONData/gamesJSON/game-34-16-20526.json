@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Chaolaibhne",
+    "BlackSidePlayerName": "Xerxes",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h2-j2",
+        "f8-c8",
+        "b6-c6",
+        "e9-b9",
+        "e13-e9",
+        "d7-d9",
+        "f12-f9",
+        "f7-f8",
+        "f9-g9xg10",
+        "g7-d7",
+        "a5-d5",
+        "d9-c9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

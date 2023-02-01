@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Lance",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d3",
+        "f2-b2",
+        "e6-c6",
+        "a8-c8",
+        "f6-d6",
+        "d11-d9",
+        "h6-h9",
+        "f10-i10",
+        "d3-a3",
+        "b2-a2xa3",
+        "d6-d3",
+        "a2-a3",
+        "d3-b3",
+        "d1-b1",
+        "c6-c1xb1",
+        "e1-e2",
+        "b3-b1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

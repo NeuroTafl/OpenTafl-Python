@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Patterson",
+    "BlackSidePlayerName": "Kratzer",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d5-f5",
+        "d6-f6xf5",
+        "d4-d5",
+        "d1-d2xd3",
+        "d5-b5",
+        "f6-b6"
+    ],
+    "WhoWon": "Black"
+}

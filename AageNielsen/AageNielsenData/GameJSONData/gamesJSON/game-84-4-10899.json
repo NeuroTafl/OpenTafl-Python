@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "tonythebook",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 84,
+    "AageGameTypeName": "Foteviken tablut 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "f4-c4",
+        "k4-i4",
+        "f5-f3",
+        "a4-b4",
+        "f6-f4",
+        "d3-d4xc4",
+        "e5-c5",
+        "e1-e3",
+        "c5-c4",
+        "d4-d3",
+        "g5-j5",
+        "i4-j4xj5",
+        "f4-i4",
+        "f2-i2",
+        "i4-i11"
+    ],
+    "WhoWon": "White"
+}

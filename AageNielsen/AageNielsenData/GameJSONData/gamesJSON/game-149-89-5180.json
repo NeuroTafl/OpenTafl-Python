@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Mihkkal",
+    "BlackSidePlayerName": "Haio",
+    "AageGameTypeKey": 149,
+    "AageGameTypeName": "Saami Cuhkka 5x5",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "c4-c3",
+        "c2-c4xc3",
+        "c5-c3xc4",
+        "b2-c2",
+        "b4-c4",
+        "d2-b4-b2xc3xb3",
+        "b5-b4",
+        "d1-d2",
+        "d5-c5",
+        "d3-d5-b5-b3xd4xc5xb4",
+        "a3-c3xb3",
+        "d2-b4-d4xc3xc4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

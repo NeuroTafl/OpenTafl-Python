@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Cyningstan",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-e3",
+        "h6-h3",
+        "j5-h5",
+        "f8-i8",
+        "k5-i5",
+        "d6-d2",
+        "b5-c5",
+        "d2-e2",
+        "e3-d3",
+        "g6-h6",
+        "f10-f8",
+        "f4-h4xh5",
+        "d3-e3xe2",
+        "e6-c6",
+        "f8-d8",
+        "f6-d6",
+        "e3-d3",
+        "h4-c4xc5",
+        "a5-c5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

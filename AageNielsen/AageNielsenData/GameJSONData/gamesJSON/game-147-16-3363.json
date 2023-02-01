@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Cacreal",
+    "BlackSidePlayerName": "Mihkkal",
+    "AageGameTypeKey": 147,
+    "AageGameTypeName": "Saami Daabloe 11x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": null,
+    "WhitePiecesCaptured": null,
+    "Moves": [
+        "b8-c7",
+        "h4-g5",
+        "c7-d6",
+        "g3-f4",
+        "a7-b6",
+        "i5-h6",
+        "b6-c5",
+        "c3-d4",
+        "c5-c3",
+        "d4-e5",
+        "c3-g3-g7-i5xe3xg5xh6"
+    ],
+    "WhoWon": "Black"
+}

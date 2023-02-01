@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "malicious",
+    "BlackSidePlayerName": "herknungr",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-h5",
+        "f8-k8",
+        "j7-h7xh6",
+        "d6-d7",
+        "j6-j8",
+        "f7-g7",
+        "h7-h6",
+        "f9-f8",
+        "j8-j6xi6",
+        "f8-a8",
+        "k7-h7",
+        "f6-f9",
+        "h7-h9",
+        "f9-a9"
+    ],
+    "WhoWon": "White"
+}

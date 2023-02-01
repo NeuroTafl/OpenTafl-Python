@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "chuck ward",
+    "BlackSidePlayerName": "arne64",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "f10-j10",
+        "f7-b7",
+        "a5-c5",
+        "f8-b8",
+        "f11-f8",
+        "f6-f7",
+        "c5-c8xb8",
+        "e10-f10",
+        "a8-b8xb7",
+        "g7-g9",
+        "h11-i11",
+        "f7-c7",
+        "c8-c9",
+        "c7-c1",
+        "b6-b1",
+        "c1-c2",
+        "b1-b2",
+        "c2-c1"
+    ],
+    "WhoWon": "Draw"
+}

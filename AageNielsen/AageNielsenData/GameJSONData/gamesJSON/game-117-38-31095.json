@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Thou",
+    "BlackSidePlayerName": "Volkenpuk",
+    "AageGameTypeKey": 117,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f2-f3",
+        "d7-d3",
+        "a5-c5",
+        "f6-c6",
+        "b6-b5",
+        "f8-c8xc7",
+        "g11-d11",
+        "g4-c4xc5",
+        "l8-i8",
+        "j7-j8xi8",
+        "h12-k12",
+        "e7-b7",
+        "f3-f7",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

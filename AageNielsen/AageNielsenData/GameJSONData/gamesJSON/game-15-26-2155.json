@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "HOK",
+    "BlackSidePlayerName": "Doomsayer",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k4-g4",
+        "h6-h4xg4",
+        "h1-h3",
+        "g5-h5",
+        "h11-h8",
+        "g6-g3",
+        "f2-f3xg3",
+        "f6-i6",
+        "g11-g8",
+        "i6-i11",
+        "j6-j11",
+        "i11-h11",
+        "h8-h10",
+        "h11-i11xj11",
+        "k8-k10",
+        "i11-k11"
+    ],
+    "WhoWon": "White"
+}

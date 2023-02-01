@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "docbullen",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f4-f3",
+        "d5-c5",
+        "d6-e6",
+        "c4-c1",
+        "e6-c6",
+        "e4-e1xd1",
+        "d2-d1",
+        "d3-b3",
+        "b4-c4xc5",
+        "d4-d2",
+        "c6-b6",
+        "d2-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

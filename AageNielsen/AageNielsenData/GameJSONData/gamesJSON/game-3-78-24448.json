@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Filosondre",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "d6-d3",
+        "d1-d2",
+        "e5-e2",
+        "d11-d4xd3",
+        "g5-g2xf2",
+        "f10-b10",
+        "e6-e4",
+        "b6-d6",
+        "f5-d5",
+        "d6-c6",
+        "f6-d6",
+        "a8-d8",
+        "e7-b7",
+        "c6-c7xb7",
+        "d6-b6",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

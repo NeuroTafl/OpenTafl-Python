@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-e2",
+        "d3-d2",
+        "d6-c6",
+        "d4-d3",
+        "b4-b3",
+        "d5-c5",
+        "f4-f5",
+        "c4-c2",
+        "f5-f4xe4",
+        "d3-d6",
+        "e2-e6"
+    ],
+    "WhoWon": "Black"
+}

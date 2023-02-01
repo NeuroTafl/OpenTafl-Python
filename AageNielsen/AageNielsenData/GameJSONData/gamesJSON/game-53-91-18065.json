@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "KayKyber",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d7-c7",
+        "e4-e7",
+        "d6-d7",
+        "d5-f5",
+        "f4-f3",
+        "d4-d6",
+        "b4-b6",
+        "d6-f6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

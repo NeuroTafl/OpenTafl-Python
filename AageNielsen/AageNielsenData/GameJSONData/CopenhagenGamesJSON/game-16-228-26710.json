@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "the fifth seal",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "j6-j9",
+        "h6-j6",
+        "f2-i2",
+        "g6-i6",
+        "f10-i10",
+        "f6-h6",
+        "k4-h4",
+        "i6-i4",
+        "g1-g4",
+        "f4-f3",
+        "a4-f4xf5",
+        "f7-f5xf4",
+        "g4-f4xf5",
+        "g5-g4xh4",
+        "h1-h4xg4",
+        "g7-g4xh4",
+        "f4-c4",
+        "h6-h1",
+        "i2-i1",
+        "h1-h2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

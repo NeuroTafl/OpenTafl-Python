@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Mmagari",
+    "BlackSidePlayerName": "Mykle",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d9",
+        "a8-c8",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "g11-g9",
+        "e5-e9",
+        "b6-d6",
+        "f6-e6",
+        "e1-e5",
+        "f4-e4xe5",
+        "a5-e5",
+        "e4-c4",
+        "a7-e7"
+    ],
+    "WhoWon": "Black"
+}

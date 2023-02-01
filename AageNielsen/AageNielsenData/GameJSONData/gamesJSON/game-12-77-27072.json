@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Nath",
+    "BlackSidePlayerName": "Barba",
+    "AageGameTypeKey": 12,
+    "AageGameTypeName": "Old Hnefatafl 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d9-d8",
+        "e6-b6",
+        "a4-b4",
+        "d5-d2",
+        "f1-f2",
+        "c5-c9",
+        "i6-c6xb6",
+        "e5-c5",
+        "c6-e6xe7",
+        "c5-c1",
+        "b4-b1",
+        "c1-c8",
+        "a6-a8",
+        "c8-b8",
+        "b5-b7",
+        "b8-b9",
+        "d8-b8",
+        "b9-a9"
+    ],
+    "WhoWon": "White"
+}

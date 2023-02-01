@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Pi&eacute;96",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 5,
+    "Moves": [
+        "f3-h3",
+        "e7-e9",
+        "f9-i9",
+        "f8-b8",
+        "c6-c9",
+        "d6-b6xb7",
+        "a7-b7xb6",
+        "e6-b6xb7",
+        "e11-d11",
+        "f6-c6",
+        "h3-c3",
+        "c6-c7",
+        "a6-a7",
+        "b6-a6",
+        "b5-b7",
+        "g6-b6xb7",
+        "c9-c8",
+        "e9-c9xc8",
+        "d11-d7",
+        "b8-a8xa7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

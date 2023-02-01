@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Holidayinnes",
+    "BlackSidePlayerName": "Kaagee",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f10-c10",
+        "f8-i8",
+        "k8-j8",
+        "h6-h8",
+        "h11-h9",
+        "g7-g9",
+        "h9-i9",
+        "f7-j7",
+        "j6-j3",
+        "f6-f10",
+        "j8-j10",
+        "f10-i10xi9",
+        "g11-i11",
+        "g9-k9",
+        "j10-k10",
+        "i10-j10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

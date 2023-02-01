@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "norsebrai",
+    "BlackSidePlayerName": "Olafhowe",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g10-g7",
+        "f7-c7",
+        "g2-g5xg6",
+        "f6-f7",
+        "j5-h5",
+        "f7-d7",
+        "b5-e5xf5",
+        "d7-d11"
+    ],
+    "WhoWon": "White"
+}

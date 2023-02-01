@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "teondrae",
+    "BlackSidePlayerName": "Dr.Christmas",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-k9",
+        "g5-g2",
+        "f2-b2",
+        "h6-h2",
+        "j6-j2",
+        "g6-j6",
+        "f10-j10",
+        "f6-i6",
+        "h1-i1",
+        "i6-i3",
+        "a4-a3",
+        "i3-k3",
+        "j2-k2",
+        "j6-j2",
+        "i1-i2xj2",
+        "h2-h3",
+        "j10-j3",
+        "h3-i3xj3",
+        "g1-i1",
+        "k3-j3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

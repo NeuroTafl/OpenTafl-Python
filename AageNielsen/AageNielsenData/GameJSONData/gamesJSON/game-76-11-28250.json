@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "holidayinnes",
+    "BlackSidePlayerName": "paul7",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-h3",
+        "e7-c7",
+        "c6-c4",
+        "e6-e9",
+        "f9-h9",
+        "d6-b6",
+        "b7-b8",
+        "f6-d6",
+        "c4-c6xb6",
+        "d6-d1"
+    ],
+    "WhoWon": "White"
+}

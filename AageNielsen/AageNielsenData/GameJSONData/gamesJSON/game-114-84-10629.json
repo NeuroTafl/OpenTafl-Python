@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 114,
+    "AageGameTypeName": "Sea battle tafl 13x13 (Nielsen 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g11-c11",
+        "i5-i3",
+        "k7-k3",
+        "g4-l4",
+        "c7-c3",
+        "i7-i6",
+        "l8-l11",
+        "j7-k7",
+        "h12-j12",
+        "g7-j7",
+        "m5-j5",
+        "l4-j4",
+        "k3-j3xj4",
+        "k7-k3xj3",
+        "l6-l3",
+        "j7-k7",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

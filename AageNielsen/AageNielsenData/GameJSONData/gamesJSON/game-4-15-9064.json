@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Denkichbg",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-j2",
+        "e7-e10",
+        "d11-d10xe10",
+        "e6-e10",
+        "b6-b2",
+        "d6-d3",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

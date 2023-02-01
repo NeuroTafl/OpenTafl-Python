@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "casshern",
+    "AageGameTypeKey": 104,
+    "AageGameTypeName": "Ard Ri-1 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d6-c6",
+        "d5-c5",
+        "f4-f5",
+        "e4-e6",
+        "d7-d6",
+        "e6-e7",
+        "c6-c7",
+        "d4-d5",
+        "d6-d7",
+        "e7-e5",
+        "d2-e2",
+        "d3-d2",
+        "b4-b3",
+        "c4-c3",
+        "c7-c6",
+        "c5-b5",
+        "g4-g3",
+        "d5-d6",
+        "g3-d3xc3xd2",
+        "b5-b6xc6",
+        "d3-d5xe5"
+    ],
+    "WhoWon": "Black"
+}

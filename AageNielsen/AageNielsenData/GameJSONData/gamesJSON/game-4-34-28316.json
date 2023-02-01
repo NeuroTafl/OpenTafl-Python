@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "duruk",
+    "BlackSidePlayerName": "DavBerd",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d11-d8",
+        "e7-c7",
+        "a8-c8",
+        "c7-c2",
+        "d1-c1",
+        "e6-e9",
+        "d8-d9",
+        "f8-j8",
+        "h11-h9",
+        "g5-i5",
+        "k4-i4",
+        "i5-i9",
+        "f10-i10",
+        "g7-g9xh9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

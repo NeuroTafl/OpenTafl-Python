@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Masterluke",
+    "BlackSidePlayerName": "L3monman",
+    "AageGameTypeKey": 136,
+    "AageGameTypeName": "Old Tyr-1 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "o8-l8",
+        "h5-h4",
+        "h1-h3",
+        "f7-f4xg4",
+        "c6-d6",
+        "j7-j4xi4",
+        "l7-j7",
+        "h11-h12",
+        "l12-k12",
+        "j9-j12xi12",
+        "m10-k10xk11",
+        "f9-f12xg12",
+        "d7-f7",
+        "g6-g3",
+        "f7-f5xf4",
+        "h9-j9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

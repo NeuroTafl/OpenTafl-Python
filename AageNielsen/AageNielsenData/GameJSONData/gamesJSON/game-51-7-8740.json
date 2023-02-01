@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Plantagen&ecirc;t",
+    "BlackSidePlayerName": "Ded Fomich",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "d6-c6",
+        "d3-a3",
+        "f4-f5",
+        "d5-a5xa4",
+        "f5-f3",
+        "d4-d3",
+        "d1-c1",
+        "d3-b3",
+        "f3-c3xc2",
+        "b3-b1",
+        "g4-f4xe4",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

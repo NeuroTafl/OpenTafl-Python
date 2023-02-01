@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "seeontic",
+    "BlackSidePlayerName": "Biscuitman",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-j8",
+        "h11-h9",
+        "f7-f9",
+        "a8-f8xf9",
+        "e7-e9",
+        "a7-c7",
+        "d6-d9",
+        "f2-b2",
+        "f6-f7",
+        "d1-d6xe6",
+        "f7-d7",
+        "d6-d2",
+        "d9-b9",
+        "f10-c10",
+        "d7-d10",
+        "a6-a10",
+        "d10-k10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

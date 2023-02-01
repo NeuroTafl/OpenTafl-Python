@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Helfrich",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 75,
+    "AageGameTypeName": "Tawlbwrdd T cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "k8-i8",
+        "f7-i7",
+        "h11-h9",
+        "g6-g10",
+        "e11-e10",
+        "g10-i10",
+        "g11-g9",
+        "i10-i9xi8",
+        "e10-e9xf9",
+        "d6-d9",
+        "d1-d6xc6",
+        "f8-f9xe9",
+        "a8-f8xf9",
+        "f6-f7",
+        "f10-f9",
+        "f7-c7",
+        "a5-c5",
+        "c7-c11"
+    ],
+    "WhoWon": "White"
+}

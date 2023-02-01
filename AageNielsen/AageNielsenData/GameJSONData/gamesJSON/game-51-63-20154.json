@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "unhandyandy",
+    "BlackSidePlayerName": "ninasema",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-e2",
+        "d3-d2",
+        "b4-b2",
+        "f4-f2xe2",
+        "d6-e6",
+        "d4-d3",
+        "g4-g3",
+        "d3-e3",
+        "d1-e1",
+        "f2-f1",
+        "g3-g2",
+        "d2-d1xe1",
+        "a4-b4xc4",
+        "e3-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

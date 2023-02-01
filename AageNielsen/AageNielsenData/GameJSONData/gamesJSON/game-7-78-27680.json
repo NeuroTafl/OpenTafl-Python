@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Sun231",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-g2",
+        "e3-d3",
+        "b5-b3",
+        "g5-g6",
+        "h5-h7",
+        "d5-d8",
+        "a6-a8",
+        "f5-f8xe8",
+        "i6-h6",
+        "c5-b5",
+        "f1-f6xg6",
+        "e5-c5",
+        "d1-c1",
+        "c5-c9"
+    ],
+    "WhoWon": "White"
+}

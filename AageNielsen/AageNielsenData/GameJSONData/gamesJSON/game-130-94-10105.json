@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Hnefihunter",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 130,
+    "AageGameTypeName": "Brandubh noreturn 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "d2-b2",
+        "d3-d2",
+        "f4-f3",
+        "d2-f2",
+        "d1-f1xf2",
+        "d4-d1",
+        "b2-b1",
+        "d1-e1xf1",
+        "f3-f1",
+        "e1-c1xb1",
+        "b4-b1",
+        "c1-e1xf1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

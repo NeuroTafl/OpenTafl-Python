@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Fairland",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "g5-j5",
+        "i4-i5xj5",
+        "g6-g3",
+        "h1-h3",
+        "h6-i6",
+        "h11-h6xi6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

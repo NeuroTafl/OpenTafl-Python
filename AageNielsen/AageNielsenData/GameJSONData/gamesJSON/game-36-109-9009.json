@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Davberd",
+    "BlackSidePlayerName": "Arne64",
+    "AageGameTypeKey": 36,
+    "AageGameTypeName": "Old Hnefatafl 13x13 (Viking Siege)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j1-j3",
+        "f6-f2",
+        "h1-h3",
+        "f2-b2",
+        "a4-a2",
+        "g4-b4",
+        "g2-c2xb2",
+        "b4-b2",
+        "c2-c3",
+        "f8-b8",
+        "a6-c6",
+        "d7-d11",
+        "a9-b9xb8",
+        "b2-k2",
+        "i1-k1",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

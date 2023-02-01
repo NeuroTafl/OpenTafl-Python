@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Duhawk93",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-j2",
+        "e5-b5",
+        "a8-c8",
+        "e7-b7xb6",
+        "c8-c7xb7",
+        "d6-c6",
+        "d11-d8",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "j4-i4",
+        "f4-f2",
+        "d1-d2",
+        "f6-f3",
+        "e1-e2",
+        "f3-k3",
+        "j2-k2",
+        "k3-a3",
+        "d2-a2",
+        "a3-k3xk2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

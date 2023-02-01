@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "kAAgEE",
+    "BlackSidePlayerName": "Freyja",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4-i4",
+        "h6-h9",
+        "j6-h6",
+        "g7-j7",
+        "i4-i7xj7",
+        "g6-g9",
+        "k8-i8",
+        "f8-h8",
+        "e11-e9",
+        "f7-h7",
+        "a8-e8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

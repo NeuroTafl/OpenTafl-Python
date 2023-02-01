@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Sybil",
+    "AageGameTypeKey": 13,
+    "AageGameTypeName": "Old Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10b10",
+        "f8f10",
+        "j6j10",
+        "f7f9",
+        "f2j2",
+        "f6f8",
+        "a8a9",
+        "f8i8",
+        "h11i11",
+        "i8i1",
+        "j2j1",
+        "i1i2",
+        "h1i1",
+        "i2k2",
+        "k4k3",
+        "k2k1"
+    ],
+    "WhoWon": "White"
+}

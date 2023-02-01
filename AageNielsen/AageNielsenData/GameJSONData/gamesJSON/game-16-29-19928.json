@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Jenna.morgan",
+    "BlackSidePlayerName": "Steiger",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "h6-h10",
+        "h3-h9xh10",
+        "d6-d3",
+        "a8-c8",
+        "e5-c5",
+        "f2-c2",
+        "f4-j4",
+        "g1-g3",
+        "f8-h8",
+        "k7-h7xh8",
+        "g5-j5",
+        "g3-j3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

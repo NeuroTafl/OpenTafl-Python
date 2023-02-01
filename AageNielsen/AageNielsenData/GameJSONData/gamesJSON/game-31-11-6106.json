@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Norsecucu",
+    "BlackSidePlayerName": "Ragnarocon",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "a7-a9",
+        "f9-g9",
+        "k7-k8",
+        "f8-g8",
+        "e11-c11",
+        "f7-g7",
+        "a6-a8",
+        "g8-j8",
+        "g11-i11",
+        "f6-f8",
+        "i11-i8xj8",
+        "f8-h8",
+        "a8-g8xg9"
+    ],
+    "WhoWon": "Black"
+}

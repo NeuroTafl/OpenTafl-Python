@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Vik King",
+    "BlackSidePlayerName": "Hagardarossa",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-j7",
+        "h6-j6",
+        "k5-j5xj6",
+        "g6-j6",
+        "j7-j11",
+        "f6-i6",
+        "j11-j7xj6",
+        "i6-i1",
+        "j5-j1",
+        "i1-i2",
+        "j7-i7",
+        "f8-i8",
+        "i7-i3",
+        "i2-i1xj1",
+        "i3-i2",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

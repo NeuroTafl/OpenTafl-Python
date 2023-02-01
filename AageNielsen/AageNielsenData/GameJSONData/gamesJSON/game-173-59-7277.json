@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Paul7",
+    "AageGameTypeKey": 173,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd-w)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e7-c7",
+        "b5-c5",
+        "e6-e9",
+        "g10-g9",
+        "d6-d11",
+        "f3-d3",
+        "f6-d6",
+        "a7-a9",
+        "d6-d8",
+        "a6-a8",
+        "d8-c8",
+        "a9-c9",
+        "d11-d10",
+        "c9-c10xd10",
+        "e9-c9",
+        "a8-b8",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

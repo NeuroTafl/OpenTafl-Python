@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 13,
+    "AageGameTypeName": "Old Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11d9",
+        "g5j5",
+        "k7i7",
+        "f5i5",
+        "k4i4",
+        "f4c4",
+        "b6b2",
+        "f6f3",
+        "h1h3",
+        "f3a3",
+        "b2a2",
+        "a3b3",
+        "a2b2",
+        "b3b11",
+        "j6i6",
+        "b11a11"
+    ],
+    "WhoWon": "White"
+}

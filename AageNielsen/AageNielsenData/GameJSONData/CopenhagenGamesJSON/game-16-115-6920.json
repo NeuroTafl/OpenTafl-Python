@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Mykle",
+    "BlackSidePlayerName": "Arevidar",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "e5-c5",
+        "a4-c4",
+        "c5-c9",
+        "f10-c10",
+        "c9-b9",
+        "a8-a9",
+        "f8-a8",
+        "c4-c9xb9",
+        "f7-f10",
+        "c9-f9xf10",
+        "f6-f8",
+        "h11-h8",
+        "f5-b5",
+        "c10-c5xb5",
+        "g7-g10",
+        "j6-j9",
+        "f8-b8",
+        "d11-b11",
+        "b8-b10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

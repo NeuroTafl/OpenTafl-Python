@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "unhandyandy",
+    "BlackSidePlayerName": "casshern",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-c2",
+        "f5-f8",
+        "f1-f5xg5",
+        "d5-d8xe8",
+        "d1-d5xc5",
+        "e4-f4",
+        "i4-g4",
+        "e6-f6xf5",
+        "a4-e4xf4",
+        "e7-e8",
+        "c2-c7",
+        "e5-e7",
+        "g4-g7",
+        "f6-e6",
+        "e1-e2xe3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "eric",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "g10-g8",
+        "h6-h8xg8",
+        "j7-h7",
+        "g6-h6xh7",
+        "g2-h2",
+        "g7-g9",
+        "j5-h5",
+        "f4-h4xh5",
+        "a5-a4",
+        "e7-e9xf9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

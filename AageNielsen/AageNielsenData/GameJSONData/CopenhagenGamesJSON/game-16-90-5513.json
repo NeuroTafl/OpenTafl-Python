@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Weatherwax",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-h8",
+        "h6-h3",
+        "f2-h2",
+        "g5-h5",
+        "k4-h4xh3",
+        "h5-i5",
+        "g11-g8",
+        "e5-e3",
+        "g1-g4",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "matadordevictor",
+    "BlackSidePlayerName": "Lininho234",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b6-c6",
+        "g5-g2",
+        "k4-k2",
+        "f4-b4",
+        "h1-h2xg2",
+        "f5-j5",
+        "c6-c4xb4",
+        "f6-f3",
+        "a4-a2",
+        "f3-a3xa2",
+        "f2-a2",
+        "a3-k3xk2",
+        "h2-k2",
+        "k3-i3",
+        "k5-k3",
+        "i3-i9",
+        "h11-j11",
+        "i9-i1",
+        "c4-j4xj5",
+        "i1-k1"
+    ],
+    "WhoWon": "White"
+}

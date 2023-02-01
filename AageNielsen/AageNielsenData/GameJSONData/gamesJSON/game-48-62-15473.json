@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Tonythebook",
+    "BlackSidePlayerName": "Seeontic",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d8-d5",
+        "h11-a11",
+        "g14-b14",
+        "f7-c7",
+        "a6-c6xc7",
+        "h7-d7",
+        "h12-a12xa11",
+        "h10-h12",
+        "l8-l12",
+        "h9-i9",
+        "h4-k4",
+        "h8-h11",
+        "j15-j11",
+        "h11-a11"
+    ],
+    "WhoWon": "White"
+}

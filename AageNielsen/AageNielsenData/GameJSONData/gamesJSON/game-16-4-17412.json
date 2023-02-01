@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "herjan",
+    "BlackSidePlayerName": "Chillin",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "e7-e10",
+        "f10-i10",
+        "f8-f10",
+        "b6-b10",
+        "f7-c7",
+        "d11-c11",
+        "f6-f9",
+        "a8-a9",
+        "f9-k9",
+        "i10-k10",
+        "k9-b9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

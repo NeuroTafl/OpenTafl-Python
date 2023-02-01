@@ -1,0 +1,14 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 174,
+    "AageGameTypeName": "Fidchell weak-king (Simple Tafl 7x7)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "c1-b1",
+        "resigned"
+    ],
+    "WhoWon": ""
+}

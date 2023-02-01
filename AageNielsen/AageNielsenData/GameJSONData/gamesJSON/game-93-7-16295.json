@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "hrafnblod",
+    "AageGameTypeKey": 93,
+    "AageGameTypeName": "Unst king hammer only Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e1-c1",
+        "f8-k8",
+        "j7-j9",
+        "f7-f9",
+        "b7-b8",
+        "f6-f8",
+        "j9-k9xk8",
+        "f8-i8",
+        "k7-i7",
+        "h6-h11",
+        "b8-h8",
+        "i8-i11",
+        "j6-j11",
+        "f5-f8",
+        "j5-j10",
+        "g7-g8",
+        "i7-i10",
+        "h11-h10",
+        "g11-h11",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

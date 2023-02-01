@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Efra",
+    "BlackSidePlayerName": "Wesley Alves",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "e4-e2",
+        "f4-f2",
+        "d5-g5",
+        "d6-g6xg5",
+        "d4-d5",
+        "g6-f6",
+        "d5-c5",
+        "d1-d2xd3xe2",
+        "c4-f4",
+        "b4-b5",
+        "c5-e5",
+        "d2-e2",
+        "f4-c4",
+        "e2-e4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

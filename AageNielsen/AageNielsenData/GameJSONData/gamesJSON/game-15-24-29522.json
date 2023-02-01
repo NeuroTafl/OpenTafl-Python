@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "wibaut",
+    "BlackSidePlayerName": "ikbengeweldig",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g11-g9",
+        "h6-h9",
+        "f10-f9",
+        "g6-i6",
+        "h1-h6xi6",
+        "g5-i5",
+        "b6-c6",
+        "i5-h5",
+        "h6-i6",
+        "f6-h6",
+        "h11-j11",
+        "h9-h11",
+        "k8-k10",
+        "h11-i11xj11",
+        "k7-i7",
+        "h6-h10",
+        "g9-g10",
+        "h10-j10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

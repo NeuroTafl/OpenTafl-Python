@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Rosk",
+    "BlackSidePlayerName": "Denkichbg",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-j2",
+        "f8-c8",
+        "a8-a9",
+        "c8-c3",
+        "b6-b3",
+        "e7-b7",
+        "d1-d3xc3",
+        "f7-c7",
+        "e11-e7",
+        "f6-f9",
+        "h11-h9",
+        "f9-b9",
+        "d11-b11",
+        "c7-c11xb11",
+        "f10-b10",
+        "c11-b11xb10",
+        "f11-f10",
+        "b9-b10",
+        "a9-a10",
+        "b11-c11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

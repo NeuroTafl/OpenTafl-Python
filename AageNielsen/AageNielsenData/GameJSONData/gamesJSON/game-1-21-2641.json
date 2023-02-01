@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Oddur",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 1,
+    "AageGameTypeName": "Rachunek tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e3h3",
+        "i4h4",
+        "g5g2",
+        "i5i3",
+        "f5f8",
+        "e8c8",
+        "e5g5",
+        "i6g6",
+        "g2g1",
+        "e2h2",
+        "g5g2",
+        "d1d2",
+        "g1h1",
+        "f1g1",
+        "f8f1",
+        "i3i1",
+        "g2g1"
+    ],
+    "WhoWon": "White"
+}

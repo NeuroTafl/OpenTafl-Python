@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "Rift",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h4",
+        "h6-h9",
+        "j6-j9",
+        "d6-d2",
+        "a8-c8",
+        "e5-e2",
+        "g1-g3",
+        "e6-e3",
+        "d11-d9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

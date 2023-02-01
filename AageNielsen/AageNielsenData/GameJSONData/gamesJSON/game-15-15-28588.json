@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "skydd",
+    "BlackSidePlayerName": "Slowbro",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d3",
+        "g5-g2",
+        "h1-h2xg2",
+        "h6-h3",
+        "k4-h4xh3",
+        "g6-g4",
+        "j6-h6",
+        "f8-h8",
+        "f10-f8",
+        "g7-g8",
+        "e11-e8",
+        "d6-c6",
+        "d3-d6xc6",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

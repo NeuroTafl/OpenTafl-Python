@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "test3",
+    "BlackSidePlayerName": "Thanir",
+    "AageGameTypeKey": 84,
+    "AageGameTypeName": "Foteviken tablut 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "h11-h9",
+        "g7-g10",
+        "h9-h10xg10",
+        "g6-g10",
+        "h10-i10",
+        "f7-j7",
+        "k8-j8xj7",
+        "f6-f9",
+        "d11-d9",
+        "f9-k9"
+    ],
+    "WhoWon": "White"
+}

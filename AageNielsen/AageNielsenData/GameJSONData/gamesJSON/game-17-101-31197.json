@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Skallatorc",
+    "BlackSidePlayerName": "Barba",
+    "AageGameTypeKey": 17,
+    "AageGameTypeName": "Tawlbwrdd T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "f8-b8",
+        "k8-c8xb8",
+        "g7-j7",
+        "c8-j8xj7",
+        "f7-j7",
+        "a8-d8",
+        "f6-f9",
+        "h11-h9",
+        "j7-i7",
+        "d8-f8"
+    ],
+    "WhoWon": "Black"
+}

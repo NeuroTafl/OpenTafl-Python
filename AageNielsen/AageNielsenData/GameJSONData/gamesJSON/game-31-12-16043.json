@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Wiglafmac (smith",
+    "BlackSidePlayerName": "Audunad",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "resigned",
+        "k5-k4",
+        "e6-e4",
+        "b5-b4",
+        "f9-e9",
+        "b7-b9",
+        "f5-e5",
+        "g2-i2",
+        "f8-b8",
+        "a7-b7xb8",
+        "i6-i7",
+        "j6-i6",
+        "c6-c7",
+        "f10-f9",
+        "f6-e6",
+        "j5-f5",
+        "e6-e8",
+        "b9-b8",
+        "e8-j8",
+        "k7-k8",
+        "j8-j11"
+    ],
+    "WhoWon": "White"
+}

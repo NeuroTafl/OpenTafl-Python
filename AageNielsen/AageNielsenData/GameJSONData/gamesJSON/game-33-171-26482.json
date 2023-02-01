@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Chaolaibhne",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h2-j2",
+        "g4-k4",
+        "g3-k3",
+        "g6-g3",
+        "b6-b4",
+        "k4-k5",
+        "f2-d2",
+        "h8-k8",
+        "l6-k6",
+        "i9-l9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

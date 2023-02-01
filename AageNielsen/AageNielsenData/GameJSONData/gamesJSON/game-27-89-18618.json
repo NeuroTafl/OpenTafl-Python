@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Vonraider",
+    "BlackSidePlayerName": "Torc",
+    "AageGameTypeKey": 27,
+    "AageGameTypeName": "Tawlbwrdd throneless T diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-c2",
+        "f4-i4",
+        "j6-j3",
+        "h6-j6",
+        "f10-j10",
+        "f5-f3",
+        "b6-b3",
+        "f6-f4",
+        "g1-g2",
+        "f4-c4",
+        "a7-c7",
+        "d6-c6",
+        "a8-c8",
+        "c4-d4",
+        "d11-d9",
+        "i4-j4",
+        "a4-c4",
+        "d4-i4",
+        "h1-i1",
+        "i4-i11"
+    ],
+    "WhoWon": "White"
+}

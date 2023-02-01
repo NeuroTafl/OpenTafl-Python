@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "garun19",
+    "BlackSidePlayerName": "kraken",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d1-d4",
+        "h6-h3",
+        "k4-i4",
+        "e5-b5",
+        "a4-b4xb5",
+        "f5-b5",
+        "e1-e3",
+        "e6-e4",
+        "a7-c7",
+        "d6-d9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

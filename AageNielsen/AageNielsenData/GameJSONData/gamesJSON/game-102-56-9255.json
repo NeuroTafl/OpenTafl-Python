@@ -1,0 +1,19 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "Mari",
+    "AageGameTypeKey": 102,
+    "AageGameTypeName": "Alea Berserk 19x19 (Bartley)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "n3-j3",
+        "j4-j5",
+        "l4-l6",
+        "h9-h5xi5",
+        "l6-h6xh5",
+        "i8-i5",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

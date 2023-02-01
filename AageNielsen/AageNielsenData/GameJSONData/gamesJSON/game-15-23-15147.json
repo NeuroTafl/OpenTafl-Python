@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Pimms",
+    "BlackSidePlayerName": "HOK",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a8-a9",
+        "e7-c7",
+        "d1-c1",
+        "e6-e9",
+        "d11-c11",
+        "e5-e2",
+        "f2-j2",
+        "f6-e6",
+        "a4-a3",
+        "e2-a2",
+        "a3-b3",
+        "e6-e2",
+        "a5-a3xa2",
+        "e2-b2",
+        "a3-a2",
+        "f4-b4xb3",
+        "a6-a3",
+        "d6-d1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

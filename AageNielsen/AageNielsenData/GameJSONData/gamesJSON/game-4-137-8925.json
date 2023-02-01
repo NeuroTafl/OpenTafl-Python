@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "cacreal",
+    "BlackSidePlayerName": "thebigfoot",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "f8-i8",
+        "g1-g2",
+        "f4-c4",
+        "a5-b5",
+        "h6-h9",
+        "g11-g10",
+        "g7-j7",
+        "k8-j8xj7",
+        "f7-j7",
+        "k5-i5",
+        "h9-j9xj8",
+        "k7-k9",
+        "f6-f9",
+        "h11-i11",
+        "f9-a9",
+        "f10-a10",
+        "a9-b9",
+        "a10-b10",
+        "c4-c11",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

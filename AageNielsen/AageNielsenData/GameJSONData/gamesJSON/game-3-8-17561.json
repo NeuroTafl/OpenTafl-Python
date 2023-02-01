@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Filosondre",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "d6-d3",
+        "h1-h3",
+        "e7-c7",
+        "e11-e9",
+        "c7-c11",
+        "a7-c7",
+        "c11-c10",
+        "k4-i4",
+        "g7-g8",
+        "a8-a10",
+        "f8-a8",
+        "e9-a9",
+        "e6-e11",
+        "d11-c11",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "monako",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "g5-i5",
+        "k4-i4",
+        "g7-i7",
+        "h1-h3",
+        "f5-h5",
+        "a4-c4",
+        "d6-d4",
+        "j6-i6xi7xi5",
+        "g6-g8",
+        "e1-e4xd4",
+        "f7-i7",
+        "i6-j6",
+        "h6-i6",
+        "g1-g4xf4",
+        "e5-f5",
+        "h11-h9",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

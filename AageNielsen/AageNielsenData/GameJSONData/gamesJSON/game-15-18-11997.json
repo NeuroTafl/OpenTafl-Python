@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "xerxes",
+    "BlackSidePlayerName": "di Bathory",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f10-c10",
+        "d6-d3",
+        "b6-b2",
+        "g5-j5",
+        "k4-j4xj5",
+        "f5-j5",
+        "j4-j3",
+        "f4-j4",
+        "j6-j10",
+        "f6-f3",
+        "h11-i11",
+        "d3-a3",
+        "k5-k4",
+        "f3-c3",
+        "d1-c1",
+        "c3-c2",
+        "b2-a2xa3",
+        "c2-b2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "xiao",
+    "BlackSidePlayerName": "childe",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g2-h2",
+        "f5-d5",
+        "j5-f5",
+        "g6-g2",
+        "g10-g6",
+        "e6-e4",
+        "e2-e3",
+        "f7-i7",
+        "b7-f7"
+    ],
+    "WhoWon": "Black"
+}

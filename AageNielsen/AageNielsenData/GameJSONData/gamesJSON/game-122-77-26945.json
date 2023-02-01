@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Unhandyandy",
+    "BlackSidePlayerName": "Hnefihunter",
+    "AageGameTypeKey": 122,
+    "AageGameTypeName": "Brandubh-39 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f3-f4",
+        "d3-d1",
+        "e2-e1",
+        "d1-c1",
+        "b3-c3",
+        "c4-a4",
+        "b5-a5",
+        "d4-d1",
+        "e6-d6xd5",
+        "e4-e3",
+        "f4-f3",
+        "e3-e7",
+        "d6-d2",
+        "e7-e6",
+        "c3-a3xa4",
+        "e6-e4",
+        "f5-f4xe4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

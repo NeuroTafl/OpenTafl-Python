@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Adam",
+    "BlackSidePlayerName": "Efra",
+    "AageGameTypeKey": 102,
+    "AageGameTypeName": "Alea Berserk 19x19 (Bartley)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "i15-i13",
+        "j13-h13xi13",
+        "f17-i17",
+        "j16-j18",
+        "o7-o6",
+        "j18-h18",
+        "m5-m6xn6",
+        "j11-j17",
+        "g15-j15",
+        "h18-h17xi17",
+        "e13-e14",
+        "h13-h15xh16",
+        "j15-j12",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

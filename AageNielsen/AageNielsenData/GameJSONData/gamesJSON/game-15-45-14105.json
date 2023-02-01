@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "HOK",
+    "BlackSidePlayerName": "Haner Adigard",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b6-b10",
+        "f4-b4",
+        "f2-b2",
+        "f5-f2",
+        "k4-f4",
+        "e5-e3",
+        "d1-c1",
+        "e3-f3",
+        "f4-h4",
+        "f3-k3",
+        "j6-j2",
+        "f6-f3",
+        "g1-g3",
+        "g5-g4",
+        "k5-g5xg4",
+        "f3-a3",
+        "b2-a2",
+        "a3-b3",
+        "g3-c3",
+        "b3-a3xa2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

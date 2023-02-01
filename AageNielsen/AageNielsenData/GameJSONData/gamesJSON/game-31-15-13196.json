@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Wiglafsa",
+    "BlackSidePlayerName": "wiglafzo",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g2-g3",
+        "d6-d11",
+        "e2-e3xf3",
+        "e6-e4",
+        "e10-e5xe4",
+        "f6-d6",
+        "e1-d1",
+        "f8-j8",
+        "b7-d7",
+        "j8-d8xd7",
+        "a7-d7",
+        "d6-d4",
+        "b5-b4",
+        "f4-f3",
+        "e3-d3",
+        "d4-h4",
+        "g3-h3",
+        "h4-k4"
+    ],
+    "WhoWon": "White"
+}

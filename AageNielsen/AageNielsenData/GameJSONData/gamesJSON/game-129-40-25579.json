@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Auskor",
+    "BlackSidePlayerName": "L716",
+    "AageGameTypeKey": 129,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 2)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f4-f5",
+        "e4-f4",
+        "d2-e2",
+        "f4-f2",
+        "d1-d2",
+        "c4-c1",
+        "d2-d1",
+        "d3-d2xe2",
+        "g4-g3",
+        "d4-e4",
+        "d1-e1",
+        "f2-f1",
+        "b4-b3",
+        "c1-d1xe1",
+        "d6-c6",
+        "f1-f2",
+        "g3-e3",
+        "e4-g4",
+        "e3-g3",
+        "g4-g7"
+    ],
+    "WhoWon": "White"
+}

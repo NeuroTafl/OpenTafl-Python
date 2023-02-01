@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Deepztream",
+    "BlackSidePlayerName": "ChaolAibhne",
+    "AageGameTypeKey": 7,
+    "AageGameTypeName": "Historical Hnefatafl 9x9 (Saami Tablut)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-g2",
+        "e6-d6",
+        "e8-c8",
+        "e5-e6",
+        "h5-h7",
+        "f5-f7",
+        "i6-h6",
+        "e7-e8",
+        "h7-g7",
+        "e6-e7",
+        "b5-b7",
+        "c5-c6",
+        "f9-f8",
+        "e4-c4",
+        "g2-g3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

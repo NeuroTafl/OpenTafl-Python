@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "altti",
+    "BlackSidePlayerName": "bigwurm91",
+    "AageGameTypeKey": 59,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Scottish Ard Ri throneless)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "b4-b5",
+        "c4-b4",
+        "d2-c2",
+        "d3-d2",
+        "g4-g3",
+        "b4-b2xc2",
+        "d1-c1",
+        "d4-d3",
+        "a4-a3",
+        "d2-f2",
+        "c1-d1",
+        "d3-c3",
+        "d1-d4xd5xe4",
+        "c3-c1"
+    ],
+    "WhoWon": "White"
+}

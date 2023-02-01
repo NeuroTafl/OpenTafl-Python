@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Cacreal",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 33,
+    "AageGameTypeName": "Historical Hnefatafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "l8-l10",
+        "f6-c6",
+        "b8-c8",
+        "f7-f3",
+        "e1-e3xf3",
+        "e5-b5",
+        "f1-c1",
+        "g4-c4",
+        "g1-d1",
+        "g6-d6",
+        "m5-j5",
+        "g7-g4",
+        "i1-i4",
+        "c4-c3",
+        "d1-d4",
+        "h6-h3",
+        "k7-k3",
+        "f8-f3xg3",
+        "l6-i6xi5",
+        "g4-g1"
+    ],
+    "WhoWon": "White"
+}

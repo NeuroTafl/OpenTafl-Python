@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "docbullen",
+    "BlackSidePlayerName": "mmagari",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "h6-h9",
+        "h1-i1",
+        "g7-i7",
+        "j6-i6xi7",
+        "f7-i7",
+        "i8-i9",
+        "g6-g10",
+        "h11-h10xg10",
+        "g5-i5xi6",
+        "k7-k8",
+        "f6-j6",
+        "k8-j8",
+        "j6-j1",
+        "j8-j2",
+        "j1-k1"
+    ],
+    "WhoWon": "White"
+}

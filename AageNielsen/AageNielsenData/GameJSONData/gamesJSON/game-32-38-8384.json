@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Davberd",
+    "BlackSidePlayerName": "Fairland",
+    "AageGameTypeKey": 32,
+    "AageGameTypeName": "Tawlbwrdd throneless Lewis diamond 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g1-h1",
+        "f4-f3",
+        "k5-k4",
+        "g5-g4",
+        "k4-i4",
+        "f5-i5",
+        "j6-i6xi5",
+        "f6-f4",
+        "e2-e4",
+        "f3-e3xe4",
+        "b5-b4",
+        "f4-c4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

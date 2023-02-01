@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Norsedeli",
+    "BlackSidePlayerName": "Norseabre",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j5-j4",
+        "f5-i5",
+        "j7-j8",
+        "f6-f5",
+        "g10-h10",
+        "f5-h5",
+        "e10-d10",
+        "h5-h1"
+    ],
+    "WhoWon": "White"
+}

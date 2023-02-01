@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Cacreal",
+    "BlackSidePlayerName": "Waegn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h1-h3",
+        "d6-d3",
+        "a8-d8",
+        "e7-b7",
+        "f10-b10",
+        "e5-b5xb6",
+        "a6-b6",
+        "b5-b2",
+        "d8-b8xb7",
+        "e6-e9",
+        "d11-d6",
+        "f7-c7",
+        "e1-e6",
+        "f6-f7",
+        "k8-h8",
+        "f7-d7",
+        "a5-d5",
+        "d7-d11",
+        "b10-b11",
+        "d11-d10",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

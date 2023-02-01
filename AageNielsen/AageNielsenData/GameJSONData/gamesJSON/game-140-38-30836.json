@@ -1,0 +1,24 @@
+{
+    "WhiteSidePlayerName": "Jrton80",
+    "BlackSidePlayerName": "MasterLuke",
+    "AageGameTypeKey": 140,
+    "AageGameTypeName": "Old Tyr-2 17x17",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e8-e6",
+        "l9-m9",
+        "m15-m12",
+        "j11-m11xm10",
+        "k14-k12xl12",
+        "j7-m7xm8",
+        "g4-g6xf6",
+        "j9-j12",
+        "j5-j11xj12",
+        "i9-l9",
+        "n11-l11",
+        "l9-l8xl7"
+    ],
+    "WhoWon": "White"
+}

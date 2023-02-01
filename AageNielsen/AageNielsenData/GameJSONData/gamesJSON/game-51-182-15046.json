@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "Sybil",
+    "BlackSidePlayerName": "Cyningstan",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f4-f6",
+        "e4-e6",
+        "d6-c6",
+        "d5-e5",
+        "d7-d6xe6",
+        "d4-f4",
+        "d2-e2",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

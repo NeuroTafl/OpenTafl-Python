@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "Skallatorc",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "h1-h3",
+        "g5-g2",
+        "j6-j2",
+        "g6-g3",
+        "g1-i1",
+        "h6-h5",
+        "f10-j10",
+        "f6-i6",
+        "h11-i11",
+        "i6-i3xh3",
+        "k4-k3",
+        "e5-e2xf2",
+        "b6-b2",
+        "g3-a3",
+        "d1-b1",
+        "i3-c3",
+        "a8-c8",
+        "c3-c1xb1",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

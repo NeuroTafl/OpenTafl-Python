@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Epoc",
+    "BlackSidePlayerName": "Mj&oslash;lnir",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "e7-e10",
+        "g11-g9",
+        "f7-c7",
+        "d11-d10xe10",
+        "f6-f7",
+        "a8-c8",
+        "g7-j7",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

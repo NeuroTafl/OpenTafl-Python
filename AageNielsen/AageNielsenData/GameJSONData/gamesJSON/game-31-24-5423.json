@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Wiglafia",
+    "BlackSidePlayerName": "Starrz",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "e2-e5",
+        "d6-d5xe5",
+        "b5-c5",
+        "f4-e4",
+        "g2-g4",
+        "h6-h4",
+        "j5-h5",
+        "i6-h6xh5",
+        "k5-h5",
+        "f7-h7",
+        "b7-f7",
+        "e6-e9",
+        "a7-c7xc6",
+        "f8-g8",
+        "f7-e7",
+        "g8-g9",
+        "e7-e8xe9",
+        "f6-f8",
+        "j7-j8",
+        "f8-i8",
+        "e8-h8"
+    ],
+    "WhoWon": "Black"
+}

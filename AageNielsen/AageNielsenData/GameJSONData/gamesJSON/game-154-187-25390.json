@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Colophonius",
+    "AageGameTypeKey": 154,
+    "AageGameTypeName": "Tyr 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d2",
+        "e7-e9",
+        "f9-f8",
+        "f6-g6",
+        "a9-a8",
+        "g5-g4",
+        "f8-f5",
+        "d6-f6xf5",
+        "i4-i5",
+        "e5-h5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

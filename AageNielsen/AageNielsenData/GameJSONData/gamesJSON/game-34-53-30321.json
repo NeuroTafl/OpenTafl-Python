@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Bob",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "g3-c3",
+        "h8-k8",
+        "m9-k9xk8",
+        "g8-k8",
+        "l6-k6",
+        "g10-k10xk9",
+        "g11-g9",
+        "g4-g2",
+        "c3-g3xg2",
+        "h7-h9",
+        "f12-f9",
+        "k10-f10xf9",
+        "a5-d5",
+        "f8-f9xg9",
+        "f2-f5xe5",
+        "g7-g11",
+        "f13-f11",
+        "g11-m11"
+    ],
+    "WhoWon": "White"
+}

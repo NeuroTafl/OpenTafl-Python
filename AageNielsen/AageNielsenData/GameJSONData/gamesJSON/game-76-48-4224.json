@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "dayvigco",
+    "AageGameTypeKey": 76,
+    "AageGameTypeName": "Historical Hnefatafl 11x11 (Welsh Tawlbwrdd)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "i6-i8",
+        "e5-c5",
+        "c6-c8",
+        "e6-e3",
+        "e1-d1",
+        "g5-g3xf3",
+        "j5-j4",
+        "d6-d2",
+        "b5-b4",
+        "f4-f2xe2",
+        "g2-h2",
+        "f6-d6",
+        "f9-d9",
+        "d6-d3",
+        "a5-a3",
+        "e3-e1",
+        "j4-e4",
+        "c5-c1xd1",
+        "c8-c3",
+        "g3-e3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

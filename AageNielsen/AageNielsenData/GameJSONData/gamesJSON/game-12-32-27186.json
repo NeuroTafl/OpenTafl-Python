@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "Nasa",
+    "BlackSidePlayerName": "Fishbreath",
+    "AageGameTypeKey": 12,
+    "AageGameTypeName": "Old Hnefatafl 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "i6-h6",
+        "c5-c1",
+        "b5-b1xc1",
+        "d5-b5",
+        "f9-f8",
+        "e5-c5",
+        "d9-c9",
+        "c5-c1xb1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

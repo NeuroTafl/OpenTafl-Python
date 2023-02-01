@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "barba",
+    "BlackSidePlayerName": "Dagmar",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j9",
+        "f8-b8",
+        "f10-c10",
+        "b8-b9",
+        "f2-i2",
+        "f4-c4",
+        "k5-j5",
+        "f5-f2",
+        "a8-a9",
+        "c4-c9",
+        "k8-c8xc9",
+        "f6-f3",
+        "g11-g9",
+        "f3-a3",
+        "b6-b2",
+        "a3-a1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,20 @@
+{
+    "WhiteSidePlayerName": "kingolaf99",
+    "BlackSidePlayerName": "stalp",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "b5-b3",
+        "h6-h4",
+        "g2-i2",
+        "g6-g8",
+        "j7-j9",
+        "g8-k8",
+        "j9-j8",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "freeDom-",
+    "BlackSidePlayerName": "Peer0302",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "j6-i6",
+        "f8-i8",
+        "k8-j8",
+        "d6-d8",
+        "d11-d9",
+        "f7-f9",
+        "d1-d7xd8",
+        "f6-f8",
+        "a8-e8",
+        "f9-e9xe8",
+        "f10-f9xe9",
+        "f8-c8",
+        "a7-a8",
+        "c8-c3",
+        "f2-c2",
+        "c3-c10",
+        "b6-b10",
+        "c10-k10",
+        "j8-j10",
+        "k10-k11"
+    ],
+    "WhoWon": "White"
+}

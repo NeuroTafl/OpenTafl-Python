@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Draganov",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e2-c2",
+        "h6-h11",
+        "g1-h1",
+        "f9-k9",
+        "g10-i10",
+        "h11-i11",
+        "h1-h6xi6",
+        "f8-i8",
+        "i10-h10",
+        "i8-i6xh6",
+        "e10-e8",
+        "d6-d8",
+        "e8-i8",
+        "g6-g9",
+        "e11-e9",
+        "d8-d9",
+        "f10-f9",
+        "g9-i9",
+        "j7-i7"
+    ],
+    "WhoWon": "Ongoing"
+}

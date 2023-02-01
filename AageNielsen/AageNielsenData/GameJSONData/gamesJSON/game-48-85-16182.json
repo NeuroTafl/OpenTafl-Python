@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Drzhbe",
+    "BlackSidePlayerName": "Aluric",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h4-e4",
+        "i6-i4",
+        "h3-k3",
+        "h5-n5",
+        "i2-n2",
+        "h6-m6",
+        "o6-n6",
+        "j7-l7",
+        "n2-n4xn5",
+        "j9-l9xl8",
+        "h2-l2",
+        "h7-h2",
+        "k3-h3xh2",
+        "h8-h5",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

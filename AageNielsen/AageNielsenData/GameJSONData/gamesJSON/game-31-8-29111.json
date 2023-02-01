@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "X-Event",
+    "BlackSidePlayerName": "SonOfTheHammer",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g1-i1",
+        "c6-c8",
+        "a7-a9",
+        "c8-c4",
+        "e1-c1",
+        "f3-g3",
+        "f1-h1",
+        "e6-e4",
+        "b5-b4",
+        "d6-c6",
+        "j7-h7",
+        "f6-d6",
+        "b7-d7",
+        "d6-d1"
+    ],
+    "WhoWon": "White"
+}

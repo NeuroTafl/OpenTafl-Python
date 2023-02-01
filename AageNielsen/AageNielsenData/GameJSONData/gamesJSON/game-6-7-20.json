@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 6,
+    "AageGameTypeName": "Foteviken tablut 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "e3h3",
+        "f1f3",
+        "e4h4",
+        "h5h7",
+        "e5e3",
+        "b5b3",
+        "g5g3",
+        "e1f1",
+        "g3g1",
+        "i4i2",
+        "e3g3",
+        "e8g8",
+        "g3g2",
+        "i5i3",
+        "g2h2",
+        "b3g3",
+        "h2h1"
+    ],
+    "WhoWon": "White"
+}

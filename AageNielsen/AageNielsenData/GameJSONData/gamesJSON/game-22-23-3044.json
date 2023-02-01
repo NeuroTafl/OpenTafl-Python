@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Mark-Sam",
+    "BlackSidePlayerName": "Harry64",
+    "AageGameTypeKey": 22,
+    "AageGameTypeName": "Sea battle 9x9 (Imperial Contest)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h5-h3",
+        "e7-b7",
+        "a6-b6",
+        "e6-h6",
+        "b6-g6xh6",
+        "e5-e6",
+        "d9-d6",
+        "b7-d7xd6",
+        "b5-b6",
+        "c5-b5",
+        "a4-b4xb5",
+        "e6-c6",
+        "e8-c8",
+        "c6-c2",
+        "b4-b2",
+        "c2-c1"
+    ],
+    "WhoWon": "White"
+}

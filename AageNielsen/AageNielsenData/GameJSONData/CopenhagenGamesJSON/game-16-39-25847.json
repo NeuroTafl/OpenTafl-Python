@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "p59xy",
+    "BlackSidePlayerName": "jilles",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-d3",
+        "h6-h3",
+        "k8-i8",
+        "g5-i5",
+        "f2-i2",
+        "e5-e2",
+        "b6-b2",
+        "f4-j4",
+        "a4-i4xj4",
+        "h3-i3xi4",
+        "k4-i4xi3",
+        "f5-f3",
+        "h1-h3",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

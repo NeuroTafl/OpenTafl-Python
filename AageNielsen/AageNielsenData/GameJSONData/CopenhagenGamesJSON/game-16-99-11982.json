@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "bender",
+    "BlackSidePlayerName": "bj&oslash;rn",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "j6-j9",
+        "i8-i10",
+        "k4-i4",
+        "g7-i7",
+        "k8-j8",
+        "e7-c7",
+        "a8-c8",
+        "d6-d9",
+        "c8-c9",
+        "f4-b4",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "ChaolAibhne",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 126,
+    "AageGameTypeName": "Sea battle-1606 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "a1-c1",
+        "f5-f8",
+        "d9-d8",
+        "e5-f5",
+        "i9-i7",
+        "f5-f2",
+        "h5-h2",
+        "e3-i3",
+        "i6-i5",
+        "g5-g2",
+        "h2-h1",
+        "g2-g1",
+        "h1-h2",
+        "i3-h3",
+        "i4-g4",
+        "f2-g2",
+        "i5-i3",
+        "g1-h1xh2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

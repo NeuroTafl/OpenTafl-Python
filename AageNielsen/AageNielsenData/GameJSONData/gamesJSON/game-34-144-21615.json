@@ -1,0 +1,22 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "halldav3",
+    "AageGameTypeKey": 34,
+    "AageGameTypeName": "Sea battle tafl 13x13",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "g11-c11",
+        "g10-g12",
+        "c11-g11xg12",
+        "g8-g10",
+        "l6-l2",
+        "g10-m10",
+        "g11-m11xm10",
+        "g7-g10",
+        "f12-b12",
+        "g10-a10"
+    ],
+    "WhoWon": "White"
+}

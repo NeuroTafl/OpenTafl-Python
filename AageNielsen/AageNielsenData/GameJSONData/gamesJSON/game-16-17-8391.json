@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Kratzer",
+    "BlackSidePlayerName": "vonraider",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "f2-i2",
+        "e5-e2",
+        "d1-d2",
+        "f4-f2",
+        "b6-b3",
+        "e6-e3",
+        "j6-j3",
+        "f5-c5",
+        "a4-b4",
+        "c5-c2xd2",
+        "a5-a2",
+        "d6-d1",
+        "a6-d6",
+        "f6-e6",
+        "k4-c4",
+        "e7-c7",
+        "b4-b6",
+        "c7-c6xd6",
+        "d11-d6xc6",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

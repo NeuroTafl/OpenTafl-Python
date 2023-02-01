@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "xerxes",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 101,
+    "AageGameTypeName": "Ard Ri friendly-throne unarmed cross 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d1-c1",
+        "e4-e6",
+        "f4-e4",
+        "d5-f5",
+        "d6-d5",
+        "e6-e5",
+        "d5-c5",
+        "d3-e3xe4",
+        "c1-c3xc4",
+        "f5-g5",
+        "g4-e4",
+        "e3-d3",
+        "e4-f4",
+        "d4-e4",
+        "d2-e2",
+        "d3-e3",
+        "d7-e7",
+        "e4-d4",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

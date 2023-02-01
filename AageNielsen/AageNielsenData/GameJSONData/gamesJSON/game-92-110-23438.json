@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "The fifth seal",
+    "AageGameTypeKey": 92,
+    "AageGameTypeName": "Unst Alea Evangelii 19x19",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "h4-e4",
+        "j16-j18",
+        "g15-g18",
+        "j18-n18",
+        "l16-o16",
+        "m10-o10",
+        "n17-n16",
+        "k12-o12xo11",
+        "n16-n17xn18",
+        "k8-o8xo9",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

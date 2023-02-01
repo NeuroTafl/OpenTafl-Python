@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "J&uuml;rgen",
+    "BlackSidePlayerName": "Calidesert",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j2",
+        "f8-j8",
+        "f10-j10",
+        "f7-f10",
+        "b6-b10",
+        "f6-f9",
+        "h11-h9",
+        "f9-a9",
+        "b10-a10",
+        "a9-b9",
+        "a10-b10",
+        "b9-b1",
+        "a8-i8xj8",
+        "b1-a1"
+    ],
+    "WhoWon": "White"
+}

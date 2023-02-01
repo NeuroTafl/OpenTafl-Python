@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "naseMASER",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 51,
+    "AageGameTypeName": "Historical Hnefatafl 7x7 (Irish Brandubh 1)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c3",
+        "b4-b3",
+        "d3-d2",
+        "d6-c6",
+        "d2-a2",
+        "b3-a3xa2",
+        "d5-a5",
+        "a3-b3",
+        "d4-d5",
+        "f4-f5",
+        "c3-c2",
+        "f5-f4xe4",
+        "c2-b2",
+        "c6-b6",
+        "d5-d4",
+        "b6-a6xa5",
+        "d4-b4xb3",
+        "f4-c4"
+    ],
+    "WhoWon": "Black"
+}

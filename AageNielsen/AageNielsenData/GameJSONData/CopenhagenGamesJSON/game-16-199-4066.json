@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Dansuno",
+    "BlackSidePlayerName": "Kratzer",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h11-h9",
+        "h6-h3",
+        "j6-j3",
+        "g6-j6",
+        "f2-i2",
+        "f6-i6",
+        "k8-i8",
+        "g7-j7",
+        "f10-j10",
+        "j7-j9",
+        "k7-k9",
+        "f8-h8",
+        "g11-g8xh8",
+        "h3-h8",
+        "h1-h7xh8",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}

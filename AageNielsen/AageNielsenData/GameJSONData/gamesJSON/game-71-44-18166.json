@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Hagbard",
+    "BlackSidePlayerName": "crust",
+    "AageGameTypeKey": 71,
+    "AageGameTypeName": "Sea battle T rhombus 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "f2-i2",
+        "f3-f2",
+        "j6-j3",
+        "f6-f3",
+        "d1-d3",
+        "c6-c1",
+        "e1-e2",
+        "e4-e3",
+        "a4-e4xe3",
+        "f9-c9",
+        "f10-f4",
+        "c1-c2",
+        "g1-g2xf2",
+        "f3-i3",
+        "k4-i4",
+        "h5-h3",
+        "k5-h5",
+        "g4-g6",
+        "f4-h4",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 176,
+    "AageGameTypeName": "Simple Tafl-w 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f5-f6",
+        "f1-g1",
+        "e5-f5",
+        "e1-f1",
+        "f6-f8",
+        "i6-i8",
+        "f5-f7",
+        "h5-h7",
+        "d5-d8xe8",
+        "e9-e8",
+        "f8-h8",
+        "e8-g8xh8",
+        "f7-f6",
+        "i8-i6",
+        "e6-b6",
+        "d1-d5xc5",
+        "f6-c6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

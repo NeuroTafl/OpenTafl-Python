@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Mmagari",
+    "BlackSidePlayerName": "holidayinnes",
+    "AageGameTypeKey": 128,
+    "AageGameTypeName": "Sea battle-2526 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-f2",
+        "d6-d9",
+        "h8-f8",
+        "e6-a6",
+        "c7-a7xa6",
+        "f6-i6",
+        "h2-h4",
+        "e5-e6",
+        "c3-c6",
+        "f5-g5",
+        "g7-g6",
+        "e6-f6",
+        "f8-f7",
+        "f6-d6",
+        "a7-d7",
+        "d5-c5",
+        "h4-g4xg5",
+        "d4-d1",
+        "h5-d5xc5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

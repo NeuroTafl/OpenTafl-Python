@@ -1,0 +1,23 @@
+{
+    "WhiteSidePlayerName": "fjorlag",
+    "BlackSidePlayerName": "xerxes",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h1-h3",
+        "f8-i8",
+        "k5-j5",
+        "f4-i4",
+        "f2-i2",
+        "g5-g3",
+        "i2-i3",
+        "f5-i5",
+        "k4-j4",
+        "f6-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

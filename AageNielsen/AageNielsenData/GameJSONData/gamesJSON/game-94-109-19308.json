@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "rosk",
+    "AageGameTypeKey": 94,
+    "AageGameTypeName": "Copenhagen Hnefatafl Bell 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b7-c7",
+        "h6-h3",
+        "j5-h5",
+        "f4-i4",
+        "k5-i5",
+        "g5-g3",
+        "c6-c4",
+        "e5-e3xf3",
+        "c4-e4xe3",
+        "f5-f2",
+        "e4-g4xg3",
+        "d6-d2xe2",
+        "b5-f5",
+        "e6-e4",
+        "f5-f3xf2",
+        "f6-b6",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

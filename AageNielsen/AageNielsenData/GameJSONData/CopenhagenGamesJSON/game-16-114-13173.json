@@ -1,0 +1,28 @@
+{
+    "WhiteSidePlayerName": "Thanir",
+    "BlackSidePlayerName": "dayvigco",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f2-i2",
+        "f4-f2",
+        "b6-b9",
+        "e5-b5",
+        "d1-d5",
+        "f5-e5",
+        "a7-d7xd6",
+        "f6-f3",
+        "d5-d2",
+        "f3-k3",
+        "i2-k2",
+        "k3-a3",
+        "d2-a2",
+        "a3-k3xk2",
+        "j6-j2",
+        "k3-k1"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "crust",
+    "BlackSidePlayerName": "mysak",
+    "AageGameTypeKey": 15,
+    "AageGameTypeName": "Old Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k4i4",
+        "g5j5",
+        "i4j4",
+        "f5j5",
+        "e1e4",
+        "g7j7",
+        "j4h4",
+        "d6d4",
+        "a8e8",
+        "d4d8",
+        "k6j6",
+        "f4b4",
+        "k8j8",
+        "f7j7",
+        "h11h7",
+        "f8h8",
+        "h4e4",
+        "f6f9",
+        "d11d9",
+        "f9j9"
+    ],
+    "WhoWon": "White"
+}

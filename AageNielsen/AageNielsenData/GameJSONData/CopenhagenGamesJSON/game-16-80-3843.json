@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Floki",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "k8-i8",
+        "f4-c4",
+        "h1-h3",
+        "e7-e10",
+        "g11-g9",
+        "e10-b10",
+        "a8-a10",
+        "f7-b7",
+        "a5-b5",
+        "e6-e9",
+        "a7-a9",
+        "c4-c11",
+        "a6-a8",
+        "d6-d3",
+        "a4-a3",
+        "f6-c6",
+        "a8-b8xb7",
+        "c6-c1",
+        "b5-b1",
+        "c1-c9",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

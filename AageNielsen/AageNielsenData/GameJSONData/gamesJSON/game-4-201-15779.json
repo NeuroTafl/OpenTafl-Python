@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Draganov",
+    "BlackSidePlayerName": "Rossomaha",
+    "AageGameTypeKey": 4,
+    "AageGameTypeName": "Fetlar Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "j6-j10",
+        "h6-h3",
+        "f2-j2",
+        "g6-j6",
+        "h11-h6",
+        "j6-j8",
+        "f10-b10",
+        "g7-i7",
+        "b6-b2",
+        "f6-g6",
+        "g11-i11",
+        "g6-g9",
+        "k8-k9",
+        "g9-a9",
+        "b10-a10",
+        "a9-c9",
+        "a10-b10",
+        "c9-c11",
+        "b10-b11",
+        "c11-c1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

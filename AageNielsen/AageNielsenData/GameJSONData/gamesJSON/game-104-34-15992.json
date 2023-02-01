@@ -1,0 +1,32 @@
+{
+    "WhiteSidePlayerName": "Xerxes",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 104,
+    "AageGameTypeName": "Ard Ri-1 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d2-c2",
+        "e4-e5",
+        "f4-f3",
+        "d3-c3",
+        "b4-b3",
+        "c4-b4",
+        "d6-c6",
+        "d5-c5",
+        "d1-d3xc3",
+        "b4-c4",
+        "g4-e4",
+        "d4-d5",
+        "c6-e6xe5",
+        "d5-e5",
+        "f3-f5",
+        "e5-d5",
+        "a4-b4xc4",
+        "c5-c6",
+        "c2-c5",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

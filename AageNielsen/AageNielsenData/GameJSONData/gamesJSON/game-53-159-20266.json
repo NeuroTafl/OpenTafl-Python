@@ -1,0 +1,25 @@
+{
+    "WhiteSidePlayerName": "Irish raven",
+    "BlackSidePlayerName": "Unhandyandy",
+    "AageGameTypeKey": 53,
+    "AageGameTypeName": "Brandubh 7x7 (Walker)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-e2",
+        "c4-c2",
+        "b4-b3",
+        "c2-b2",
+        "d6-c6",
+        "d4-c4",
+        "d1-c1",
+        "c4-c3",
+        "f4-f3",
+        "e4-b4xb3",
+        "c6-c4xb4",
+        "c3-a3",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Fraech",
+    "BlackSidePlayerName": "Altti",
+    "AageGameTypeKey": 87,
+    "AageGameTypeName": "Brandubh circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "f6-f5",
+        "e4-e6",
+        "f2-e2",
+        "c4-c7",
+        "b6-b7xc7",
+        "d4-c4",
+        "e2-d2xd3",
+        "c4-c2",
+        "b7-b6",
+        "d5-d3",
+        "a4-c4",
+        "d3-a3",
+        "c4-c3",
+        "e6-e2xd2",
+        "d1-c1"
+    ],
+    "WhoWon": "Black"
+}

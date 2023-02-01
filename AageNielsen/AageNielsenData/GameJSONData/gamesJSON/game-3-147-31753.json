@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Tuireann",
+    "BlackSidePlayerName": "Fraech",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 4,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "k8-i8",
+        "g7-j7",
+        "k5-i5",
+        "f4-j4",
+        "i8-i7xj7",
+        "h6-i6",
+        "i5-i4xj4",
+        "f8-i8",
+        "g11-g9",
+        "g6-i6xi7",
+        "k4-h4",
+        "f6-h6",
+        "f10-j10",
+        "i8-i11",
+        "k7-i7xi6",
+        "h6-h10",
+        "f11-f10",
+        "resigned"
+    ],
+    "WhoWon": "Black"
+}

@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Altti",
+    "BlackSidePlayerName": "Teondrae",
+    "AageGameTypeKey": 63,
+    "AageGameTypeName": "Magpie line 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 3,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "g3-e3",
+        "e4-f4",
+        "c1-c3xd3",
+        "d4-d3",
+        "c7-c5xc4",
+        "f4-f3xe3",
+        "g5-g3xd5",
+        "d5-f5",
+        "a5-a4",
+        "d3-e3",
+        "c3-c2",
+        "e3-e2",
+        "e7-e3xf3",
+        "e2-f2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

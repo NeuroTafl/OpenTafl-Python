@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Aluric",
+    "BlackSidePlayerName": "Tonythebook",
+    "AageGameTypeKey": 48,
+    "AageGameTypeName": "Historical Hnefatafl 15x15",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "h3-k3",
+        "f9-f12",
+        "h13-e13",
+        "e8-e12",
+        "d8-d12",
+        "h11-c11",
+        "d12-c12",
+        "f7-c7",
+        "b9-c9",
+        "f8-f3",
+        "a6-c6xc7",
+        "g6-g4",
+        "a10-c10xc11",
+        "g8-g5",
+        "c8-e8",
+        "g4-d4",
+        "g2-g3",
+        "f3-e3",
+        "b7-f7",
+        "h8-f8",
+        "c9-f9"
+    ],
+    "WhoWon": "Black"
+}

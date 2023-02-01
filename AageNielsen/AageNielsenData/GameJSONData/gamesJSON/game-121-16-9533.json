@@ -1,0 +1,29 @@
+{
+    "WhiteSidePlayerName": "Abbas agraphicus",
+    "BlackSidePlayerName": "Masterluke",
+    "AageGameTypeKey": 121,
+    "AageGameTypeName": "Ard Ri-39 throneless 7x7 (Scottish Ard Ri)",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "c2-d2",
+        "c4-c1",
+        "c6-c4",
+        "c1-d1xd2",
+        "e6-d6",
+        "d1-e1",
+        "e2-g2",
+        "e4-f4",
+        "d6-e6",
+        "d4-e4",
+        "b3-b2",
+        "e4-e2",
+        "g2-f2",
+        "d3-d2",
+        "c4-c1",
+        "e1-d1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

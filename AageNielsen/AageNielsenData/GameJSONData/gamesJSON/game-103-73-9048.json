@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Animals",
+    "BlackSidePlayerName": "Tuireann",
+    "AageGameTypeKey": 103,
+    "AageGameTypeName": "Ard Ri friendly-throne unarmed circle 7x7",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "b2-c2",
+        "d3-d2",
+        "f2-f3",
+        "d4-d3",
+        "a4-a3",
+        "d5-d6",
+        "b6-b5",
+        "d3-d5",
+        "f6-f5",
+        "c4-c7",
+        "c2-c6",
+        "e4-e7xd7",
+        "f5-e5",
+        "d6-e6",
+        "c6-d6",
+        "c7-c6xd6",
+        "b5-c5",
+        "d5-d7"
+    ],
+    "WhoWon": "White"
+}

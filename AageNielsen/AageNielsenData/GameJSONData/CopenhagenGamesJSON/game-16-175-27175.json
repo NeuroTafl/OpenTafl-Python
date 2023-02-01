@@ -1,0 +1,31 @@
+{
+    "WhiteSidePlayerName": "Noobchen",
+    "BlackSidePlayerName": "Vonraider",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 3,
+    "Moves": [
+        "f2-j2",
+        "f4-i4",
+        "h1-i1",
+        "f5-f2",
+        "k4-k3",
+        "f6-f3",
+        "b6-b3",
+        "f3-c3",
+        "d1-c1",
+        "f2-b2",
+        "a6-c6",
+        "f8-c8",
+        "a4-a2",
+        "i4-b4xb3",
+        "a5-a3",
+        "c3-b3",
+        "f10-b10",
+        "b4-a4xa3xa2",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

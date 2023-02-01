@@ -1,0 +1,21 @@
+{
+    "WhiteSidePlayerName": "mmagari",
+    "BlackSidePlayerName": "OhOne",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 1,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h7",
+        "f8-h8xh7",
+        "k7-h7",
+        "h6-h3",
+        "j6-h6",
+        "e5-e2",
+        "d1-d2xe2",
+        "e6-e2",
+        "timeout"
+    ],
+    "WhoWon": "White"
+}

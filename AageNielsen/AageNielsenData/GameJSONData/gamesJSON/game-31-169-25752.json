@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Norsearen",
+    "BlackSidePlayerName": "Birkaroy",
+    "AageGameTypeKey": 31,
+    "AageGameTypeName": "Simple Tafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 2,
+    "Moves": [
+        "j7-j8",
+        "d6-d2",
+        "b5-b2",
+        "c6-c2",
+        "b7-d7",
+        "e6-e3",
+        "e10-e4xe3",
+        "d2-d4xe4",
+        "e2-d2xc2",
+        "f4-j4",
+        "d7-d5",
+        "f6-d6xd5",
+        "f10-d10",
+        "d6-d9",
+        "a7-a9",
+        "d9-c9",
+        "e11-c11",
+        "c9-c1"
+    ],
+    "WhoWon": "White"
+}

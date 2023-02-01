@@ -1,0 +1,33 @@
+{
+    "WhiteSidePlayerName": "Alex Hnefatafl",
+    "BlackSidePlayerName": "Ulrika69",
+    "AageGameTypeKey": 16,
+    "AageGameTypeName": "Copenhagen Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "h11-h9",
+        "g7-g10",
+        "h9-h10xg10",
+        "g6-g10",
+        "e11-e9",
+        "f6-g6",
+        "g1-g3",
+        "h6-h3",
+        "f2-f3",
+        "g6-i6",
+        "d1-d2",
+        "i6-i10xh10",
+        "j6-j10",
+        "i10-i1",
+        "j10-j1",
+        "i1-i2",
+        "j1-j2",
+        "h3-k3",
+        "j2-k2xk3",
+        "i2-i1",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

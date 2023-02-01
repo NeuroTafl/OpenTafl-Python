@@ -1,0 +1,26 @@
+{
+    "WhiteSidePlayerName": "Epoc",
+    "BlackSidePlayerName": "hafr",
+    "AageGameTypeKey": 5,
+    "AageGameTypeName": "Sea battle T 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 2,
+    "WhitePiecesCaptured": 4,
+    "Moves": [
+        "i6-f6",
+        "g5-g6xf6",
+        "d1-d2",
+        "f5-f8",
+        "f1-f3",
+        "g6-g3xf3",
+        "e2-g2",
+        "d5-d8xe8",
+        "i4-g4xg3",
+        "e5-g5",
+        "a6-c6",
+        "e7-c7xc6",
+        "d2-d5xc5",
+        "g5-g9"
+    ],
+    "WhoWon": "White"
+}

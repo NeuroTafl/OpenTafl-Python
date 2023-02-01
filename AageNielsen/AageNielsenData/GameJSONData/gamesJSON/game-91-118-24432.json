@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Alex hnefatafl",
+    "BlackSidePlayerName": "Jrton80",
+    "AageGameTypeKey": 91,
+    "AageGameTypeName": "Tawlbwrdd Lewis cross 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "e2-c2",
+        "h6-h11",
+        "g1-h1",
+        "f5-h5",
+        "k7-k9",
+        "f4-k4",
+        "a5-a4",
+        "f6-f4",
+        "g2-i2",
+        "f4-j4",
+        "i2-j2",
+        "j4-i4",
+        "f2-i2",
+        "g6-g1",
+        "b5-b3",
+        "k4-k1",
+        "i2-i3",
+        "i4-k4"
+    ],
+    "WhoWon": "White"
+}

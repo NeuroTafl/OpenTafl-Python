@@ -1,0 +1,27 @@
+{
+    "WhiteSidePlayerName": "Ded Fomich",
+    "BlackSidePlayerName": "Hagbard",
+    "AageGameTypeKey": 123,
+    "AageGameTypeName": "Sea battle-1571 9x9",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 0,
+    "WhitePiecesCaptured": 1,
+    "Moves": [
+        "d2-c2",
+        "g5-g9",
+        "h5-g5",
+        "e6-g6",
+        "h4-g4",
+        "e7-i7",
+        "i5-i6",
+        "e5-e7",
+        "d8-d7",
+        "e7-h7",
+        "f8-h8",
+        "i7-i8",
+        "i6-i7",
+        "g6-g8xh8",
+        "resigned"
+    ],
+    "WhoWon": "White"
+}

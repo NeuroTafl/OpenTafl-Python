@@ -1,0 +1,30 @@
+{
+    "WhiteSidePlayerName": "Skallatorc",
+    "BlackSidePlayerName": "Crust",
+    "AageGameTypeKey": 3,
+    "AageGameTypeName": "Berserk Hnefatafl 11x11",
+    "WhoMovedFirst": "black",
+    "BlackPiecesCaptured": 5,
+    "WhitePiecesCaptured": 0,
+    "Moves": [
+        "d11-d9",
+        "e5-e2",
+        "f2-i2",
+        "f4-f2",
+        "h1-h3",
+        "f5-c5",
+        "h3-f3xf2",
+        "f4-f2",
+        "d1-d3",
+        "e6-e3",
+        "h1-h3",
+        "f5-c5",
+        "h3-f3xe3xf2",
+        "f6-f3",
+        "i2-i3",
+        "f6-f3",
+        "i2-i3",
+        "timeout"
+    ],
+    "WhoWon": "Black"
+}
