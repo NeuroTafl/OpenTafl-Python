@@ -15,7 +15,7 @@ def test_PlayTerminalOutput():
     board = Board(g_copenhagen_BoardPosition_Start)
     whoMoved = "attackers"
 
-    ply = Ply(plyNumber=3, plyMove=move, plyBoard=board, positionRecord=board.getBoardPositionString(), whoMoved=whoMoved)
+    ply = Ply(number=3, move=move, board=board, positionRecord=board.getBoardPositionString(), whoMoved=whoMoved)
 
     print(ply)
     print()

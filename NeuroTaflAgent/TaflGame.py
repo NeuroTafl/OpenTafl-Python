@@ -6,24 +6,31 @@ from .WinState import WinState
 from .Move import Move
 from .Ply import Ply
 from .TaflRules import TaflRules
+from .Board import Board
+from .Side import Side
 
 
 class TaflGame:
-    def __init__(self, openTaflRulesString=""):
+    def __init__(self, taflRules: TaflRules):
+
+    #def __init__(self, openTaflRulesString=""):
         self.log = logging.getLogger(__class__.__name__)
-        self.openTaflRulesString: str = openTaflRulesString
-        self.rules: TaflRules = None
+        self.rules: TaflRules = taflRules
+
+        # Game default values
         self.winState: WinState = WinState.NONE
-        self.plys: list = []
         self.attackerPlayerName: str = "attackerName"
         self.defenderPlayerName: str = "defenderName"
+        self.plys: list = []
 
-        if self.openTaflRulesString:
-            self.setOpenTaflRules(self.openTaflRulesString)
-            self.addNextMove(None, positionRecord=self.rules.getStartingPositionString())
+        # Create starting board
+        self.startingBoard: Board = Board(self.rules.getStartingPositionString())
 
-    def setOpenTaflRules(self, openTaflRulesString):
-            self.rules = TaflRules(openTaflRulesString)
+        # Setup ply 0
+        self.initializeGame()
+
+    def initializeGame(self):
+        self.addNextMove(None)
 
     def setAttackerPlayerName(self, newPlayerName: str) -> None:
         self.attackerPlayerName = newPlayerName
@@ -46,10 +53,10 @@ class TaflGame:
     def isTie(self) -> bool:
         return self.winState == WinState.TIE
 
-    def addNextMove(self, newMove: Move, positionRecord: str = None, whoMoved: str = None) -> None:
-        self.log.debug(f"Adding move {newMove} -- {positionRecord}")
+    def addNextMove(self, newMove: Move, whoMoved: Side = None) -> None:
+        self.log.debug(f"Adding move {newMove}")
         nextPlyNumber = len(self.plys)
-        newPly = Ply(plyNumber=nextPlyNumber, whoMoved=whoMoved, plyMove=newMove, positionRecord=positionRecord)
+        newPly = Ply(number=nextPlyNumber, whoMoved=whoMoved, move=newMove)
         self.plys.append(newPly)
 
         self.log.debug(str(self))
