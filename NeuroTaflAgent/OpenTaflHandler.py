@@ -3,7 +3,8 @@ import logging
 
 from .OpenTaflConnector import OpenTaflConnector
 from .TaflGame import TaflGame
-from .Move import Move
+#from .Move import Move
+from .OpenTaflMove import OpenTaflMove
 from .WinState import WinState
 from .TaflRules import TaflRules
 
@@ -15,7 +16,7 @@ class OpenTaflHandler:
         self.log = self.log = logging.getLogger(__class__.__name__)
         self.playCallbackHandler = None
         self.taflRules = None
-        self.lastMoveSent = Move()
+        self.lastMoveSent = OpenTaflMove()
 
     def setOpenTaflConnector(self, openTaflConnector: OpenTaflConnector):
         self.openTaflConnector = openTaflConnector
@@ -24,7 +25,7 @@ class OpenTaflHandler:
     def registerPlayCallbackHandler(self, newHandlerMethod) -> None:
         self.playCallbackHandler = newHandlerMethod
 
-    def sendChosenMove(self, move: Move) -> None:
+    def sendChosenMove(self, move: OpenTaflMove) -> None:
         message = f"move {move.toChessNotation()}"
         self.lastMoveSent = move
         self.openTaflConnector.sendMessageToServer(message)
@@ -102,7 +103,7 @@ class OpenTaflHandler:
 
     def handleOpponentMoveMessage(self, message: str) -> None:
         (_, moveStr, positionRecord) = message.split(" ", 2)
-        opponentMove = Move(openTaflNotation=moveStr)
+        opponentMove = OpenTaflMove(moveString=moveStr)
         self.log.debug(f"Received opponent-move message: {moveStr} {positionRecord}")
         self.taflGame.addNextMove(opponentMove, positionRecord=positionRecord)
 

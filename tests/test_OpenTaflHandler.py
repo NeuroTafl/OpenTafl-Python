@@ -7,7 +7,8 @@ from io import StringIO
 from NeuroTaflAgent.OpenTaflConnector import OpenTaflConnector
 from NeuroTaflAgent.OpenTaflHandler import OpenTaflHandler
 from NeuroTaflAgent.TaflGame import TaflGame
-from NeuroTaflAgent.Move import Move
+#from NeuroTaflAgent.Move import Move
+from NeuroTaflAgent.OpenTaflMove import OpenTaflMove
 
 g_message = ""
 openTaflMessage_finish0 = "finish 0\n"  # No end game state
@@ -56,7 +57,7 @@ def test_StatusMessage(capsys):
     assert "test UI message"
 
 
-def test_MoveMessage(capsys):
+def test_OpenTaflMoveMessage(capsys):
     taflGame = TaflGame()
     connector = OpenTaflConnector("Test Connector")
     handler = OpenTaflHandler(taflGame)
@@ -64,7 +65,7 @@ def test_MoveMessage(capsys):
 
     moveOpenTaflNotation = "a5-j5"
 
-    move = Move(openTaflNotation=moveOpenTaflNotation)
+    move = OpenTaflMove(moveString=moveOpenTaflNotation)
     handler.sendChosenMove(move)
 
     out, err = capsys.readouterr()

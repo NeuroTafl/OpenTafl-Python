@@ -12,8 +12,9 @@
 
 
 from NeuroTaflAgent.Coordinate import Coordinate
-from NeuroTaflAgent.Move import Move
+from NeuroTaflAgent.OpenTaflMove import OpenTaflMove
 
+# Moves here follow the OpenTafl move notation specification
 t_simpleMove_b2c2 = "b2-c2"  # Taflman moves from b2 to c2
 t_simpleMove_j5j9 = "j5-j9"  # Taflman moves from j5 to j9
 t_simpleMove_c10d10 = "c10-d10"  # Taflman moves from c10 to d10
@@ -30,36 +31,24 @@ t_kingHasEscaped = "Ka8-a1--"  # king moves to space with escape route (1 move w
 
 t_resignationSymbol = "---"  # player resigns
 
-# Aage Nielsen's notation system for move notation
-# No extra characters on moves like piece type or end of game states
-# Resigned is just the string 'resigned'
-# This *really* should be a subclassed Move type
-# Berserk games use a very odd notation: i4e4 . e4c4 . c4c5 (3 moves?) - no capture info too
-t_aageMove_simple_a5b5 = "a5-b5"
-t_aageMove_singleCapture = "i4-c4xb4"
-t_aageMove_doubleDigit_e10d10 = "e10-d10"
-t_aageMove_doubleCapture = "k10-d10xc10xd11"
-t_aageMove_resigned = "resigned"
-t_aageMove_noHyphenCases_e1a1 = "e1a1"
-
 
 # ****************************************************************************
 # ****************************************************************************
 def test_MoveToString():
     moveString = t_simpleMove_b2c2
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     assert str(move) == moveString
 
 
 def test_MoveToString_doubleDigitIndicies():
     moveString = t_simpleMove_c10d10
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     assert str(move) == moveString
 
 
 def test_MoveTestIndicies():
     moveString = t_simpleMove_j5j9
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     startXindex = 9
     startYindex = 4
@@ -74,20 +63,20 @@ def test_MoveTestIndicies():
 
 def test_MoveKingSimple_h6b6():
     moveString = t_kingMove_h6b6
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     assert move.isKing()
 
 
 def test_MoveNOTKingSimple():
     moveString = t_simpleMove_b2c2
 
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     assert not move.isKing()
 
 
 def test_NoCaptures():
     moveString = t_simpleMove_c10d10
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     assert not move.hasCaptures()
 
 
@@ -95,7 +84,7 @@ def test_Capture1():
     moveString = t_taflmanMoveCap1
     expectedCaptures = [Coordinate(coordinate="d8")]
 
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     captures = move.getCaptures()
 
     assert move.hasCaptures()
@@ -107,7 +96,7 @@ def test_Capture2():
     moveString = t_taflmanMoveCap2
     expectedCaptures = [Coordinate(coordinate="d8"), Coordinate(coordinate="e7")]
 
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     captures = move.getCaptures()
 
     assert move.hasCaptures()
@@ -123,7 +112,7 @@ def test_Capture3():
         Coordinate(coordinate="c7"),
     ]
 
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     captures = move.getCaptures()
 
     assert move.hasCaptures()
@@ -133,7 +122,7 @@ def test_Capture3():
 
 def test_KingVulnerable():
     moveString = t_taflmanMoveKingVulnerable
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedIsVulnerable = True
 
     assert expectedIsVulnerable == move.isKingVulnerableToCapture()
@@ -141,7 +130,7 @@ def test_KingVulnerable():
 
 def test_KingNOTVulnerable():
     moveString = t_simpleMove_b2c2
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedIsVulnerable = False
 
     assert expectedIsVulnerable == move.isKingVulnerableToCapture()
@@ -149,7 +138,7 @@ def test_KingNOTVulnerable():
 
 def test_KingHasEscapeRoute():
     moveString = t_kingHasEscapeRoute
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedKingHasEscapeRoute = True
 
     assert expectedKingHasEscapeRoute == move.kingHasEscapeRoute()
@@ -157,7 +146,7 @@ def test_KingHasEscapeRoute():
 
 def test_KingHasNOEscapeRoute():
     moveString = t_kingMove_h6b6
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedKingHasEscapeRoute = False
 
     assert expectedKingHasEscapeRoute == move.kingHasEscapeRoute()
@@ -165,7 +154,7 @@ def test_KingHasNOEscapeRoute():
 
 def test_KingIsCaptured():
     moveString = t_taflmanCapturesKing
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedKingIsCaptured = True
 
     assert expectedKingIsCaptured == move.isKingCaptured()
@@ -173,7 +162,7 @@ def test_KingIsCaptured():
 
 def test_KingIsNOTCaptured():
     moveString = t_simpleMove_c10d10
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedKingIsCaptured = False
 
     assert expectedKingIsCaptured == move.isKingCaptured()
@@ -181,7 +170,7 @@ def test_KingIsNOTCaptured():
 
 def test_KingIsEscaped():
     moveString = t_kingHasEscaped
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedIsKingEscaped = True
 
     assert expectedIsKingEscaped == move.isKingEscaped()
@@ -189,7 +178,7 @@ def test_KingIsEscaped():
 
 def test_KingIsNOTEscaped():
     moveString = t_simpleMove_j5j9
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedIsKingEscaped = False
 
     assert expectedIsKingEscaped == move.isKingEscaped()
@@ -197,7 +186,7 @@ def test_KingIsNOTEscaped():
 
 def test_KingIsNOTEscaped2():
     moveString = t_kingMove_h6b6
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedIsKingEscaped = False
 
     assert expectedIsKingEscaped == move.isKingEscaped()
@@ -205,7 +194,7 @@ def test_KingIsNOTEscaped2():
 
 def test_PlayerResigns():
     moveString = t_resignationSymbol
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedHasPlayerResigned = True
 
     assert expectedHasPlayerResigned == move.hasPlayerResigned()
@@ -213,7 +202,7 @@ def test_PlayerResigns():
 
 def test_PlayerNOTResigns():
     moveString = t_taflmanMoveCap2
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
     expectedHasPlayerResigned = False
 
     assert expectedHasPlayerResigned == move.hasPlayerResigned()
@@ -221,16 +210,16 @@ def test_PlayerNOTResigns():
 
 def test_movesAreSame1():
     moveString = t_simpleMove_b2c2
-    moveA = Move(openTaflNotation=moveString)
-    moveB = Move(openTaflNotation=moveString)
+    moveA = OpenTaflMove(moveString=moveString)
+    moveB = OpenTaflMove(moveString=moveString)
 
     assert moveA == moveB
 
 
 def test_movesAreSameKing():
     moveString = t_kingMove_h6b6
-    moveA = Move(openTaflNotation=moveString)
-    moveB = Move(openTaflNotation=moveString)
+    moveA = OpenTaflMove(moveString=moveString)
+    moveB = OpenTaflMove(moveString=moveString)
 
     assert moveA == moveB
 
@@ -238,71 +227,71 @@ def test_movesAreSameKing():
 def test_movesAreNOTSame1():
     moveStringA = t_simpleMove_b2c2
     moveStringB = t_simpleMove_j5j9
-    moveA = Move(openTaflNotation=moveStringA)
-    moveB = Move(openTaflNotation=moveStringB)
+    moveA = OpenTaflMove(moveString=moveStringA)
+    moveB = OpenTaflMove(moveString=moveStringB)
 
     assert moveA != moveB
 
 
 def test_MoveToStrSimple():
     moveString = t_simpleMove_b2c2
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert moveString == str(move)
 
 
 def test_MoveToStrKingSimple():
     moveString = t_kingMove_h6b6
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert moveString == str(move)
 
 
 def test_MoveToStrCap1():
     moveString = t_taflmanMoveCap1
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert moveString == str(move)
 
 
 def test_MoveToStrCap3():
     moveString = t_taflmanMoveCap3
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert moveString == str(move)
 
 
 def test_MoveToStrKingVulnerable():
     moveString = t_taflmanMoveKingVulnerable
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert moveString == str(move)
 
 
 def test_MoveToStrKingEscapeOpen():
     moveString = t_kingHasEscapeRoute
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert moveString == str(move)
 
 
 def test_MoveToStrKingCaptured():
     moveString = t_taflmanCapturesKing
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert moveString == str(move)
 
 
 def test_MoveToStrKingEscaped():
     moveString = t_kingHasEscaped
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert moveString == str(move)
 
 
 def test_MoveToStrPlayerResigned():
     moveString = t_resignationSymbol
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert moveString == str(move)
 
@@ -310,7 +299,7 @@ def test_MoveToStrPlayerResigned():
 def test_MoveToChessNotationStrCap3_d3_d7():
     moveString = t_taflmanMoveCap3
     expectedString = "d3-d7"
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert expectedString == move.toChessNotation()
 
@@ -318,71 +307,7 @@ def test_MoveToChessNotationStrCap3_d3_d7():
 def test_MoveToChessNotationStrCap3_k7_k2():
     moveString = t_kingHasEscapeRoute
     expectedString = "k7-k2"
-    move = Move(openTaflNotation=moveString)
+    move = OpenTaflMove(moveString=moveString)
 
     assert expectedString == move.toChessNotation()
-
-# ** *************************************************************************
-# **  Aage Neilsen Move types - http://aagenielsen.dk/
-# ** *************************************************************************
-def test_AageMoveToString():
-    moveString = t_aageMove_simple_a5b5
-    move = Move(aageNielsenNotation=moveString)
-    assert str(move) == moveString
-
-
-def test_AageMoveToString_doubleDigitIndicies():
-    moveString = t_aageMove_doubleDigit_e10d10
-    move = Move(aageNielsenNotation=moveString)
-    assert str(move) == moveString
-
-def test_aageMoveTestIndicies():
-    moveString = t_aageMove_doubleDigit_e10d10 # e10-d10
-    move = Move(aageNielsenNotation=moveString)
-    startXindex = 4
-    startYindex = 9
-    endXindex = 3
-    endYindex = 9
-
-    assert move.startingCoordinate.getXIndex() == startXindex
-    assert move.startingCoordinate.getYIndex() == startYindex
-    assert move.endingCoordinate.getXIndex() == endXindex
-    assert move.endingCoordinate.getYIndex() == endYindex
-
-def test_Aage_Capture1():
-    moveString = t_aageMove_singleCapture   # i4-c4xb4
-    expectedCaptures = [Coordinate(coordinate="b4")]
-
-    move = Move(aageNielsenNotation=moveString)
-    captures = move.getCaptures()
-
-    assert move.hasCaptures()
-    assert len(expectedCaptures) == len(captures)
-    assert expectedCaptures == captures
-
-def test_Aage_Capture2():
-    moveString = t_aageMove_doubleCapture # "k10-d10xc10xd11"
-    expectedCaptures = [Coordinate(coordinate="c10"), Coordinate(coordinate="d11")]
-
-    move = Move(aageNielsenNotation=moveString)
-    captures = move.getCaptures()
-
-    assert move.hasCaptures()
-    assert len(expectedCaptures) == len(captures)
-    assert expectedCaptures == captures
-
-def test_Aage_PlayerResigns():
-    moveString = t_aageMove_resigned
-    move = Move(aageNielsenNotation=moveString)
-    expectedHasPlayerResigned = True
-
-    assert expectedHasPlayerResigned == move.hasPlayerResigned()
-
-def test_Aage_NoHypensMoveNotation():
-    moveString = t_aageMove_noHyphenCases_e1a1
-    move = Move(aageNielsenNotation=moveString)
-
-    expectedMoveStr = "e1-a1"
-
-    assert expectedMoveStr == str(move)
 

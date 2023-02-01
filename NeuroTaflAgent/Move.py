@@ -1,17 +1,13 @@
-from pprint import pprint
-import re
 
 from .Coordinate import Coordinate
 
-
+# ** *************************************************************************
 class Move:
     def __init__(
         self,
         startingCoordinate: Coordinate = None,
         endingCoordinate: Coordinate = None,
-        chessNotation: str = None,
-        openTaflNotation: str = None,
-        aageNielsenNotation: str = None,
+        moveString: str = None
     ):
         self.startingCoordinate = startingCoordinate
         self.endingCoordinate = endingCoordinate
@@ -21,108 +17,14 @@ class Move:
         self.endSpace = ""
         self.moveCaptures = []
         self.infoSymbol = ""
+        self.moveString = moveString
 
-        if chessNotation:
-            self.loadChessNotation(chessNotation)
+        if moveString:
+            self.loadMoveString(self.moveString)
 
-        if openTaflNotation:
-            self.loadFromOpenTaflNotation(openTaflNotation)
-
-        if aageNielsenNotation:
-            self.loadFromAageNielsenTaflNotation(aageNielsenNotation)
-
-    def loadChessNotation(self, chessNotation: str) -> None:
-        # "Chess" notation only handles chess-style stop/stop coordinates
-        # Use Open Tafl Notation for full OpenTafl move notation/strings
-        (startCoordinate, endCoordinate) = chessNotation.split("-", 1)
-        self.startingCoordinate = Coordinate(coordinate=startCoordinate)
-        self.endingCoordinate = Coordinate(coordinate=endCoordinate)
-
-    def loadFromAageNielsenTaflNotation(self, aageNielsenNotation: str) -> None:
-        aageNielsenNotation = aageNielsenNotation.strip()
-
-        # Aage uses the full word 'resigned' instead of '---'
-        if aageNielsenNotation.lower() == "resigned":
-            self.infoSymbol = "---"
-            return
-
-        regexString = r"^\s*(\S\d+)-?(\S\d+)"
-
-        reMatch = re.search(regexString, aageNielsenNotation)
-        startSpaceIndex = 1
-        endSpaceIndex = 2
-
-        if reMatch:
-            # handle the move start and end
-            self.startingCoordinate = Coordinate(
-                coordinate=reMatch.group(startSpaceIndex)
-            )
-            self.endingCoordinate = Coordinate(coordinate=reMatch.group(endSpaceIndex))
-        else:
-            raise Exception(
-                f"Move parse error: No regex match on input: {aageNielsenNotation}"
-            )
-
-        reSearchCaptures = r"(x\S\d+)"
-        foundCaptures = re.findall(reSearchCaptures, aageNielsenNotation)
-
-        for currCaptureStr in foundCaptures:
-            currCaptureStr = currCaptureStr[1:] # Take the 'x' off the front
-            self.moveCaptures.append(Coordinate(coordinate=currCaptureStr))
-
-
-    def loadFromOpenTaflNotation(self, openTaflNotation: str) -> None:
-        # Move formating and parsing isn't simple.
-        # See: https://soapbox.manywords.press/2016/01/27/tafl-opentafl-notation/
-        # https://github.com/jslater89/OpenTafl/blob/master/opentafl-notation-spec.txt
-        #
-        # Basic format for the Open Tafl Move (OTM) spec is:
-        # [taflman-symbol]<starting-space><move-type><ending-space>[capture-record][info-symbol]
-
-        openTaflNotation = openTaflNotation.strip()  # kill whitespace, just in case
-
-        # See line 62: https://github.com/jslater89/OpenTafl/blob/master/opentafl-notation-spec.txt
-        # If the "move" is just "---" then it's a resignation by the next moving player
-        if openTaflNotation == "---":
-            self.infoSymbol = "---"
-            return
-
-        # If this regular expression doesn't look like magic, I need to retire
-        regexString = r"^\s*(K)?(\S\d+)-(\S\d+)x?(\S\d+)?/?(\S\d+)?/?(\S\d+)?/?(\S\d+)?(-{1,2}|\+{1,2})?"
-        taflmanTypeIndex = 1
-        startSpaceIndex = 2
-        endSpaceIndex = 3
-        captureSetStartIndex = 4
-        captureSetEndIndex = 7
-        infoSymbolIndex = 8
-
-        reMatch = re.search(regexString, openTaflNotation)
-
-        if reMatch:
-            # handle taflman type character (if there's one)
-            if reMatch.group(taflmanTypeIndex) != None:
-                self.taflmanSymbol = reMatch.group(taflmanTypeIndex)
-
-            # handle the move start and end
-            self.startingCoordinate = Coordinate(
-                coordinate=reMatch.group(startSpaceIndex)
-            )
-            self.endingCoordinate = Coordinate(coordinate=reMatch.group(endSpaceIndex))
-
-            # handle possible captures
-            for groupNum in range(captureSetStartIndex, captureSetEndIndex + 1):
-                currCaptureSpace = reMatch.group(groupNum)
-                if currCaptureSpace:
-                    self.moveCaptures.append(Coordinate(coordinate=currCaptureSpace))
-
-            # handle info symbols (king threatened, escaped, captured, resigned)
-            if reMatch.group(infoSymbolIndex):
-                self.infoSymbol = reMatch.group(infoSymbolIndex)
-
-        else:
-            raise Exception(
-                f"Move parse error: No regex match on input: {openTaflNotation}"
-            )
+    def loadMoveString(self, moveString: str) -> None:
+        # Specific move types need to implement this - we have many move type notations now!
+        raise NotImplementedError("Need to implment this in a subclass Move Type")
 
     def isKing(self) -> bool:
         return self.taflmanSymbol == "K"
